@@ -1,0 +1,504 @@
+$$;
+Pros:. Can be configuted via web-interface w/o software. 
+Cons:. Optional Software is not needed. 
+Summary:. I installed the drive as a regular fileserver using the web-interface (http:\\mybookworld). I set up the users and shares and was done in 2 minutes.. After this I looked it up in Vista's file explorer and connected it as a network drive using the previously created user name. No drivers or additional software needed. Runs perfect (100MB in 30sec.).. (I bought this drive because I was absolutly unsatisfied with my previous hardware: Netgear storage central). 
+
+$$;
+Pros:. For the price, this 1TB network hard drive is a step forward for home data management, especially backups and sharing. It is possible to reliably run backup software either WD Anywhere provided or others eg. Allway Sync on each home computer.. 
+Cons:. Not so easy to make it work as it sounds in the marketing, especially the Mionet remote file access. As everyone says, a removable harddrive system (RAID) is better than a dedicated one like in this product.. 
+Summary:. Let me assure the Mionet remote access users, I've been able to access files with Mionet Web within the local network via a browser by modifying my Mionet ceated User on the NAS server with administrative rights. I have not yet tried true remote access from e.g. a hotel or work location. The NAS server running at 192.168.1.XXX is not robust in a true sense, i.e. once I setup Mionet account which made modifications on the NAS server (new user, file shares etc), the server pages were out of wack - I rebooted the server and verything was fine. Despite these hickups I would recommend this 1TB network harddrive system to those who would like upgrade their home networks. Another tidbit is that only a DLNA certified Blu-Ray player can access files on this system if you like to watch movies off off the harddrive on your HDTV. I will update this review when I have a chance to test more..... 
+
+$$;
+Pros:. Many options to control Groups &#38; Users. On a 100Mbps LAN connection the drive exceeded the rated speed (12MBPs). Never tested Gigabit. Stays very cool, and quiet. MioNet give fairly easy access to the drive for yourself and others that you invite.. 
+Cons:. Drive worked fantastic over varying network conditions but did drop the network after 38GB of straight transfers. I had to restart it but it ran fine after that. Other than 1 glitch it's been running non stop for several days.. 
+Summary:. Everything works perfectly on the drive. People complaining about the speed should look at their own network configuration. Remember - on a 100Mbps = 10MBPs. (megabytes) the average internal sata drive gets around 60MBps. Yeah its not a speed demon if your NETWORK is slow. But can handle up to 100MBPs on a gigabit configuration. MioNet is a little awkward but works as it should allowing one to assign users to the drive and set up which folders each one has access to. Other features the drive supports are iTunes Server, SMTP, DHCP, FTP, HTTPS, SSH. and more. Everything about the drive is perfect. Yeah initially I had over 400GB to transfer to the drive and it took a long time (several hours). But it wouldnt be any faster on any other NAS with the same 100Mbps LAN connection. The USB on the back allows another external to be used and it works GREAT. You cannot RAID off a USB (its not part of the specification) and it would slow the drive down. They make a RAID version of the world edition drives if you need raid. Most of the complains I read are from users complete ignorance and lack of understanding on how a NAS works. They want it to be their network server and mow the lawn, do the dishes and take care of the kids. This is a file server and it serves this purpose perfectly. Read the manual on the cd they supplied. Its great! MioNet offers online tutorials of heir software. Its SO EASY. Mines setup so me and my friends can swap music, pictures, iso's, everything from everywhere. Yes you MUST use MioNet for this feature but its limitless for this purpose. Dont beleave the bad reviews - its a good drive for $160 its easily WORTH $200.. 
+
+$$;
+Pros:. very easy to set up and use for Windows. 
+Cons:. Gets hot if not in a well ventilated area, could do with Mac support. 
+Summary:. Very simple and easy to setup. Simply nothing more to say as there is simply nothing to setting up.. Great but expensive way to find out about trojans &#38; viruses. NAS drive does not work correctly if malicious s/w is preventing correct installation.. Could do with better Mac support. My wife's pc is a Mac 10.3.2, and I'm still trying to figure out how to get it to run with a Mac. This is the contrast in easy between WIndows and Mac.. 
+
+$$;
+Pros:. easy to set up and use. 
+Cons:. rather slow. 
+Summary:. I am very happy with this drive. I also have an HP Media Vault (2 x 500Gb drives), and I use the WD and the HP for network storage and as a music centre for the house. The WD was very easy to set up - just hooked it into a spare port on the network switch, and it was visible as a drive on the network almost immediately - just had to tell my laptops that it was a share-able drive. So it worked first time without a hitch. I don't need a blazing fast drive for this purpose, just a reliable one, and WD has a good rep for that. So I am very happy with my purchase.. 
+
+$$;
+Pros:. Easy Setup. 
+Cons:. Ethernet Slow. 
+Summary:. What I read in these reviews is stay away from MioNet. I guess I got lucky and from the get go I did not want to install MioNet mainly because I had no interest in accessing this remotely. Lucky for me it seems.. Setup is simply. Analyze your network ip's and locate the ip for the drive. In my case it was 192.168.1.92. I pulled this Ip up and this is where you can access the web base WD Shared Storage Manager software. This is the OS software Control Panel built in and loaded on the WD drive. From there you can assign users and shared or private folders. You can rename the drive itself. After you rename it then from your internet browser type \\yourname and hit the enter key and it will pull up through explorer your folders on the drive. From there you can map it to a drive letter. Then you install the Retrospect Backup HD Software to backup or copy to your mapped drive. This backup software is very easy to use.. I give it a 9 out of 10 only because these directions should be published and not rely on this MioNet software which seems to be JUNK.. 
+
+$$;
+Pros:. Ethernet connected - USB piggyback available. 
+Cons:. Software installation is not very user friendly. 
+Summary:. I just got my "MyBookWorld for Ethernet 500 GB" and is awesome. To use it, you don't have to install the software which comes with the item. To customize the hard disk so that you can map a network drive to it, you need to first install the software and then follow the instructions from Western Digital's website. Search for "mapping network drive" in their support website and you should be able to get the instructions, or go to the following URL.. http://wdc.custhelp.com/cgi-bin/wdc.cfg/php/enduser/std_adp.php?p_faqid=1531&#38;p_created=1176311730&#38;p_sid=XND7*7Ci&#38;p_accessibility=0&#38;p_redirect=&#38;p_lva=&#38;p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MTMmcF9wcm9kcz0mcF9jYXRzPSZwX3B2PSZwX2N2PSZwX3NlYXJjaF90eXBlPXNlYXJjaF9mbmwmcF9wYWdlPTEmcF9zZWFyY2hfdGV4dD1tYXA*&#38;p_li=&#38;p_topview=1. When I tried to install the "WD Anywhere Access" software, I had to do it atleast 3 times before it showed me "Manage MyBookWorld..." option under "File". Then it is fairly easy to map the drive. Once you install the software and register, you get 30 days free World Access. - i.e., you can login into their website with your registered userid and password and it allows you full access to your home network, your PC (if it is ON). You can even open a window where you can see your home PC's desktop. Once you are done, you can Shut it down too. My PC is running XP Professional Edition.. It even lets you piggyback another external USB drive, where you can "see" this other drive from any computer in the house - cool feature. I am very happy with this product.. If you shop around, you can get it for as low as $208.00. 
+
+$$;
+Pros:. Easily hackable, can provide server-like services with community support, and you can't beat two networked drives for under $100.. 
+Cons:. The bundled software is trash, so just toss it.. 
+Summary:. For the price of two drives and a very capable container, you can turn these WDC WB boxes into mini-servers. The community support for these is incredible: people are serving up files on the Internet for free, turning these into torrent boxes and Linux microservers. Frankly, I can't see the problems here, as even at a basic level, you can mount the entire system as a Windows file share and just use it on your network as a huge drop box.. If it had hot-swap, USB host, or another feature for expandability, I'd give it five stars.. 
+
+$$;
+Pros:. Easy installation and setup. 
+Cons:. Slow and Mjonet is not free (30 day free). 
+Summary:. I am very happy with this purchase, it is exactly what I needed. That being said it is very slow to r/w and I wish it had a printer port. Otherwise its a great way to complete your home or small office network.. 
+
+$$;
+Pros:. It does what it is supposed to do. 
+Cons:. If you understand what "it is supposed to do" then ther are no problems.. 
+Summary:. I read every review about this product and I was really scared to buy it. But I found it on ebay - paid 90$ for it and figured - what could go wrong?. I got it and I love it. It works perfectly but most of all: RTFM = Read The "Friendly" Instructions.. I had no problems setting it up - was very quick and easy.. As for transfer speed - what do I care - this is a BACK UP drive - you set it to back up at night. I have put over 170 gig of data and it took one night to do it. So what!! I have an internal C and D (partitioned D.E.F) which are my speed drives.. I love the remote access - yes this is a bit cumbersome but it does work and as for the subcription - it's free for life!!. I have already used the drive with one of my customers as a FTP site where I put a large video and let him have access to download it. What a dream - worked perfectly.. So if you understand that this is a back up drive and use it that way. I am thinking that you will be very very pleased. I know I am...... Also, it is quiet, nice to look at and I have never seen it get hot - just warm !!. 
+
+$$;
+Pros:. Easy setup - once you've read the online support pages or reviews. Easily shared between multiple computers on network. Compact form factor, easily plugged into network in closet.. 
+Cons:. Mionet software. Documentation does not provide SIMPLE configuration instructions.. 
+Summary:. I wish I'd read all the reviews before I set up the MyBook. I've had the 1TB drive in a box for well over a year, and never set it up because the Mionet software looked overly complicated, and looked like it was trying to push more features than I wanted. I have a mixed network of static and DHCP addresses and finding the MyBook never seemed easy. I finally just plugged it and a PC into a small hub, ran an Ethernet packet capture utility and found the default IP address. If only the documentation had given me that address I'd have been using the drive a year ago.. Address in hand, I used my browser to configure a static IP address, created a set of user ID's and several directories off the root. Rebooted the drive on the network, and have had no trouble connecting to it by IP address from Vista, Windows 7 and XP (all running within my home network).. Based on the other reviews I've read, I'm still a little concerned about having this as my only copy of files (there seems to be no way to recover if the drive fails, but there should always be a backup anyway).. I am not using the MyBook for multimedia file storage, and I have it plugged into a midlevel Ethernet switch, so the performance issues other people have mentioned do not seem to be a problem for me.. I did install the Mionet software AFTER I had the drive up and running, and it appears to be just as bad as all the reviews say it is. Now I have to uninstall it from three computers. Lost connection frequently when I used it between my home and office, made accessing the drive much more complicated than it needed to be.. 
+
+$$;
+Pros:. Large capacity, relatively simple setup, "fire and forget". 
+Cons:. Slow transfer speed, auto-on "feature". 
+Summary:. I bought this drive because my needs were simple: I just wanted a way to share files without needing a computer running 24/7. I wasn't interested in a full media server--I would ask it to stream an mp3 now and again, but that was it.. To that end, the box did fine. Once I created the basic share, I did not have to mess with the box ever again.. I did not install the MioNet software because I saw many online warnings against it--and I didn't need access my data via an external Internet connection. I also did not run into any "lock up" problems as I have seen others discuss. I did store some large (&gt;3GB) files and never experienced a lockup.. The transfer rate is pretty slow. I accumulated about 500GB of data. I'm now migrating to a new file server. Copying the full 500GB will take approximately 30+ hours. I timed a portion of the copy, and the transfer speed was approximately 36 megabits/second. That's about 1/20 of what is theoretically possible (parallel ATA-6 @ 800 megabits/second; see Wikipedia). Granted, the price for this box does not scream "top end," but 1/20 is hard to argue as a reasonable transfer speed even for "budget" components. That said, the speed should be enough to handle light-to-moderate data access by a small number of people--like you would typically find in a home.. Now, for those reviewers claiming that the box should transfer at 1000 megabits/second because the packaging says "10/100/1000," you're stretching. Nowhere does the packaging say the drive will transfer at maximum listed speed. What that "10/100/1000" designation means is that you can plug the box into a gigabit network. And by plugging it in, your network won't get throttled down to 100 megabit and/or the box will be able to handle the networking overhead with other gigabit devices at speed--not sustain payload data transfer at gigabit speeds.. The box also turns on automatically when a power source is connected. This wouldn't be a big problem if the documentation didn't state that power should not be cut while the box powers up. The power-up is a bit slow. So, if your MyBook is plugged into a power strip, and you're moving equipment around, you may find yourself waiting for the box to finish powering up more than once as you rearrange your stuff in a new location. I've seen pictures that show an external power switch. So, Western Digital may have added a switch to later revisions or possibly the World Edition II.. In all, if your needs are simple, this box will handle it. If you want high-end performance, then this isn't for you. It's shortcomings will cause aggravation at times: moving equipment around and migrating to another storage solution. But until those times, it should do its job quietly and with little complaint.. 
+
+$$;
+Pros:. Very nice design. 
+Cons:. Bundled software ruins an otherwise good product. 
+Summary:. After battling for 8 hours to try and set this up with the bundled Mionet software as a shared file server for an XP and Vista PC, I was ready to pack it up and take it back. But then I located on the support website how to set it up without the Mionet software. Go to the Western Digital Support Knowledge Base and search for "Can a WD My Book World Edition hard drive be used without using WD Anywhere Access?". Make sure you remove any files copied to the MyBook before starting this. Worked well afterwards and you can completely uninstall their software (you can still get to the disk web interface through any web browser). Also forget their bundled backup software. Free Syncback does the trick fine.... 
+
+$$;
+Pros:. Easy to use, large disk. 
+Cons:. Not that fast. 
+Summary:. I've seen lots of bad reviews here, and I don't quite agree. I bought this network HD because I needed a lot of disk space for my backups and to store music and films that would be available through my home network. This net disk solved all my problems. With 1TB, I can store all I have and haven't used even half the space. Installation on LAN is a breeze, you just plug it and make a few simple changes to the web-like interface. And you are up and running. The drive is instantly recognized by XP and Vista computers alike. The only not so good thing is that, despite being connected at gigabit speed, data transfer is considerably slower compared to tranfers between two gigabit computers. Having said that, the data transfer speed is more than enough for me to listen to music or watch films stored on the unit, using an old notebook. Note that I'm not using the remote access software.. 
+
+$$;
+Pros:. easy to use, cool. 
+Cons:. lack of function. 
+Summary:. As I already had synology NAS, lack of functionality does not major issue to me, but found a stupid limitation very soon, while I am moving data on it...you cannot create any folder with name "internal".... 
+
+$$;
+Pros:. Really good ppearance, realative silent/cool, small. 
+Cons:. Lack of USB connection, slow, not included high-end softwares. 
+Summary:. First of all, PLEASE, PLEASE dont compare it to other high-end network drives, but this is a low-end one according to its relative-low-price.. It is slow. If you are going to stream music, OK. VGA video, OK. DVD, slightly lag. HD video, No good. If you are going to just backup files and no hurry, it is not bad. Remember, higher speed, higher price.. It lack of USB connection! (the USB plug is for external drive ONLY) So, you are not going to get the data when your network is down. I think this is the major weakness of this product.. And, dont expect for the included softwares. It SUCKS! Unless you know nothing about computers, I REALLY DONT recommend anyone use these softwares, no use at all.. Finally, it is Lunix-base, you could expand it functions if you know Lunix (but I DONT!).. If you want a powerful server, sorry, not this one.. If you want a cheap way to ONLY backup, GET this.. 
+
+$$;
+Pros:. Ethernet Gigabit, Interface, price (value for money). 
+Cons:. Slow read/write speeds, no mac software. 
+Summary:. I ve been using the network drive for a week now, and I think is one of the best purchases I could have made. Even though there is no MAC software availble. , I was able to archive my files easily. Simple drag and drop with no installations. My laptop just sow the HD and I was able to move files in a matter of minutes.. How about some MAC drivers as well!!!!. 
+
+$$;
+Pros:. Ethernet connection, 2 500 GB harddrives for 1 TB of storage. Simple stand alone networked storage.. 
+Cons:. Extremely noisy cooling. Buy aTargus 'Chill Mat' for $19.00, put your MyBook on it and the noisy MyBook fan stays off. The hard drives are not easily swapped, must be sent to Western Digital.. 
+Summary:. Buy the 1 terabyte version at Best Buy for $320.00.. Data transfer rate via ethernet is ok, you can watch video or listen to music. You can't transfer big files and access (play) video/music at the same time! I have 600 GB on MyBook right now.. The 1 TB MyBook has a very noisy cooling fan, which runs at room temperatures of +75 degF. I bought a $19.00 Targus 'Chill Mat' (2 quiet cooling fans) for notebooks, placed MyBook on it and the MyBook cooling fan stays off. Can't hear the 'Chill Mat' fans at all.. Use of standard Western Digital SATA 500 GB drives for replacement would be handier.. 
+
+$$;
+Pros:. easy to setup, fast enough for most all general NAS uses like streaming music and general video, unless you get into full on HD. Works pretty well for general storage and backups.. 
+Cons:. runs a little hot. isn't the fastest in the world but ok for the money.. have to pay extra for the software to get use of some of the advertised "features". Don't even mess with mionet it's a waste.. no backup software included. 
+Summary:. Overall i think the product is pretty good, would rank it in the category of " I don't feel like I got burned" and once I figured out that mionet was my problem I have been pretty happy. My initial feeling of the product was strongly tainted by the mionet software. would have preferred they include a basic piece of backup software and left it at that - instead of that piece of "please buy me" software. They push the software and all those lovely things you "get" with the drive, it's not free, you don't inherently get the "world" part unless you pay extra for the software. Unfortunately for them the "basic version that's free" gives you very little and funcitons so bad I don't even want it on my system much less paying for the privelege of more of it. using mionet to copy 100 mp3 files it took over an hour, using a direct mounted network drive it took 6 minutes. If you go for this product I recommend just not even installing the software, it's not worth the time to see what it's like. Just be aware that outside of the software it's really just a standard NAS - mount a network drive and roll. It was easy to setup and get rolling on my network and has worked fine since.. 
+
+$$;
+Pros:. size, speed, ease of use (sort of), ethernet connectivity. 
+Cons:. mionet, no other connectivity other than ethernet. 
+Summary:. I generally like the drive, but having to install software drains significant cycles from my machine, and complicates what should be a simple share. If I had it to do over again, I would look for an alternative solution because of the software.. 
+
+$$;
+Pros:. Good design, nice blue LED, silent, heat dissipation OK, cheap. 
+Cons:. Bundled software a waste of time, i/o not impressive, you NEED to assign a static IP otherwise the NAS server goes bust when copying more that 10k of data on it...:-). 
+Summary:. Applesque design, fits in nicely with the rest of the apple gear in my room, blue LED complements the light from the jellyphish lamp (lol). but use static IP address. The good news is that the access anywhere s/w is not needed to run the NAS, just use the web front end. Does the trick. If you really need to make your files available on the internet use an FTP server on your home PC and activate port forwarding on your router.. 
+
+$$;
+Pros:. Lots of storage and works on gigabit network.. 
+Cons:. I did not like the 'Out of the Box' software used for accessing the drive.. 
+Summary:. The My Book World Edition NAS 500 GB version is very easy to get running. The problem I had was with the software the they want you to install for accessing it. They call it WD Anywhere Access and it is powered by MioNet. This software gives you the ability to access it from the internet or within your own network. This software was overkill... I just wanted something I could call 'F Drive' and copy my backups to. Instead this software made every drive on my PC available to my laptop and vice versa... not what I want at all.. My PC is running XP Home Edition. Using the WD Anywhere Access software I had some connection issues. I would boot up and the network drive would be available. If I opened the WD Anywhere Manager tool, it would tell me the NAS was not available. My Laptop is running XP Pro and I did not have any of these issues.. Before boxing it back up and returning it, I checked out Western Digitals help site. I finally found a Knowledge Base entry that gave step by step details on creating a mapped drive without using the WD Anywhere Access and I am now happy.. 
+
+$$;
+Pros:. storage and ease of access. 
+Cons:. MIONET sofware blocks printer. 
+Summary:. I have 2 computers on my network and the one with vista works great with the s/w but the other with XP causes a problem using the HP C7280 printer, infact I cant do anything with the printer on this computer. I un-install the s/w and printer works great. Contacted their support and no luck, never heard of this problem or how to fix it, they even blamed it on HP and HP blamed it on them then WD blamed it on my router which has came back around to WD support again. Still waiting for word back from WD. Any other help would be great.. 
+
+$$;
+Pros:. Big, Easy setup, File sharing made easy. 
+Cons:. SLOW Transfer speed, File type limitation for share. 
+Summary:. Picked this box (1TB version)up at CostCo for $349 which seems like a good value. It was very easy to hook up, 5 mins. Unfortunately, once you start accessing the drive the first thing you notice is how excruciatingly slow it is. I didn't read the CNET review first (that'll teach me) but the review is spot on, it acutally takes over a half hour to transfer 5 Gig... That's just wrong!. Oh and if you want to access mp3 files remotely you're out of luck too - the list of incompatible files for remote access is looooong.... The HP Media Vault looks like a better choice.. 
+
+$$;
+Pros:. The disk itself works fine. 
+Cons:. The MioNet software is terrible. How WD bundled it?. 
+Summary:. The only way to work is to map MyBook as a network drive. I worked with MioNet support team for days. E-mails and phone calls. They were very responsive but they couldn't help me at all! The MioNet software turned "offine" and that was it! It was a torture! I spent hours on hours on this! In the end, MioNet support helped me do a direct mapping and that's how it works for me.. Even when the connection was active via MioNet it disconnected every few minutes.. Files that you copied via MioNet are readonly when you access through direct mapping.. I don't understand how a respectable company such as Western Digital put their faith on this lousy software. If you just put the CD in and click 'next-next' you end up with something that doesn't work. Or works for one day. and disconnects.. I have never seen something like that in my whole life.. I also can't understand CNET review which praises the MioNet software (WD Anywhere Access). You should work with more than three minutes! I will not believe your reviews anymore!. 
+
+$$;
+Pros:. Size of drive, conveinence of connections. 
+Cons:. Mionet software is like a virus. Doesn't go away. Slow transfer speeds. Continually drops on and off my network. Poor tech support with bad documentation. Does not easily configure on a network. 
+Summary:. I bought this drive to share pictures over the internet and access documents. Mionet software acts like a virus. Even if you uninstall it, it doesn't go away. I had to edit my registry to get rid of it. Mionet never worked. It wasn't easy to get on my network as well. It would never connect to my router using DHCP, though my other computers seemed to work fine. I finally had to set a fixed IP in order to get it to work. But it still keeps dropping off my network. I'm on my second drive in which the first one would never connect. It took over a week of useless tech support to get them to send me a replacement drive. As instructed I sent them ALL of my materials. When WD sent me a new drive, it didn't come with any of the software or documentation that I sent them. All I got was "We did not instruct you to send those items" The e-mail I had from WD support somehow had it. Hmmmmm...... DO NOT BUY THIS PRODUCT!!!. 
+
+$$;
+Pros:. A lot of space. 
+Cons:. Software, speed, noisy.... 
+Summary:. Most reviews here are just about on the money. This is marketed as an "access anywhere" product, but turns out to be far from it. The Mionet software just doesn't work with the Linux OS installed on the MyBook. It took 3 installs to get it to even detect the MyBook. Then it was "offline", and nothing I could do would get it online.. Sigh. I'll use it as a network share. There are sites with hacks to access the OS and set up SSH access (not for the uninitiated however). It's too bad, the thought of accessing it easily and sharing photos, music and video was rather appealing. But Mionet isn't ready for the big league yet.. The fan is rather noisy. Place this unit somewhere you won't hear it, like next to your air-conditioner or refrigerator. Oh yeah, network access is sluggish.. How disappointing, WD.... 
+
+$$;
+Pros:. Great drive plenty of capacity. 
+Cons:. Dissapointing Mionet sw. 
+Summary:. Here is the deal. Whatever you read DON'T INSTALL THE MIONET software. Not ony is it invasive as reported in earlier posts, but it transfers data like a snail in reverse! Whatever data you DO transfer under the Mionet sw umbrella can easily be shared by all Mionet users but worse, can only be accessed by the Mionet software. I had to wipe out the drive , delete the data and uninstall the Mionet sw . I am now using it as a shared drive on my network and while it is performing better it still crawls cosidering it has GB access and a 7200 RPM drive. I will use it as a repository but WD needs to provide some firmware to improve performance!. 
+
+$$;
+Pros:. Cheap, RAID support. 
+Cons:. Too slow, useless backup software. 
+Summary:. This could have been a good product, it actually could have been a great product, but: 1.- The backup software included called Retrospect is horrendous. It fails 90% of the time and just give you cryptic messages about ''malformed file name''. I am using standard Windows backup accessory....it works. 2.- It claims that you can have access to your data from anywhere. Not true unless you pay additional premium monthly service. 3.- Documentation is a minimal and does not help overcome the out of the box drawbacks. 4.- It is unacceptably slow... I hope that WD enjoys my money because it will be the last they are ever going to see from me.. 
+
+$$;
+Pros:. Easy to use and configure. 
+Cons:. Slow over ethernet, runs very hot with sustained transfers,. 
+Summary:. 1) Mionet is a large waste of time. Paying the $70 a year to access your files is rediculous. There are many free alternatives that offer nearly the same functionality. The directions convey that installing it is required to use the MyBook, however that is definately not the case.. 2) Installation was a snap- when using it with a router. It got its IP, and was easily accessable using \\MyBookWorld. Also, the web setup interface is simple and easy to use. No router? load up the PDF manual on the CD, scroll way to the bottom where there is a small section on how to use it without a router. This is definately not a device for people without a home network.. 3) Network attatched storage allows easy access to files from multiple computers, and doesn't require a PC to be running to access it. Gigabit ethernet connection?Completely worthless. No matter what I tried, I couldn't get transfer rates much above 45mbits, which is right around 4MB a second (This is only 4.5% utilization of a gigabit connection). This means it took about 30 hours to fill the 500GB drive.. 4) Boot up time is slow. Be prepared to wait 2 or 3 minutes before the drive is accessable.. 5) The usb port on the back is nice to exapand the device with another usb storage device.. Overall, there are much faster, less expensive solutions available for network attatched storage devices. Although the MyBook makes installation and access very easy, it doesn't come close to making up for its lack of performance. If all you're looking for is external storage, buy a USB, firewire, or SATA external drive that will attach directly to a PC and save yourself hours of file transfer time.. 
+
+$$;
+Pros:. Space, looks, and easy setup.. 
+Cons:. Performance and cost.. 
+Summary:. In my opinion you would be better served spending your money on a cheaper and faster USB or Firewire drive. You could also access the storage device remotely by using another remote access software like PC anywhere or gotomypc.com. The performance is just a killer, just too slow for such an expensive piece of equipment.. 
+
+$$;
+Pros:. Lots of space. 
+Cons:. Software is floppy. 
+Summary:. If all you are looking for is a Gig (or half a Gig RAID-1) storage, that is what you get. If you want this for the file sharing and back-up capabilities, you are going to be very upset. The MoiNet is nuts and doesn't work. The EMC BackUp software included seems to depend on MioNet and is also useless. And, as most others have stated, everything is slow over your intranet with this device.. After over a month of fighting through various issues, it appears that almost everything goes back to the firmware &#38; software internal to the device. At various times mine has said it is trying to update its software or mostly is just OffLine.. It is usually (but not always) available from the Winderz Explorer from the Network area but you will not see all the directories (folders) or files that have actually been placed there.. Bottom line is that if you are wanting this for everything hyped in the marketing advertizements; save your money for something else. It is all VaporWare.. I'm sending mine back for a refund.. 
+
+$$;
+Pros:. ok performance. 
+Cons:. network connection keeps dropping. 
+Summary:. I bought this for it's price and features. Turns out to be a nightmare as the NAS keeps going offline due to the network connection keeps dropping. Seems to happen to my 2 WD MyBook World NAS, with my IOMega, TimeCapsule and Buffalo - that doesn't happen - so it's not my network but the drives. No more WD NAS for me..... 
+
+$$;
+Pros:. This drive was extremely easy to set up on my Windows home network... mapped it as a network driveand was using it for backups very quickly. It has some nice features (media server, iTunes host, file server) found on more expensive drives.. 
+Cons:. It locks up if you try to save "more than 1000 files or over 500 MB to the drive at one time." Try to backup your computer, it locks up. Save a Windows recovery image, it locks up. Outlook pst file, it locks up. Large movie files, it locks up.. 
+Summary:. This is a great backup drive - if you only want to backup a handful of small files at any one time. It locks up consistently if you try to do any serious backups with it. This is a known problem; Western Digital answer ID 1701 mentions it, but offers no solutions. It also locks up if two users attempt to access it at the same time (as happens if you're streaming media to one computer when another computer attempts to save or access a file). It's not a very robust network drive - I'd suggest putting your money towards the purchase of a better drive.. 
+
+$$;
+Pros:. that it is a NAS, and via USB you can connect external drives to it to increase storage space. 
+Cons:. the external drives are very slowly accessed, can not be NTFS, so either FAT32 with 2Gb file limit, or some Linux format, not compatible with Windows. The backup software is not compatible with WIn7, and for me in 3 years has never completed a backup. 
+Summary:. I would look further, because there is (much) better on the market. Transfer speeds of 4-5 MB/s is too slow, and max number of connections is 5. Media streaming is no fun on this one.... Don't buy. 
+
+$$;
+Pros:. Hard drive compact package with bundled software for automatic back up, conceptually is a good mode. Like that the system continuously monitors all computers on the network and automatically backs up files.. 
+Cons:. This is not a plug-n-play bundle. The USB port on the back but it doesn't allow you to alternately use the system like an external RAID drive. iThe MioNet connectivity sw will freeze your system if you are on a VPN. The Memo Backup sw is separate.. 
+Summary:. The bundle is seriously flawed. There are two sofware applications (and providers) to tend with. You must install the MioNet and Memo Backup to complete the solution. This should be a single integrated plug-and-plan solution but appears to be an afterthought. This NAS drive can only be accesses via network. The USB port on the back won't let you connect directly to your computer as a workaround in case you can't use MioNet - because Mionet causes your computer to crash if you go onto a VPN. The MioNet website says they are working on a fix but the site is woefully out of date and anemic.. The Memo Backup software is yet another application. What might appear like a simple 3 step proces (their screens) provides no help if things don't go as described in the inadequate installation (I've yet have an installation go as easy as described on a "quick start" guide. ). Bottomline: This hardware is compact and efficient. WD needs to build an integrated plug-and-play version of the applications and allow that USB port to work directly with my laptop. MioNet needs to fix that Cisco VPN bug problem ASAP.. 
+
+$$;
+Pros:. Lots of space. Stylish design. "Ooooh-ahhhh" Blue lights. Space-saver if your computer workplace is crowded.. 
+Cons:. Horrible networking software (Mionet) which will not work with 64-bit Windows Vista and which has limited features. Slow over-the-net transfer speeds (If your computer does not go on hold first), and tech support is hard to reach.. 
+Summary:. For novice users who intend to use this drive as their own, personal file storage in an apartment or condo, this is the drive for you. Using a USB cable with this devise makes operating it simple and fortunately, WD drives are well-known for ease of use... Or so we thought. There's lots of drive space, and the hardbound book-like structure of the drive can definitely save you a lot of space on that cluttered computer desk. It's a very stylish-looking gadget that can quickly complement your Mac or PC.. Here's the clincher. I would've given this drive a higher rating if it didn't proudly advertise itself as "World Edition", which means one of it's primary features is for the user to be able to utilise the external drive as a networked devise. Unfortunately, it's own name hardly does the functionality of the devise any justice. The drive is a poor excuse for a home/over-the-net network storage drive. And if you've recently upgraded your OS to Vista 64-bit, you might as well kiss this drive good-bye especially if you've done the said OS upgrade to all your systems at home. The already slow networking software this drive uses (Mionet) will not run on the 64-bit Vista. Try and install it and you will eventually get an error. Now, some users may boast that they do have a workaround for this problem, but let's not forget that not all users are tech savvy. If you decide to bypass using Mionet to add your devise to your network and you are able to map the drive, then congratulations! However be prepared to simply view your files and not be able to edit, save or change any of them. That's right folks! The drive becomes nothing more than an online, museum for your read-only files. If you make a change to any of the files in the drive, and try to save those changes, an annoying popup will tell you "you have no permission" yadda-yadda blah-blah. and The only thing that will work (surprise surprise) is if you mark your drive as the destination folder for your iTunes files.. So, in summation; Good as an ordinary USB personal drive; horrible as a network storage drive. If you intend to pay 200+ Dollars on this drive, my advise is DON'T!! Throw-in a hundred more Dollars and you can get yourself a network server that will actually work.. 
+
+$$;
+Pros:. Design Only, Color Too, 1TB (1 Drive, No RAID). 
+Cons:. 1. Very Slow at Net Transfers 2. MIO Software unacceptable. 
+Summary:. I bought this Ext.Drive Today Because i wanted a second net Drive... so what is my opinion..... 1. Extremely Slow Net Transfers although supports 1000M.. i thinks Because Of the software (MIO WD Anywhere Access ).... I have a Drive 100M with ximeta NDAS Software and its much more faster and more easy to use than WDC Software.... 2. The Software to access the drive not so good (plus u have to pay to upgrade to full version, not so friendly... i think its responsible for the slow tranfers... maybe will be better creating a mapped drive without using the WD Anywhere Access... 3. Beautiful Drive... 1TB without Raid... MayBe WDC should use Ximeta NDAS Software for local lan, the drive should be just great and much faster... 2.. 
+
+$$;
+Pros:. Cheap, large capacity. 
+Cons:. Died within 6 months; Terrible software. 
+Summary:. The MyBook world edition sounded like a good idea. 500GB, network connection for under $100? Sounds great.. I used this primarily as a storage drive. The drive would get fairly warm (on 24/7, but not in constant use), but nothing out of the ordinary for an external drive. I had the drive for about 6 months, then I couldn't connect to it all of a sudden.. I read later on that other users have had this same problem. The USB/Ethernet PCB has some major issues apparently. Lots of field failures. After removing the drive from the case, I tried to read it through another external case and connecting to a PC directly. The drive was recognized, but could not be read. I ended up having to reformat the drive, and now it works fine.. Buyers beware on this one.. 
+
+$$;
+Pros:. Only 1, Network backup storage separate from main computer. 
+Cons:. So Slow it took all day to back up 30 gig using AllWaySync.. 
+Summary:. For network backup storage separate from main computer at $0.25/Gig I guess I can handle the slow speed. Paid $120.00 for 500 gig version in February 2008.. 
+
+$$;
+Pros:. we have about 10 of them and they seem to run fine. 
+Cons:. This one Failed - seems to be common enough. 
+Summary:. Looking into why my MyBook was clicking suddenly, it seems that this problem is not uncommon. According to WD, there is nothing to be done. The drive is dead.. 
+
+$$;
+Pros:. The NAS MyBook World Edition II is an awesome 1 TeraByte!. 
+Cons:. MioNet is total crap, unfortunately WD doesn't tell you that you don't even need it to access your drive!. 
+Summary:. Also, if you check your network activity you may find (as I did) that the drive is contacting some IP address in France about every 15 to 30 minutes. Nothing is being sent but is this really necessary? The IP address is 87.98.219.90. My firewall logged the activity, Ethereal captured the content, which as I said was nothing. Further digging into the IP address suggests that it may have connections to MioNet.. maybe. I have done nothing further but I plan to call WD and ask them *** is this for. I love the drive, works flawlessly IF you avoid MioNET. -Si. 
+
+$$;
+Pros:. priced right; easy to set up. 
+Cons:. SLOW, SLOW; UNRELIABLE; QUIRKY-fails to maintain LAN connect when attached to router (wrt54g), must be attached to LAN via a switch;NOISY-loud fan a huge distraction, If unit fails, Linux-compatible file format makes greatly complicates data recovery. 
+Summary:. Read the user reviews and believe them; I knew this product would be slow, but I never expected it to be this *SLOW*; Speed is such that when editing or manipulating a number of files (for example, JPGs) make sure the files are on you local HDD. Then, after working with the files, you can then copy them to the MBW. Otherwise you spend most of your time waiting. Even doing a Photo Gallery review of JPGs is painfully slow. Also, reviews talk about how loud the fan is, it is louder than you can imagine. I had it beneath my desk and the distraction was such, that I had to put it into a closet. Even in the closet you could hear the fan. When first set up on my LAN, the MBW was directly attached to the router (wrt54g). Then, about once a week, the network would stop recognizing the drive (including my Network Magic). By chance, I discovered that by connecting to the LAN via a switch corrected this problem!! FInally, both drive failed on me. Thank God, I saw this coming and completed a backup of my important files. If you own this product, make backups an important part of you routine.. 
+
+$$;
+Pros:. nothing at all. 
+Cons:. drops connections frequently, must be internet connected to use, dvd burn from product always fails. 
+Summary:. nothing but headaches, no diagnostic capabilities, drops connections frequently, switches drive letters randomly, copies of files to it can disappear, Just completely frustrating.. 
+
+$$;
+Pros:. Nothing good at all. 
+Cons:. Drive has a 3 year warranty per wriiten documentation. Tried to get an an RMA from tech support but was told drive had a one year warranty from date of manuafacture. Good news is that one of our staff attorney's has taken over and filing a law suit.. 
+Summary:. Western Digital used to be a quality company. Now they are nothing more than a group of misfits engaging in consumer fraud.. 
+
+$$;
+Pros:. None I can't use it!. 
+Cons:. Lack of support for Vista 64 bit is baffling. Does anyone know if WD plans on supporting Widows 7 64 bit?. 
+Summary:. Useless for those running 64 bit systems!. 
+
+$$;
+Pros:. Good amont of memory for the price. Also, Once you figure out you don't need the MioNet software the firmware has powerfull tools for the home users giving you the ability to to control file acces by user.. 
+Cons:. MioNet software is complicated and can prevent access to your drive. The drive failed in less than a year which means you could loose up to a Terabyte of data. Support site seems inadaquate.. 
+Summary:. MioNet software is complicated and can prevent access to your drive possibly because it needs to connect to the WesternDigital server first before accessing your home network drive. This raises the whole issue of security even if you are a home userThis connection is dropped for some reason and the support site does not have an adequate solution even though several users report this issue. The drive failed after a year and the only way to fix it would be to send the entire drive to Western Digital. So if you have sensitive data on it, it is at risk.. 
+
+$$;
+Pros:. White box is unique.. 
+Cons:. Why built-in a Gigabit LAN interface? That's misleading.. 
+Summary:. Never buy World Edition again!!!. 
+
+$$;
+Pros:. The drives themselves work great, good speed, good space, good redundancy.. 
+Cons:. Just too bad it doesnt work over the local network. The fact that your are forced to connect to internet to access a local drive just blows me away. Its a local drive for god sakes why would I want to authenticate over the internet to access it.. 
+Summary:. Yep just too bad WD did go that way, last time I buy a network drive for them that is for sure. I would also like to know how did you manage to get it going as a mapped drive. I have no problem accessing the public part but impossible to access my password protected folders, just a shame.. Updated. on May 21, 2009. 
+
+$$;
+Pros:. I assumed I would like the network feature but it rarely worked correctly and MIO Net is the worst program on the planet.. 
+Cons:. I assumed I would like the network feature but it rarely worked correctly and MIO Net is the worst program on the planet.. 
+Summary:. Don't buy WD, tech support sucks and their products have a extremely high failure rate.. 
+
+$$;
+Pros:. Nothing. It's just a big, slow, too expensive, external hard drive, and that's it.. 
+Cons:. Impossible to keep this drive connected to the network. It's a lousy network storage option.. 
+Summary:. The cons above really tell it all. This drive will not stay connected to the network. WD tells you on its website that the only way to keep the drive online is to access it only with its Mionet software. WD also tells you that the drive's CPU is to dumb to maintain a connection if more than about 3 users try to connect at once. If you try to use the drive like any decent network drive, and access files via other apps, the drive disconnects and you have to restart it. My drive hasn't stayed connected for more than about 6 hours at a time in two years. There have to be better products out there. In fact, I was looking for something to replace it when I came across CNet's ridiculously inflated review. For your own good, look elsewhere. And CNet, how about doing some real testing and not just something perfunctory so you can keep taking the ad dollars.. 
+
+$$;
+Pros:. Perfect design!. 
+Cons:. Worst speed transfer ever! Slow, slow slow - don't buy it! It's a mistake! Bad decision for the professionals!. 
+
+$$;
+Pros:. A lot of hard drive for the amount.. 
+Cons:. The Mionet networking software makes you access Mionet's central server in Calif in order to access your own personal data. So, when you log onto your drive, you have to go through THEIR server..always!. 
+Summary:. Mionet's central server has been down for over a week. I have called Mionet's customer support multiple times and also open trouble tickets. They assure me they are working on the issue. They tell me the only way I can access my data is to go through their server and there is no possible back door. I have over a years worth of work on my hard drive that I am loosing hope of ever recovering. Mionet's tech support has told me not even they can access my data if their servers are down. Had I known that I would have to go through their server to access my own data on my own hard drive, I would never had purchased this product. I will never purchase another Mionet or Western Digital product again after this experience.. 
+
+$$;
+Pros:. Will store data if willing to use and pay additional for Mio net. 
+Cons:. Mio-net large slow software at additional cost not represented on product as "trial", To date have not found suitable alternative to Mio-net. 
+Summary:. Would have returned product but over return period when I finally began to use My Book World. 
+
+$$;
+Pros:. Network stroage at low price. 
+Cons:. Cumbersome installation, vague instructions, stacked (needing restart) when transferring big volumes of data (e.g. during backup). 
+Summary:. The software setup is not trivial. Every restart of client computers requires online login to MioNet service (via the internet). The biggest disadvantage -- the storage is often stucked when handling transfer of big volumes of data 100+MB. I needed a shared backup server so in my case; this product was revealed as useless.. 
+
+$$;
+Pros:. If it would work, it would be great.. 
+Cons:. Horrible experience ! Got rid of MioNet because it would go offline all the time. I have wasted about 20 hours of troubleshooting time to this device since I purchased it (And I am in the IT world).. 
+Summary:. Overall, very faulty, prematurely released to the point of being disrespectful to the potential buyer. The firmware is slow and you have to constantly reset it so it saved the changes applied to it such as everytime you create a folder or create a user with permissions!. 
+
+$$;
+Pros:. You can back up your data.. 
+Cons:. WD backup anywhere interface is terrible. Support - eventually i reached a senior analyst who gave me incorrect information then argued with me when I pointed out what was wrong. The software initiated itself on startup and bogs down your machine.. 
+Summary:. I'm de installing WD Backup Anywhere. 
+
+$$;
+Pros:. WD worked fine until I had to reload windows. 
+Cons:. WD does not come with a disk and only allows one install. You have to go to website to download software...and then good luck! It will not install correcdtly even though i have a warranty till 2011. Many emails and lots of time trying things.. 
+Summary:. Very frustrating not to have the product i bought with extra warranty too. I cannot use the program now.. 
+
+$$;
+Pros:. I suppose this is an ok product if you need an occasional network solution in small amounts. 
+Cons:. WD has no clue or docs on how to install 2 of these drives on the same home network.. 
+Summary:. As I said, with work you can work your way thru the install for 1 drive, but if you try to install 2 World Edition drives on the same home LAN, using the MIONET software provided, you will find yourself devoting an entire weekend or more to do so. After a number of email exchanges with the WD support staff, I've come to the conclusion that either (a) WD never thought some would actually buy 2 of them, or (b) the WD Supoort staff has no clue how the product should with 2 in the same segment.. If I were running off-standard workstations like Linux or Windows 95, I'd cut them slack, but I running XP and Vista and the software won't let me add rge 2nd drive no matter what I try. Oh well, guess it's return the WD to Best Buy and pick up HP. Should have read CNET before buying this junk. 
+
+$$;
+Pros:. Large capacity, WiFi enabled, supposed internet accessibility. 
+Cons:. Bad connectivity, terrible internet accessibility, drive failed after just over a year of use. 
+Summary:. On the surface, this is an amazing product. But first off, I could not get my Dell Inspiron to recognize it. Then it kept 'timing out' when I tried to transfer files to it (resulting in many hours of seeing what it did copy/move and picking up where it left off). Once I got it working right, the added MioNet software for online access of the drive from outside the home was limited and extremely, agonizingly slow. Plus, I could not access my MP3's as there was a block on that format (one of the reasons I bought this product was so that I could access my music from the office at home). No can do.. But what took the cake was the failure of the drive after just over a year of use. The warranty covers defects up to 3 years, which is great. Except that it doesn't cover data recovery which is in the $500-$2,500 (ouch!) range.. However, I also have a WD Passport, which works great and which I highly recommend (so far!).. 
+
+$$;
+Pros:. Good size capacity and looks good. 
+Cons:. Confusing installation and Mionet software makes it even more confusing. Doesn't work with Vista what a bummer. 
+Summary:. Why all the hassle with MioNet. How does it actualy benefit the user? Why does it take so long to set up and why do you have turn all your network security features off? Why doesn't it work with MSWindows Vista which is the most common version of MS Windows?Why does it constantly ping an IP address overseas and what implications does this have on your privacy and security? Maybe I'm expecting too much but normally when you pay good money, take something out of the box, follow instructions and plug it in, you will also expect it to work. I'm not interested in getting a degree in Linux or reading the knowledge base for hours...thats why I pay to buy it out of the box.. 
+
+$$;
+Pros:. Yep, it holds 500 gig. 
+Cons:. You ain't sharing with anybody!. 
+Summary:. Great idea, not a good product. Setup is awful,and is inconsistent from user to user. Interface is rediculously inadequate. MioNet provides sketchy service and the documentation is NIL. Skip this and wait for a better solution.. 
+
+$$;
+Pros:. You can take it out of the case and connect it to a SATA port on your motherboard.. 
+Cons:. resource hog, 4 instances of Mionet running, taking up 100+ megs of memory.. 
+Summary:. I bought this because it was $60 cheaper than the comparable USB 2.0 drive. I should have coughed up the extra dough. I ended up taking the drive out of its case and making it into an internal drive. The speed is sluggish at best over ethernet, and the Mionet software eats up all your RAM. For those who are interested, the drive in this unit is a WD10EACS 3Gb/sec SATA drive. Works quite well now that I fixed it, but I kinda wanted an external drive.... 
+
+$$;
+Pros:. Easy to setup and run.. 
+Cons:. Unbelivably slow for large amount of data transfers.. 
+Summary:. I had to return this unit back to the store because it was almost imposable to work due the time transfer. It takes over 4 hours just to transfer around 50GB. Also that MioNet software that comes with it's annoying. I just wanted fast data drive not all the options that physically slows this machine down. It also keeps connecting with some strange IP address from witch ever reason and my FireBox keep blocking that connection.. 
+
+$$;
+Pros:. pretty white color. 
+Cons:. Bad, bad, bad. 
+Summary:. We purchased 3. The sharing software hard rebooted 3 different XP machines (serveral times all at the same point). Support offered no solutions for this. 2 units had to be setup manually, one of them had to be hard reset. The 3rd unit didn't register on the network at all even after a hard reset. I would not recommend this product to any one let alone a home user.. 
+
+$$;
+Pros:. Large disk. 
+Cons:. sub 10Mbps network performance at any speed. 
+Summary:. I would steer away from this box. It has very slow network performance. The advertised 1Gbps speed is a joke. It will only connect at that speed. transfer rates stay below 10Mbps. The cnet review shows it is the slowest of the lot. wish I had read that first.... 
+
+$$;
+Pros:. IT FIT EASY INTO MY TRASH CAN. 
+Cons:. JUNK, DON'T BUY, NOT MULTI LANGUAGE READY, NOT PLUG IN PLAY, NOT WORTH THE $250 I THROUGH IN CARBAGE. 
+Summary:. JUNK, THAT LOOKS GOOD, BUT STILL JUNK !. 
+
+$$;
+Pros:. it was a nice idea. 
+Cons:. bad implementation. 
+Summary:. This product fails for 5 reasons: 1) you cannot connect the USB port to a computer to load files - they must be transferred over the network, 2) network transfer is painfully slow, 3) it does not work with Vista, 4) it requires the use of proprietary software to function, and 5) to use the best features of the software requires a monthly fee . . . forever.. 
+
+$$;
+Pros:. Hardware seems to be up to WD's usual standards, although it's difficult to tell, due to the hideousness of the bundled MioNet software.. 
+Cons:. Do not, under any circumstances, install the bundled MioNet software. Not only does it not work worth a tinker's, it transmits your info to MioNet, making it virtually impossible to use the drive without MioNet in the future.. 
+Summary:. Hardware seems to be up to WD's usual standards, although it's difficult to tell, due to the hideousness of the bundled MioNet software.. 
+
+$$;
+Pros:. Really none.. 
+Cons:. Bad functionality overall.. Annoying alert boxes.. Constant problems with drivers and registry.. Very bad support.. Slow in file transfers.. Stops working in the end and won't start up again - all data lost.. 
+Summary:. My MioNet has always been shaky, dead slow, hard to get to use, constant popup messages on startup about some problem etc. And now after about a year of poor performance, MioNet stopped working altogether. The registry is wrong it says suggesting a reinstall. Reinstall didn't work of course, so now I can't access any of the files I have on my WD.. When I have tried to communicate with them about my problems, I get some Indian support which doesn't work because I am not writing my problems in the correct way, within the right brackets etc. In the end, my complaint errand just died out.. I find it astonishing that a reputable company like Western Digital would tarnish its name by shipping their "super duper" NAS drives, with some collage level hack to make it work like they advertise it. MioNet is the worst software I have come across in my time as web developer ever, and WD has lost all its credibility after this mess. I will never buy a WD product again and I will also advice all my friends agains buying any, in IRL and online - like here.. Run from MioNet and WD and never stop.. 
+
+$$;
+Pros:. Can access over net IF it works. 
+Cons:. -Slow transfer speed. -broke down after a month of usage lights would keep flickering on and off. -completely broke down after a year's usage. -expensive for a doorstop. 
+Summary:. Oh the horror... I do not understand why CNET gave this drive anything more than zero stars. The drive doesnt work anymore and when it did work it was very flaky... transfer speeds were extremely slow. You cannot connect it directly to the PC even though it has a USB port (the port is only for extension purposes or so the manual says). All in all you are stuck with a network drive that does not connect to the network, and if and when it does the transfer rate is so dismally slow i'd rather watch paint dry.. 
+
+$$;
+Pros:. Large data storage. 
+Cons:. Admin screen is slow and akward. Read and write is so slow its not worth the time or money. Very disapointed.. 
+Summary:. Would not recommend this product to anyone.. 
+
+$$;
+Pros:. 2 terabytes. 
+Cons:. when it says gigabit ethernet... shouldn't it run on gigabit speeds?. 
+Summary:. This is a quote from WD customer service "The box states that the drive has a Gigabit ethernet port which it does. The box doesn't state that it will transfer at gigabit speeds." WHAT! So they admit that they are doing false advertisement! If I say that a car is a Ferrari it better damn well perform like a Ferrari! Obviously this company is full of crap! They do not deserve your money or your business. I asked them if I can at least get credit to buy another real gigabit NAS drive... They probably just laughed! Well... I buy tons of computer stuff and I never had too much of an issue with WD! Not anymore! I will tell everyone what kind of crap advertisement these people have! Do not buy Western Digital products! If I could give them a negative star I would shove it in their negative lying face! They put their name on it, they say it is a gigabit drive... it better perform like it! Don't get this junk product or anything else these rip offs sell!. 
+
+$$;
+Pros:. That there is 1 TB. 
+Cons:. Everything but the storage space. No way to directly connect via USB, FireWire, Esata etc. Don't be fooled by the usb port on the back, it is only to add storage. The software crashes several times a day.. 
+Summary:. I have been back and forth with their customer service on the phone and email for the past year. They said they would exchange it about 3 months ago for a 1tb eSata drive no charge but many failed attempts to contact them puts me back in the same spot. I really like WD but their Mionet is such a bad product. Please what ever you do stay away from this. It will cause you to be irrate and possibly throw your $300+ hard drive.. 
+
+$$;
+Pros:. Looks nice if you need an expensive paper weight.. 
+Cons:. The Mionet functionality is sporadic at best often indicating an "off line" failure or "failure to mount" error though product is on &#38; correctly networked. Product began performing sporadically after 4 mos use until it crashed and won't power on.. 
+Summary:. Am spending 5x the product cost to recover data from the HDD. Have switched to the Maxtor Central Axis network storage server - thus far a much superior product. Be warned do not buy the WD MyWorld Book products unless you are an expert Linux hack and want to spend your time on work arounds and recovery.. 
+
+$$;
+Pros:. Cute packaging and form factor along with a 1G Ethernet were causes to acquire this.. 
+Cons:. MIONet application is not optional. Does not handle multiple usages well. Can not have both secure and non-secure access simultaneously. Goes off line or unavailable frequently without cause.. 
+Summary:. I'd be better off with a USB adaptor and physically hauling a hard drive around my network. This has been a painful experience. This thing is so unreliable out of the box that there is even a full blown Hack site for this product!. 
+
+$$;
+Pros:. looks great out of the box, cool color, and great blue indicating quality and security. 
+Cons:. After struggling for weeks with this I read the reviews here and saw that if I just let the software go, I would have a functional drive. It remains slow, but that is also a factor of the network speed.. 
+Summary:. Too bad, they loaded a worthless software gimme on top of a functional piece of hardware.. 
+
+$$;
+Pros:. seems to work ok on 32bit systems, but they're disappearing, so who cares. 
+Cons:. On both the WD website and Mionet's website, they say the drive and mionet work on windows 2000/xp/vista. Nothing is said about 64 vs 32bit. Once I got the drive, I found I could not install on 64bit systems. Mionet web doesn't work either.. 
+Summary:. Currently, most new computers are 64bit, at least for any serious, professional type machine. Including consumer laptops. And yet, this cool high tech device cannot be accessed by these systems. Western Digital's support has no solution except to return it for a refund. Mionet does not even have a support number to contact!!! They are clearly misrepresenting this product. Keep away from it! There's lots of other NAS options out there.. 
+
+$$;
+Pros:. For about two weeks it was slow but working. I had networked storage and that was handy. My laptop was no longer tied to an external HD at my desk. But then I started getting the "failed mount" error in MioNet and it was all over.. 
+Cons:. Mionet is horrible from the start. The WDAnyWhereAcessBackUp software is also terrible, it doesn't indicate when it will back up or give you an option to pick a regular time to do back ups. So it seemed that my files were always pending.. 
+Summary:. So i have about 450 gigs on the HD that I cannot access because of MioNet and the "failed mount" error which if you google you'll see is the scourge of the networked storage options. WD Tech support is useless on this error, and lots of people think there should be a class action suit (all in favor say "aye" .."AYE"). I'm stuck attempting to figure out a way to get the data off the drive before returning it.. If you're looking at this drive, you need to just accept the fact that networked storage is not yet available on the mass user market. If you have the tech savy and money to build your own home server, go at it. Drobo might work well, but if otherwise just accept that the usb cable will have to stay plugged into one of your usb ports if you want to access the files.. (I only gave it a .5 star because i had to give it some kind of star rating for this review to get posted). 
+
+$$;
+Pros:. Nice looking. 
+Cons:. Drive loses connect all the time. Unpredictable. If you Google the problem, you find many hits mentioning the same problem, but doesn't seem fixed. Means you need to restart the drive each couple of days, reset the date/time, and start over again.... 
+Summary:. Extremely unreliable (connection problem - see Cons).. 
+
+$$;
+Pros:. Its easy to repackage to send back to Western Digital.. 
+Cons:. I have supplied over 5 of these during a 3 month period and have had consistant trouble with each one since installing them. They do not work as asvertised, are unreliable, and offer extremely poor support.. 
+Summary:. Now they have been on the market for a while the reviews have come in. Given that nearly 100% of the reviews are negative I feel it fairly safe to reccomend that you dont buy one.. 
+
+$$;
+Pros:. Can't think of any.. 
+Cons:. Unbelievably bad support - with an iffy drive at best. Don't believe me? Ask anyone at tech support at Best Buy. The 320 Dual Drive [USB - Firewire] was released with problems. Be frightened. Be very very frightened.. 
+Summary:. It seems sad when you read the blogs about a product, with known problems, but the company seemingly looks the other way. That seems to be the case with WD. Within two days of purchasing their WD3200 Premiere, I emailed their support department asking them for help. Nothing happened. I did again. Again nothing. Life kicks in and I travel. It still works with the slower USB, but I purchased the drive for Firewire. When I finally got around to using the drive in earnest [with a brand new machine], the warranty had expired. Then, WD was more than happy to tell me the problems...and the fact that I was SOL. WD has lost me as a customer and I will go to the ends of the earth to tell others my story so they can decide for themselves. Based on the blogs, others have found out too late as well.. 
+
+$$;
+Pros:. Only positive comment is imatches my otherstandard myBook. Otherwise forget the World Edition range for NAS use. You have been warned. I bought it because it was cheap. Now I know why noboby wants them! Caveat emptor.. 
+Cons:. Running for 1 yr. Mionet software is rubbish. Not an NAS product. Huge file type transfer restrictions including mp3. I create &#38; publish music but cannot share wth this drive - what a waste of time! Go for any other manufacturer but not this one.. 
+Summary:. This is undoubtedly the worst buy I have made. It was a spur of the moment buy when I saw it at a bargain price in the shop. 1Tb for �130 in UK. It solved an immediat eproblem to bakup a laptop. After that I wanted to use it as an NAS drive so my children could back up their university work files remotely. Well what a waste of time. The con is that you have to pay for Mionet service to get the remote NAS capabilities - they don't mention that on the box! Nor do they mention that numerous filetypes cannot be shared. We were recording voice files of their grandad in hospital and wanted to share the conversations with them - could we? NO they don't allow mp3 files to be transferred. Yes the workaround is to wrap it into a zip file but why should I have to do that when I have paid for a product that says it allows me to share files! My next step is to decommission this and convert it into a non NAS drive. I thought about selling it on eBay but felt that would be immoral as I would be tranferring the con and disappointment to some other poor unsuspecting person. I couldn't live with the guilt. I don't know how Westen Digital live with the guilt that they are conning many thousands of people of their hard earned money (well for themajority of us it is hard earned).. I think you get the pcture that I feel strongly that this is a BAD buy.. 
+
+$$;
+Pros:. 1 terrabyte. Quiet.. 
+Cons:. Everything else! Can not access music files remotely even though the box decieves you that you can. Will not communticate with XBox 360 to stream any files! Slower than molasses. Cumbersome access.. 
+Summary:. I feel ripped off. After reading a review on the net and finding it at Costco, I thought this was what I was looking for! Boy was I wrong. Not only do my cons tell the story but trying to get help from WD was impossible. They refered me to a FAQ page and informed me that they do not support XBox 360. Learn from my mistake! Not every product is perfect for every one, but unless you want slow or non existant access to your files, and your not storing music then maybe this product is for you.. 
+
+$$;
+Pros:. Nothing positive to say. 
+Cons:. Constantly failing. 
+Summary:. I have had the 500GB drive for about a year. Mounting to my network is always an issue. I have to reboot the drive and/or my pc. It will work fine for a couple of days to a week or so. Then its gone again. Finally about two weeks ago it failed again and have not been able to mount. The mionet and retrospect software are also very unreliable. Do not even consider buying this product. Of course no help from WD unless you want to pay a tech fee.. 
+
+$$;
+Pros:. There aren't enough to counter the Cons. 
+Cons:. You can't share files on your own hard drive?!?!?!. 
+Summary:. This is absolutely the most ridiculous thing I've ever heard! And I'm not alone. For starters see:. ww.pcmag.com/article2/0,2704,2229868,00.asp. www.gearlog.com/2007/12/western_digital_blocks_nas_fro.php. http://tech.propeller.com/story/2007/12/07/file-sharing-off-limits-on-western-digital-nas. technologyexpert.blogspot.com/2007/12/multimedia-sharing-off-limits-on.html. http://www.computerworld.com/action/article.do?command=viewArticleBasic&#38;taxonomyName=nas&#38;articleId=9051599&#38;taxonomyId=148. www.marrowbones.com/commons/technosocial/2007/12/western_digital_cripples_file.html. 
+
+$$;
+Pros:. Looks ok...I guess.. 
+Cons:. Slow and fundamentally flawed.. 
+Summary:. Never have I had the misfortune to purchase something from a well known manufacturer that has been so utterly crap.. Two main issues:. 1. It's very very slow, both to read and write. For example, it takes about 5 minutes to copy a 60MB MP3 album to this drive. However, that pales in comparison to the next problem.... 2. You can only upload about 500MB of data to the drive before it locks itself and you can't write any more until the power is cycled. This problem seems relatively well documented, but I contacted WD Tech Support about it regardless and got teh following reply:. "We recommend you transfer data to your drive in 500MB increments to see if that resolves the problem you're having. If you transfer more than 500MB to the drive, it may fall offline and abort the data transfer.". So, they know about it and seem to think it's ok. To put this in perspective, if I wanted to completely fill my 500GB drive, I'd have to power cycle it 1000 times!!! Now that really is rubbish.. Thankfully I've been able to return the drive and replace it with a decent LaCie one.. 
+
+$$;
+Pros:. Design, easy to set up. 
+Cons:. Noisy file garburator. 
+Summary:. I usually don't complain about such cosmetic things as design, user friendliness etc. Even though I think this white gadget sometimes make a bit to much noise, I can live with noise.. I managed to get everything up and running, uploaded some files to the drive (even though it is way slower than it claims to be). With approx 200 G's of data uploaded, the problems started.. At first it occasionally disconnected from the network without any warnings, and after a few weeks it didn't even respond to hardware actions (such as pressing the power-button in an attempt to turn the machine off and restart it). Right now it seems to be stuck in some kind of limbo, it is obviously running (I can hear it, competing with my neighbours power drill about who's the noisiest), but the power indicator is not lit.. Still, it is an impressive way of disposing of 200 G's of data and years of hard work. Fortunately I have several backups of most of the data, but still, this is the worst piece of junk I have ever come across.. Where does Western Digital find such junky equipment? Afghanistan?. 
+
+$$;
+Pros:. Who cares if it doesn't back up your data.. 
+Cons:. Failure rate--2 out of 2. 
+Summary:. The unit I bought at the Apple store failed. They sent me a replacement (procedure is not too difficult) that didn't even turn on.. They sent me another shipping label, but now I am making another trip to ship the 2nd one back. Tiresome.. 
+
+$$;
+Pros:. price seems good. 
+Cons:. too slow, no response. 
+Summary:. Although this product comes with a 1Gbps network connection, the real transmitting speed is scarily low, my estimation is 3M Bytes per second at most!. The second problem is sometimes there is no response, especially large file writing.. Last but not least, the HCI only allow Anywhere software to connect. Although you can mapping it as "network folder mapping", it really a nightmare when there is no response.. Although the product comes with a excellent looking and LED indicators, plus a good price, I would not recommend this product. The bottom line is 1T or 2T writing on this 3M speed storage might drive you crazy.... 
+
+$$;
+Pros:. Good hardrive, minus all its features.. 
+Cons:. Absolutly terrible software.. 
+Summary:. The software for this Hemorage-in-a-box nearly destroyed both computers I tried it on before I decided there were cheaper ways to cause myself anguish. The hardrive itself is fine but since the true value of this product is its networking capabilities (powered by the MioNet software), it fails in comparison to cheaper externals. You want to whip out your OS recovery CD? By all means buy the external from Hell.. 
+
+$$;
+Pros:. Looks cool in the box.. 
+Cons:. Very Slow, need to install software to recognize it on network.. 
+Summary:. "Mio Net" (the software that comes bundled with the My Book) is terrible. You have to install it on every computer on your network that you want to access the Hard Drive. Western Digital then tries to market upgrades to the software for remote access and remote control of other computers on the network. It took me a while to figure out what the software was for and what I needed.. I just wanted to add this baby to the router, give it a password, and go! Is that so difficult?. I just added some photos to the MyBook and my computer locks up trying to read them from it. How am I supposed to share large amounts of data like this?. This product seems a total waste of time and based on what others have written here I will now try to get my money back.. I was very disappointed with this product.. 
+
+$$;
+Pros:. Lots of empty space since you can't load most file types. 
+Cons:. List of file types refused: http://wdc.custhelp.com/cgi-b in/wdc.cfg/php/enduser/std_adp .php?p_faqid=1495&#38;p_create d=1168641440&#38;p_sid=bLTfVJL i&#38;p_accessibility=0&#38;p_ redirect=&#38;p_lva=&#38;p_sp= cF9zcmNoPTEmcF9z. 
+Summary:. This thing is absolutely useless!! Check the lengthy list of file types that this drive will refuse to load: http://wdc.custhelp.com/cgi-bin/wdc.cfg/php/enduser/std_adp.php?p_faqid=1495&#38;p_created=1168641440&#38;p_sid=bLTfVJLi&#38;p_accessibility=0&#38;p_redirect=&#38;p_lva=&#38;p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9NSw1JnBfcHJvZHM9MCZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3NlYXJjaF90eXBlPWFuc3dlcnMuc2VhcmNoX2ZubCZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PS5hdmk*&#38;p_li=&#38;p_topview=1. Make sure you understand that many file types AAC, AIF, AIFC, AIFF, AMF, ASF, ASX, AVI, , CDA, DVI, DIVX, FAR, IT, ITZ, KAR, MDZ, MOV, MP1, MP2, MP3, MP4, MPA, MPE, MPEG, MPG, MPGA, MPV2, OGG, OKT, PTM, QT, QT1, VOB, VOC, WM, WMA, WMV plus more will not work with this drive!!. Of course they're also the largest files I have and the ones I wanted to move off my PC's HD onto network storage too!!. Booo Hisss to Western Digital for trying to decide for me which files I can or cannot share. 
+
+$$;
+Pros:. It's purty white case matches my old iPOD. 
+Cons:. Software sucks and data transfer abysmal. 
+Summary:. I bought this drive to back up a failing 1 TB Lacie - talk about dissappointment. Reads/writes are abysmally slow - I was under the impression that the additional memory was supposed to speed up things - instead it seems to be doing the opposite. I can transfer 2 music directories in less than 2 minutes from 2 USB Lacie drives. Same files from a Lacie to the MyBook takes 16 mintutes - what a joke. I very much DO NOT RECOMMEND this this drive.. 
+
+$$;
+Pros:. looks good. 
+Cons:. Software for remote use does not function. 
+Summary:. This product is sold with false claims. The mionet software seems like a first generation beta that even the customer service reps admit dosent work. I cant belive WD would use this. I have had multiple problems from installing it that could only be repaired with a system restore. If you want to use this drive remotely dont buy it. You can use it on a LAN with out mionet and it works.. 
+
+$$;
+Pros:. Looks pretty.... 
+Cons:. should be removed from the market as defective.. 
+Summary:. Bought it last night at Best Buy. Installed smoothly. Realised right away that it is slow to transfer files. These are critcal files for business purposes. Drive crashed and went "offline" and I reset it. Files disappeared. Copied files again overnight. Crashed. Reset. Files missing, disappeared. Then the Mionet software asked me to go to my email and verify my email address or it wouldnt let me use drive? Afterwich MioNet began failing again. Drive remaines "offline" whenever it feels like it. Also it runs really really HOT. Likely this will burn itself up, or burn down my house. I didn't trust it right away so I lost nothing off my C:. Deleted copies of my files on external drive. Pacakged up up in the box. Returned it in afternoon. Took 14 hours to get rid of this piece of total junk. I sould have just smashed a brick on my forehead and called it technology. Western Digital is the drive I trust with my whole business and I've never had a problem. This is a full blown disappointment. And I'm not the only one here saying this. DO NOT BUY THIS. If you see it on the street, run the other way. You will waste you time and life and never be able to get that back!!!. 
+
+$$;
+Pros:. Nice idea, done horribly wrong by WD. 
+Cons:. Subscription needed for remote access, Mionet software is hell on earth. 
+Summary:. Do yourself a favor and run away from this hard drive. I'd been contemplating buying one of these for months and when I finally got it I took it bak to Bestbuy after a few hours trying to set it up.. 1)You need a subscription to continue to access your data remotely after 1 month. This fact kills the whole idea of having a remote hard drive you can access anywhere.. 2)Mionet is one of the worst pieces of sofware ever encoded. It's so bad I hate it more than sonicstage from Sony, which should tell you something if youv'e ever used sonicstage.. 3)I could find no way to wirelessly access my data without using the internet connection, which is ridiculously slow. This should have been the first thing built into the drive.. I bought this drive primarily so I could put all my movies, homevideos, pictures, music, etc on it and wirelessly access the data in my own home. It's possible to do this, but only through a live internet connection, which defeats the purpose. I'm gonna buy the. Iomega StorCenter Wireless NAS 1TB even though the user reviews on cnet are pretty harsh.. 
+
+$$;
+Pros:. Size and concept, construction all are top notch. 
+Cons:. Slow, Slow, Slow performance, cumbersome interface. 
+Summary:. This should be a terrific piece of hardware from a 'reputable' manufacturer. It is instead patheticaly slow operating at LAN speeds no better than 1/20th of its advertised performance.. While simple use as NAS is doable, finding out how to do this is not simple at all and the interface is very minimalist and not user friendly.. The Mionet nonsense is definitely to be avoided, usesless really for anything more than small text documents. Subscription required!? Put that on the outside of the box please. I have turned of the "Anywhere Access" four times now as it seems to keep turning itself on. I don't want the extra network activity or public access to my device... EVER!!!. Seeing as the interface/controller is running Linux to manage the box, why can't we have a little more manageability? How about moving files from one folder to another require that they be moved from the box to the PC and back to the box!! Some simple file management would really help here. WD... get a grip!!. Burned by WD twice this month as my Raptor 10K rpm based RAID0 drive had a drive failure within three weeks of purchase/set-up.. Tsk! Tsk! is WD trying to become the new Fujitsu? Wait until they get this thing working before you spend your money on a paperweight! Think twice before buying a WD product as quality is taking a turn for the worse.. A day later and 43.5 minutes on the phone waiting for a second level tech support rep at Western Digital to tell me that "3 or 4 MB/sec is all you can expect from these drives, they are slow" a direct quote. That of course translates to (3 or 4 time 8) 24 Mb to 32 Mb transfer rates!! Hardly the advertised 1 Gb LAN that is all over the box. A further quote "These things run on a Linux system internaly and there is NOTHING WE CAN DO to speed them up". "I'm sorry sir but that's how it is". My system back up consisting of 450 GB of data uploaded at Gb speeds.. Now that I have to restore it, do the math, 1 GB is ~1,000,000,000 MB so 450,000,000,000 x 8 (for bytes) is 3,600,000,000,000 bytes divided by 24,000,000 or 32,000,000 is between 112,500 and 150,000 seconds or 31 and 42 HOURS!!!. That is if it doesn't choke on some of the larger files (over 2GB) like it has done already.. Avoid this drive at all costs as it is not a practical place to store and retrieve large amounts of data. Now to figure out how to get that data back... maybe Seagate data recovery services.... 
+
+$$;
+Pros:. none yes none (CNET fix your script, none should be acceptable as a choice). 
+Cons:. Mionet software / netbios required /. 
+Summary:. WD drive are usually good for the money. This product is a complete disaster. I wonder how many time WD will get sued for false advertising. There is nothing on the packaging that tells the customers a subscription is required. Furthermore letting their customers go through the MIONET nightmare install (email, name, etc. etc..) is the last straw for me. This piece of equipment is back to where it came from tomorrow morning. Buyers beware. This thing is not an IP NAS. Use it to cook your eggs at best or better just walk away from it.. CNET editor's rating is 7.5!! What a joke.... 
+
+$$;
+Pros:. lots of storage. 
+Cons:. DOG SLOW. Took 4 hours to transfer 22G. 
+Summary:. I got this because it looked like a great deal- a nas with gigabit. Well, the bad news is that it's very slow and does not live up to it's gigabit claim. It took 4 hours to back up 22G. That's unacceptable. Reading around, it seems that the transfer speed is more in the 3-5 Mps than the 1000Mps that it claims.. I am returning it tomorrow after I wipe it clean. A usb2 or firewire drive would be a better choice.. 
+
+$$;
+Pros:. looks nice. 
+Cons:. became inaccessible after a week. 
+Summary:. Unless you really, really want to access your files remotely, do not install the mionet the software. After connecting it to your router, find the drive with your browser at \\\mybookworld then map it to your computer and go from there.. Any files you put on the drive using mionet software cannot be accessed without the software.. Suddenly, after about a week, I was never again able to access the files I had loaded on, despite three phone calls to second level support.. Even after using the technique described above for bypassing the mionet software, I could never train my firewall to accept the drive and let me load new files on the drive. I'll be taking it back to the store where I bought it (Best Buy) and will lose my files in the process.. 
+

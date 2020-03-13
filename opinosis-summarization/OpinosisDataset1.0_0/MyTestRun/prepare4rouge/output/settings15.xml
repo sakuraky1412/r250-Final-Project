@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="65">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">price_holiday_inn_london.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">price_holiday_inn_london.OP_MS_F.system.html</P>
+<P ID="MULTISEN">price_holiday_inn_london.MULTISEN.system.html</P>
+<P ID="OP_MS_20">price_holiday_inn_london.OP_MS_20.system.html</P>
+<P ID="Opinosis10">price_holiday_inn_london.Opinosis10.system.html</P>
+<P ID="MyTestRun">price_holiday_inn_london.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">price_holiday_inn_london.3.gold.html</M>
+<M ID="3">price_holiday_inn_london.5.gold.html</M>
+<M ID="4">price_holiday_inn_london.2.gold.html</M>
+<M ID="5">price_holiday_inn_london.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="66">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">price_holiday_inn_london.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">price_holiday_inn_london.OP_MS_F.system.html</P>
+<P ID="MULTISEN">price_holiday_inn_london.MULTISEN.system.html</P>
+<P ID="OP_MS_20">price_holiday_inn_london.OP_MS_20.system.html</P>
+<P ID="Opinosis10">price_holiday_inn_london.Opinosis10.system.html</P>
+<P ID="MyTestRun">price_holiday_inn_london.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">price_holiday_inn_london.1.gold.html</M>
+<M ID="3">price_holiday_inn_london.5.gold.html</M>
+<M ID="4">price_holiday_inn_london.2.gold.html</M>
+<M ID="5">price_holiday_inn_london.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="67">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">price_holiday_inn_london.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">price_holiday_inn_london.OP_MS_F.system.html</P>
+<P ID="MULTISEN">price_holiday_inn_london.MULTISEN.system.html</P>
+<P ID="OP_MS_20">price_holiday_inn_london.OP_MS_20.system.html</P>
+<P ID="Opinosis10">price_holiday_inn_london.Opinosis10.system.html</P>
+<P ID="MyTestRun">price_holiday_inn_london.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">price_holiday_inn_london.1.gold.html</M>
+<M ID="2">price_holiday_inn_london.3.gold.html</M>
+<M ID="4">price_holiday_inn_london.2.gold.html</M>
+<M ID="5">price_holiday_inn_london.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="68">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">price_holiday_inn_london.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">price_holiday_inn_london.OP_MS_F.system.html</P>
+<P ID="MULTISEN">price_holiday_inn_london.MULTISEN.system.html</P>
+<P ID="OP_MS_20">price_holiday_inn_london.OP_MS_20.system.html</P>
+<P ID="Opinosis10">price_holiday_inn_london.Opinosis10.system.html</P>
+<P ID="MyTestRun">price_holiday_inn_london.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">price_holiday_inn_london.1.gold.html</M>
+<M ID="2">price_holiday_inn_london.3.gold.html</M>
+<M ID="3">price_holiday_inn_london.5.gold.html</M>
+<M ID="5">price_holiday_inn_london.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="69">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">price_holiday_inn_london.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">price_holiday_inn_london.OP_MS_F.system.html</P>
+<P ID="MULTISEN">price_holiday_inn_london.MULTISEN.system.html</P>
+<P ID="OP_MS_20">price_holiday_inn_london.OP_MS_20.system.html</P>
+<P ID="Opinosis10">price_holiday_inn_london.Opinosis10.system.html</P>
+<P ID="MyTestRun">price_holiday_inn_london.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">price_holiday_inn_london.1.gold.html</M>
+<M ID="2">price_holiday_inn_london.3.gold.html</M>
+<M ID="3">price_holiday_inn_london.5.gold.html</M>
+<M ID="4">price_holiday_inn_london.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

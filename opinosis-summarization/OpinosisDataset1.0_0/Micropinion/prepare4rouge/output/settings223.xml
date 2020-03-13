@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="858">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">sandisk-sansa-clip-2gb-sleek-black.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sandisk-sansa-clip-2gb-sleek-black.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">sandisk-sansa-clip-2gb-sleek-black.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">sandisk-sansa-clip-2gb-sleek-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sandisk-sansa-clip-2gb-sleek-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_A">sandisk-sansa-clip-2gb-sleek-black.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sandisk-sansa-clip-2gb-sleek-black.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sandisk-sansa-clip-2gb-sleek-black.4.gold.html</M>
+<M ID="3">sandisk-sansa-clip-2gb-sleek-black.0.gold.html</M>
+<M ID="4">sandisk-sansa-clip-2gb-sleek-black.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="859">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">sandisk-sansa-clip-2gb-sleek-black.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sandisk-sansa-clip-2gb-sleek-black.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">sandisk-sansa-clip-2gb-sleek-black.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">sandisk-sansa-clip-2gb-sleek-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sandisk-sansa-clip-2gb-sleek-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_A">sandisk-sansa-clip-2gb-sleek-black.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sandisk-sansa-clip-2gb-sleek-black.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sandisk-sansa-clip-2gb-sleek-black.2.gold.html</M>
+<M ID="3">sandisk-sansa-clip-2gb-sleek-black.0.gold.html</M>
+<M ID="4">sandisk-sansa-clip-2gb-sleek-black.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="860">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">sandisk-sansa-clip-2gb-sleek-black.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sandisk-sansa-clip-2gb-sleek-black.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">sandisk-sansa-clip-2gb-sleek-black.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">sandisk-sansa-clip-2gb-sleek-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sandisk-sansa-clip-2gb-sleek-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_A">sandisk-sansa-clip-2gb-sleek-black.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sandisk-sansa-clip-2gb-sleek-black.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sandisk-sansa-clip-2gb-sleek-black.2.gold.html</M>
+<M ID="2">sandisk-sansa-clip-2gb-sleek-black.4.gold.html</M>
+<M ID="4">sandisk-sansa-clip-2gb-sleek-black.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="861">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">sandisk-sansa-clip-2gb-sleek-black.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sandisk-sansa-clip-2gb-sleek-black.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">sandisk-sansa-clip-2gb-sleek-black.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">sandisk-sansa-clip-2gb-sleek-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sandisk-sansa-clip-2gb-sleek-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_A">sandisk-sansa-clip-2gb-sleek-black.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sandisk-sansa-clip-2gb-sleek-black.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sandisk-sansa-clip-2gb-sleek-black.2.gold.html</M>
+<M ID="2">sandisk-sansa-clip-2gb-sleek-black.4.gold.html</M>
+<M ID="3">sandisk-sansa-clip-2gb-sleek-black.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

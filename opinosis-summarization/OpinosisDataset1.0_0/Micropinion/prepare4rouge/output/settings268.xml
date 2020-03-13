@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1018">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-bdp-s300.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-bdp-s300.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">sony-bdp-s300.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">sony-bdp-s300.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-bdp-s300.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sony-bdp-s300.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-bdp-s300.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sony-bdp-s300.3.gold.html</M>
+<M ID="3">sony-bdp-s300.6.gold.html</M>
+<M ID="4">sony-bdp-s300.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1019">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-bdp-s300.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-bdp-s300.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">sony-bdp-s300.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">sony-bdp-s300.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-bdp-s300.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sony-bdp-s300.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-bdp-s300.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-bdp-s300.9.gold.html</M>
+<M ID="3">sony-bdp-s300.6.gold.html</M>
+<M ID="4">sony-bdp-s300.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1020">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-bdp-s300.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-bdp-s300.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">sony-bdp-s300.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">sony-bdp-s300.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-bdp-s300.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sony-bdp-s300.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-bdp-s300.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-bdp-s300.9.gold.html</M>
+<M ID="2">sony-bdp-s300.3.gold.html</M>
+<M ID="4">sony-bdp-s300.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1021">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-bdp-s300.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-bdp-s300.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">sony-bdp-s300.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">sony-bdp-s300.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-bdp-s300.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sony-bdp-s300.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-bdp-s300.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-bdp-s300.9.gold.html</M>
+<M ID="2">sony-bdp-s300.3.gold.html</M>
+<M ID="3">sony-bdp-s300.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

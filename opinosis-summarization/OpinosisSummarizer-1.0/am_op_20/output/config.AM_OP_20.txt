@@ -1,0 +1,7 @@
+-- listing properties --
+run_id=AM_OP_20
+max_summary=2
+gap=3
+redundancy=2
+scoring_function=2
+collapse=true

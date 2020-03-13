@@ -1,0 +1,931 @@
+i_LS installed_VBN the_DT drive_NN as_IN a_DT regular_JJ fileserver_NN using_VBG the_DT web_NN interface_NN -LRB-_-LRB- http_JJ \_SYM \_SYM mybookworld_NN -RRB-_-RRB- ._.
+i_LS set_VBN up_RP the_DT users_NNS and_CC shares_NNS and_CC is_VBZ done_VBN in_IN 2_CD minutes_NNS after_IN this_DT i_FW looked_VBD it_PRP up_RP in_IN vista_NN 's_POS file_NN explorer_NN and_CC connected_VBN it_PRP as_IN a_DT network_NN drive_NN using_VBG the_DT previously_RB created_VBN user_NN name_NN ._.
+no_DT drivers_NNS or_CC additional_JJ software_NN needed_VBN ._.
+runs_NNS perfect_JJ -LRB-_-LRB- 100mb_JJ in_IN 30sec_CD ._. -RRB-_-RRB-
+-LRB-_-LRB- i_LS bought_VBD this_DT drive_NN because_IN i_FW is_VBZ absolutly_RB unsatisfied_JJ with_IN my_PRP$ previous_JJ hardware_NN netgear_NN storage_NN central_JJ -RRB-_-RRB- ._.
+let_VB me_PRP assure_VB the_DT mionet_NN remote_JJ access_NN users_NNS ,_, i_FW 've_VBP been_VBN able_JJ to_TO access_NN files_NNS with_IN mionet_NN web_NN within_IN the_DT local_JJ network_NN via_IN a_DT browser_NN by_IN modifying_VBG my_PRP$ mionet_NN ceated_JJ user_NN on_IN the_DT nas_NNS server_NN with_IN administrative_JJ rights_NNS ._.
+i_LS have_VBP not_RB yet_RB tried_VBN true_JJ remote_JJ access_NN from_IN e_LS ._.
+a_DT hotel_NN or_CC work_NN location_NN ._.
+the_DT nas_NN server_NN running_VBG at_IN 192_CD ._.
+168_CD ._.
+xxx_NN is_VBZ not_RB robust_JJ in_IN a_DT true_JJ sense_NN ,_, i_FW ._.
+once_RB i_FW setup_NN mionet_NN account_NN which_WDT made_VBD modifications_NNS on_IN the_DT nas_NNS server_NN -LRB-_-LRB- new_JJ user_NN ,_, file_NN shares_NNS etc_FW -RRB-_-RRB- ,_, the_DT server_NN pages_NNS were_VBD out_IN of_IN wack_NN i_FW rebooted_VBD the_DT server_NN and_CC verything_NN is_VBZ fine_JJ ._.
+despite_IN these_DT hickups_NNS i_FW would_MD recommend_VB this_DT 1tb_JJ network_NN harddrive_NN system_NN to_TO those_DT who_WP would_MD like_VB upgrade_VB their_PRP$ home_NN networks_NNS ._.
+another_DT tidbit_NN is_VBZ that_IN only_RB a_DT dlna_NN certified_VBD blu_FW ray_FW player_NN can_MD access_VB files_NNS on_IN this_DT system_NN if_IN you_PRP like_VBP to_TO watch_VB movies_NNS off_IN off_IN the_DT harddrive_NN on_IN your_PRP$ hdtv_NN ._.
+i_LS will_MD update_VB this_DT review_NN when_WRB i_FW have_VBP a_DT chance_NN to_TO test_VB more_RBR ._.
+everything_NN works_VBZ perfectly_RB on_IN the_DT drive_NN ._.
+people_NNS complaining_VBG about_IN the_DT speed_NN should_MD look_VB at_IN their_PRP$ own_JJ network_NN configuration_NN ._.
+remember_VB on_IN a_DT 100mbps_NNS 10mbps_NNS ._.
+-LRB-_-LRB- megabytes_NNS -RRB-_-RRB- the_DT average_JJ internal_JJ sata_NNS drive_VBP gets_VBZ around_IN 60mbps_NNS ._.
+yeah_VB its_PRP$ not_RB a_DT speed_NN demon_NN if_IN your_PRP$ network_NN is_VBZ slow_JJ ._.
+but_CC can_MD handle_VB up_RP to_TO 100mbps_NNS on_IN a_DT gigabit_NN configuration_NN ._.
+mionet_NN is_VBZ a_DT little_JJ awkward_JJ but_CC works_VBZ as_IN it_PRP should_MD allowing_VBG one_CD to_TO assign_VB users_NNS to_TO the_DT drive_NN and_CC set_VBN up_RP which_WDT folders_NNS each_DT one_CD has_VBZ access_NN to_TO ._.
+other_JJ features_NNS the_DT drive_NN supports_NNS are_VBP itunes_NNS server_NN ,_, smtp_NN ,_, dhcp_NN ,_, ftp_NN ,_, https_NNS ,_, ssh_NN ._.
+and_CC more_RBR ._.
+everything_NN about_IN the_DT drive_NN is_VBZ perfect_JJ ._.
+yeah_RB initially_RB i_FW had_VBD over_IN 400gb_CD to_TO transfer_VB to_TO the_DT drive_NN and_CC it_PRP took_VBD a_DT long_JJ time_NN -LRB-_-LRB- several_JJ hours_NNS -RRB-_-RRB- ._.
+but_CC it_PRP wouldnt_NN be_VB any_DT faster_RBR on_IN any_DT other_JJ nas_NNS with_IN the_DT same_JJ 100mbps_NNS lan_JJ connection_NN ._.
+the_DT usb_NN on_IN the_DT back_JJ allows_VBZ another_DT external_JJ to_TO be_VB used_VBN and_CC it_PRP works_VBZ great_JJ ._.
+you_PRP can_MD not_RB raid_VB off_RP a_DT usb_NN -LRB-_-LRB- its_PRP$ not_RB part_NN of_IN the_DT specification_NN -RRB-_-RRB- and_CC it_PRP would_MD slow_VB the_DT drive_NN down_RB ._.
+they_PRP make_VBP a_DT raid_NN version_NN of_IN the_DT world_NN edition_NN drives_NNS if_IN you_PRP need_VBP raid_NN ._.
+most_JJS of_IN the_DT complains_VBZ i_FW read_VBN are_VBP from_IN users_NNS complete_JJ ignorance_NN and_CC lack_NN of_IN understanding_VBG on_IN how_WRB a_DT nas_NN works_VBZ ._.
+they_PRP want_VBP it_PRP to_TO be_VB their_PRP$ network_NN server_NN and_CC mow_VB the_DT lawn_NN ,_, do_VBP the_DT dishes_NNS and_CC take_VB care_NN of_IN the_DT kids_NNS ._.
+this_DT is_VBZ a_DT file_NN server_NN and_CC it_PRP serves_VBZ this_DT purpose_NN perfectly_RB ._.
+read_VB the_DT manual_NN on_IN the_DT cd_NN they_PRP supplied_VBD ._.
+its_PRP$ great_JJ ._.
+mionet_NN offers_VBZ online_JJ tutorials_NNS of_IN heir_NN software_NN ._.
+its_PRP$ so_RB easy_JJ ._.
+mines_NNS setup_NN so_IN me_PRP and_CC my_PRP$ friends_NNS can_MD swap_VB music_NN ,_, pictures_NNS ,_, iso_NN 's_POS ,_, everything_NN from_IN everywhere_RB ._.
+yes_RB you_PRP must_MD use_VB mionet_NN for_IN this_DT feature_NN but_CC its_PRP$ limitless_JJ for_IN this_DT purpose_NN ._.
+dont_NN beleave_NN the_DT bad_JJ reviews_VBZ its_PRP$ a_DT good_JJ drive_NN for_IN $_$ 160_CD its_PRP$ easily_RB worth_JJ $_$ 200_CD ._.
+very_RB simple_JJ and_CC easy_JJ to_TO setup_NN ._.
+simply_RB nothing_NN more_JJR to_TO say_VB as_IN there_EX is_VBZ simply_RB nothing_NN to_TO setting_VBG up_RP great_JJ but_CC expensive_JJ way_NN to_TO find_VB out_RP about_IN trojans_NNS viruses_NNS ._.
+nas_NNS drive_VBP does_VBZ not_RB work_VB correctly_RB if_IN malicious_JJ s/w_NN is_VBZ preventing_VBG correct_JJ installation_NN could_MD do_VB with_IN better_JJR mac_NN support_NN ._.
+my_PRP$ wife_NN 's_POS pc_NN is_VBZ a_DT mac_NN 10_CD ._.
+2_CD ,_, and_CC i_FW 'm_VBP still_RB trying_VBG to_TO figure_VB out_RP how_WRB to_TO get_VB it_PRP to_TO run_VB with_IN a_DT mac_NN ._.
+this_DT is_VBZ the_DT contrast_NN in_IN easy_JJ between_IN windows_NNS and_CC mac_NN ._.
+i_FW am_VBP very_RB happy_JJ with_IN this_DT drive_NN ._.
+i_LS also_RB have_VBP an_DT hp_NN media_NNS vault_NN -LRB-_-LRB- 2_CD x_CC 500gb_CD drives_NNS -RRB-_-RRB- ,_, and_CC i_FW use_VBP the_DT wd_NN and_CC the_DT hp_NN for_IN network_NN storage_NN and_CC as_IN a_DT music_NN centre_NN for_IN the_DT house_NN ._.
+the_DT wd_NN is_VBZ very_RB easy_JJ to_TO set_VB up_RP just_RB hooked_VBD it_PRP into_IN a_DT spare_JJ port_NN on_IN the_DT network_NN switch_NN ,_, and_CC it_PRP is_VBZ visible_JJ as_IN a_DT drive_NN on_IN the_DT network_NN almost_RB immediately_RB just_RB had_VBD to_TO tell_VB my_PRP$ laptops_NNS that_IN it_PRP is_VBZ a_DT share_NN able_JJ drive_NN ._.
+so_IN it_PRP worked_VBD first_JJ time_NN without_IN a_DT hitch_NN ._.
+i_LS do_VBP not_RB need_VB a_DT blazing_VBG fast_JJ drive_NN for_IN this_DT purpose_NN ,_, just_RB a_DT reliable_JJ one_CD ,_, and_CC wd_NN has_VBZ a_DT good_JJ rep_NN for_IN that_DT ._.
+so_RB i_FW am_VBP very_RB happy_JJ with_IN my_PRP$ purchase_NN ._.
+what_WDT i_FW read_VBN in_IN these_DT reviews_NNS is_VBZ stay_VB away_RB from_IN mionet_NN ._.
+i_LS guess_NN i_FW got_VBD lucky_JJ and_CC from_IN the_DT get_VB go_VB i_FW did_VBD not_RB want_VB to_TO install_VB mionet_NN mainly_RB because_IN i_FW had_VBD no_DT interest_NN in_IN accessing_VBG this_DT remotely_RB ._.
+lucky_JJ for_IN me_PRP it_PRP seems_VBZ setup_NN is_VBZ simply_RB ._.
+analyze_VB your_PRP$ network_NN ip_NN 's_POS and_CC locate_VB the_DT ip_NN for_IN the_DT drive_NN ._.
+in_IN my_PRP$ case_NN it_PRP is_VBZ 192_CD ._.
+168_CD ._.
+i_LS pulled_VBD this_DT ip_NN up_RB and_CC this_DT is_VBZ where_WRB you_PRP can_MD access_VB the_DT web_NN base_NN wd_NN shared_VBD storage_NN manager_NN software_NN ._.
+this_DT is_VBZ the_DT os_NN software_NN control_NN panel_NN built_VBN in_IN and_CC loaded_VBN on_IN the_DT wd_NN drive_NN ._.
+from_IN there_EX you_PRP can_MD assign_VB users_NNS and_CC shared_VBN or_CC private_JJ folders_NNS ._.
+you_PRP can_MD rename_VB the_DT drive_NN itself_PRP ._.
+after_IN you_PRP rename_VBP it_PRP then_RB from_IN your_PRP$ internet_NN browser_NN type_NN \_CD \_NN yourname_NN and_CC hit_VBD the_DT enter_VBP key_JJ and_CC it_PRP will_MD pull_VB up_RP through_IN explorer_NN your_PRP$ folders_NNS on_IN the_DT drive_NN ._.
+from_IN there_EX you_PRP can_MD map_VB it_PRP to_TO a_DT drive_NN letter_NN ._.
+then_RB you_PRP install_VBP the_DT retrospect_JJ backup_NN hd_NN software_NN to_TO backup_VB or_CC copy_VB to_TO your_PRP$ mapped_VBN drive_NN ._.
+this_DT backup_NN software_NN is_VBZ very_RB easy_JJ to_TO use_VB i_FW give_VB it_PRP a_DT 9_CD out_IN of_IN 10_CD only_RB because_IN these_DT directions_NNS should_MD be_VB published_VBN and_CC not_RB rely_VB on_IN this_DT mionet_NN software_NN which_WDT seems_VBZ to_TO be_VB junk_NN ._.
+i_LS just_RB got_VBD my_PRP$ mybookworld_NN for_IN ethernet_NN 500_CD gb_NN and_CC is_VBZ awesome_JJ ._.
+to_TO use_VB it_PRP ,_, you_PRP do_VBP not_RB have_VB to_TO install_VB the_DT software_NN which_WDT comes_VBZ with_IN the_DT item_NN ._.
+to_TO customize_VB the_DT hard_JJ disk_NN so_IN that_IN you_PRP can_MD map_VB a_DT network_NN drive_NN to_TO it_PRP ,_, you_PRP need_VBP to_TO first_JJ install_VB the_DT software_NN and_CC then_RB follow_VB the_DT instructions_NNS from_IN western_JJ digital_JJ 's_POS website_NN ._.
+search_NN for_IN mapping_VBG network_NN drive_NN in_IN their_PRP$ support_NN website_NN and_CC you_PRP should_MD be_VB able_JJ to_TO get_VB the_DT instructions_NNS ,_, or_CC go_VB to_TO the_DT following_VBG url_NN http_NN /_: /_: wdc_NN ._.
+custhelp_NN ._.
+com/cgi_NN bin/wdc_NN ._.
+cfg/php/enduser_NN /_: std_NN __NN adp_NN ._.
+php_NN ._.
+p_NN __SYM faqid_VBD 1531_CD p_NN __NN created_VBN 1176311730_CD p_NN __CD sid_NN xnd7_NN 7ci_CD p_NN __NN accessibility_NN 0_CD p_NN __SYM redirect_VB p_NN __NN lva_NN p_NN __CD sp_NN cf9zcmnoptemcf9zb3j0x2j5pszwx2dyawrzb3j0pszwx3jvd19jbnq9mtmmcf9wcm9kcz0mcf9jyxrzpszwx3b2pszwx2n2pszwx3nlyxjjaf90exblpxnlyxjjaf9mbmwmcf9wywdlptemcf9zzwfyy2hfdgv4dd1tyxa_NN p_NN __SYM li_FW p_NN __NN topview_NN 1_CD ._.
+when_WRB i_FW tried_VBD to_TO install_VB the_DT wd_NN anywhere_RB access_NN software_NN ,_, i_FW had_VBD to_TO do_VB it_PRP atleast_IN 3_CD times_NNS before_IN it_PRP showed_VBD me_PRP manage_VB mybookworld_NN option_NN under_IN file_NN ._.
+then_RB it_PRP is_VBZ fairly_RB easy_JJ to_TO map_VB the_DT drive_NN ._.
+once_RB you_PRP install_VBP the_DT software_NN and_CC register_NN ,_, you_PRP get_VBP 30_CD days_NNS free_JJ world_NN access_NN ._.
+,_, you_PRP can_MD login_VB into_IN their_PRP$ website_NN with_IN your_PRP$ registered_VBN userid_NN and_CC password_NN and_CC it_PRP allows_VBZ you_PRP full_JJ access_NN to_TO your_PRP$ home_NN network_NN ,_, your_PRP$ pc_NN -LRB-_-LRB- if_IN it_PRP is_VBZ on_IN -RRB-_-RRB- ._.
+you_PRP can_MD even_RB open_VB a_DT window_NN where_WRB you_PRP can_MD see_VB your_PRP$ home_NN pc_NN 's_POS desktop_NN ._.
+once_RB you_PRP are_VBP done_VBN ,_, you_PRP can_MD shut_VB it_PRP down_RB too_RB ._.
+my_PRP$ pc_NN is_VBZ running_VBG xp_NN professional_JJ edition_NN it_PRP even_RB lets_VBZ you_PRP piggyback_VB another_DT external_JJ usb_NN drive_NN ,_, where_WRB you_PRP can_MD see_VB this_DT other_JJ drive_NN from_IN any_DT computer_NN in_IN the_DT house_NN cool_JJ feature_NN ._.
+i_FW am_VBP very_RB happy_JJ with_IN this_DT product_NN if_IN you_PRP shop_VBP around_RB ,_, you_PRP can_MD get_VB it_PRP for_IN as_RB low_JJ as_IN $_$ 208_CD ._.
+for_IN the_DT price_NN of_IN two_CD drives_NNS and_CC a_DT very_RB capable_JJ container_NN ,_, you_PRP can_MD turn_VB these_DT wdc_NN wb_NN boxes_NNS into_IN mini_NNS servers_NNS ._.
+the_DT community_NN support_NN for_IN these_DT is_VBZ incredible_JJ people_NNS are_VBP serving_VBG up_RP files_NNS on_IN the_DT internet_NN for_IN free_JJ ,_, turning_VBG these_DT into_IN torrent_NN boxes_NNS and_CC linux_NN microservers_NNS ._.
+frankly_RB ,_, i_FW can_MD not_RB see_VB the_DT problems_NNS here_RB ,_, as_IN even_RB at_IN a_DT basic_JJ level_NN ,_, you_PRP can_MD mount_VB the_DT entire_JJ system_NN as_IN a_DT windows_NNS file_VBP share_NN and_CC just_RB use_VB it_PRP on_IN your_PRP$ network_NN as_IN a_DT huge_JJ drop_NN box_NN if_IN it_PRP had_VBD hot_JJ swap_NN ,_, usb_NN host_NN ,_, or_CC another_DT feature_NN for_IN expandability_NN ,_, i_FW 'd_MD give_VB it_PRP five_CD stars_NNS ._.
+i_FW am_VBP very_RB happy_JJ with_IN this_DT purchase_NN ,_, it_PRP is_VBZ exactly_RB what_WP i_FW needed_VBN ._.
+that_IN being_VBG said_VBD it_PRP is_VBZ very_RB slow_JJ to_TO r/w_VB and_CC i_FW wish_NN it_PRP had_VBD a_DT printer_NN port_NN ._.
+otherwise_RB its_PRP$ a_DT great_JJ way_NN to_TO complete_VB your_PRP$ home_NN or_CC small_JJ office_NN network_NN ._.
+i_LS read_VB every_DT review_NN about_IN this_DT product_NN and_CC i_FW is_VBZ really_RB scared_VBN to_TO buy_VB it_PRP ._.
+but_CC i_FW found_VBN it_PRP on_IN ebay_NN paid_VBD 90_CD $_$ for_IN it_PRP and_CC figured_VBD what_WP could_MD go_VB wrong_JJ ._.
+i_LS got_VBD it_PRP and_CC i_FW love_VBP it_PRP ._.
+it_PRP works_VBZ perfectly_RB but_CC most_JJS of_IN all_DT rtfm_NN read_VBD the_DT friendly_JJ instructions_NNS i_FW had_VBD no_DT problems_NNS setting_VBG it_PRP up_RP is_VBZ very_RB quick_JJ and_CC easy_JJ as_IN for_IN transfer_NN speed_NN what_WP do_VBP i_FW care_NN this_DT is_VBZ a_DT back_RB up_RB drive_VB you_PRP set_VB it_PRP to_TO back_VB up_RP at_IN night_NN ._.
+i_LS have_VBP put_VBN over_RP 170_CD gig_NN of_IN data_NNS and_CC it_PRP took_VBD one_CD night_NN to_TO do_VB it_PRP ._.
+so_RB what_WP ._.
+i_LS have_VBP an_DT internal_JJ c_NN and_CC d_NN -LRB-_-LRB- partitioned_VBN d_NN ._.
+f_LS -RRB-_-RRB- which_WDT are_VBP my_PRP$ speed_NN drives_NNS i_FW love_VBP the_DT remote_JJ access_NN yes_RB this_DT is_VBZ a_DT bit_NN cumbersome_JJ but_CC it_PRP does_VBZ work_VB and_CC as_IN for_IN the_DT subcription_NN it_PRP 's_VBZ free_JJ for_IN life_NN ._.
+i_LS have_VBP already_RB used_VBN the_DT drive_NN with_IN one_CD of_IN my_PRP$ customers_NNS as_IN a_DT ftp_NN site_NN where_WRB i_FW put_VBD a_DT large_JJ video_NN and_CC let_VB him_PRP have_VB access_NN to_TO download_VB it_PRP ._.
+what_WP a_DT dream_NN worked_VBD perfectly_RB so_RB if_IN you_PRP understand_VBP that_IN this_DT is_VBZ a_DT back_RB up_RB drive_VB and_CC use_VB it_PRP that_DT way_NN ._.
+i_FW am_VBP thinking_VBG that_IN you_PRP will_MD be_VB very_RB very_RB pleased_JJ ._.
+i_LS know_VB i_FW am_VBP also_RB ,_, it_PRP is_VBZ quiet_JJ ,_, nice_JJ to_TO look_VB at_IN and_CC i_FW have_VBP never_RB seen_VBN it_PRP get_VB hot_JJ just_RB warm_JJ ._.
+i_LS wish_NN i_FW 'd_MD read_VB all_PDT the_DT reviews_NNS before_IN i_FW set_VBN up_RP the_DT mybook_NN ._.
+i_FW 've_VBP had_VBD the_DT 1tb_JJ drive_NN in_IN a_DT box_NN for_IN well_RB over_IN a_DT year_NN ,_, and_CC never_RB set_VBD it_PRP up_RP because_IN the_DT mionet_NN software_NN looked_VBD overly_RB complicated_VBN ,_, and_CC looked_VBD like_IN it_PRP is_VBZ trying_VBG to_TO push_VB more_JJR features_NNS than_IN i_FW wanted_VBD ._.
+i_LS have_VBP a_DT mixed_JJ network_NN of_IN static_JJ and_CC dhcp_JJ addresses_NNS and_CC finding_VBG the_DT mybook_NN never_RB seemed_VBD easy_JJ ._.
+i_LS finally_RB just_RB plugged_VBD it_PRP and_CC a_DT pc_NN into_IN a_DT small_JJ hub_NN ,_, ran_VBD an_DT ethernet_NN packet_NN capture_NN utility_NN and_CC found_VBD the_DT default_NN ip_NN address_NN ._.
+if_IN only_RB the_DT documentation_NN had_VBD given_VBN me_PRP that_IN address_NN i_FW 'd_MD have_VB been_VBN using_VBG the_DT drive_NN a_DT year_NN ago_IN address_NN in_IN hand_NN ,_, i_FW used_VBN my_PRP$ browser_NN to_TO configure_VB a_DT static_JJ ip_NN address_NN ,_, created_VBD a_DT set_NN of_IN user_NN id_NN 's_POS and_CC several_JJ directories_NNS off_IN the_DT root_NN ._.
+rebooted_VBD the_DT drive_NN on_IN the_DT network_NN ,_, and_CC have_VBP had_VBN no_DT trouble_NN connecting_VBG to_TO it_PRP by_IN ip_NN address_NN from_IN vista_NN ,_, windows_NNS 7_CD and_CC xp_NN -LRB-_-LRB- all_DT running_VBG within_IN my_PRP$ home_NN network_NN -RRB-_-RRB- based_VBN on_IN the_DT other_JJ reviews_NNS i_FW 've_VBP read_VBN ,_, i_FW 'm_VBP still_RB a_DT little_JJ concerned_JJ about_IN having_VBG this_DT as_IN my_PRP$ only_JJ copy_NN of_IN files_NNS -LRB-_-LRB- there_EX seems_VBZ to_TO be_VB no_DT way_NN to_TO recover_VB if_IN the_DT drive_NN fails_VBZ ,_, but_CC there_EX should_MD always_RB be_VB a_DT backup_NN anyway_RB -RRB-_-RRB- i_FW am_VBP not_RB using_VBG the_DT mybook_NN for_IN multimedia_NNS file_VBP storage_NN ,_, and_CC i_FW have_VBP it_PRP plugged_VBD into_IN a_DT midlevel_JJ ethernet_NN switch_NN ,_, so_IN the_DT performance_NN issues_NNS other_JJ people_NNS have_VBP mentioned_VBN do_VBP not_RB seem_VB to_TO be_VB a_DT problem_NN for_IN me_PRP i_FW did_VBD install_VB the_DT mionet_NN software_NN after_IN i_FW had_VBD the_DT drive_NN up_RB and_CC running_VBG ,_, and_CC it_PRP appears_VBZ to_TO be_VB just_RB as_RB bad_JJ as_IN all_PDT the_DT reviews_NNS say_VBP it_PRP is_VBZ ._.
+now_RB i_FW have_VBP to_TO uninstall_VB it_PRP from_IN three_CD computers_NNS ._.
+lost_VBN connection_NN frequently_RB when_WRB i_FW used_VBN it_PRP between_IN my_PRP$ home_NN and_CC office_NN ,_, made_VBD accessing_VBG the_DT drive_NN much_RB more_RBR complicated_JJ than_IN it_PRP needed_VBD to_TO be_VB ._.
+i_LS bought_VBD this_DT drive_NN because_IN my_PRP$ needs_NNS were_VBD simple_JJ i_FW just_RB wanted_VBD a_DT way_NN to_TO share_VB files_NNS without_IN needing_VBG a_DT computer_NN running_VBG 24/7_CD ._.
+i_LS was_VBD not_RB interested_JJ in_IN a_DT full_JJ media_NNS server_NN i_FW would_MD ask_VB it_PRP to_TO stream_NN an_DT mp3_NN now_RB and_CC again_RB ,_, but_CC that_DT is_VBZ it_PRP to_TO that_DT end_NN ,_, the_DT box_NN did_VBD fine_NN ._.
+once_RB i_FW created_VBD the_DT basic_JJ share_NN ,_, i_FW did_VBD not_RB have_VB to_TO mess_NN with_IN the_DT box_NN ever_RB again_RB i_FW did_VBD not_RB install_VB the_DT mionet_NN software_NN because_IN i_FW saw_VBD many_JJ online_JJ warnings_NNS against_IN it_PRP and_CC i_FW did_VBD n't_RB need_VB access_NN my_PRP$ data_NNS via_IN an_DT external_JJ internet_NN connection_NN ._.
+i_LS also_RB did_VBD not_RB run_VB into_IN any_DT lock_NN up_RP problems_NNS as_IN i_FW have_VBP seen_VBN others_NNS discuss_VBP ._.
+i_LS did_VBD store_VB some_DT large_JJ -LRB-_-LRB- 3gb_JJ -RRB-_-RRB- files_NNS and_CC never_RB experienced_VBD a_DT lockup_NN the_DT transfer_NN rate_NN is_VBZ pretty_RB slow_JJ ._.
+i_LS accumulated_VBN about_IN 500gb_NN of_IN data_NNS ._.
+i_LS 'm_VBP now_RB migrating_VBG to_TO a_DT new_JJ file_NN server_NN ._.
+copying_VBG the_DT full_JJ 500gb_NN will_MD take_VB approximately_RB 30_CD +_CC hours_NNS ._.
+i_LS timed_VBD a_DT portion_NN of_IN the_DT copy_NN ,_, and_CC the_DT transfer_NN speed_NN is_VBZ approximately_RB 36_CD megabits/second_NN ._.
+that_DT 's_VBZ about_IN 1/20_CD of_IN what_WP is_VBZ theoretically_RB possible_JJ -LRB-_-LRB- parallel_JJ ata_NN 6_CD @_SYM 800_CD megabits/second_NN ;_: see_VB wikipedia_NN -RRB-_-RRB- ._.
+granted_VBN ,_, the_DT price_NN for_IN this_DT box_NN does_VBZ not_RB scream_VB top_JJ end_NN ,_, but_CC 1/20_CD is_VBZ hard_JJ to_TO argue_VB as_IN a_DT reasonable_JJ transfer_NN speed_NN even_RB for_IN budget_NN components_NNS ._.
+that_DT said_VBD ,_, the_DT speed_NN should_MD be_VB enough_JJ to_TO handle_VB light_JJ to_TO moderate_JJ data_NNS access_NN by_IN a_DT small_JJ number_NN of_IN people_NNS like_IN you_PRP would_MD typically_RB find_VB in_IN a_DT home_NN now_RB ,_, for_IN those_DT reviewers_NNS claiming_VBG that_IN the_DT box_NN should_MD transfer_VB at_IN 1000_CD megabits/second_NN because_IN the_DT packaging_NN says_VBZ 10/100/1000_CD ,_, you_PRP 're_VBP stretching_VBG ._.
+nowhere_RB does_VBZ the_DT packaging_NN say_VBP the_DT drive_NN will_MD transfer_VB at_IN maximum_NN listed_VBN speed_NN ._.
+what_WDT that_WDT 10/100/1000_CD designation_NN means_VBZ is_VBZ that_IN you_PRP can_MD plug_VB the_DT box_NN into_IN a_DT gigabit_JJ network_NN ._.
+and_CC by_IN plugging_VBG it_PRP in_IN ,_, your_PRP$ network_NN wo_MD n't_RB get_VB throttled_VBN down_RP to_TO 100_CD megabit_CD and/or_CC the_DT box_NN will_MD be_VB able_JJ to_TO handle_VB the_DT networking_NN overhead_NN with_IN other_JJ gigabit_NN devices_NNS at_IN speed_NN not_RB sustain_VB payload_NN data_NNS transfer_NN at_IN gigabit_NN speeds_NNS the_DT box_NN also_RB turns_VBZ on_IN automatically_RB when_WRB a_DT power_NN source_NN is_VBZ connected_VBN ._.
+this_DT would_MD n't_RB be_VB a_DT big_JJ problem_NN if_IN the_DT documentation_NN did_VBD not_RB state_NN that_WDT power_NN should_MD not_RB be_VB cut_VBN while_IN the_DT box_NN powers_NNS up_RB ._.
+the_DT power_NN up_RP is_VBZ a_DT bit_NN slow_JJ ._.
+so_RB ,_, if_IN your_PRP$ mybook_NN is_VBZ plugged_VBN into_IN a_DT power_NN strip_NN ,_, and_CC you_PRP 're_VBP moving_VBG equipment_NN around_IN ,_, you_PRP may_MD find_VB yourself_PRP waiting_VBG for_IN the_DT box_NN to_TO finish_VB powering_VBG up_RP more_JJR than_IN once_RB as_IN you_PRP rearrange_VB your_PRP$ stuff_NN in_IN a_DT new_JJ location_NN ._.
+i_FW 've_VBP seen_VBN pictures_NNS that_WDT show_VBP an_DT external_JJ power_NN switch_NN ._.
+so_RB ,_, western_JJ digital_JJ may_MD have_VB added_VBN a_DT switch_NN to_TO later_RB revisions_NNS or_CC possibly_RB the_DT world_NN edition_NN ii_LS in_IN all_DT ,_, if_IN your_PRP$ needs_NNS are_VBP simple_JJ ,_, this_DT box_NN will_MD handle_VB it_PRP ._.
+if_IN you_PRP want_VBP high_JJ end_NN performance_NN ,_, then_RB this_DT is_VBZ not_RB for_IN you_PRP ._.
+it_PRP 's_VBZ shortcomings_NNS will_MD cause_VB aggravation_NN at_IN times_NNS moving_VBG equipment_NN around_IN and_CC migrating_VBG to_TO another_DT storage_NN solution_NN ._.
+but_CC until_IN those_DT times_NNS ,_, it_PRP should_MD do_VB its_PRP$ job_NN quietly_RB and_CC with_IN little_JJ complaint_NN ._.
+after_IN battling_VBG for_IN 8_CD hours_NNS to_TO try_VB and_CC set_VB this_DT up_RP with_IN the_DT bundled_VBN mionet_NN software_NN as_IN a_DT shared_JJ file_NN server_NN for_IN an_DT xp_NN and_CC vista_NN pc_NN ,_, i_FW is_VBZ ready_JJ to_TO pack_VB it_PRP up_RB and_CC take_VB it_PRP back_RB ._.
+but_CC then_RB i_FW located_JJ on_IN the_DT support_NN website_NN how_WRB to_TO set_VB it_PRP up_RP without_IN the_DT mionet_NN software_NN ._.
+go_VB to_TO the_DT western_JJ digital_JJ support_NN knowledge_NN base_NN and_CC search_NN for_IN can_MD a_DT wd_NN my_PRP$ book_NN world_NN edition_NN hard_JJ drive_NN be_VB used_VBN without_IN using_VBG wd_NN anywhere_RB access_NN ._.
+make_VB sure_JJ you_PRP remove_VB any_DT files_NNS copied_VBD to_TO the_DT mybook_NN before_IN starting_VBG this_DT ._.
+worked_VBD well_RB afterwards_RB and_CC you_PRP can_MD completely_RB uninstall_VB their_PRP$ software_NN -LRB-_-LRB- you_PRP can_MD still_RB get_VB to_TO the_DT disk_NN web_NN interface_NN through_IN any_DT web_NN browser_NN -RRB-_-RRB- ._.
+also_RB forget_VB their_PRP$ bundled_VBN backup_NN software_NN ._.
+free_JJ syncback_NN does_VBZ the_DT trick_NN fine_NN ._.
+i_FW 've_VBP seen_VBN lots_NNS of_IN bad_JJ reviews_NNS here_RB ,_, and_CC i_FW do_VBP n't_RB quite_RB agree_VB ._.
+i_LS bought_VBD this_DT network_NN hd_NN because_IN i_FW needed_VBD a_DT lot_NN of_IN disk_NN space_NN for_IN my_PRP$ backups_NNS and_CC to_TO store_VB music_NN and_CC films_NNS that_WDT would_MD be_VB available_JJ through_IN my_PRP$ home_NN network_NN ._.
+this_DT net_JJ disk_NN solved_VBD all_DT my_PRP$ problems_NNS ._.
+with_IN 1tb_JJ ,_, i_FW can_MD store_VB all_DT i_FW have_VBP and_CC have_VBP not_RB used_VBN even_RB half_PDT the_DT space_NN ._.
+installation_NN on_IN lan_NN is_VBZ a_DT breeze_NN ,_, you_PRP just_RB plug_VBP it_PRP and_CC make_VB a_DT few_JJ simple_JJ changes_NNS to_TO the_DT web_NN like_IN interface_NN ._.
+and_CC you_PRP are_VBP up_RB and_CC running_VBG ._.
+the_DT drive_NN is_VBZ instantly_RB recognized_VBN by_IN xp_NN and_CC vista_NN computers_NNS alike_RB ._.
+the_DT only_RB not_RB so_RB good_JJ thing_NN is_VBZ that_IN ,_, despite_IN being_VBG connected_VBN at_IN gigabit_JJ speed_NN ,_, data_NNS transfer_NN is_VBZ considerably_RB slower_JJR compared_VBN to_TO tranfers_NNS between_IN two_CD gigabit_NN computers_NNS ._.
+having_VBG said_VBD that_IN ,_, the_DT data_NNS transfer_NN speed_NN is_VBZ more_JJR than_IN enough_RB for_IN me_PRP to_TO listen_VB to_TO music_NN or_CC watch_VB films_NNS stored_VBN on_IN the_DT unit_NN ,_, using_VBG an_DT old_JJ notebook_NN ._.
+note_NN that_IN i_FW 'm_VBP not_RB using_VBG the_DT remote_JJ access_NN software_NN ._.
+as_IN i_FW already_RB had_VBD synology_NN nas_NNS ,_, lack_NN of_IN functionality_NN does_VBZ not_RB major_JJ issue_NN to_TO me_PRP ,_, but_CC found_VBD a_DT stupid_JJ limitation_NN very_RB soon_RB ,_, while_IN i_FW am_VBP moving_VBG data_NNS on_IN it_PRP you_PRP can_MD not_RB create_VB any_DT folder_NN with_IN name_NN internal_JJ ._.
+first_RB of_IN all_DT ,_, please_VB ,_, please_VB dont_JJ compare_VB it_PRP to_TO other_JJ high_JJ end_NN network_NN drives_NNS ,_, but_CC this_DT is_VBZ a_DT low_JJ end_NN one_CD according_VBG to_TO its_PRP$ relative_JJ low_JJ price_NN it_PRP is_VBZ slow_JJ ._.
+if_IN you_PRP are_VBP going_VBG to_TO stream_NN music_NN ,_, ok_NN ._.
+vga_NN video_NN ,_, ok_NN ._.
+dvd_NN ,_, slightly_RB lag_NN ._.
+hd_NN video_NN ,_, no_DT good_JJ ._.
+if_IN you_PRP are_VBP going_VBG to_TO just_RB backup_VB files_NNS and_CC no_DT hurry_NN ,_, it_PRP is_VBZ not_RB bad_JJ ._.
+remember_VB ,_, higher_JJR speed_NN ,_, higher_JJR price_NN it_PRP lack_VBP of_IN usb_NN connection_NN ._.
+-LRB-_-LRB- the_DT usb_NN plug_NN is_VBZ for_IN external_JJ drive_NN only_RB -RRB-_-RRB- so_RB ,_, you_PRP are_VBP not_RB going_VBG to_TO get_VB the_DT data_NNS when_WRB your_PRP$ network_NN is_VBZ down_RB ._.
+i_LS think_VB this_DT is_VBZ the_DT major_JJ weakness_NN of_IN this_DT product_NN and_CC ,_, dont_JJ expect_VBP for_IN the_DT included_VBN softwares_NNS ._.
+it_PRP sucks_VBZ ._.
+unless_IN you_PRP know_VBP nothing_NN about_IN computers_NNS ,_, i_FW really_RB dont_JJ recommend_VB anyone_NN use_VB these_DT softwares_NNS ,_, no_DT use_NN at_IN all_DT finally_RB ,_, it_PRP is_VBZ lunix_JJ base_NN ,_, you_PRP could_MD expand_VB it_PRP functions_VBZ if_IN you_PRP know_VBP lunix_NN -LRB-_-LRB- but_CC i_FW dont_FW ._. -RRB-_-RRB-
+if_IN you_PRP want_VBP a_DT powerful_JJ server_NN ,_, sorry_JJ ,_, not_RB this_DT one_CD if_IN you_PRP want_VBP a_DT cheap_JJ way_NN to_TO only_RB backup_VB ,_, get_VB this_DT ._.
+i_FW ve_FW been_VBN using_VBG the_DT network_NN drive_NN for_IN a_DT week_NN now_RB ,_, and_CC i_FW think_VBP is_VBZ one_CD of_IN the_DT best_JJS purchases_NNS i_FW could_MD have_VB made_VBN ._.
+even_RB though_IN there_EX is_VBZ no_DT mac_NN software_NN availble_NN ._.
+,_, i_FW is_VBZ able_JJ to_TO archive_NN my_PRP$ files_NNS easily_RB ._.
+simple_JJ drag_NN and_CC drop_NN with_IN no_DT installations_NNS ._.
+my_PRP$ laptop_NN just_RB sow_VB the_DT hd_NN and_CC i_FW is_VBZ able_JJ to_TO move_VB files_NNS in_IN a_DT matter_NN of_IN minutes_NNS how_WRB about_IN some_DT mac_NN drivers_NNS as_RB well_RB ._.
+buy_VB the_DT 1_CD terabyte_NN version_NN at_IN best_JJS buy_VB for_IN $_$ 320_CD ._.
+00_CD data_NNS transfer_NN rate_NN via_IN ethernet_NN is_VBZ ok_JJ ,_, you_PRP can_MD watch_VB video_NN or_CC listen_VB to_TO music_NN ._.
+you_PRP can_MD not_RB transfer_VB big_JJ files_NNS and_CC access_NN -LRB-_-LRB- play_NN -RRB-_-RRB- video/music_NN at_IN the_DT same_JJ time_NN ._.
+i_LS have_VBP 600_CD gb_NN on_IN mybook_NN right_RB now_RB the_DT 1_CD tb_NN mybook_NN has_VBZ a_DT very_RB noisy_JJ cooling_NN fan_NN ,_, which_WDT runs_VBZ at_IN room_NN temperatures_NNS of_IN +75_CD degf_NN ._.
+i_LS bought_VBD a_DT $_$ 19_CD ._.
+00_CD targus_NN `_`` chill_NN mat_NN '_'' -LRB-_-LRB- 2_CD quiet_JJ cooling_NN fans_NNS -RRB-_-RRB- for_IN notebooks_NNS ,_, placed_VBN mybook_NN on_IN it_PRP and_CC the_DT mybook_NN cooling_NN fan_NN stays_VBZ off_RP ._.
+can_MD not_RB hear_VB the_DT `_`` chill_NN mat_NN '_'' fans_NNS at_IN all_DT use_NN of_IN standard_JJ western_JJ digital_JJ sata_NN 500_CD gb_NN drives_NNS for_IN replacement_NN would_MD be_VB handier_JJR ._.
+overall_JJ i_FW think_VBP the_DT product_NN is_VBZ pretty_RB good_JJ ,_, would_MD rank_VB it_PRP in_IN the_DT category_NN of_IN i_FW do_VBP n't_RB feel_VB like_IN i_FW got_VBD burned_VBN and_CC once_RB i_FW figured_VBD out_RP that_IN mionet_NN is_VBZ my_PRP$ problem_NN i_FW have_VBP been_VBN pretty_RB happy_JJ ._.
+my_PRP$ initial_JJ feeling_NN of_IN the_DT product_NN is_VBZ strongly_RB tainted_VBN by_IN the_DT mionet_NN software_NN ._.
+would_MD have_VB preferred_VBN they_PRP include_VBP a_DT basic_JJ piece_NN of_IN backup_NN software_NN and_CC left_VBD it_PRP at_IN that_DT instead_RB of_IN that_DT piece_NN of_IN please_VB buy_VB me_PRP software_NN ._.
+they_PRP push_VBP the_DT software_NN and_CC all_PDT those_DT lovely_JJ things_NNS you_PRP get_VBP with_IN the_DT drive_NN ,_, it_PRP 's_VBZ not_RB free_JJ ,_, you_PRP do_VBP n't_RB inherently_RB get_VB the_DT world_NN part_NN unless_IN you_PRP pay_VBP extra_JJ for_IN the_DT software_NN ._.
+unfortunately_RB for_IN them_PRP the_DT basic_JJ version_NN that_WDT 's_VBZ free_JJ gives_VBZ you_PRP very_RB little_JJ and_CC funcitons_NNS so_RB bad_JJ i_FW do_VBP not_RB even_RB want_VB it_PRP on_IN my_PRP$ system_NN much_RB less_RBR paying_VBG for_IN the_DT privelege_NN of_IN more_JJR of_IN it_PRP ._.
+using_VBG mionet_NN to_TO copy_VB 100_CD mp3_CD files_NNS it_PRP took_VBD over_RP an_DT hour_NN ,_, using_VBG a_DT direct_JJ mounted_VBN network_NN drive_NN it_PRP took_VBD 6_CD minutes_NNS ._.
+if_IN you_PRP go_VBP for_IN this_DT product_NN i_FW recommend_VB just_RB not_RB even_RB installing_VBG the_DT software_NN ,_, it_PRP 's_VBZ not_RB worth_JJ the_DT time_NN to_TO see_VB what_WP it_PRP 's_VBZ like_IN ._.
+just_RB be_VB aware_JJ that_IN outside_NN of_IN the_DT software_NN it_PRP 's_VBZ really_RB just_RB a_DT standard_JJ nas_NN mount_VBP a_DT network_NN drive_NN and_CC roll_NN ._.
+it_PRP is_VBZ easy_JJ to_TO setup_NN and_CC get_VB rolling_VBG on_IN my_PRP$ network_NN and_CC has_VBZ worked_VBN fine_JJ since_IN ._.
+i_LS generally_RB like_IN the_DT drive_NN ,_, but_CC having_VBG to_TO install_VB software_NN drains_VBZ significant_JJ cycles_NNS from_IN my_PRP$ machine_NN ,_, and_CC complicates_VBZ what_WP should_MD be_VB a_DT simple_JJ share_NN ._.
+if_IN i_FW had_VBD it_PRP to_TO do_VB over_RP again_RB ,_, i_FW would_MD look_VB for_IN an_DT alternative_JJ solution_NN because_IN of_IN the_DT software_NN ._.
+applesque_NN design_NN ,_, fits_VBZ in_IN nicely_RB with_IN the_DT rest_NN of_IN the_DT apple_NN gear_NN in_IN my_PRP$ room_NN ,_, blue_JJ led_VBD complements_VBZ the_DT light_NN from_IN the_DT jellyphish_JJ lamp_NN -LRB-_-LRB- lol_NN -RRB-_-RRB- ._.
+but_CC use_VBP static_JJ ip_NN address_NN ._.
+the_DT good_JJ news_NN is_VBZ that_IN the_DT access_NN anywhere_RB s/w_RB is_VBZ not_RB needed_VBN to_TO run_VB the_DT nas_NNS ,_, just_RB use_VB the_DT web_NN front_NN end_NN ._.
+does_VBZ the_DT trick_NN ._.
+if_IN you_PRP really_RB need_VBP to_TO make_VB your_PRP$ files_NNS available_JJ on_IN the_DT internet_NN use_VBP an_DT ftp_NN server_NN on_IN your_PRP$ home_NN pc_NN and_CC activate_VBP port_NN forwarding_NN on_IN your_PRP$ router_NN ._.
+the_DT my_PRP$ book_NN world_NN edition_NN nas_NN 500_CD gb_NN version_NN is_VBZ very_RB easy_JJ to_TO get_VB running_VBG ._.
+the_DT problem_NN i_FW had_VBD is_VBZ with_IN the_DT software_NN the_DT they_PRP want_VBP you_PRP to_TO install_VB for_IN accessing_VBG it_PRP ._.
+they_PRP call_VBP it_PRP wd_NN anywhere_RB access_NN and_CC it_PRP is_VBZ powered_VBN by_IN mionet_NN ._.
+this_DT software_NN gives_VBZ you_PRP the_DT ability_NN to_TO access_NN it_PRP from_IN the_DT internet_NN or_CC within_IN your_PRP$ own_JJ network_NN ._.
+this_DT software_NN is_VBZ overkill_NN i_FW just_RB wanted_VBD something_NN i_FW could_MD call_VB '_'' f_FW drive_NN '_'' and_CC copy_VB my_PRP$ backups_NNS to_TO ._.
+instead_RB this_DT software_NN made_VBD every_DT drive_NN on_IN my_PRP$ pc_NN available_JJ to_TO my_PRP$ laptop_NN and_CC vice_NN versa_RB not_RB what_WP i_FW want_VBP at_IN all_DT my_PRP$ pc_NN is_VBZ running_VBG xp_NN home_NN edition_NN ._.
+using_VBG the_DT wd_NN anywhere_RB access_NN software_NN i_FW had_VBD some_DT connection_NN issues_NNS ._.
+i_LS would_MD boot_NN up_RB and_CC the_DT network_NN drive_NN would_MD be_VB available_JJ ._.
+if_IN i_FW opened_VBD the_DT wd_NN anywhere_RB manager_NN tool_NN ,_, it_PRP would_MD tell_VB me_PRP the_DT nas_NN is_VBZ not_RB available_JJ ._.
+my_PRP$ laptop_NN is_VBZ running_VBG xp_NN pro_NN and_CC i_FW did_VBD not_RB have_VB any_DT of_IN these_DT issues_NNS before_IN boxing_NN it_PRP back_RB up_RB and_CC returning_VBG it_PRP ,_, i_FW checked_VBD out_RP western_JJ digitals_NNS help_VBP site_NN ._.
+i_LS finally_RB found_VBN a_DT knowledge_NN base_NN entry_NN that_WDT gave_VBD step_NN by_IN step_NN details_NNS on_IN creating_VBG a_DT mapped_VBN drive_NN without_IN using_VBG the_DT wd_NN anywhere_RB access_NN and_CC i_FW am_VBP now_RB happy_JJ ._.
+i_LS have_VBP 2_CD computers_NNS on_IN my_PRP$ network_NN and_CC the_DT one_CD with_IN vista_NN works_VBZ great_JJ with_IN the_DT s/w_NN but_CC the_DT other_JJ with_IN xp_NN causes_VBZ a_DT problem_NN using_VBG the_DT hp_NN c7280_NN printer_NN ,_, infact_NN i_FW cant_FW do_VBP anything_NN with_IN the_DT printer_NN on_IN this_DT computer_NN ._.
+i_LS un_NN install_VB the_DT s/w_NN and_CC printer_NN works_VBZ great_JJ ._.
+contacted_VBN their_PRP$ support_NN and_CC no_DT luck_NN ,_, never_RB heard_VBN of_IN this_DT problem_NN or_CC how_WRB to_TO fix_VB it_PRP ,_, they_PRP even_RB blamed_VBD it_PRP on_IN hp_NN and_CC hp_NN blamed_VBD it_PRP on_IN them_PRP then_RB wd_VBD blamed_VBN it_PRP on_IN my_PRP$ router_NN which_WDT has_VBZ came_VBD back_RB around_IN to_TO wd_VB support_NN again_RB ._.
+still_RB waiting_VBG for_IN word_NN back_RB from_IN wd_NN ._.
+any_DT other_JJ help_NN would_MD be_VB great_JJ ._.
+picked_VBN this_DT box_NN -LRB-_-LRB- 1tb_JJ version_NN -RRB-_-RRB- up_RP at_IN costco_NN for_IN $_$ 349_CD which_WDT seems_VBZ like_IN a_DT good_JJ value_NN ._.
+it_PRP is_VBZ very_RB easy_JJ to_TO hook_NN up_RP ,_, 5_CD mins_NNS ._.
+unfortunately_RB ,_, once_RB you_PRP start_VBP accessing_VBG the_DT drive_NN the_DT first_JJ thing_NN you_PRP notice_VBP is_VBZ how_WRB excruciatingly_RB slow_VB it_PRP is_VBZ ._.
+i_LS did_VBD not_RB read_VB the_DT cnet_NN review_NN first_RB -LRB-_-LRB- that_IN 'll_MD teach_VB me_PRP -RRB-_-RRB- but_CC the_DT review_NN is_VBZ spot_NN on_IN ,_, it_PRP acutally_RB takes_VBZ over_RP a_DT half_JJ hour_NN to_TO transfer_VB 5_CD gig_NN that_WDT 's_VBZ just_RB wrong_JJ ._.
+oh_UH and_CC if_IN you_PRP want_VBP to_TO access_NN mp3_NN files_NNS remotely_RB you_PRP 're_VBP out_IN of_IN luck_NN too_RB the_DT list_NN of_IN incompatible_JJ files_NNS for_IN remote_JJ access_NN is_VBZ looooong_VBG the_DT hp_NN media_NNS vault_NN looks_VBZ like_IN a_DT better_JJR choice_NN ._.
+the_DT only_JJ way_NN to_TO work_NN is_VBZ to_TO map_VB mybook_NN as_IN a_DT network_NN drive_NN ._.
+i_LS worked_VBD with_IN mionet_NN support_NN team_NN for_IN days_NNS ._.
+e_SYM mails_NNS and_CC phone_NN calls_NNS ._.
+they_PRP were_VBD very_RB responsive_JJ but_CC they_PRP could_MD n't_RB help_VB me_PRP at_IN all_DT ._.
+the_DT mionet_NN software_NN turned_VBD offine_NN and_CC that_DT is_VBZ it_PRP ._.
+it_PRP is_VBZ a_DT torture_VBP ._.
+i_LS spent_VBD hours_NNS on_IN hours_NNS on_IN this_DT ._.
+in_IN the_DT end_NN ,_, mionet_NN support_NN helped_VBD me_PRP do_VB a_DT direct_JJ mapping_NN and_CC that_DT 's_VBZ how_WRB it_PRP works_VBZ for_IN me_PRP even_RB when_WRB the_DT connection_NN is_VBZ active_JJ via_IN mionet_NN it_PRP disconnected_VBD every_DT few_JJ minutes_NNS files_VBZ that_IN you_PRP copied_VBD via_IN mionet_NN are_VBP readonly_RB when_WRB you_PRP access_NN through_IN direct_JJ mapping_NN i_FW do_VBP n't_RB understand_VB how_WRB a_DT respectable_JJ company_NN such_JJ as_IN western_JJ digital_JJ put_VBD their_PRP$ faith_NN on_IN this_DT lousy_JJ software_NN ._.
+if_IN you_PRP just_RB put_VBD the_DT cd_NN in_IN and_CC click_VB `_`` next_JJ next_JJ '_'' you_PRP end_VBP up_RP with_IN something_NN that_WDT does_VBZ not_RB work_VB ._.
+or_CC works_VBZ for_IN one_CD day_NN ._.
+and_CC disconnects_VBZ i_FW have_VBP never_RB seen_VBN something_NN like_IN that_DT in_IN my_PRP$ whole_JJ life_NN i_FW also_RB can_MD not_RB understand_VB cnet_NN review_NN which_WDT praises_VBZ the_DT mionet_NN software_NN -LRB-_-LRB- wd_NN anywhere_RB access_NN -RRB-_-RRB- ._.
+you_PRP should_MD work_VB with_IN more_JJR than_IN three_CD minutes_NNS ._.
+i_LS will_MD not_RB believe_VB your_PRP$ reviews_NNS anymore_RB ._.
+i_LS bought_VBD this_DT drive_NN to_TO share_VB pictures_NNS over_IN the_DT internet_NN and_CC access_NN documents_NNS ._.
+mionet_NN software_NN acts_VBZ like_IN a_DT virus_NN ._.
+even_RB if_IN you_PRP uninstall_VBP it_PRP ,_, it_PRP does_VBZ n't_RB go_VB away_RB ._.
+i_LS had_VBD to_TO edit_VB my_PRP$ registry_NN to_TO get_VB rid_JJ of_IN it_PRP ._.
+mionet_NN never_RB worked_VBD ._.
+it_PRP was_VBD not_RB easy_JJ to_TO get_VB on_IN my_PRP$ network_NN as_RB well_RB ._.
+it_PRP would_MD never_RB connect_VB to_TO my_PRP$ router_NN using_VBG dhcp_NN ,_, though_IN my_PRP$ other_JJ computers_NNS seemed_VBD to_TO work_VB fine_NN ._.
+i_LS finally_RB had_VBD to_TO set_VB a_DT fixed_JJ ip_NN in_IN order_NN to_TO get_VB it_PRP to_TO work_VB ._.
+but_CC it_PRP still_RB keeps_VBZ dropping_VBG off_RP my_PRP$ network_NN ._.
+i_LS 'm_VBP on_IN my_PRP$ second_JJ drive_NN in_IN which_WDT the_DT first_JJ one_CD would_MD never_RB connect_VB ._.
+it_PRP took_VBD over_RP a_DT week_NN of_IN useless_JJ tech_NN support_NN to_TO get_VB them_PRP to_TO send_VB me_PRP a_DT replacement_NN drive_NN ._.
+as_IN instructed_VBN i_FW sent_VBD them_PRP all_DT of_IN my_PRP$ materials_NNS ._.
+when_WRB wd_NN sent_VBD me_PRP a_DT new_JJ drive_NN ,_, it_PRP did_VBD not_RB come_VBN with_IN any_DT of_IN the_DT software_NN or_CC documentation_NN that_WDT i_FW sent_VBD them_PRP ._.
+all_DT i_FW got_VBD is_VBZ we_PRP did_VBD not_RB instruct_VB you_PRP to_TO send_VB those_DT items_NNS the_DT e_SYM mail_NN i_FW had_VBD from_IN wd_NN support_NN somehow_RB had_VBD it_PRP ._.
+hmmmmm_NN do_VBP not_RB buy_VB this_DT product_NN ._.
+most_RBS reviews_NNS here_RB are_VBP just_RB about_RB on_IN the_DT money_NN ._.
+this_DT is_VBZ marketed_VBN as_IN an_DT access_NN anywhere_RB product_NN ,_, but_CC turns_VBZ out_RP to_TO be_VB far_RB from_IN it_PRP ._.
+the_DT mionet_NN software_NN just_RB does_VBZ n't_RB work_VB with_IN the_DT linux_NN os_NNS installed_VBN on_IN the_DT mybook_NN ._.
+it_PRP took_VBD 3_CD installs_NNS to_TO get_VB it_PRP to_TO even_RB detect_VB the_DT mybook_NN ._.
+then_RB it_PRP is_VBZ offline_JJ ,_, and_CC nothing_NN i_FW could_MD do_VB would_MD get_VB it_PRP online_JJ sigh_NN ._.
+i_LS 'll_MD use_VB it_PRP as_IN a_DT network_NN share_NN ._.
+there_EX are_VBP sites_NNS with_IN hacks_NNS to_TO access_VB the_DT os_NNS and_CC set_VBN up_RP ssh_NN access_NN -LRB-_-LRB- not_RB for_IN the_DT uninitiated_JJ however_RB -RRB-_-RRB- ._.
+it_PRP 's_VBZ too_RB bad_JJ ,_, the_DT thought_NN of_IN accessing_VBG it_PRP easily_RB and_CC sharing_VBG photos_NNS ,_, music_NN and_CC video_NN is_VBZ rather_RB appealing_JJ ._.
+but_CC mionet_NN is_VBZ not_RB ready_JJ for_IN the_DT big_JJ league_NN yet_RB the_DT fan_NN is_VBZ rather_RB noisy_JJ ._.
+place_NN this_DT unit_NN somewhere_RB you_PRP wo_MD not_RB hear_VB it_PRP ,_, like_IN next_JJ to_TO your_PRP$ air_NN conditioner_NN or_CC refrigerator_NN ._.
+oh_UH yeah_RB ,_, network_NN access_NN is_VBZ sluggish_JJ how_WRB disappointing_JJ ,_, wd_NN ._.
+here_RB is_VBZ the_DT deal_NN ._.
+whatever_WDT you_PRP read_VBP do_VBP not_RB install_VB the_DT mionet_NN software_NN ._.
+not_RB ony_NN is_VBZ it_PRP invasive_JJ as_IN reported_VBN in_IN earlier_JJR posts_NNS ,_, but_CC it_PRP transfers_VBZ data_NNS like_IN a_DT snail_NN in_IN reverse_NN ._.
+whatever_WDT data_NNS you_PRP do_VBP transfer_VB under_IN the_DT mionet_NN sw_NN umbrella_NN can_MD easily_RB be_VB shared_VBN by_IN all_DT mionet_NN users_NNS but_CC worse_JJR ,_, can_MD only_RB be_VB accessed_VBN by_IN the_DT mionet_NN software_NN ._.
+i_LS had_VBD to_TO wipe_VB out_RP the_DT drive_NN ,_, delete_VB the_DT data_NNS and_CC uninstall_VB the_DT mionet_NN sw_NN ._.
+i_FW am_VBP now_RB using_VBG it_PRP as_IN a_DT shared_JJ drive_NN on_IN my_PRP$ network_NN and_CC while_IN it_PRP is_VBZ performing_VBG better_JJR it_PRP still_RB crawls_VBZ cosidering_VBG it_PRP has_VBZ gb_NN access_NN and_CC a_DT 7200_CD rpm_NN drive_NN ._.
+i_LS will_MD use_VB it_PRP as_IN a_DT repository_JJ but_CC wd_JJ needs_NNS to_TO provide_VB some_DT firmware_NN to_TO improve_VB performance_NN ._.
+this_DT could_MD have_VB been_VBN a_DT good_JJ product_NN ,_, it_PRP actually_RB could_MD have_VB been_VBN a_DT great_JJ product_NN ,_, but_CC 1_CD ._.
+the_DT backup_NN software_NN included_VBD called_VBN retrospect_NN is_VBZ horrendous_JJ ._.
+it_PRP fails_VBZ 90_CD %_NN of_IN the_DT time_NN and_CC just_RB give_VB you_PRP cryptic_JJ messages_NNS about_IN ``_`` malformed_JJ file_NN name_NN ''_'' ._.
+i_FW am_VBP using_VBG standard_JJ windows_NNS backup_VBP accessory_NN it_PRP works_VBZ ._.
+it_PRP claims_VBZ that_IN you_PRP can_MD have_VB access_NN to_TO your_PRP$ data_NNS from_IN anywhere_RB ._.
+not_RB true_JJ unless_IN you_PRP pay_VBP additional_JJ premium_NN monthly_JJ service_NN ._.
+documentation_NN is_VBZ a_DT minimal_JJ and_CC does_VBZ not_RB help_VB overcome_VB the_DT out_NN of_IN the_DT box_NN drawbacks_NNS ._.
+it_PRP is_VBZ unacceptably_RB slow_JJ i_FW hope_VBP that_IN wd_NN enjoys_VBZ my_PRP$ money_NN because_IN it_PRP will_MD be_VB the_DT last_JJ they_PRP are_VBP ever_RB going_VBG to_TO see_VB from_IN me_PRP ._.
+1_LS -RRB-_-RRB- mionet_NN is_VBZ a_DT large_JJ waste_NN of_IN time_NN ._.
+paying_VBG the_DT $_$ 70_CD a_DT year_NN to_TO access_VB your_PRP$ files_NNS is_VBZ rediculous_JJ ._.
+there_EX are_VBP many_JJ free_JJ alternatives_NNS that_WDT offer_VBP nearly_RB the_DT same_JJ functionality_NN ._.
+the_DT directions_NNS convey_VBP that_IN installing_VBG it_PRP is_VBZ required_VBN to_TO use_VB the_DT mybook_NN ,_, however_RB that_DT is_VBZ definately_RB not_RB the_DT case_NN 2_CD -RRB-_-RRB- installation_NN is_VBZ a_DT snap_NN when_WRB using_VBG it_PRP with_IN a_DT router_NN ._.
+it_PRP got_VBD its_PRP$ ip_NN ,_, and_CC is_VBZ easily_RB accessable_JJ using_VBG \_SYM \_SYM mybookworld_NN ._.
+also_RB ,_, the_DT web_NN setup_NN interface_NN is_VBZ simple_JJ and_CC easy_JJ to_TO use_VB ._.
+no_DT router_NN ._.
+load_NN up_IN the_DT pdf_NN manual_NN on_IN the_DT cd_NN ,_, scroll_NN way_NN to_TO the_DT bottom_NN where_WRB there_EX is_VBZ a_DT small_JJ section_NN on_IN how_WRB to_TO use_VB it_PRP without_IN a_DT router_NN ._.
+this_DT is_VBZ definately_RB not_RB a_DT device_NN for_IN people_NNS without_IN a_DT home_NN network_NN 3_CD -RRB-_-RRB- network_NN attatched_JJ storage_NN allows_VBZ easy_JJ access_NN to_TO files_NNS from_IN multiple_JJ computers_NNS ,_, and_CC does_VBZ n't_RB require_VB a_DT pc_NN to_TO be_VB running_VBG to_TO access_NN it_PRP ._.
+gigabit_NN ethernet_NN connection_NN ._.
+completely_RB worthless_JJ ._.
+no_DT matter_NN what_WDT i_FW tried_VBD ,_, i_FW could_MD n't_RB get_VB transfer_NN rates_NNS much_RB above_IN 45mbits_NNS ,_, which_WDT is_VBZ right_JJ around_IN 4mb_CD a_DT second_JJ -LRB-_-LRB- this_DT is_VBZ only_RB 4_CD ._.
+5_CD %_NN utilization_NN of_IN a_DT gigabit_NN connection_NN -RRB-_-RRB- ._.
+this_DT means_VBZ it_PRP took_VBD about_RB 30_CD hours_NNS to_TO fill_VB the_DT 500gb_JJ drive_NN 4_CD -RRB-_-RRB- boot_NN up_IN time_NN is_VBZ slow_JJ ._.
+be_VB prepared_VBN to_TO wait_VB 2_CD or_CC 3_CD minutes_NNS before_IN the_DT drive_NN is_VBZ accessable_JJ 5_CD -RRB-_-RRB- the_DT usb_NN port_NN on_IN the_DT back_NN is_VBZ nice_JJ to_TO exapand_VB the_DT device_NN with_IN another_DT usb_NN storage_NN device_NN overall_RB ,_, there_EX are_VBP much_JJ faster_RBR ,_, less_RBR expensive_JJ solutions_NNS available_JJ for_IN network_NN attatched_JJ storage_NN devices_NNS ._.
+although_IN the_DT mybook_NN makes_VBZ installation_NN and_CC access_NN very_RB easy_JJ ,_, it_PRP does_VBZ not_RB come_VB close_RB to_TO making_VBG up_RP for_IN its_PRP$ lack_NN of_IN performance_NN ._.
+if_IN all_DT you_PRP 're_VBP looking_VBG for_IN is_VBZ external_JJ storage_NN ,_, buy_VB a_DT usb_NN ,_, firewire_NN ,_, or_CC sata_JJ external_JJ drive_NN that_WDT will_MD attach_VB directly_RB to_TO a_DT pc_NN and_CC save_VB yourself_PRP hours_NNS of_IN file_NN transfer_NN time_NN ._.
+in_IN my_PRP$ opinion_NN you_PRP would_MD be_VB better_JJR served_VBD spending_VBG your_PRP$ money_NN on_IN a_DT cheaper_JJR and_CC faster_JJR usb_NN or_CC firewire_NN drive_NN ._.
+you_PRP could_MD also_RB access_VB the_DT storage_NN device_NN remotely_RB by_IN using_VBG another_DT remote_JJ access_NN software_NN like_IN pc_NN anywhere_RB or_CC gotomypc_NN ._.
+com_NN ._.
+the_DT performance_NN is_VBZ just_RB a_DT killer_NN ,_, just_RB too_RB slow_JJ for_IN such_PDT an_DT expensive_JJ piece_NN of_IN equipment_NN ._.
+if_IN all_DT you_PRP are_VBP looking_VBG for_IN is_VBZ a_DT gig_NN -LRB-_-LRB- or_CC half_PDT a_DT gig_NN raid_NN 1_CD -RRB-_-RRB- storage_NN ,_, that_WDT is_VBZ what_WP you_PRP get_VBP ._.
+if_IN you_PRP want_VBP this_DT for_IN the_DT file_NN sharing_NN and_CC back_RB up_RB capabilities_NNS ,_, you_PRP are_VBP going_VBG to_TO be_VB very_RB upset_JJ ._.
+the_DT moinet_NN is_VBZ nuts_NNS and_CC does_VBZ not_RB work_VB ._.
+the_DT emc_NN backup_NN software_NN included_VBD seems_VBZ to_TO depend_VB on_IN mionet_NN and_CC is_VBZ also_RB useless_JJ ._.
+and_CC ,_, as_IN most_JJS others_NNS have_VBP stated_VBN ,_, everything_NN is_VBZ slow_JJ over_IN your_PRP$ intranet_NN with_IN this_DT device_NN after_IN over_IN a_DT month_NN of_IN fighting_VBG through_IN various_JJ issues_NNS ,_, it_PRP appears_VBZ that_IN almost_RB everything_NN goes_VBZ back_RB to_TO the_DT firmware_NN software_NN internal_JJ to_TO the_DT device_NN ._.
+at_IN various_JJ times_NNS mine_PRP has_VBZ said_VBD it_PRP is_VBZ trying_VBG to_TO update_VB its_PRP$ software_NN or_CC mostly_RB is_VBZ just_RB offline_JJ it_PRP is_VBZ usually_RB -LRB-_-LRB- but_CC not_RB always_RB -RRB-_-RRB- available_JJ from_IN the_DT winderz_NN explorer_NN from_IN the_DT network_NN area_NN but_CC you_PRP will_MD not_RB see_VB all_PDT the_DT directories_NNS -LRB-_-LRB- folders_NNS -RRB-_-RRB- or_CC files_NNS that_WDT have_VBP actually_RB been_VBN placed_VBN there_RB bottom_JJ line_NN is_VBZ that_IN if_IN you_PRP are_VBP wanting_VBG this_DT for_IN everything_NN hyped_VBD in_IN the_DT marketing_NN advertizements_NNS ;_: save_VB your_PRP$ money_NN for_IN something_NN else_RB ._.
+it_PRP is_VBZ all_DT vaporware_NN i_FW 'm_VBP sending_VBG mine_PRP back_RB for_IN a_DT refund_NN ._.
+i_LS bought_VBD this_DT for_IN it_PRP 's_VBZ price_NN and_CC features_NNS ._.
+turns_VBZ out_RP to_TO be_VB a_DT nightmare_NN as_IN the_DT nas_NN keeps_VBZ going_VBG offline_JJ due_JJ to_TO the_DT network_NN connection_NN keeps_VBZ dropping_VBG ._.
+seems_VBZ to_TO happen_VB to_TO my_PRP$ 2_CD wd_NN mybook_NN world_NN nas_NNS ,_, with_IN my_PRP$ iomega_NN ,_, timecapsule_NN and_CC buffalo_NN that_WDT does_VBZ not_RB happen_VB so_IN it_PRP 's_VBZ not_RB my_PRP$ network_NN but_CC the_DT drives_NNS ._.
+no_DT more_JJR wd_NN nas_NNS for_IN me_PRP ._.
+this_DT is_VBZ a_DT great_JJ backup_NN drive_NN if_IN you_PRP only_RB want_VBP to_TO backup_VB a_DT handful_NN of_IN small_JJ files_NNS at_IN any_DT one_CD time_NN ._.
+it_PRP locks_VBZ up_RP consistently_RB if_IN you_PRP try_VBP to_TO do_VB any_DT serious_JJ backups_NNS with_IN it_PRP ._.
+this_DT is_VBZ a_DT known_JJ problem_NN ;_: western_JJ digital_JJ answer_NN id_VBD 1701_CD mentions_VBZ it_PRP ,_, but_CC offers_VBZ no_DT solutions_NNS ._.
+it_PRP also_RB locks_VBZ up_RP if_IN two_CD users_NNS attempt_VB to_TO access_NN it_PRP at_IN the_DT same_JJ time_NN -LRB-_-LRB- as_IN happens_VBZ if_IN you_PRP 're_VBP streaming_VBG media_NNS to_TO one_CD computer_NN when_WRB another_DT computer_NN attempts_VBZ to_TO save_VB or_CC access_VB a_DT file_NN -RRB-_-RRB- ._.
+it_PRP 's_VBZ not_RB a_DT very_RB robust_JJ network_NN drive_NN i_FW 'd_MD suggest_VB putting_VBG your_PRP$ money_NN towards_IN the_DT purchase_NN of_IN a_DT better_JJR drive_NN ._.
+i_LS would_MD look_VB further_RB ,_, because_IN there_EX is_VBZ -LRB-_-LRB- much_JJ -RRB-_-RRB- better_RBR on_IN the_DT market_NN ._.
+transfer_NN speeds_NNS of_IN 4_CD 5_CD mb/s_NNS is_VBZ too_RB slow_JJ ,_, and_CC max_NN number_NN of_IN connections_NNS is_VBZ 5_CD ._.
+media_NNS streaming_NN is_VBZ no_DT fun_NN on_IN this_DT one_CD do_VBP not_RB buy_VB ._.
+the_DT bundle_NN is_VBZ seriously_RB flawed_VBN ._.
+there_EX are_VBP two_CD sofware_JJ applications_NNS -LRB-_-LRB- and_CC providers_NNS -RRB-_-RRB- to_TO tend_VB with_IN ._.
+you_PRP must_MD install_VB the_DT mionet_NN and_CC memo_NN backup_NN to_TO complete_VB the_DT solution_NN ._.
+this_DT should_MD be_VB a_DT single_JJ integrated_JJ plug_NN and_CC plan_NN solution_NN but_CC appears_VBZ to_TO be_VB an_DT afterthought_NN ._.
+this_DT nas_NNS drive_NN can_MD only_RB be_VB accesses_NNS via_IN network_NN ._.
+the_DT usb_NN port_NN on_IN the_DT back_JJ wo_MD n't_RB let_VB you_PRP connect_VB directly_RB to_TO your_PRP$ computer_NN as_IN a_DT workaround_NN in_IN case_NN you_PRP can_MD not_RB use_VB mionet_NN because_IN mionet_NN causes_VBZ your_PRP$ computer_NN to_TO crash_VB if_IN you_PRP go_VBP onto_IN a_DT vpn_NN ._.
+the_DT mionet_NN website_NN says_VBZ they_PRP are_VBP working_VBG on_IN a_DT fix_NN but_CC the_DT site_NN is_VBZ woefully_RB out_IN of_IN date_NN and_CC anemic_JJ the_DT memo_NN backup_NN software_NN is_VBZ yet_RB another_DT application_NN ._.
+what_WDT might_MD appear_VB like_IN a_DT simple_JJ 3_CD step_NN proces_NNS -LRB-_-LRB- their_PRP$ screens_NNS -RRB-_-RRB- provides_VBZ no_DT help_NN if_IN things_NNS do_VBP not_RB go_VB as_IN described_VBN in_IN the_DT inadequate_JJ installation_NN -LRB-_-LRB- i_FW 've_VBP yet_RB have_VBP an_DT installation_NN go_VB as_RB easy_JJ as_IN described_VBN on_IN a_DT quick_JJ start_NN guide_NN ._.
+bottomline_NN this_DT hardware_NN is_VBZ compact_JJ and_CC efficient_JJ ._.
+wd_NN needs_VBZ to_TO build_VB an_DT integrated_VBN plug_NN and_CC play_VB version_NN of_IN the_DT applications_NNS and_CC allow_VB that_DT usb_NN port_NN to_TO work_VB directly_RB with_IN my_PRP$ laptop_NN ._.
+mionet_NN needs_VBZ to_TO fix_VB that_DT cisco_NN vpn_NN bug_NN problem_NN asap_RB ._.
+for_IN novice_NN users_NNS who_WP intend_VBP to_TO use_VB this_DT drive_NN as_IN their_PRP$ own_JJ ,_, personal_JJ file_NN storage_NN in_IN an_DT apartment_NN or_CC condo_NN ,_, this_DT is_VBZ the_DT drive_NN for_IN you_PRP ._.
+using_VBG a_DT usb_NN cable_NN with_IN this_DT devise_VBP makes_VBZ operating_VBG it_PRP simple_JJ and_CC fortunately_RB ,_, wd_NN drives_NNS are_VBP well_RB known_VBN for_IN ease_NN of_IN use_NN or_CC so_IN we_PRP thought_VBD ._.
+there_EX 's_VBZ lots_NNS of_IN drive_NN space_NN ,_, and_CC the_DT hardbound_JJ book_NN like_IN structure_NN of_IN the_DT drive_NN can_MD definitely_RB save_VB you_PRP a_DT lot_NN of_IN space_NN on_IN that_DT cluttered_JJ computer_NN desk_NN ._.
+it_PRP 's_VBZ a_DT very_RB stylish_JJ looking_VBG gadget_NN that_WDT can_MD quickly_RB complement_VB your_PRP$ mac_NN or_CC pc_NN here_RB 's_VBZ the_DT clincher_NN ._.
+i_LS would_MD 've_VB given_VBN this_DT drive_NN a_DT higher_JJR rating_NN if_IN it_PRP did_VBD n't_RB proudly_RB advertise_VB itself_PRP as_IN world_NN edition_NN ,_, which_WDT means_VBZ one_CD of_IN it_PRP 's_VBZ primary_JJ features_NNS is_VBZ for_IN the_DT user_NN to_TO be_VB able_JJ to_TO utilise_VB the_DT external_JJ drive_NN as_IN a_DT networked_JJ devise_VBP ._.
+unfortunately_RB ,_, it_PRP 's_VBZ own_JJ name_NN hardly_RB does_VBZ the_DT functionality_NN of_IN the_DT devise_VB any_DT justice_NN ._.
+the_DT drive_NN is_VBZ a_DT poor_JJ excuse_NN for_IN a_DT home/over_NN the_DT net_JJ network_NN storage_NN drive_NN ._.
+and_CC if_IN you_PRP 've_VBP recently_RB upgraded_VBN your_PRP$ os_NNS to_TO vista_NN 64_CD bit_NN ,_, you_PRP might_MD as_RB well_RB kiss_NN this_DT drive_NN good_JJ bye_NN especially_RB if_IN you_PRP 've_VBP done_VBN the_DT said_VBD os_NNS upgrade_VB to_TO all_DT your_PRP$ systems_NNS at_IN home_NN ._.
+the_DT already_RB slow_JJ networking_NN software_NN this_DT drive_NN uses_VBZ -LRB-_-LRB- mionet_NN -RRB-_-RRB- will_MD not_RB run_VB on_IN the_DT 64_CD bit_NN vista_NN ._.
+try_VB and_CC install_VB it_PRP and_CC you_PRP will_MD eventually_RB get_VB an_DT error_NN ._.
+now_RB ,_, some_DT users_NNS may_MD boast_VB that_IN they_PRP do_VBP have_VB a_DT workaround_NN for_IN this_DT problem_NN ,_, but_CC let_VBD 's_POS not_RB forget_VB that_IN not_RB all_DT users_NNS are_VBP tech_NN savvy_NN ._.
+if_IN you_PRP decide_VBP to_TO bypass_VB using_VBG mionet_NN to_TO add_VB your_PRP$ devise_VB to_TO your_PRP$ network_NN and_CC you_PRP are_VBP able_JJ to_TO map_VB the_DT drive_NN ,_, then_RB congratulations_NNS ._.
+however_RB be_VB prepared_VBN to_TO simply_RB view_VB your_PRP$ files_NNS and_CC not_RB be_VB able_JJ to_TO edit_VB ,_, save_VB or_CC change_VB any_DT of_IN them_PRP ._.
+that_DT 's_VBZ right_JJ folks_NNS ._.
+the_DT drive_NN becomes_VBZ nothing_NN more_JJR than_IN an_DT online_NN ,_, museum_NN for_IN your_PRP$ read_NN only_RB files_VBZ ._.
+if_IN you_PRP make_VBP a_DT change_NN to_TO any_DT of_IN the_DT files_NNS in_IN the_DT drive_NN ,_, and_CC try_VB to_TO save_VB those_DT changes_NNS ,_, an_DT annoying_JJ popup_NN will_MD tell_VB you_PRP you_PRP have_VBP no_DT permission_NN yadda_NN yadda_NN blah_RB blah_RB ._.
+and_CC the_DT only_JJ thing_NN that_WDT will_MD work_VB -LRB-_-LRB- surprise_NN surprise_NN -RRB-_-RRB- is_VBZ if_IN you_PRP mark_VBP your_PRP$ drive_NN as_IN the_DT destination_NN folder_NN for_IN your_PRP$ itunes_NNS files_NNS so_RB ,_, in_IN summation_NN ;_: good_JJ as_IN an_DT ordinary_JJ usb_NN personal_JJ drive_NN ;_: horrible_JJ as_IN a_DT network_NN storage_NN drive_NN ._.
+if_IN you_PRP intend_VBP to_TO pay_VB 200_CD +_CC dollars_NNS on_IN this_DT drive_NN ,_, my_PRP$ advise_VBP is_VBZ do_VBP not_RB ._.
+throw_VB in_RP a_DT hundred_CD more_JJR dollars_NNS and_CC you_PRP can_MD get_VB yourself_PRP a_DT network_NN server_NN that_WDT will_MD actually_RB work_VB ._.
+i_LS bought_VBD this_DT ext_NN ._.
+drive_NN today_NN because_IN i_FW wanted_VBD a_DT second_JJ net_JJ drive_NN so_RB what_WP is_VBZ my_PRP$ opinion_NN 1_CD ._.
+extremely_RB slow_JJ net_JJ transfers_NNS although_IN supports_NNS 1000m_VBP i_FW thinks_VBZ because_IN of_IN the_DT software_NN -LRB-_-LRB- mio_NN wd_NN anywhere_RB access_NN -RRB-_-RRB- i_FW have_VBP a_DT drive_NN 100m_RB with_IN ximeta_NN ndas_NNS software_NN and_CC its_PRP$ much_JJ more_RBR faster_RBR and_CC more_RBR easy_JJ to_TO use_VB than_IN wdc_NN software_NN 2_CD ._.
+the_DT software_NN to_TO access_VB the_DT drive_NN not_RB so_RB good_JJ -LRB-_-LRB- plus_CC u_NN have_VBP to_TO pay_VB to_TO upgrade_VB to_TO full_JJ version_NN ,_, not_RB so_RB friendly_JJ i_FW think_VB its_PRP$ responsible_JJ for_IN the_DT slow_JJ tranfers_NNS maybe_RB will_MD be_VB better_JJR creating_VBG a_DT mapped_VBN drive_NN without_IN using_VBG the_DT wd_NN anywhere_RB access_NN 3_CD ._.
+beautiful_JJ drive_NN 1tb_RB without_IN raid_NN maybe_RB wdc_NN should_MD use_VB ximeta_NN ndas_NNS software_NN for_IN local_JJ lan_NN ,_, the_DT drive_NN should_MD be_VB just_RB great_JJ and_CC much_JJ faster_RBR 2_LS ._.
+the_DT mybook_JJ world_NN edition_NN sounded_VBD like_IN a_DT good_JJ idea_NN ._.
+500gb_NN ,_, network_NN connection_NN for_IN under_IN $_$ 100_CD ._.
+sounds_NNS great_JJ i_FW used_VBN this_DT primarily_RB as_IN a_DT storage_NN drive_NN ._.
+the_DT drive_NN would_MD get_VB fairly_RB warm_JJ -LRB-_-LRB- on_IN 24/7_CD ,_, but_CC not_RB in_IN constant_JJ use_NN -RRB-_-RRB- ,_, but_CC nothing_NN out_IN of_IN the_DT ordinary_JJ for_IN an_DT external_JJ drive_NN ._.
+i_LS had_VBD the_DT drive_NN for_IN about_RB 6_CD months_NNS ,_, then_RB i_FW could_MD not_RB connect_VB to_TO it_PRP all_DT of_IN a_DT sudden_JJ i_FW read_NN later_RB on_IN that_DT other_JJ users_NNS have_VBP had_VBN this_DT same_JJ problem_NN ._.
+the_DT usb/ethernet_NN pcb_NN has_VBZ some_DT major_JJ issues_NNS apparently_RB ._.
+lots_NNS of_IN field_NN failures_NNS ._.
+after_IN removing_VBG the_DT drive_NN from_IN the_DT case_NN ,_, i_FW tried_VBD to_TO read_VB it_PRP through_IN another_DT external_JJ case_NN and_CC connecting_VBG to_TO a_DT pc_NN directly_RB ._.
+the_DT drive_NN is_VBZ recognized_VBN ,_, but_CC could_MD not_RB be_VB read_VBN ._.
+i_LS ended_VBD up_RP having_VBG to_TO reformat_VB the_DT drive_NN ,_, and_CC now_RB it_PRP works_VBZ fine_JJ buyers_NNS beware_VBP on_IN this_DT one_CD ._.
+for_IN network_NN backup_NN storage_NN separate_JJ from_IN main_JJ computer_NN at_IN $_$ 0_CD ._.
+25/gig_NN i_FW guess_NN i_FW can_MD handle_VB the_DT slow_JJ speed_NN ._.
+paid_VBN $_$ 120_CD ._.
+00_CD for_IN 500_CD gig_NN version_NN in_IN february_NNP 2008_CD ._.
+looking_VBG into_IN why_WRB my_PRP$ mybook_NN is_VBZ clicking_VBG suddenly_RB ,_, it_PRP seems_VBZ that_IN this_DT problem_NN is_VBZ not_RB uncommon_JJ ._.
+according_VBG to_TO wd_NN ,_, there_EX is_VBZ nothing_NN to_TO be_VB done_VBN ._.
+the_DT drive_NN is_VBZ dead_JJ ._.
+also_RB ,_, if_IN you_PRP check_VB your_PRP$ network_NN activity_NN you_PRP may_MD find_VB -LRB-_-LRB- as_IN i_FW did_VBD -RRB-_-RRB- that_IN the_DT drive_NN is_VBZ contacting_VBG some_DT ip_NN address_NN in_IN france_NN about_IN every_DT 15_CD to_TO 30_CD minutes_NNS ._.
+nothing_NN is_VBZ being_VBG sent_VBN but_CC is_VBZ this_DT really_RB necessary_JJ ._.
+the_DT ip_NN address_NN is_VBZ 87_CD ._.
+219_CD ._.
+my_PRP$ firewall_NN logged_VBD the_DT activity_NN ,_, ethereal_JJ captured_VBN the_DT content_NN ,_, which_WDT as_IN i_FW said_VBD is_VBZ nothing_NN ._.
+further_RB digging_NN into_IN the_DT ip_NN address_NN suggests_VBZ that_IN it_PRP may_MD have_VB connections_NNS to_TO mionet_NN maybe_RB ._.
+i_LS have_VBP done_VBN nothing_NN further_JJ but_CC i_FW plan_NN to_TO call_VB wd_NN and_CC ask_VB them_PRP is_VBZ this_DT for_IN ._.
+i_LS love_VBP the_DT drive_NN ,_, works_VBZ flawlessly_RB if_IN you_PRP avoid_VBP mionet_NN ._.
+read_VB the_DT user_NN reviews_NNS and_CC believe_VB them_PRP ;_: i_LS knew_VBD this_DT product_NN would_MD be_VB slow_JJ ,_, but_CC i_FW never_RB expected_VBN it_PRP to_TO be_VB this_DT slow_JJ ;_: speed_NN is_VBZ such_JJ that_IN when_WRB editing_NN or_CC manipulating_VBG a_DT number_NN of_IN files_NNS -LRB-_-LRB- for_IN example_NN ,_, jpgs_NNS -RRB-_-RRB- make_VBP sure_JJ the_DT files_NNS are_VBP on_IN you_PRP local_JJ hdd_NN ._.
+then_RB ,_, after_IN working_VBG with_IN the_DT files_NNS ,_, you_PRP can_MD then_RB copy_VB them_PRP to_TO the_DT mbw_NN ._.
+otherwise_RB you_PRP spend_VBP most_JJS of_IN your_PRP$ time_NN waiting_VBG ._.
+even_RB doing_VBG a_DT photo_NN gallery_NN review_NN of_IN jpgs_NNS is_VBZ painfully_RB slow_JJ ._.
+also_RB ,_, reviews_VBZ talk_NN about_IN how_WRB loud_JJ the_DT fan_NN is_VBZ ,_, it_PRP is_VBZ louder_RBR than_IN you_PRP can_MD imagine_VB ._.
+i_LS had_VBD it_PRP beneath_IN my_PRP$ desk_NN and_CC the_DT distraction_NN is_VBZ such_JJ ,_, that_IN i_FW had_VBD to_TO put_VB it_PRP into_IN a_DT closet_NN ._.
+even_RB in_IN the_DT closet_NN you_PRP could_MD hear_VB the_DT fan_NN ._.
+when_WRB first_RB set_VBN up_RP on_IN my_PRP$ lan_NN ,_, the_DT mbw_NN is_VBZ directly_RB attached_VBN to_TO the_DT router_NN -LRB-_-LRB- wrt54g_NN -RRB-_-RRB- ._.
+then_RB ,_, about_IN once_RB a_DT week_NN ,_, the_DT network_NN would_MD stop_VB recognizing_VBG the_DT drive_NN -LRB-_-LRB- including_VBG my_PRP$ network_NN magic_NN -RRB-_-RRB- ._.
+by_IN chance_NN ,_, i_FW discovered_VBN that_IN by_IN connecting_VBG to_TO the_DT lan_NN via_IN a_DT switch_NN corrected_VBN this_DT problem_NN ._.
+finally_RB ,_, both_DT drive_NN failed_VBD on_IN me_PRP ._.
+thank_VB god_NN ,_, i_FW saw_VBD this_DT coming_VBG and_CC completed_VBD a_DT backup_NN of_IN my_PRP$ important_JJ files_NNS ._.
+if_IN you_PRP own_VBP this_DT product_NN ,_, make_VBP backups_NNS an_DT important_JJ part_NN of_IN you_PRP routine_JJ ._.
+nothing_NN but_CC headaches_NNS ,_, no_DT diagnostic_JJ capabilities_NNS ,_, drops_VBZ connections_NNS frequently_RB ,_, switches_VBZ drive_NN letters_NNS randomly_RB ,_, copies_NNS of_IN files_NNS to_TO it_PRP can_MD disappear_VB ,_, just_RB completely_RB frustrating_VBG ._.
+western_JJ digital_JJ used_VBN to_TO be_VB a_DT quality_NN company_NN ._.
+now_RB they_PRP are_VBP nothing_NN more_JJR than_IN a_DT group_NN of_IN misfits_NNS engaging_VBG in_IN consumer_NN fraud_NN ._.
+useless_JJ for_IN those_DT running_VBG 64_CD bit_NN systems_NNS ._.
+mionet_NN software_NN is_VBZ complicated_VBN and_CC can_MD prevent_VB access_NN to_TO your_PRP$ drive_NN possibly_RB because_IN it_PRP needs_VBZ to_TO connect_VB to_TO the_DT westerndigital_JJ server_NN first_RB before_IN accessing_VBG your_PRP$ home_NN network_NN drive_NN ._.
+this_DT raises_VBZ the_DT whole_JJ issue_NN of_IN security_NN even_RB if_IN you_PRP are_VBP a_DT home_NN userthis_NN connection_NN is_VBZ dropped_VBN for_IN some_DT reason_NN and_CC the_DT support_NN site_NN does_VBZ not_RB have_VB an_DT adequate_JJ solution_NN even_RB though_IN several_JJ users_NNS report_VBP this_DT issue_NN ._.
+the_DT drive_NN failed_VBD after_IN a_DT year_NN and_CC the_DT only_JJ way_NN to_TO fix_VB it_PRP would_MD be_VB to_TO send_VB the_DT entire_JJ drive_NN to_TO western_JJ digital_JJ ._.
+so_RB if_IN you_PRP have_VBP sensitive_JJ data_NNS on_IN it_PRP ,_, it_PRP is_VBZ at_IN risk_NN ._.
+never_RB buy_VB world_NN edition_NN again_RB ._.
+yep_RB just_RB too_RB bad_JJ wd_NN did_VBD go_VB that_DT way_NN ,_, last_JJ time_NN i_FW buy_VB a_DT network_NN drive_NN for_IN them_PRP that_DT is_VBZ for_IN sure_JJ ._.
+i_LS would_MD also_RB like_VB to_TO know_VB how_WRB did_VBD you_PRP manage_VBP to_TO get_VB it_PRP going_VBG as_IN a_DT mapped_VBN drive_NN ._.
+i_LS have_VBP no_DT problem_NN accessing_VBG the_DT public_JJ part_NN but_CC impossible_JJ to_TO access_VB my_PRP$ password_NN protected_VBD folders_NNS ,_, just_RB a_DT shame_NN updated_VBN ._.
+on_IN may_MD 21_CD ,_, 2009_CD ._.
+do_VB not_RB buy_VB wd_NN ,_, tech_NN support_NN sucks_VBZ and_CC their_PRP$ products_NNS have_VBP a_DT extremely_RB high_JJ failure_NN rate_NN ._.
+the_DT cons_NNS above_IN really_RB tell_VB it_PRP all_DT ._.
+this_DT drive_NN will_MD not_RB stay_VB connected_VBN to_TO the_DT network_NN ._.
+wd_NN tells_VBZ you_PRP on_IN its_PRP$ website_NN that_IN the_DT only_JJ way_NN to_TO keep_VB the_DT drive_NN online_NN is_VBZ to_TO access_VB it_PRP only_RB with_IN its_PRP$ mionet_NN software_NN ._.
+wd_NN also_RB tells_VBZ you_PRP that_IN the_DT drive_NN 's_POS cpu_NN is_VBZ to_TO dumb_JJ to_TO maintain_VB a_DT connection_NN if_IN more_JJR than_IN about_IN 3_CD users_NNS try_VB to_TO connect_VB at_IN once_RB ._.
+if_IN you_PRP try_VBP to_TO use_VB the_DT drive_NN like_IN any_DT decent_JJ network_NN drive_NN ,_, and_CC access_NN files_NNS via_IN other_JJ apps_NNS ,_, the_DT drive_NN disconnects_NNS and_CC you_PRP have_VBP to_TO restart_VB it_PRP ._.
+my_PRP$ drive_NN has_VBZ not_RB stayed_VBN connected_VBN for_IN more_JJR than_IN about_RB 6_CD hours_NNS at_IN a_DT time_NN in_IN two_CD years_NNS ._.
+there_EX have_VBP to_TO be_VB better_JJR products_NNS out_IN there_RB ._.
+in_IN fact_NN ,_, i_FW is_VBZ looking_VBG for_IN something_NN to_TO replace_VB it_PRP when_WRB i_FW came_VBD across_IN cnet_NN 's_POS ridiculously_RB inflated_JJ review_NN ._.
+for_IN your_PRP$ own_JJ good_JJ ,_, look_VB elsewhere_RB ._.
+and_CC cnet_NN ,_, how_WRB about_RB doing_VBG some_DT real_JJ testing_NN and_CC not_RB just_RB something_NN perfunctory_JJ so_IN you_PRP can_MD keep_VB taking_VBG the_DT ad_NN dollars_NNS ._.
+mionet_NN 's_POS central_JJ server_NN has_VBZ been_VBN down_RP for_IN over_IN a_DT week_NN ._.
+i_LS have_VBP called_VBN mionet_NN 's_POS customer_NN support_NN multiple_JJ times_NNS and_CC also_RB open_JJ trouble_NN tickets_NNS ._.
+they_PRP assure_VBP me_PRP they_PRP are_VBP working_VBG on_IN the_DT issue_NN ._.
+they_PRP tell_VBP me_PRP the_DT only_JJ way_NN i_FW can_MD access_VB my_PRP$ data_NNS is_VBZ to_TO go_VB through_IN their_PRP$ server_NN and_CC there_EX is_VBZ no_DT possible_JJ back_JJ door_NN ._.
+i_LS have_VBP over_IN a_DT years_NNS worth_NN of_IN work_NN on_IN my_PRP$ hard_JJ drive_NN that_WDT i_FW am_VBP loosing_VBG hope_NN of_IN ever_RB recovering_VBG ._.
+mionet_NN 's_POS tech_NN support_NN has_VBZ told_VBN me_PRP not_RB even_RB they_PRP can_MD access_VB my_PRP$ data_NNS if_IN their_PRP$ servers_NNS are_VBP down_RB ._.
+had_VBD i_FW known_VBN that_IN i_FW would_MD have_VB to_TO go_VB through_IN their_PRP$ server_NN to_TO access_VB my_PRP$ own_JJ data_NNS on_IN my_PRP$ own_JJ hard_JJ drive_NN ,_, i_FW would_MD never_RB had_VBD purchased_VBN this_DT product_NN ._.
+i_LS will_MD never_RB purchase_VB another_DT mionet_NN or_CC western_JJ digital_JJ product_NN again_RB after_IN this_DT experience_NN ._.
+would_MD have_VB returned_VBN product_NN but_CC over_IN return_NN period_NN when_WRB i_FW finally_RB began_VBD to_TO use_VB my_PRP$ book_NN world_NN ._.
+the_DT software_NN setup_NN is_VBZ not_RB trivial_JJ ._.
+every_DT restart_VB of_IN client_NN computers_NNS requires_VBZ online_JJ login_NN to_TO mionet_NN service_NN -LRB-_-LRB- via_IN the_DT internet_NN -RRB-_-RRB- ._.
+the_DT biggest_JJS disadvantage_NN the_DT storage_NN is_VBZ often_RB stucked_VBN when_WRB handling_VBG transfer_NN of_IN big_JJ volumes_NNS of_IN data_NNS 100_CD +_CC mb_NN ._.
+i_LS needed_VBD a_DT shared_JJ backup_NN server_NN so_RB in_IN my_PRP$ case_NN ;_: this_DT product_NN is_VBZ revealed_VBN as_IN useless_JJ ._.
+overall_RB ,_, very_RB faulty_JJ ,_, prematurely_RB released_VBN to_TO the_DT point_NN of_IN being_VBG disrespectful_JJ to_TO the_DT potential_JJ buyer_NN ._.
+the_DT firmware_NN is_VBZ slow_JJ and_CC you_PRP have_VBP to_TO constantly_RB reset_VB it_PRP so_IN it_PRP saved_VBD the_DT changes_NNS applied_VBD to_TO it_PRP such_JJ as_IN everytime_NN you_PRP create_VBP a_DT folder_NN or_CC create_VB a_DT user_NN with_IN permissions_NNS ._.
+i_LS 'm_VBP de_IN installing_VBG wd_NN backup_NN anywhere_RB ._.
+very_RB frustrating_JJ not_RB to_TO have_VB the_DT product_NN i_FW bought_VBN with_IN extra_JJ warranty_NN too_RB ._.
+i_LS can_MD not_RB use_VB the_DT program_NN now_RB ._.
+as_IN i_FW said_VBD ,_, with_IN work_NN you_PRP can_MD work_VB your_PRP$ way_NN thru_IN the_DT install_VB for_IN 1_CD drive_NN ,_, but_CC if_IN you_PRP try_VBP to_TO install_VB 2_CD world_NN edition_NN drives_NNS on_IN the_DT same_JJ home_NN lan_NN ,_, using_VBG the_DT mionet_NN software_NN provided_VBN ,_, you_PRP will_MD find_VB yourself_PRP devoting_VBG an_DT entire_JJ weekend_NN or_CC more_JJR to_TO do_VB so_RB ._.
+after_IN a_DT number_NN of_IN email_NN exchanges_NNS with_IN the_DT wd_NN support_NN staff_NN ,_, i_FW 've_VBP come_VBN to_TO the_DT conclusion_NN that_IN either_CC -LRB-_-LRB- a_LS -RRB-_-RRB- wd_NN never_RB thought_VBD some_DT would_MD actually_RB buy_VB 2_CD of_IN them_PRP ,_, or_CC -LRB-_-LRB- b_LS -RRB-_-RRB- the_DT wd_NN supoort_NN staff_NN has_VBZ no_DT clue_NN how_WRB the_DT product_NN should_MD with_IN 2_CD in_IN the_DT same_JJ segment_NN if_IN i_FW were_VBD running_VBG off_RP standard_JJ workstations_NNS like_IN linux_NN or_CC windows_NNS 95_CD ,_, i_FW 'd_MD cut_VB them_PRP slack_VB ,_, but_CC i_FW running_VBG xp_NN and_CC vista_NN and_CC the_DT software_NN wo_MD not_RB let_VB me_PRP add_VB rge_NN 2nd_JJ drive_NN no_DT matter_NN what_WDT i_FW try_VBP ._.
+oh_UH well_RB ,_, guess_VB it_PRP 's_VBZ return_NN the_DT wd_NN to_TO best_JJS buy_NN and_CC pick_VB up_RP hp_NN ._.
+should_MD have_VB read_VBN cnet_NN before_IN buying_VBG this_DT junk_NN ._.
+on_IN the_DT surface_NN ,_, this_DT is_VBZ an_DT amazing_JJ product_NN ._.
+but_CC first_RB off_RB ,_, i_FW could_MD not_RB get_VB my_PRP$ dell_NN inspiron_NN to_TO recognize_VB it_PRP ._.
+then_RB it_PRP kept_VBD `_`` timing_VBG out_RP '_'' when_WRB i_FW tried_VBD to_TO transfer_VB files_NNS to_TO it_PRP -LRB-_-LRB- resulting_VBG in_IN many_JJ hours_NNS of_IN seeing_VBG what_WP it_PRP did_VBD copy/move_NN and_CC picking_VBG up_RP where_WRB it_PRP left_VBD off_RP -RRB-_-RRB- ._.
+once_RB i_FW got_VBD it_PRP working_VBG right_RB ,_, the_DT added_VBN mionet_NN software_NN for_IN online_JJ access_NN of_IN the_DT drive_NN from_IN outside_IN the_DT home_NN is_VBZ limited_JJ and_CC extremely_RB ,_, agonizingly_RB slow_JJ ._.
+plus_CC ,_, i_FW could_MD not_RB access_VB my_PRP$ mp3_NN 's_POS as_IN there_EX is_VBZ a_DT block_NN on_IN that_DT format_NN -LRB-_-LRB- one_CD of_IN the_DT reasons_NNS i_FW bought_VBD this_DT product_NN is_VBZ so_RB that_IN i_FW could_MD access_VB my_PRP$ music_NN from_IN the_DT office_NN at_IN home_NN -RRB-_-RRB- ._.
+no_DT can_MD do_VB but_CC what_WP took_VBD the_DT cake_NN is_VBZ the_DT failure_NN of_IN the_DT drive_NN after_RB just_RB over_IN a_DT year_NN of_IN use_NN ._.
+the_DT warranty_NN covers_VBZ defects_NNS up_IN to_TO 3_CD years_NNS ,_, which_WDT is_VBZ great_JJ ._.
+except_IN that_DT it_PRP does_VBZ not_RB cover_VB data_NNS recovery_NN which_WDT is_VBZ in_IN the_DT $_$ 500_CD $_$ 2_CD ,_, 500_CD -LRB-_-LRB- ouch_NN ._. -RRB-_-RRB-
+range_NN however_RB ,_, i_FW also_RB have_VBP a_DT wd_NN passport_NN ,_, which_WDT works_VBZ great_JJ and_CC which_WDT i_FW highly_RB recommend_VB -LRB-_-LRB- so_RB far_RB ._.
+why_WRB all_PDT the_DT hassle_NN with_IN mionet_NN ._.
+how_WRB does_VBZ it_PRP actualy_RB benefit_VBP the_DT user_NN ._.
+why_WRB does_VBZ it_PRP take_VB so_RB long_RB to_TO set_VB up_RP and_CC why_WRB do_VBP you_PRP have_VB turn_VB all_DT your_PRP$ network_NN security_NN features_VBZ off_RP ._.
+why_WRB does_VBZ not_RB it_PRP work_VB with_IN mswindows_NNS vista_NN which_WDT is_VBZ the_DT most_RBS common_JJ version_NN of_IN ms_NNS windows_NNS ._.
+why_WRB does_VBZ it_PRP constantly_RB ping_VBP an_DT ip_NN address_NN overseas_RB and_CC what_WP implications_NNS does_VBZ this_DT have_VB on_IN your_PRP$ privacy_NN and_CC security_NN ._.
+maybe_RB i_FW 'm_VBP expecting_VBG too_RB much_JJ but_CC normally_RB when_WRB you_PRP pay_VBP good_JJ money_NN ,_, take_VB something_NN out_IN of_IN the_DT box_NN ,_, follow_VB instructions_NNS and_CC plug_VB it_PRP in_IN ,_, you_PRP will_MD also_RB expect_VB it_PRP to_TO work_VB ._.
+i_LS 'm_VBP not_RB interested_JJ in_IN getting_VBG a_DT degree_NN in_IN linux_NN or_CC reading_VBG the_DT knowledge_NN base_NN for_IN hours_NNS thats_NNS why_WRB i_FW pay_NN to_TO buy_VB it_PRP out_IN of_IN the_DT box_NN ._.
+great_JJ idea_NN ,_, not_RB a_DT good_JJ product_NN ._.
+setup_NN is_VBZ awful_JJ ,_, and_CC is_VBZ inconsistent_JJ from_IN user_NN to_TO user_NN ._.
+interface_NN is_VBZ rediculously_RB inadequate_JJ ._.
+mionet_NN provides_VBZ sketchy_JJ service_NN and_CC the_DT documentation_NN is_VBZ nil_NN ._.
+skip_VB this_DT and_CC wait_VB for_IN a_DT better_JJR solution_NN ._.
+i_LS bought_VBD this_DT because_IN it_PRP is_VBZ $_$ 60_CD cheaper_JJR than_IN the_DT comparable_JJ usb_NN 2_CD ._.
+0_CD drive_NN ._.
+i_LS should_MD have_VB coughed_VBN up_RP the_DT extra_JJ dough_NN ._.
+i_LS ended_VBD up_RP taking_VBG the_DT drive_NN out_IN of_IN its_PRP$ case_NN and_CC making_VBG it_PRP into_IN an_DT internal_JJ drive_NN ._.
+the_DT speed_NN is_VBZ sluggish_JJ at_IN best_JJS over_IN ethernet_NN ,_, and_CC the_DT mionet_NN software_NN eats_VBZ up_RP all_DT your_PRP$ ram_NN ._.
+for_IN those_DT who_WP are_VBP interested_JJ ,_, the_DT drive_NN in_IN this_DT unit_NN is_VBZ a_DT wd10eacs_JJ 3gb/sec_CD sata_NNS drive_NN ._.
+works_NNS quite_RB well_RB now_RB that_IN i_FW fixed_VBN it_PRP ,_, but_CC i_FW kinda_FW wanted_VBD an_DT external_JJ drive_NN ._.
+i_LS had_VBD to_TO return_VB this_DT unit_NN back_RB to_TO the_DT store_NN because_IN it_PRP is_VBZ almost_RB imposable_JJ to_TO work_VB due_JJ the_DT time_NN transfer_NN ._.
+it_PRP takes_VBZ over_RP 4_CD hours_NNS just_RB to_TO transfer_VB around_IN 50gb_JJ ._.
+also_RB that_IN mionet_NN software_NN that_WDT comes_VBZ with_IN it_PRP 's_VBZ annoying_JJ ._.
+i_LS just_RB wanted_VBD fast_JJ data_NNS drive_VBP not_RB all_PDT the_DT options_NNS that_WDT physically_RB slows_VBZ this_DT machine_NN down_RB ._.
+it_PRP also_RB keeps_VBZ connecting_VBG with_IN some_DT strange_JJ ip_NN address_NN from_IN witch_NN ever_RB reason_NN and_CC my_PRP$ firebox_NN keep_VB blocking_VBG that_IN connection_NN ._.
+we_PRP purchased_VBD 3_CD ._.
+the_DT sharing_NN software_NN hard_JJ rebooted_VBN 3_CD different_JJ xp_NN machines_NNS -LRB-_-LRB- serveral_JJ times_NNS all_DT at_IN the_DT same_JJ point_NN -RRB-_-RRB- ._.
+support_NN offered_VBD no_DT solutions_NNS for_IN this_DT ._.
+2_CD units_NNS had_VBD to_TO be_VB setup_NN manually_RB ,_, one_CD of_IN them_PRP had_VBD to_TO be_VB hard_JJ reset_NN ._.
+the_DT 3rd_JJ unit_NN did_VBD not_RB register_VB on_IN the_DT network_NN at_IN all_DT even_RB after_IN a_DT hard_JJ reset_NN ._.
+i_LS would_MD not_RB recommend_VB this_DT product_NN to_TO any_DT one_CD let_VB alone_RB a_DT home_NN user_NN ._.
+i_LS would_MD steer_VB away_RB from_IN this_DT box_NN ._.
+it_PRP has_VBZ very_RB slow_JJ network_NN performance_NN ._.
+the_DT advertised_JJ 1gbps_NNS speed_NN is_VBZ a_DT joke_NN ._.
+it_PRP will_MD only_RB connect_VB at_IN that_DT speed_NN ._.
+transfer_NN rates_NNS stay_VBP below_IN 10mbps_NNS ._.
+the_DT cnet_NN review_NN shows_VBZ it_PRP is_VBZ the_DT slowest_JJS of_IN the_DT lot_NN ._.
+wish_NN i_FW had_VBD read_VBN that_IN first_RB ._.
+junk_NN ,_, that_WDT looks_VBZ good_JJ ,_, but_CC still_RB junk_NN ._.
+this_DT product_NN fails_VBZ for_IN 5_CD reasons_NNS 1_LS -RRB-_-RRB- you_PRP can_MD not_RB connect_VB the_DT usb_NN port_NN to_TO a_DT computer_NN to_TO load_NN files_NNS they_PRP must_MD be_VB transferred_VBN over_IN the_DT network_NN ,_, 2_LS -RRB-_-RRB- network_NN transfer_NN is_VBZ painfully_RB slow_JJ ,_, 3_LS -RRB-_-RRB- it_PRP does_VBZ not_RB work_VB with_IN vista_NN ,_, 4_LS -RRB-_-RRB- it_PRP requires_VBZ the_DT use_NN of_IN proprietary_JJ software_NN to_TO function_VB ,_, and_CC 5_CD -RRB-_-RRB- to_TO use_VB the_DT best_JJS features_NNS of_IN the_DT software_NN requires_VBZ a_DT monthly_JJ fee_NN ._.
+forever_RB ._.
+hardware_NN seems_VBZ to_TO be_VB up_RB to_TO wd_NN 's_POS usual_JJ standards_NNS ,_, although_IN it_PRP 's_VBZ difficult_JJ to_TO tell_VB ,_, due_JJ to_TO the_DT hideousness_NN of_IN the_DT bundled_VBN mionet_NN software_NN ._.
+my_PRP$ mionet_NN has_VBZ always_RB been_VBN shaky_JJ ,_, dead_JJ slow_JJ ,_, hard_JJ to_TO get_VB to_TO use_VB ,_, constant_JJ popup_NN messages_NNS on_IN startup_NN about_IN some_DT problem_NN etc_FW ._.
+and_CC now_RB after_IN about_IN a_DT year_NN of_IN poor_JJ performance_NN ,_, mionet_NN stopped_VBD working_VBG altogether_RB ._.
+the_DT registry_NN is_VBZ wrong_JJ it_PRP says_VBZ suggesting_VBG a_DT reinstall_NN ._.
+reinstall_NN did_VBD n't_RB work_NN of_IN course_NN ,_, so_RB now_RB i_FW can_MD not_RB access_VB any_DT of_IN the_DT files_NNS i_FW have_VBP on_IN my_PRP$ wd_NN when_WRB i_FW have_VBP tried_VBN to_TO communicate_VB with_IN them_PRP about_IN my_PRP$ problems_NNS ,_, i_FW get_VB some_DT indian_JJ support_NN which_WDT does_VBZ not_RB work_VB because_IN i_FW am_VBP not_RB writing_VBG my_PRP$ problems_NNS in_IN the_DT correct_JJ way_NN ,_, within_IN the_DT right_JJ brackets_NNS etc_NN ._.
+in_IN the_DT end_NN ,_, my_PRP$ complaint_NN errand_NN just_RB died_VBD out_RP i_FW find_VB it_PRP astonishing_JJ that_IN a_DT reputable_JJ company_NN like_IN western_JJ digital_JJ would_MD tarnish_VB its_PRP$ name_NN by_IN shipping_VBG their_PRP$ super_JJ duper_NN nas_NN drives_NNS ,_, with_IN some_DT collage_NN level_NN hack_NN to_TO make_VB it_PRP work_VB like_IN they_PRP advertise_VBP it_PRP ._.
+mionet_NN is_VBZ the_DT worst_JJS software_NN i_FW have_VBP come_VBN across_IN in_IN my_PRP$ time_NN as_IN web_NN developer_NN ever_RB ,_, and_CC wd_NN has_VBZ lost_VBN all_DT its_PRP$ credibility_NN after_IN this_DT mess_NN ._.
+i_LS will_MD never_RB buy_VB a_DT wd_NN product_NN again_RB and_CC i_FW will_MD also_RB advice_NN all_DT my_PRP$ friends_NNS agains_NNS buying_VBG any_DT ,_, in_IN irl_NN and_CC online_NN like_IN here_RB run_VBN from_IN mionet_NN and_CC wd_NN and_CC never_RB stop_VB ._.
+oh_UH the_DT horror_NN i_FW do_VBP not_RB understand_VB why_WRB cnet_NN gave_VBD this_DT drive_NN anything_NN more_JJR than_IN zero_CD stars_NNS ._.
+the_DT drive_NN doesnt_NN work_NN anymore_RB and_CC when_WRB it_PRP did_VBD work_VB it_PRP is_VBZ very_RB flaky_JJ transfer_NN speeds_NNS were_VBD extremely_RB slow_JJ ._.
+you_PRP can_MD not_RB connect_VB it_PRP directly_RB to_TO the_DT pc_NN even_RB though_IN it_PRP has_VBZ a_DT usb_NN port_NN -LRB-_-LRB- the_DT port_NN is_VBZ only_RB for_IN extension_NN purposes_NNS or_CC so_IN the_DT manual_NN says_VBZ -RRB-_-RRB- ._.
+all_DT in_IN all_DT you_PRP are_VBP stuck_VBN with_IN a_DT network_NN drive_NN that_WDT does_VBZ not_RB connect_VB to_TO the_DT network_NN ,_, and_CC if_IN and_CC when_WRB it_PRP does_VBZ the_DT transfer_NN rate_NN is_VBZ so_RB dismally_RB slow_JJ i_FW 'd_MD rather_RB watch_VB paint_NN dry_JJ ._.
+would_MD not_RB recommend_VB this_DT product_NN to_TO anyone_NN ._.
+this_DT is_VBZ a_DT quote_NN from_IN wd_NN customer_NN service_NN the_DT box_NN states_VBZ that_IN the_DT drive_NN has_VBZ a_DT gigabit_NN ethernet_NN port_NN which_WDT it_PRP does_VBZ ._.
+the_DT box_NN does_VBZ n't_RB state_NN that_IN it_PRP will_MD transfer_VB at_IN gigabit_NN speeds_NNS ._.
+what_WDT ._.
+so_IN they_PRP admit_VBP that_IN they_PRP are_VBP doing_VBG false_JJ advertisement_NN ._.
+if_IN i_FW say_VBP that_IN a_DT car_NN is_VBZ a_DT ferrari_NN it_PRP better_RBR damn_RB well_RB perform_VB like_IN a_DT ferrari_NN ._.
+obviously_RB this_DT company_NN is_VBZ full_JJ of_IN crap_NN ._.
+they_PRP do_VBP not_RB deserve_VB your_PRP$ money_NN or_CC your_PRP$ business_NN ._.
+i_LS asked_VBD them_PRP if_IN i_FW can_MD at_IN least_JJS get_VB credit_NN to_TO buy_VB another_DT real_JJ gigabit_NN nas_NNS drive_VBP they_PRP probably_RB just_RB laughed_VBD ._.
+well_RB i_FW buy_VB tons_NNS of_IN computer_NN stuff_NN and_CC i_FW never_RB had_VBD too_RB much_JJ of_IN an_DT issue_NN with_IN wd_NN ._.
+not_RB anymore_RB ._.
+i_LS will_MD tell_VB everyone_NN what_WDT kind_NN of_IN crap_NN advertisement_NN these_DT people_NNS have_VBP ._.
+do_VB not_RB buy_VB western_JJ digital_JJ products_NNS ._.
+if_IN i_FW could_MD give_VB them_PRP a_DT negative_JJ star_NN i_FW would_MD shove_VB it_PRP in_IN their_PRP$ negative_JJ lying_VBG face_NN ._.
+they_PRP put_VBP their_PRP$ name_NN on_IN it_PRP ,_, they_PRP say_VBP it_PRP is_VBZ a_DT gigabit_NN drive_NN it_PRP better_RBR perform_VB like_IN it_PRP ._.
+do_VB not_RB get_VB this_DT junk_NN product_NN or_CC anything_NN else_RB these_DT rip_NN offs_NNS sell_VBP ._.
+i_LS have_VBP been_VBN back_RB and_CC forth_RB with_IN their_PRP$ customer_NN service_NN on_IN the_DT phone_NN and_CC email_NN for_IN the_DT past_JJ year_NN ._.
+they_PRP said_VBD they_PRP would_MD exchange_VB it_PRP about_IN 3_CD months_NNS ago_IN for_IN a_DT 1tb_JJ esata_NN drive_NN no_DT charge_NN but_CC many_JJ failed_VBD attempts_NNS to_TO contact_VB them_PRP puts_VBZ me_PRP back_RP in_IN the_DT same_JJ spot_NN ._.
+i_LS really_RB like_IN wd_NN but_CC their_PRP$ mionet_NN is_VBZ such_JJ a_DT bad_JJ product_NN ._.
+please_VB what_WP ever_RB you_PRP do_VBP stay_VB away_RB from_IN this_DT ._.
+it_PRP will_MD cause_VB you_PRP to_TO be_VB irrate_JJ and_CC possibly_RB throw_VB your_PRP$ $_$ 300_CD +_CC hard_JJ drive_NN ._.
+am_RB spending_VBG 5x_NN the_DT product_NN cost_NN to_TO recover_VB data_NNS from_IN the_DT hdd_NN ._.
+have_VB switched_VBN to_TO the_DT maxtor_NN central_JJ axis_NN network_NN storage_NN server_NN thus_RB far_RB a_DT much_JJ superior_JJ product_NN ._.
+be_VB warned_VBN do_VBP not_RB buy_VB the_DT wd_NN myworld_NN book_NN products_NNS unless_IN you_PRP are_VBP an_DT expert_NN linux_NN hack_NN and_CC want_VBP to_TO spend_VB your_PRP$ time_NN on_IN work_NN arounds_NNS and_CC recovery_NN ._.
+i_LS 'd_MD be_VB better_JJR off_RP with_IN a_DT usb_JJ adaptor_NN and_CC physically_RB hauling_VBG a_DT hard_JJ drive_NN around_IN my_PRP$ network_NN ._.
+this_DT has_VBZ been_VBN a_DT painful_JJ experience_NN ._.
+this_DT thing_NN is_VBZ so_RB unreliable_JJ out_IN of_IN the_DT box_NN that_IN there_EX is_VBZ even_RB a_DT full_JJ blown_VBN hack_NN site_NN for_IN this_DT product_NN ._.
+too_RB bad_JJ ,_, they_PRP loaded_VBD a_DT worthless_JJ software_NN gim_VBP me_PRP on_IN top_NN of_IN a_DT functional_JJ piece_NN of_IN hardware_NN ._.
+currently_RB ,_, most_RBS new_JJ computers_NNS are_VBP 64bit_JJ ,_, at_IN least_JJS for_IN any_DT serious_JJ ,_, professional_JJ type_NN machine_NN ._.
+including_VBG consumer_NN laptops_NNS ._.
+and_CC yet_RB ,_, this_DT cool_JJ high_JJ tech_NN device_NN can_MD not_RB be_VB accessed_VBN by_IN these_DT systems_NNS ._.
+western_JJ digital_JJ 's_POS support_NN has_VBZ no_DT solution_NN except_IN to_TO return_VB it_PRP for_IN a_DT refund_NN ._.
+mionet_NN does_VBZ not_RB even_RB have_VB a_DT support_NN number_NN to_TO contact_VB ._.
+they_PRP are_VBP clearly_RB misrepresenting_VBG this_DT product_NN ._.
+keep_VB away_RB from_IN it_PRP ._.
+there_EX 's_VBZ lots_NNS of_IN other_JJ nas_NNS options_NNS out_IN there_RB ._.
+so_RB i_FW have_VBP about_IN 450_CD gigs_NNS on_IN the_DT hd_NN that_WDT i_FW can_MD not_RB access_VB because_IN of_IN mionet_NN and_CC the_DT failed_VBN mount_VBP error_NN which_WDT if_IN you_PRP google_VBP you_PRP 'll_MD see_VB is_VBZ the_DT scourge_NN of_IN the_DT networked_JJ storage_NN options_NNS ._.
+wd_NN tech_NN support_NN is_VBZ useless_JJ on_IN this_DT error_NN ,_, and_CC lots_NNS of_IN people_NNS think_VBP there_EX should_MD be_VB a_DT class_NN action_NN suit_NN -LRB-_-LRB- all_DT in_IN favor_NN say_VBP aye_NN aye_NN -RRB-_-RRB- ._.
+i_LS 'm_VBP stuck_JJ attempting_VBG to_TO figure_VB out_RP a_DT way_NN to_TO get_VB the_DT data_NNS off_IN the_DT drive_NN before_IN returning_VBG it_PRP if_IN you_PRP 're_VBP looking_VBG at_IN this_DT drive_NN ,_, you_PRP need_VBP to_TO just_RB accept_VB the_DT fact_NN that_IN networked_JJ storage_NN is_VBZ not_RB yet_RB available_JJ on_IN the_DT mass_NN user_NN market_NN ._.
+if_IN you_PRP have_VBP the_DT tech_NN savy_NN and_CC money_NN to_TO build_VB your_PRP$ own_JJ home_NN server_NN ,_, go_VB at_IN it_PRP ._.
+drobo_NN might_MD work_VB well_RB ,_, but_CC if_IN otherwise_RB just_RB accept_VB that_IN the_DT usb_NN cable_NN will_MD have_VB to_TO stay_VB plugged_VBN into_IN one_CD of_IN your_PRP$ usb_NN ports_NNS if_IN you_PRP want_VBP to_TO access_VB the_DT files_NNS -LRB-_-LRB- i_FW only_RB gave_VBD it_PRP a_DT ._.
+5_CD star_NN because_IN i_FW had_VBD to_TO give_VB it_PRP some_DT kind_NN of_IN star_NN rating_NN for_IN this_DT review_NN to_TO get_VB posted_VBN -RRB-_-RRB- ._.
+extremely_RB unreliable_JJ -LRB-_-LRB- connection_NN problem_NN see_VBP cons_NNS -RRB-_-RRB- ._.
+now_RB they_PRP have_VBP been_VBN on_IN the_DT market_NN for_IN a_DT while_IN the_DT reviews_NNS have_VBP come_VBN in_IN ._.
+given_VBN that_IN nearly_RB 100_CD %_NN of_IN the_DT reviews_NNS are_VBP negative_JJ i_FW feel_VBP it_PRP fairly_RB safe_JJ to_TO reccomend_VB that_IN you_PRP dont_VBP buy_VB one_CD ._.
+it_PRP seems_VBZ sad_JJ when_WRB you_PRP read_VBP the_DT blogs_NNS about_IN a_DT product_NN ,_, with_IN known_JJ problems_NNS ,_, but_CC the_DT company_NN seemingly_RB looks_VBZ the_DT other_JJ way_NN ._.
+that_IN seems_VBZ to_TO be_VB the_DT case_NN with_IN wd_NN ._.
+within_IN two_CD days_NNS of_IN purchasing_VBG their_PRP$ wd3200_NN premiere_NN ,_, i_FW emailed_FW their_PRP$ support_NN department_NN asking_VBG them_PRP for_IN help_NN ._.
+nothing_NN happened_VBD ._.
+i_LS did_VBD again_RB ._.
+again_RB nothing_NN ._.
+life_NN kicks_VBZ in_IN and_CC i_FW travel_NN ._.
+it_PRP still_RB works_VBZ with_IN the_DT slower_JJR usb_NN ,_, but_CC i_FW purchased_VBN the_DT drive_NN for_IN firewire_NN ._.
+when_WRB i_FW finally_RB got_VBD around_IN to_TO using_VBG the_DT drive_NN in_IN earnest_JJ -LSB-_-LRB- with_IN a_DT brand_NN new_JJ machine_NN -RSB-_-RRB- ,_, the_DT warranty_NN had_VBD expired_VBN ._.
+then_RB ,_, wd_NN is_VBZ more_JJR than_IN happy_JJ to_TO tell_VB me_PRP the_DT problems_NNS and_CC the_DT fact_NN that_IN i_FW is_VBZ sol_NN ._.
+wd_NN has_VBZ lost_VBN me_PRP as_IN a_DT customer_NN and_CC i_FW will_MD go_VB to_TO the_DT ends_NNS of_IN the_DT earth_NN to_TO tell_VB others_NNS my_PRP$ story_NN so_IN they_PRP can_MD decide_VB for_IN themselves_PRP ._.
+based_VBN on_IN the_DT blogs_NNS ,_, others_NNS have_VBP found_VBN out_RP too_RB late_RB as_RB well_RB ._.
+this_DT is_VBZ undoubtedly_RB the_DT worst_JJS buy_NN i_FW have_VBP made_VBN ._.
+it_PRP is_VBZ a_DT spur_NN of_IN the_DT moment_NN buy_VB when_WRB i_FW saw_VBD it_PRP at_IN a_DT bargain_NN price_NN in_IN the_DT shop_NN ._.
+1tb_JJ for_IN 130_CD in_IN uk_NN ._.
+it_PRP solved_VBD an_DT immediat_NN eproblem_NN to_TO bakup_VB a_DT laptop_NN ._.
+after_IN that_DT i_FW wanted_VBD to_TO use_VB it_PRP as_IN an_DT nas_NN drive_NN so_RB my_PRP$ children_NNS could_MD back_VB up_RP their_PRP$ university_NN work_NN files_NNS remotely_RB ._.
+well_RB what_WP a_DT waste_NN of_IN time_NN ._.
+the_DT con_NN is_VBZ that_IN you_PRP have_VBP to_TO pay_VB for_IN mionet_NN service_NN to_TO get_VB the_DT remote_JJ nas_NNS capabilities_NNS they_PRP do_VBP n't_RB mention_VB that_DT on_IN the_DT box_NN ._.
+nor_CC do_VBP they_PRP mention_VB that_DT numerous_JJ filetypes_NNS can_MD not_RB be_VB shared_VBN ._.
+we_PRP were_VBD recording_VBG voice_NN files_NNS of_IN their_PRP$ grandad_NN in_IN hospital_NN and_CC wanted_VBD to_TO share_VB the_DT conversations_NNS with_IN them_PRP could_MD we_PRP ._.
+no_DT they_PRP do_VBP n't_RB allow_VB mp3_NN files_NNS to_TO be_VB transferred_VBN ._.
+yes_RB the_DT workaround_NN is_VBZ to_TO wrap_VB it_PRP into_IN a_DT zip_NN file_NN but_CC why_WRB should_MD i_FW have_VBP to_TO do_VB that_DT when_WRB i_FW have_VBP paid_VBN for_IN a_DT product_NN that_WDT says_VBZ it_PRP allows_VBZ me_PRP to_TO share_VB files_NNS ._.
+my_PRP$ next_JJ step_NN is_VBZ to_TO decommission_VB this_DT and_CC convert_VB it_PRP into_IN a_DT non_JJ nas_NNS drive_NN ._.
+i_FW thought_VBN about_IN selling_VBG it_PRP on_IN ebay_NN but_CC felt_VBD that_DT would_MD be_VB immoral_JJ as_IN i_FW would_MD be_VB tranferring_VBG the_DT con_NN and_CC disappointment_NN to_TO some_DT other_JJ poor_JJ unsuspecting_JJ person_NN ._.
+i_LS could_MD n't_RB live_VB with_IN the_DT guilt_NN ._.
+i_LS do_VBP not_RB know_VB how_WRB westen_JJ digital_JJ live_JJ with_IN the_DT guilt_NN that_IN they_PRP are_VBP conning_VBG many_JJ thousands_NNS of_IN people_NNS of_IN their_PRP$ hard_JJ earned_VBN money_NN -LRB-_-LRB- well_RB for_IN themajority_NN of_IN us_PRP it_PRP is_VBZ hard_JJ earned_VBN -RRB-_-RRB- i_FW think_VBP you_PRP get_VB the_DT pcture_NN that_WDT i_FW feel_VBP strongly_RB that_IN this_DT is_VBZ a_DT bad_JJ buy_NN ._.
+i_FW feel_VBP ripped_VBN off_RP ._.
+after_IN reading_VBG a_DT review_NN on_IN the_DT net_NN and_CC finding_VBG it_PRP at_IN costco_NN ,_, i_FW thought_VBD this_DT is_VBZ what_WP i_FW is_VBZ looking_VBG for_IN ._.
+boy_NN is_VBZ i_FW wrong_JJ ._.
+not_RB only_RB do_VB my_PRP$ cons_NNS tell_VBP the_DT story_NN but_CC trying_VBG to_TO get_VB help_VB from_IN wd_NN is_VBZ impossible_JJ ._.
+they_PRP refered_VBD me_PRP to_TO a_DT faq_NN page_NN and_CC informed_VBD me_PRP that_IN they_PRP do_VBP not_RB support_VB xbox_NN 360_CD ._.
+learn_VB from_IN my_PRP$ mistake_NN ._.
+not_RB every_DT product_NN is_VBZ perfect_JJ for_IN every_DT one_CD ,_, but_CC unless_IN you_PRP want_VBP slow_JJ or_CC non_JJ existant_JJ access_NN to_TO your_PRP$ files_NNS ,_, and_CC your_PRP$ not_RB storing_VBG music_NN then_RB maybe_RB this_DT product_NN is_VBZ for_IN you_PRP ._.
+i_LS have_VBP had_VBD the_DT 500gb_JJ drive_NN for_IN about_IN a_DT year_NN ._.
+mounting_VBG to_TO my_PRP$ network_NN is_VBZ always_RB an_DT issue_NN ._.
+i_LS have_VBP to_TO reboot_NN the_DT drive_NN and/or_CC my_PRP$ pc_NN ._.
+it_PRP will_MD work_VB fine_JJ for_IN a_DT couple_NN of_IN days_NNS to_TO a_DT week_NN or_CC so_RB ._.
+then_RB its_PRP$ gone_VBN again_RB ._.
+finally_RB about_IN two_CD weeks_NNS ago_IN it_PRP failed_VBD again_RB and_CC have_VBP not_RB been_VBN able_JJ to_TO mount_VB ._.
+the_DT mionet_NN and_CC retrospect_NN software_NN are_VBP also_RB very_RB unreliable_JJ ._.
+do_VB not_RB even_RB consider_VB buying_VBG this_DT product_NN ._.
+of_IN course_NN no_DT help_NN from_IN wd_NN unless_IN you_PRP want_VBP to_TO pay_VB a_DT tech_NN fee_NN ._.
+this_DT is_VBZ absolutely_RB the_DT most_RBS ridiculous_JJ thing_NN i_FW 've_VBP ever_RB heard_VBN ._.
+and_CC i_FW 'm_VBP not_RB alone_RB ._.
+for_IN starters_NNS see_VBP ._.
+pcmag_NN ._.
+com/article2/0_NN ,_, 2704_CD ,_, 2229868_CD ,_, 00_CD ._.
+asp_NN ._.
+www_NN ._.
+gearlog_NN ._.
+com/2007/12_NN /_: western_JJ __NN digital_JJ __NN blocks_VBZ __SYM nas_FW __FW fro_NN ._.
+php_NN ._.
+http_NN /_: /_: tech_NN ._.
+propeller_NN ._.
+com/story/2007_NN /_: 12/07/file_CD sharing_VBG off_RP limits_NNS on_IN western_JJ digital_JJ nas_NNS ._.
+technologyexpert_NN ._.
+blogspot_NN ._.
+com/2007/12_NN /_: multimedia_NNS sharing_VBG off_RP limits_NNS on_IN ._.
+html_NN ._.
+http_NN /_: /_: www_NN ._.
+computerworld_NN ._.
+com/action/article_NN ._.
+command_NN viewarticlebasic_JJ taxonomyname_NN nas_NN articleid_NN 9051599_CD taxonomyid_NN 148_CD ._.
+www_NN ._.
+marrowbones_NNS ._.
+com/commons/technosocial_JJ /_: 2007/12/western_JJ __NN digital_JJ __NN cripples_NNS __VBP file_NN ._.
+html_NN ._.
+never_RB have_VBP i_FW had_VBD the_DT misfortune_NN to_TO purchase_VB something_NN from_IN a_DT well_RB known_VBN manufacturer_NN that_WDT has_VBZ been_VBN so_RB utterly_RB crap_NN two_CD main_JJ issues_NNS ._.
+it_PRP 's_VBZ very_RB very_RB slow_JJ ,_, both_DT to_TO read_VB and_CC write_VB ._.
+for_IN example_NN ,_, it_PRP takes_VBZ about_RB 5_CD minutes_NNS to_TO copy_VB a_DT 60mb_JJ mp3_NN album_NN to_TO this_DT drive_NN ._.
+however_RB ,_, that_IN pales_VBZ in_IN comparison_NN to_TO the_DT next_JJ problem_NN 2_CD ._.
+you_PRP can_MD only_RB upload_VB about_IN 500mb_NN of_IN data_NNS to_TO the_DT drive_NN before_IN it_PRP locks_VBZ itself_PRP and_CC you_PRP can_MD not_RB write_VB any_DT more_JJR until_IN the_DT power_NN is_VBZ cycled_VBN ._.
+this_DT problem_NN seems_VBZ relatively_RB well_RB documented_VBN ,_, but_CC i_FW contacted_VBN wd_NN tech_NN support_NN about_IN it_PRP regardless_RB and_CC got_VBD teh_NN following_JJ reply_NN ._.
+we_PRP recommend_VBP you_PRP transfer_VB data_NNS to_TO your_PRP$ drive_NN in_IN 500mb_JJ increments_NNS to_TO see_VB if_IN that_DT resolves_VBZ the_DT problem_NN you_PRP 're_VBP having_VBG ._.
+if_IN you_PRP transfer_VB more_JJR than_IN 500mb_CD to_TO the_DT drive_NN ,_, it_PRP may_MD fall_VB offline_JJ and_CC abort_VB the_DT data_NNS transfer_NN ._.
+so_RB ,_, they_PRP know_VBP about_IN it_PRP and_CC seem_VB to_TO think_VB it_PRP 's_VBZ ok_NN ._.
+to_TO put_VB this_DT in_IN perspective_NN ,_, if_IN i_FW wanted_VBD to_TO completely_RB fill_VB my_PRP$ 500gb_JJ drive_NN ,_, i_FW 'd_MD have_VB to_TO power_NN cycle_NN it_PRP 1000_CD times_NNS ._.
+now_RB that_IN really_RB is_VBZ rubbish_JJ thankfully_RB i_FW 've_VBP been_VBN able_JJ to_TO return_VB the_DT drive_NN and_CC replace_VB it_PRP with_IN a_DT decent_JJ lacie_NN one_CD ._.
+i_LS usually_RB do_VBP n't_RB complain_VB about_IN such_JJ cosmetic_JJ things_NNS as_IN design_NN ,_, user_NN friendliness_NN etc_NN ._.
+even_RB though_IN i_FW think_VB this_DT white_JJ gadget_NN sometimes_RB make_VB a_DT bit_NN to_TO much_JJ noise_NN ,_, i_FW can_MD live_VB with_IN noise_NN i_FW managed_VBD to_TO get_VB everything_NN up_RB and_CC running_VBG ,_, uploaded_VBD some_DT files_NNS to_TO the_DT drive_NN -LRB-_-LRB- even_RB though_IN it_PRP is_VBZ way_NN slower_JJR than_IN it_PRP claims_VBZ to_TO be_VB -RRB-_-RRB- ._.
+with_IN approx_RB 200_CD g_NN 's_POS of_IN data_NNS uploaded_VBD ,_, the_DT problems_NNS started_VBD at_IN first_JJ it_PRP occasionally_RB disconnected_VBD from_IN the_DT network_NN without_IN any_DT warnings_NNS ,_, and_CC after_IN a_DT few_JJ weeks_NNS it_PRP did_VBD not_RB even_RB respond_VB to_TO hardware_NN actions_NNS -LRB-_-LRB- such_JJ as_IN pressing_VBG the_DT power_NN button_NN in_IN an_DT attempt_NN to_TO turn_VB the_DT machine_NN off_RB and_CC restart_VB it_PRP -RRB-_-RRB- ._.
+right_RB now_RB it_PRP seems_VBZ to_TO be_VB stuck_VBN in_IN some_DT kind_NN of_IN limbo_NN ,_, it_PRP is_VBZ obviously_RB running_VBG -LRB-_-LRB- i_FW can_MD hear_VB it_PRP ,_, competing_VBG with_IN my_PRP$ neighbours_NNS power_NN drill_NN about_IN who_WP 's_VBZ the_DT noisiest_JJS -RRB-_-RRB- ,_, but_CC the_DT power_NN indicator_NN is_VBZ not_RB lit_VBN still_RB ,_, it_PRP is_VBZ an_DT impressive_JJ way_NN of_IN disposing_VBG of_IN 200_CD g_NN 's_POS of_IN data_NNS and_CC years_NNS of_IN hard_JJ work_NN ._.
+fortunately_RB i_FW have_VBP several_JJ backups_NNS of_IN most_JJS of_IN the_DT data_NNS ,_, but_CC still_RB ,_, this_DT is_VBZ the_DT worst_JJS piece_NN of_IN junk_NN i_FW have_VBP ever_RB come_VBN across_IN where_WRB does_VBZ western_JJ digital_JJ find_VB such_JJ junky_JJ equipment_NN ._.
+afghanistan_NN ._.
+the_DT unit_NN i_FW bought_VBN at_IN the_DT apple_NN store_NN failed_VBD ._.
+they_PRP sent_VBD me_PRP a_DT replacement_NN -LRB-_-LRB- procedure_NN is_VBZ not_RB too_RB difficult_JJ -RRB-_-RRB- that_WDT did_VBD not_RB even_RB turn_VB on_IN they_PRP sent_VBD me_PRP another_DT shipping_NN label_NN ,_, but_CC now_RB i_FW am_VBP making_VBG another_DT trip_NN to_TO ship_VB the_DT 2nd_JJ one_CD back_RB ._.
+tiresome_JJ ._.
+although_IN this_DT product_NN comes_VBZ with_IN a_DT 1gbps_NNS network_NN connection_NN ,_, the_DT real_JJ transmitting_VBG speed_NN is_VBZ scarily_RB low_JJ ,_, my_PRP$ estimation_NN is_VBZ 3m_JJ bytes_NNS per_IN second_JJ at_IN most_JJS ._.
+the_DT second_JJ problem_NN is_VBZ sometimes_RB there_EX is_VBZ no_DT response_NN ,_, especially_RB large_JJ file_NN writing_VBG last_JJ but_CC not_RB least_JJS ,_, the_DT hci_NN only_RB allow_VBP anywhere_RB software_NN to_TO connect_VB ._.
+although_IN you_PRP can_MD mapping_VBG it_PRP as_IN network_NN folder_NN mapping_NN ,_, it_PRP really_RB a_DT nightmare_NN when_WRB there_EX is_VBZ no_DT response_NN although_IN the_DT product_NN comes_VBZ with_IN a_DT excellent_JJ looking_VBG and_CC led_VBD indicators_NNS ,_, plus_CC a_DT good_JJ price_NN ,_, i_FW would_MD not_RB recommend_VB this_DT product_NN ._.
+the_DT bottom_JJ line_NN is_VBZ 1t_JJ or_CC 2t_JJ writing_VBG on_IN this_DT 3m_NN speed_NN storage_NN might_MD drive_VB you_PRP crazy_JJ ._.
+the_DT software_NN for_IN this_DT hemorage_NN in_IN a_DT box_NN nearly_RB destroyed_VBD both_CC computers_NNS i_FW tried_VBD it_PRP on_IN before_IN i_FW decided_VBD there_EX were_VBD cheaper_JJR ways_NNS to_TO cause_VB myself_PRP anguish_NN ._.
+the_DT hardrive_JJ itself_PRP is_VBZ fine_JJ but_CC since_IN the_DT true_JJ value_NN of_IN this_DT product_NN is_VBZ its_PRP$ networking_NN capabilities_NNS -LRB-_-LRB- powered_VBN by_IN the_DT mionet_NN software_NN -RRB-_-RRB- ,_, it_PRP fails_VBZ in_IN comparison_NN to_TO cheaper_JJR externals_NNS ._.
+you_PRP want_VBP to_TO whip_VB out_RP your_PRP$ os_NNS recovery_NN cd_NN ._.
+by_IN all_DT means_NNS buy_VBP the_DT external_JJ from_IN hell_NN ._.
+mio_NN net_NN -LRB-_-LRB- the_DT software_NN that_WDT comes_VBZ bundled_VBN with_IN the_DT my_PRP$ book_NN -RRB-_-RRB- is_VBZ terrible_JJ ._.
+you_PRP have_VBP to_TO install_VB it_PRP on_IN every_DT computer_NN on_IN your_PRP$ network_NN that_IN you_PRP want_VBP to_TO access_VB the_DT hard_JJ drive_NN ._.
+western_JJ digital_JJ then_RB tries_VBZ to_TO market_NN upgrades_NNS to_TO the_DT software_NN for_IN remote_JJ access_NN and_CC remote_JJ control_NN of_IN other_JJ computers_NNS on_IN the_DT network_NN ._.
+it_PRP took_VBD me_PRP a_DT while_NN to_TO figure_VB out_RP what_WP the_DT software_NN is_VBZ for_IN and_CC what_WP i_FW needed_VBN i_FW just_RB wanted_VBD to_TO add_VB this_DT baby_NN to_TO the_DT router_NN ,_, give_VB it_PRP a_DT password_NN ,_, and_CC go_VB ._.
+is_VBZ that_IN so_RB difficult_JJ ._.
+i_LS just_RB added_VBD some_DT photos_NNS to_TO the_DT mybook_NN and_CC my_PRP$ computer_NN locks_VBZ up_RP trying_VBG to_TO read_VB them_PRP from_IN it_PRP ._.
+how_WRB am_VBP i_FW supposed_VBN to_TO share_VB large_JJ amounts_NNS of_IN data_NNS like_IN this_DT ._.
+this_DT product_NN seems_VBZ a_DT total_JJ waste_NN of_IN time_NN and_CC based_VBN on_IN what_WP others_NNS have_VBP written_VBN here_RB i_FW will_MD now_RB try_VB to_TO get_VB my_PRP$ money_NN back_RB i_FW is_VBZ very_RB disappointed_JJ with_IN this_DT product_NN ._.
+this_DT thing_NN is_VBZ absolutely_RB useless_JJ ._.
+check_VB the_DT lengthy_JJ list_NN of_IN file_NN types_NNS that_IN this_DT drive_NN will_MD refuse_VB to_TO load_VB http_NN /_: /_: wdc_NN ._.
+custhelp_NN ._.
+com/cgi_NN bin/wdc_NN ._.
+cfg/php/enduser_NN /_: std_NN __NN adp_NN ._.
+php_NN ._.
+p_NN __SYM faqid_VBD 1495_CD p_NN __NN created_VBN 1168641440_CD p_NN __NN sid_NN bltfvjli_NN p_NN __NN accessibility_NN 0_CD p_NN __SYM redirect_VB p_NN __NN lva_NN p_NN __CD sp_NN cf9zcmnoptemcf9zb3j0x2j5pszwx2dyawrzb3j0pszwx3jvd19jbnq9nsw1jnbfchjvzhm9mczwx2nhdhm9mczwx3b2pszwx2n2pszwx3nlyxjjaf90exblpwfuc3dlcnmuc2vhcmnox2zubczwx3bhz2u9mszwx3nlyxjjaf90zxh0ps5hdmk_NN p_NN __SYM li_FW p_NN __NN topview_NN 1_CD ._.
+make_VB sure_JJ you_PRP understand_VBP that_IN many_JJ file_NN types_NNS aac_NN ,_, aif_NN ,_, aifc_NN ,_, aiff_NN ,_, amf_NN ,_, asf_NN ,_, asx_NN ,_, avi_NN ,_, ,_, cda_NN ,_, dvi_NN ,_, divx_NN ,_, far_RB ,_, it_PRP ,_, itz_NN ,_, kar_FW ,_, mdz_NN ,_, mov_NN ,_, mp1_NN ,_, mp2_NN ,_, mp3_NN ,_, mp4_NN ,_, mpa_NN ,_, mpe_NN ,_, mpeg_NN ,_, mpg_NN ,_, mpga_NN ,_, mpv2_NN ,_, ogg_NN ,_, okt_NN ,_, ptm_NN ,_, qt_NN ,_, qt1_NN ,_, vob_NN ,_, voc_NN ,_, wm_NN ,_, wma_NN ,_, wmv_NN plus_CC more_JJR will_MD not_RB work_VB with_IN this_DT drive_NN ._.
+of_IN course_NN they_PRP 're_VBP also_RB the_DT largest_JJS files_NNS i_FW have_VBP and_CC the_DT ones_NNS i_FW wanted_VBD to_TO move_VB off_RP my_PRP$ pc_NN 's_POS hd_NN onto_IN network_NN storage_NN too_RB ._.
+booo_NN hisss_NN to_TO western_JJ digital_JJ for_IN trying_VBG to_TO decide_VB for_IN me_PRP which_WDT files_VBZ i_FW can_MD or_CC can_MD not_RB share_VB ._.
+i_LS bought_VBD this_DT drive_NN to_TO back_VB up_RP a_DT failing_VBG 1_CD tb_NN lacie_NN talk_NN about_IN dissappointment_NN ._.
+reads/writes_NNS are_VBP abysmally_RB slow_JJ i_FW is_VBZ under_IN the_DT impression_NN that_IN the_DT additional_JJ memory_NN is_VBZ supposed_VBN to_TO speed_VB up_RP things_NNS instead_RB it_PRP seems_VBZ to_TO be_VB doing_VBG the_DT opposite_NN ._.
+i_LS can_MD transfer_VB 2_CD music_NN directories_NNS in_IN less_JJR than_IN 2_CD minutes_NNS from_IN 2_CD usb_NN lacie_NN drives_NNS ._.
+same_JJ files_NNS from_IN a_DT lacie_NN to_TO the_DT mybook_NN takes_VBZ 16_CD mintutes_NNS what_WP a_DT joke_NN ._.
+i_LS very_RB much_RB do_VB not_RB recommend_VB this_DT this_DT drive_NN ._.
+this_DT product_NN is_VBZ sold_VBN with_IN false_JJ claims_NNS ._.
+the_DT mionet_NN software_NN seems_VBZ like_IN a_DT first_JJ generation_NN beta_NN that_WDT even_RB the_DT customer_NN service_NN reps_NNS admit_VBP dosent_JJ work_NN ._.
+i_FW cant_FW belive_FW wd_NN would_MD use_VB this_DT ._.
+i_LS have_VBP had_VBN multiple_JJ problems_NNS from_IN installing_VBG it_PRP that_WDT could_MD only_RB be_VB repaired_VBN with_IN a_DT system_NN restore_VB ._.
+if_IN you_PRP want_VBP to_TO use_VB this_DT drive_NN remotely_RB dont_VBD buy_VB it_PRP ._.
+you_PRP can_MD use_VB it_PRP on_IN a_DT lan_NN with_IN out_JJ mionet_NN and_CC it_PRP works_VBZ ._.
+bought_VBD it_PRP last_JJ night_NN at_IN best_JJS buy_NN ._.
+installed_VBN smoothly_RB ._.
+realised_VBN right_RB away_RB that_IN it_PRP is_VBZ slow_JJ to_TO transfer_VB files_NNS ._.
+these_DT are_VBP critcal_JJ files_NNS for_IN business_NN purposes_NNS ._.
+drive_NN crashed_VBD and_CC went_VBD offline_JJ and_CC i_FW reset_VB it_PRP ._.
+files_NNS disappeared_VBD ._.
+copied_VBN files_NNS again_RB overnight_RB ._.
+crashed_VBD ._.
+reset_VB ._.
+files_NNS missing_VBG ,_, disappeared_VBD ._.
+then_RB the_DT mionet_NN software_NN asked_VBD me_PRP to_TO go_VB to_TO my_PRP$ email_NN and_CC verify_VB my_PRP$ email_NN address_NN or_CC it_PRP wouldnt_NN let_VB me_PRP use_VB drive_NN ._.
+afterwich_JJ mionet_NN began_VBD failing_VBG again_RB ._.
+drive_NN remaines_NNS offline_JJ whenever_WRB it_PRP feels_VBZ like_IN it_PRP ._.
+also_RB it_PRP runs_VBZ really_RB really_RB hot_JJ ._.
+likely_RB this_DT will_MD burn_VB itself_PRP up_RP ,_, or_CC burn_VBP down_RP my_PRP$ house_NN ._.
+i_LS did_VBD not_RB trust_VB it_PRP right_RB away_RB so_RB i_FW lost_VBN nothing_NN off_IN my_PRP$ c_NN ._.
+deleted_VBN copies_NNS of_IN my_PRP$ files_NNS on_IN external_JJ drive_NN ._.
+pacakged_VBN up_RP up_RB in_IN the_DT box_NN ._.
+returned_VBD it_PRP in_IN afternoon_NN ._.
+took_VBD 14_CD hours_NNS to_TO get_VB rid_JJ of_IN this_DT piece_NN of_IN total_JJ junk_NN ._.
+i_LS sould_NN have_VBP just_RB smashed_VBN a_DT brick_NN on_IN my_PRP$ forehead_NN and_CC called_VBD it_PRP technology_NN ._.
+western_JJ digital_JJ is_VBZ the_DT drive_NN i_FW trust_NN with_IN my_PRP$ whole_JJ business_NN and_CC i_FW 've_VBP never_RB had_VBN a_DT problem_NN ._.
+this_DT is_VBZ a_DT full_JJ blown_VBN disappointment_NN ._.
+and_CC i_FW 'm_VBP not_RB the_DT only_JJ one_CD here_RB saying_VBG this_DT ._.
+do_VB not_RB buy_VB this_DT ._.
+if_IN you_PRP see_VBP it_PRP on_IN the_DT street_NN ,_, run_VBP the_DT other_JJ way_NN ._.
+you_PRP will_MD waste_VB you_PRP time_NN and_CC life_NN and_CC never_RB be_VB able_JJ to_TO get_VB that_DT back_RB ._.
+do_VB yourself_PRP a_DT favor_NN and_CC run_VB away_RB from_IN this_DT hard_JJ drive_NN ._.
+i_LS 'd_MD been_VBN contemplating_VBG buying_VBG one_CD of_IN these_DT for_IN months_NNS and_CC when_WRB i_FW finally_RB got_VBD it_PRP i_FW took_VBD it_PRP bak_NN to_TO bestbuy_NN after_IN a_DT few_JJ hours_NNS trying_VBG to_TO set_VB it_PRP up_IN 1_CD -RRB-_-RRB- you_PRP need_VBP a_DT subscription_NN to_TO continue_VB to_TO access_VB your_PRP$ data_NNS remotely_RB after_IN 1_CD month_NN ._.
+this_DT fact_NN kills_VBZ the_DT whole_JJ idea_NN of_IN having_VBG a_DT remote_JJ hard_JJ drive_NN you_PRP can_MD access_VB anywhere_RB 2_LS -RRB-_-RRB- mionet_NN is_VBZ one_CD of_IN the_DT worst_JJS pieces_NNS of_IN sofware_NN ever_RB encoded_VBN ._.
+it_PRP 's_VBZ so_RB bad_JJ i_FW hate_VBP it_PRP more_JJR than_IN sonicstage_NN from_IN sony_NN ,_, which_WDT should_MD tell_VB you_PRP something_NN if_IN youv_NN '_'' e_SYM ever_RB used_VBN sonicstage_NN 3_CD -RRB-_-RRB- i_FW could_MD find_VB no_DT way_NN to_TO wirelessly_RB access_VB my_PRP$ data_NNS without_IN using_VBG the_DT internet_NN connection_NN ,_, which_WDT is_VBZ ridiculously_RB slow_JJ ._.
+this_DT should_MD have_VB been_VBN the_DT first_JJ thing_NN built_VBN into_IN the_DT drive_NN i_FW bought_VBD this_DT drive_NN primarily_RB so_RB i_FW could_MD put_VB all_DT my_PRP$ movies_NNS ,_, homevideos_NNS ,_, pictures_NNS ,_, music_NN ,_, etc_FW on_IN it_PRP and_CC wirelessly_RB access_NN the_DT data_NNS in_IN my_PRP$ own_JJ home_NN ._.
+it_PRP 's_VBZ possible_JJ to_TO do_VB this_DT ,_, but_CC only_RB through_IN a_DT live_JJ internet_NN connection_NN ,_, which_WDT defeats_VBZ the_DT purpose_NN ._.
+i_LS 'm_VBP gon_VBG na_TO buy_VB the_DT ._.
+iomega_JJ storcenter_NN wireless_JJ nas_NNS 1tb_VBP even_RB though_IN the_DT user_NN reviews_VBZ on_IN cnet_NN are_VBP pretty_RB harsh_JJ ._.
+this_DT should_MD be_VB a_DT terrific_JJ piece_NN of_IN hardware_NN from_IN a_DT `_`` reputable_JJ '_'' manufacturer_NN ._.
+it_PRP is_VBZ instead_RB patheticaly_RB slow_JJ operating_NN at_IN lan_NN speeds_NNS no_RB better_RB than_IN 1/20th_NN of_IN its_PRP$ advertised_JJ performance_NN while_IN simple_JJ use_NN as_IN nas_NN is_VBZ doable_JJ ,_, finding_VBG out_RP how_WRB to_TO do_VB this_DT is_VBZ not_RB simple_JJ at_IN all_DT and_CC the_DT interface_NN is_VBZ very_RB minimalist_JJ and_CC not_RB user_NN friendly_JJ the_DT mionet_NN nonsense_NN is_VBZ definitely_RB to_TO be_VB avoided_VBN ,_, usesless_JJ really_RB for_IN anything_NN more_JJR than_IN small_JJ text_NN documents_NNS ._.
+subscription_NN required_VBN ._.
+put_VB that_DT on_IN the_DT outside_NN of_IN the_DT box_NN please_VB ._.
+i_LS have_VBP turned_VBN of_IN the_DT anywhere_RB access_NN four_CD times_NNS now_RB as_IN it_PRP seems_VBZ to_TO keep_VB turning_VBG itself_PRP on_IN ._.
+i_LS do_VBP n't_RB want_VB the_DT extra_JJ network_NN activity_NN or_CC public_JJ access_NN to_TO my_PRP$ device_NN ever_RB ._.
+seeing_VBG as_IN the_DT interface/controller_NN is_VBZ running_VBG linux_NN to_TO manage_VB the_DT box_NN ,_, why_WRB can_MD not_RB we_PRP have_VBP a_DT little_RB more_RBR manageability_NN ._.
+how_WRB about_RB moving_VBG files_NNS from_IN one_CD folder_NN to_TO another_DT require_VBP that_IN they_PRP be_VB moved_VBN from_IN the_DT box_NN to_TO the_DT pc_NN and_CC back_RB to_TO the_DT box_NN ._.
+some_DT simple_JJ file_NN management_NN would_MD really_RB help_VB here_RB ._.
+wd_NN get_VB a_DT grip_NN ._.
+burned_VBN by_IN wd_NN twice_RB this_DT month_NN as_IN my_PRP$ raptor_NN 10k_CD rpm_NN based_VBN raid0_NN drive_NN had_VBD a_DT drive_NN failure_NN within_IN three_CD weeks_NNS of_IN purchase/set_NN up_IN tsk_NN ._.
+tsk_RB ._.
+is_VBZ wd_NN trying_VBG to_TO become_VB the_DT new_JJ fujitsu_NN ._.
+wait_VB until_IN they_PRP get_VBP this_DT thing_NN working_VBG before_IN you_PRP spend_VBP your_PRP$ money_NN on_IN a_DT paperweight_NN ._.
+think_VB twice_RB before_IN buying_VBG a_DT wd_NN product_NN as_IN quality_NN is_VBZ taking_VBG a_DT turn_NN for_IN the_DT worse_JJR a_DT day_NN later_RB and_CC 43_CD ._.
+5_CD minutes_NNS on_IN the_DT phone_NN waiting_VBG for_IN a_DT second_JJ level_NN tech_NN support_NN rep_NN at_IN western_JJ digital_JJ to_TO tell_VB me_PRP that_IN 3_CD or_CC 4_CD mb/sec_NN is_VBZ all_DT you_PRP can_MD expect_VB from_IN these_DT drives_NNS ,_, they_PRP are_VBP slow_JJ a_DT direct_JJ quote_NN ._.
+that_DT of_IN course_NN translates_VBZ to_TO -LRB-_-LRB- 3_CD or_CC 4_CD time_NN 8_CD -RRB-_-RRB- 24_CD mb_NN to_TO 32_CD mb_NN transfer_NN rates_NNS ._.
+hardly_RB the_DT advertised_VBN 1_CD gb_NN lan_NN that_WDT is_VBZ all_DT over_IN the_DT box_NN ._.
+a_DT further_JJ quote_NN these_DT things_NNS run_VBP on_IN a_DT linux_NN system_NN internaly_RB and_CC there_EX is_VBZ nothing_NN we_PRP can_MD do_VB to_TO speed_VB them_PRP up_RP ._.
+i_LS 'm_VBP sorry_JJ sir_NNP but_CC that_DT 's_VBZ how_WRB it_PRP is_VBZ ._.
+my_PRP$ system_NN back_RB up_RB consisting_VBG of_IN 450_CD gb_NN of_IN data_NNS uploaded_VBD at_IN gb_NN speeds_NNS now_RB that_IN i_FW have_VBP to_TO restore_VB it_PRP ,_, do_VBP the_DT math_NN ,_, 1_CD gb_NN is_VBZ ~_NN 1_CD ,_, 000_CD ,_, 000_CD ,_, 000_CD mb_NN so_RB 450_CD ,_, 000_CD ,_, 000_CD ,_, 000_CD x_CC 8_CD -LRB-_-LRB- for_IN bytes_NNS -RRB-_-RRB- is_VBZ 3_CD ,_, 600_CD ,_, 000_CD ,_, 000_CD ,_, 000_CD bytes_NNS divided_VBN by_IN 24_CD ,_, 000_CD ,_, 000_CD or_CC 32_CD ,_, 000_CD ,_, 000_CD is_VBZ between_IN 112_CD ,_, 500_CD and_CC 150_CD ,_, 000_CD seconds_NNS or_CC 31_CD and_CC 42_CD hours_NNS ._.
+that_DT is_VBZ if_IN it_PRP does_VBZ not_RB choke_VB on_IN some_DT of_IN the_DT larger_JJR files_NNS -LRB-_-LRB- over_IN 2gb_JJ -RRB-_-RRB- like_IN it_PRP has_VBZ done_VBN already_RB avoid_VB this_DT drive_NN at_IN all_DT costs_NNS as_IN it_PRP is_VBZ not_RB a_DT practical_JJ place_NN to_TO store_NN and_CC retrieve_VB large_JJ amounts_NNS of_IN data_NNS ._.
+now_RB to_TO figure_VB out_RP how_WRB to_TO get_VB that_DT data_NNS back_RB maybe_RB seagate_VB data_NNS recovery_NN services_NNS ._.
+wd_NN drive_NN are_VBP usually_RB good_JJ for_IN the_DT money_NN ._.
+this_DT product_NN is_VBZ a_DT complete_JJ disaster_NN ._.
+i_LS wonder_VB how_WRB many_JJ time_NN wd_NN will_MD get_VB sued_VBN for_IN false_JJ advertising_NN ._.
+there_EX is_VBZ nothing_NN on_IN the_DT packaging_NN that_WDT tells_VBZ the_DT customers_NNS a_DT subscription_NN is_VBZ required_VBN ._.
+furthermore_RB letting_VBG their_PRP$ customers_NNS go_VB through_IN the_DT mionet_NN nightmare_NN install_VB -LRB-_-LRB- email_NN ,_, name_NN ,_, etc_FW ._.
+etc_NN -RRB-_-RRB- is_VBZ the_DT last_JJ straw_NN for_IN me_PRP ._.
+this_DT piece_NN of_IN equipment_NN is_VBZ back_RB to_TO where_WRB it_PRP came_VBD from_IN tomorrow_NN morning_NN ._.
+buyers_NNS beware_VBP ._.
+this_DT thing_NN is_VBZ not_RB an_DT ip_NN nas_NN ._.
+use_VB it_PRP to_TO cook_VB your_PRP$ eggs_NNS at_IN best_JJS or_CC better_JJR just_RB walk_VB away_RB from_IN it_PRP cnet_NN editor_NN 's_POS rating_NN is_VBZ 7_CD ._.
+what_WP a_DT joke_NN ._.
+i_LS got_VBD this_DT because_IN it_PRP looked_VBD like_IN a_DT great_JJ deal_NN a_DT nas_NN with_IN gigabit_NN ._.
+well_RB ,_, the_DT bad_JJ news_NN is_VBZ that_IN it_PRP 's_VBZ very_RB slow_JJ and_CC does_VBZ not_RB live_VB up_RP to_TO it_PRP 's_VBZ gigabit_JJ claim_NN ._.
+it_PRP took_VBD 4_CD hours_NNS to_TO back_VB up_RP 22g_CD ._.
+that_DT 's_VBZ unacceptable_JJ ._.
+reading_VBG around_RB ,_, it_PRP seems_VBZ that_IN the_DT transfer_NN speed_NN is_VBZ more_RBR in_IN the_DT 3_CD 5_CD mps_NNS than_IN the_DT 1000mps_NNS that_IN it_PRP claims_VBZ i_FW am_VBP returning_VBG it_PRP tomorrow_NN after_IN i_FW wipe_VBP it_PRP clean_JJ ._.
+a_DT usb2_NN or_CC firewire_NN drive_NN would_MD be_VB a_DT better_JJR choice_NN ._.
+unless_IN you_PRP really_RB ,_, really_RB want_VBP to_TO access_VB your_PRP$ files_NNS remotely_RB ,_, do_VBP not_RB install_VB the_DT mionet_NN the_DT software_NN ._.
+after_IN connecting_VBG it_PRP to_TO your_PRP$ router_NN ,_, find_VB the_DT drive_NN with_IN your_PRP$ browser_NN at_IN \_CD \_SYM \_SYM mybookworld_NN then_RB map_VBP it_PRP to_TO your_PRP$ computer_NN and_CC go_VB from_IN there_EX any_DT files_NNS you_PRP put_VBP on_IN the_DT drive_NN using_VBG mionet_NN software_NN can_MD not_RB be_VB accessed_VBN without_IN the_DT software_NN suddenly_RB ,_, after_IN about_IN a_DT week_NN ,_, i_FW is_VBZ never_RB again_RB able_JJ to_TO access_VB the_DT files_NNS i_FW had_VBD loaded_VBN on_IN ,_, despite_IN three_CD phone_NN calls_NNS to_TO second_JJ level_NN support_NN even_RB after_IN using_VBG the_DT technique_NN described_VBN above_IN for_IN bypassing_VBG the_DT mionet_NN software_NN ,_, i_FW could_MD never_RB train_VB my_PRP$ firewall_NN to_TO accept_VB the_DT drive_NN and_CC let_VB me_PRP load_VB new_JJ files_NNS on_IN the_DT drive_NN ._.
+i_LS 'll_MD be_VB taking_VBG it_PRP back_RB to_TO the_DT store_NN where_WRB i_FW bought_VBD it_PRP -LRB-_-LRB- best_JJS buy_NN -RRB-_-RRB- and_CC will_MD lose_VB my_PRP$ files_NNS in_IN the_DT process_NN ._.
+IT_PRP FIT_VBP EASY_JJ INTO_IN MY_NNP TRASH_NNP CAN_NNP ;_: JUNK_NNP ,_, DO_NNP N'T_RB BUY_NNP ,_, NOT_NNP MULTI_NNP LANGUAGE_NNP READY_NNP ,_, NOT_NNP PLUG_NNP IN_IN PLAY_NNP ,_, NOT_NNP WORTH_NNP THE_DT $_$ 250_CD I_PRP THROUGH_VBP IN_IN CARBAGE_NNP Yep_NNP ,_, it_PRP holds_VBZ 500_CD gig_NN ;_: You_PRP ai_VBP n't_RB sharing_VBG with_IN anybody_NN !_.
+Looks_VBZ pretty_RB ..._: ;_: should_MD be_VB removed_VBN from_IN the_DT market_NN as_IN defective_JJ ._.
+2_CD terabytes_NNS ;_: when_WRB it_PRP says_VBZ gigabit_JJ ethernet_NN ..._: should_MD n't_RB it_PRP run_VB on_IN gigabit_NN speeds_NNS ?_.
+Nothing_NN positive_JJ to_TO say_VB ;_: Constantly_RB failing_VBG Very_RB nice_JJ design_NN ;_: Bundled_VBN software_NN ruins_NNS an_DT otherwise_RB good_JJ product_NN Big_NNP ,_, Easy_NNP setup_NN ,_, File_VB sharing_VBG made_VBN easy_JJ ;_: SLOW_NNP Transfer_NN speed_NN ,_, File_VB type_NN limitation_NN for_IN share_NN Space_NN ,_, looks_VBZ ,_, and_CC easy_JJ setup_NN ._.
+;_: Performance_NNP and_CC cost_NN ._.
+Design_NN Only_RB ,_, Color_NNP Too_NNP ,_, 1_CD TB_NN -LRB-_-LRB- 1_CD Drive_NNP ,_, No_NNP RAID_NN -RRB-_-RRB- ;_: 1_LS ._.
+Very_RB Slow_NNP at_IN Net_JJ Transfers_NNS 2_CD ._.
+MIO_NNP Software_NNP unacceptable_JJ White_NNP box_NN is_VBZ unique_JJ ._.
+;_: Why_WRB built-in_NN a_DT Gigabit_NNP LAN_NNP interface_NN ?_.
+That_DT 's_VBZ misleading_JJ ._.
+A_DT lot_NN of_IN space_NN ;_: Software_NNP ,_, speed_NN ,_, noisy_JJ ..._: it_PRP was_VBD a_DT nice_JJ idea_NN ;_: bad_JJ implementation_NN Great_JJ drive_NN plenty_NN of_IN capacity_NN ;_: Dissapointing_VBG Mionet_NNP sw_NN Looks_VBZ ok_NN ..._: I_PRP guess_VBP ._.
+;_: Slow_NNP and_CC fundamentally_RB flawed_VBN ._.
+Network_NNP stroage_NN at_IN low_JJ price_NN ;_: Cumbersome_JJ installation_NN ,_, vague_JJ instructions_NNS ,_, stacked_VBN -LRB-_-LRB- needing_VBG restart_VB -RRB-_-RRB- when_WRB transferring_VBG big_JJ volumes_NNS of_IN data_NNS -LRB-_-LRB- e.g._FW during_IN backup_NN -RRB-_-RRB- Lots_NNS of_IN empty_JJ space_NN since_IN you_PRP ca_MD n't_RB load_VB most_RBS file_VB types_NNS ;_: List_NN of_IN file_NN types_NNS refused_VBD :_: http://wdc.custhelp.com/cgi-b_JJ in/wdc_NN ._.
+cfg/php/enduser_NN /_: std_NN __NN adp_NN ._.
+php?p_NN __SYM faqid_NN =_JJ 1495_CD &#38;_CD p_NN __NN create_VB d_NN =_JJ 1168641440_CD &#38;_CD p_NN __NN sid_NN =_JJ bLTfVJL_NN i_FW &#38;_FW p_NN __NN accessibility_NN =_JJ 0_CD &#38;_CD p_NN __NN redirect_NN =_JJ &#38;_CD p_NN __NN lva_NN =_JJ &#38;_CD p_NN __CD sp_NN =_JJ cF9zcmNoPTEmcF9z_NN Design_NN ,_, easy_JJ to_TO set_VB up_RP ;_: Noisy_JJ file_NN garburator_NN The_DT disk_NN itself_PRP works_VBZ fine_NN ;_: The_DT MioNet_NNP software_NN is_VBZ terrible_JJ ._.
+How_WRB WD_NNP bundled_VBD it_PRP ?_.
+size_NN ,_, speed_NN ,_, ease_NN of_IN use_NN -LRB-_-LRB- sort_NN of_IN -RRB-_-RRB- ,_, ethernet_NN connectivity_NN ;_: mionet_NN ,_, no_DT other_JJ connectivity_NN other_JJ than_IN ethernet_NN Can_MD be_VB configuted_VBN via_IN web-interface_JJ w/o_NN software_NN ;_: Optional_NNP Software_NNP is_VBZ not_RB needed_VBN Size_NN and_CC concept_NN ,_, construction_NN all_DT are_VBP top_JJ notch_NN ;_: Slow_NNP ,_, Slow_NNP ,_, Slow_NNP performance_NN ,_, cumbersome_JJ interface_NN looks_VBZ good_JJ ;_: Software_NNP for_IN remote_JJ use_NN does_VBZ not_RB function_VB It_PRP 's_VBZ purty_JJ white_JJ case_NN matches_VBZ my_PRP$ old_JJ iPOD_NN ;_: Software_NNP sucks_VBZ and_CC data_NN transfer_NN abysmal_JJ Easy_NNP to_TO use_VB ,_, large_JJ disk_NN ;_: Not_RB that_DT fast_JJ Really_RB good_JJ ppearance_NN ,_, realative_JJ silent/cool_NN ,_, small_JJ ;_: Lack_NN of_IN USB_JJ connection_NN ,_, slow_JJ ,_, not_RB included_VBD high-end_JJ softwares_NNS Lots_NNS of_IN space_NN ;_: Software_NNP is_VBZ floppy_JJ none_NN yes_RB none_NN -LRB-_-LRB- CNET_NNP fix_VB your_PRP$ script_NN ,_, none_NN should_MD be_VB acceptable_JJ as_IN a_DT choice_NN -RRB-_-RRB- ;_: Mionet_NNP software_NN /_: netbios_NNS required_VBN /_: Ethernet_NNP connected_VBN -_: USB_JJ piggyback_NN available_JJ ;_: Software_NNP installation_NN is_VBZ not_RB very_RB user_NN friendly_JJ Ethernet_NNP Gigabit_NNP ,_, Interface_NNP ,_, price_NN -LRB-_-LRB- value_NN for_IN money_NN -RRB-_-RRB- ;_: Slow_NNP read/write_NN speeds_NNS ,_, no_DT mac_NN software_NN Large_JJ capacity_NN ,_, relatively_RB simple_JJ setup_NN ,_, ``_`` fire_NN and_CC forget_VB ''_'' ;_: Slow_NNP transfer_NN speed_NN ,_, auto-on_JJ ``_`` feature_NN ''_'' nothing_NN at_IN all_DT ;_: drops_NNS connections_NNS frequently_RB ,_, must_MD be_VB internet_NN connected_VBN to_TO use_VB ,_, dvd_VB burn_VBP from_IN product_NN always_RB fails_VBZ storage_NN and_CC ease_NN of_IN access_NN ;_: MIONET_NNP sofware_NN blocks_VBZ printer_NN lots_NNS of_IN storage_NN ;_: DOG_NNP SLOW_NNP ._.
+Took_VBD 4_CD hours_NNS to_TO transfer_VB 22G_NNP Who_WP cares_VBZ if_IN it_PRP does_VBZ n't_RB back_VB up_RP your_PRP$ data_NNS ._.
+;_: Failure_NN rate_NN --_: 2_CD out_IN of_IN 2_CD Nice_JJ idea_NN ,_, done_VBN horribly_RB wrong_JJ by_IN WD_NN ;_: Subscription_NNP needed_VBD for_IN remote_JJ access_NN ,_, Mionet_NNP software_NN is_VBZ hell_NN on_IN earth_NN easy_JJ to_TO use_VB ,_, cool_VB ;_: lack_NN of_IN function_NN There_EX are_VBP n't_RB enough_RB to_TO counter_VB the_DT Cons_NNS ;_: You_PRP ca_MD n't_RB share_VB files_NNS on_IN your_PRP$ own_JJ hard_JJ drive_NN ?!?!?!_CD Large_JJ capacity_NN ,_, WiFi_NN enabled_VBD ,_, supposed_VBN internet_NN accessibility_NN ;_: Bad_JJ connectivity_NN ,_, terrible_JJ internet_NN accessibility_NN ,_, drive_NN failed_VBD after_IN just_RB over_IN a_DT year_NN of_IN use_NN easy_JJ to_TO set_VB up_RP and_CC use_NN ;_: rather_RB slow_JJ Ca_MD n't_RB think_VB of_IN any_DT ._.
+;_: Unbelievably_RB bad_JJ support_NN -_: with_IN an_DT iffy_JJ drive_NN at_IN best_JJS ._.
+Do_VBP n't_RB believe_VB me_PRP ?_.
+Ask_VB anyone_NN at_IN tech_NN support_NN at_IN Best_JJS Buy_VB ._.
+The_DT 320_CD Dual_JJ Drive_VB -LSB-_-LRB- USB_JJ -_: Firewire_NN -RSB-_-RRB- was_VBD released_VBN with_IN problems_NNS ._.
+Be_VB frightened_VBN ._.
+Be_VB very_RB very_RB frightened_JJ ._.
+It_PRP does_VBZ what_WP it_PRP is_VBZ supposed_VBN to_TO do_VB ;_: If_IN you_PRP understand_VBP what_WP ``_`` it_PRP is_VBZ supposed_VBN to_TO do_VB ''_'' then_RB ther_RB are_VBP no_DT problems_NNS ._.
+Easy_NNP installation_NN and_CC setup_NN ;_: Slow_NNP and_CC Mjonet_NNP is_VBZ not_RB free_JJ -LRB-_-LRB- 30_CD day_NN free_JJ -RRB-_-RRB- Only_RB 1_CD ,_, Network_NNP backup_NN storage_NN separate_JJ from_IN main_JJ computer_NN ;_: So_CC Slow_VB it_PRP took_VBD all_DT day_NN to_TO back_VB up_RP 30_CD gig_NN using_VBG AllWaySync_NNP ._.
+Easy_NNP setup_NN -_: once_RB you_PRP 've_VBP read_VBN the_DT online_JJ support_NN pages_NNS or_CC reviews_NNS ._.
+Easily_RB shared_VBN between_IN multiple_JJ computers_NNS on_IN network_NN ._.
+Compact_JJ form_NN factor_NN ,_, easily_RB plugged_VBD into_IN network_NN in_IN closet_NN ._.
+;_: Mionet_NNP software_NN ._.
+Documentation_NN does_VBZ not_RB provide_VB SIMPLE_JJ configuration_NN instructions_NNS ._.
+priced_VBN right_NN ;_: easy_JJ to_TO set_VB up_RP ;_: SLOW_NNP ,_, SLOW_NNP ;_: UNRELIABLE_NNP ;_: QUIRKY-fails_NNS to_TO maintain_VB LAN_NNP connect_VB when_WRB attached_VBN to_TO router_NN -LRB-_-LRB- wrt54g_NN -RRB-_-RRB- ,_, must_MD be_VB attached_VBN to_TO LAN_JJ via_IN a_DT switch_NN ;_: NOISY-loud_NN fan_NN a_DT huge_JJ distraction_NN ,_, If_IN unit_NN fails_VBZ ,_, Linux-compatible_JJ file_NN format_NN makes_VBZ greatly_RB complicates_VBZ data_NNS recovery_NN 1_CD terrabyte_NN ._.
+Quiet_JJ ._.
+;_: Everything_NN else_RB !_.
+Can_MD not_RB access_VB music_NN files_NNS remotely_RB even_RB though_IN the_DT box_NN decieves_VBZ you_PRP that_IN you_PRP can_MD ._.
+Will_MD not_RB communticate_VB with_IN XBox_NN 360_CD to_TO stream_NN any_DT files_NNS !_.
+Slower_JJR than_IN molasses_NNS ._.
+Cumbersome_JJ access_NN ._.
+Large_JJ data_NNS storage_NN ;_: Admin_NNP screen_NN is_VBZ slow_JJ and_CC akward_NN ._.
+Read_NNP and_CC write_VB is_VBZ so_RB slow_JJ its_PRP$ not_RB worth_IN the_DT time_NN or_CC money_NN ._.
+Very_RB disapointed_JJ ._.
+None_NN I_PRP ca_MD n't_RB use_VB it_PRP !_.
+;_: Lack_NN of_IN support_NN for_IN Vista_NNP 64_CD bit_NN is_VBZ baffling_VBG ._.
+Does_VBZ anyone_NN know_VB if_IN WD_NN plans_NNS on_IN supporting_VBG Widows_NNS 7_CD 64_CD bit_NN ?_.
+I_PRP assumed_VBD I_PRP would_MD like_VB the_DT network_NN feature_NN but_CC it_PRP rarely_RB worked_VBD correctly_RB and_CC MIO_NNP Net_NN is_VBZ the_DT worst_JJS program_NN on_IN the_DT planet_NN ._.
+;_: I_PRP assumed_VBD I_PRP would_MD like_VB the_DT network_NN feature_NN but_CC it_PRP rarely_RB worked_VBD correctly_RB and_CC MIO_NNP Net_NN is_VBZ the_DT worst_JJS program_NN on_IN the_DT planet_NN ._.
+Looks_VBZ cool_NN in_IN the_DT box_NN ._.
+;_: Very_RB Slow_NNP ,_, need_VBP to_TO install_VB software_NN to_TO recognize_VB it_PRP on_IN network_NN ._.
+Easy_NNP to_TO use_VB and_CC configure_VB ;_: Slow_NNP over_IN ethernet_NN ,_, runs_VBZ very_RB hot_JJ with_IN sustained_JJ transfers_NNS ,_, The_DT NAS_NNP MyBook_NNP World_NNP Edition_NNP II_NNP is_VBZ an_DT awesome_JJ 1_CD TeraByte_NN !_.
+;_: MioNet_NNP is_VBZ total_JJ crap_NN ,_, unfortunately_RB WD_NNP does_VBZ n't_RB tell_VB you_PRP that_IN you_PRP do_VBP n't_RB even_RB need_VB it_PRP to_TO access_VB your_PRP$ drive_NN !_.
+Easily_RB hackable_JJ ,_, can_MD provide_VB server-like_JJ services_NNS with_IN community_NN support_NN ,_, and_CC you_PRP ca_MD n't_RB beat_VB two_CD networked_JJ drives_NNS for_IN under_IN $_$ 100_CD ._.
+;_: The_DT bundled_VBN software_NN is_VBZ trash_NN ,_, so_RB just_RB toss_VB it_PRP ._.
+Really_RB none_NN ._.
+;_: Bad_JJ functionality_NN overall_NN ._. ._.
+Annoying_JJ alert_JJ boxes_NNS ._. ._.
+Constant_JJ problems_NNS with_IN drivers_NNS and_CC registry_NN ._. ._.
+Very_RB bad_JJ support_NN ._. ._.
+Slow_VB in_IN file_NN transfers_NNS ._. ._.
+Stops_VBZ working_VBG in_IN the_DT end_NN and_CC wo_MD n't_RB start_VB up_RP again_RB -_: all_PDT data_NNS lost_VBD ._.
+we_PRP have_VBP about_RB 10_CD of_IN them_PRP and_CC they_PRP seem_VBP to_TO run_VB fine_NN ;_: This_DT one_CD Failed_VBD -_: seems_VBZ to_TO be_VB common_JJ enough_JJ Good_JJ size_NN capacity_NN and_CC looks_VBZ good_JJ ;_: Confusing_JJ installation_NN and_CC Mionet_NN software_NN makes_VBZ it_PRP even_RB more_RBR confusing_JJ ._.
+Does_VBZ n't_RB work_VB with_IN Vista_NNP what_WP a_DT bummer_NN Easy_NNP to_TO setup_NN and_CC run_NN ._.
+;_: Unbelivably_RB slow_JJ for_IN large_JJ amount_NN of_IN data_NNS transfers_NNS ._.
+If_IN it_PRP would_MD work_VB ,_, it_PRP would_MD be_VB great_JJ ._.
+;_: Horrible_JJ experience_NN !_.
+Got_NNP rid_JJ of_IN MioNet_NNP because_IN it_PRP would_MD go_VB offline_JJ all_PDT the_DT time_NN ._.
+I_PRP have_VBP wasted_VBN about_IN 20_CD hours_NNS of_IN troubleshooting_VBG time_NN to_TO this_DT device_NN since_IN I_PRP purchased_VBD it_PRP -LRB-_-LRB- And_CC I_PRP am_VBP in_IN the_DT IT_NNP world_NN -RRB-_-RRB- ._.
+Nothing_NN ._.
+It_PRP 's_VBZ just_RB a_DT big_JJ ,_, slow_JJ ,_, too_RB expensive_JJ ,_, external_JJ hard_JJ drive_NN ,_, and_CC that_DT 's_VBZ it_PRP ._.
+;_: Impossible_JJ to_TO keep_VB this_DT drive_NN connected_VBN to_TO the_DT network_NN ._.
+It_PRP 's_VBZ a_DT lousy_JJ network_NN storage_NN option_NN ._.
+Can_MD access_NN over_IN net_JJ IF_IN it_PRP works_VBZ ;_: -_: Slow_NN transfer_NN speed_NN ._.
+-_: broke_VBD down_RP after_IN a_DT month_NN of_IN usage_NN lights_NNS would_MD keep_VB flickering_VBG on_IN and_CC off_IN ._.
+-_: completely_RB broke_VBD down_RP after_IN a_DT year_NN 's_POS usage_NN ._.
+-_: expensive_JJ for_IN a_DT doorstop_NN Nice_JJ looking_VBG ;_: Drive_VB loses_VBZ connect_VB all_PDT the_DT time_NN ._.
+Unpredictable_JJ ._.
+If_IN you_PRP Google_NNP the_DT problem_NN ,_, you_PRP find_VBP many_JJ hits_NNS mentioning_VBG the_DT same_JJ problem_NN ,_, but_CC does_VBZ n't_RB seem_VB fixed_VBN ._.
+Means_NNP you_PRP need_VBP to_TO restart_VB the_DT drive_NN each_DT couple_NN of_IN days_NNS ,_, reset_VB the_DT date/time_NNP ,_, and_CC start_VB over_RP again_RB ..._: Cute_JJ packaging_NN and_CC form_NN factor_NN along_IN with_IN a_DT 1G_NN Ethernet_NN were_VBD causes_NNS to_TO acquire_VB this_DT ._.
+;_: MIONet_NN application_NN is_VBZ not_RB optional_JJ ._.
+Does_VBZ not_RB handle_VB multiple_JJ usages_NNS well_RB ._.
+Can_MD not_RB have_VB both_DT secure_JJ and_CC non-secure_JJ access_NN simultaneously_RB ._.
+Goes_VBZ off_RP line_NN or_CC unavailable_JJ frequently_RB without_IN cause_NN ._.
+Lots_NNS of_IN storage_NN and_CC works_VBZ on_IN gigabit_NN network_NN ._.
+;_: I_PRP did_VBD not_RB like_VB the_DT `_`` Out_IN of_IN the_DT Box_NNP '_POS software_NN used_VBN for_IN accessing_VBG the_DT drive_NN ._.
+That_DT there_EX is_VBZ 1_CD TB_NN ;_: Everything_NN but_CC the_DT storage_NN space_NN ._.
+No_DT way_NN to_TO directly_RB connect_VB via_IN USB_JJ ,_, FireWire_NNP ,_, Esata_NNP etc._FW ._.
+Do_VBP n't_RB be_VB fooled_VBN by_IN the_DT usb_NN port_NN on_IN the_DT back_RB ,_, it_PRP is_VBZ only_RB to_TO add_VB storage_NN ._.
+The_DT software_NN crashes_NNS several_JJ times_NNS a_DT day_NN ._.
+very_RB easy_JJ to_TO set_VB up_RP and_CC use_VB for_IN Windows_NNP ;_: Gets_VBZ hot_JJ if_IN not_RB in_IN a_DT well_RB ventilated_VBN area_NN ,_, could_MD do_VB with_IN Mac_NNP support_NN Will_MD store_VB data_NNS if_IN willing_JJ to_TO use_VB and_CC pay_VB additional_JJ for_IN Mio_NNP net_NN ;_: Mio-net_NN large_JJ slow_JJ software_NN at_IN additional_JJ cost_NN not_RB represented_VBN on_IN product_NN as_IN ``_`` trial_NN ''_'' ,_, To_TO date_NN have_VBP not_RB found_VBN suitable_JJ alternative_NN to_TO Mio-net_JJ The_DT drives_NNS themselves_PRP work_VBP great_JJ ,_, good_JJ speed_NN ,_, good_JJ space_NN ,_, good_JJ redundancy_NN ._.
+;_: Just_RB too_RB bad_JJ it_PRP doesnt_JJ work_NN over_IN the_DT local_JJ network_NN ._.
+The_DT fact_NN that_IN your_PRP$ are_VBP forced_VBN to_TO connect_VB to_TO internet_NN to_TO access_VB a_DT local_JJ drive_NN just_RB blows_NNS me_PRP away_RB ._.
+Its_PRP$ a_DT local_JJ drive_NN for_IN god_NN sakes_NNS why_WRB would_MD I_PRP want_VB to_TO authenticate_VB over_IN the_DT internet_NN to_TO access_NN it_PRP ._.
+A_DT lot_NN of_IN hard_JJ drive_NN for_IN the_DT amount_NN ._.
+;_: The_DT Mionet_NNP networking_NN software_NN makes_VBZ you_PRP access_NN Mionet_NNP 's_POS central_JJ server_NN in_IN Calif_NNP in_IN order_NN to_TO access_VB your_PRP$ own_JJ personal_JJ data_NNS ._.
+So_RB ,_, when_WRB you_PRP log_VBP onto_IN your_PRP$ drive_NN ,_, you_PRP have_VBP to_TO go_VB through_IN THEIR_NNP server_NN ._. ._.
+always_RB !_.
+You_PRP can_MD back_VB up_RP your_PRP$ data_NNS ._.
+;_: WD_NN backup_NN anywhere_RB interface_NN is_VBZ terrible_JJ ._.
+Support_NN -_: eventually_RB i_FW reached_VBD a_DT senior_JJ analyst_NN who_WP gave_VBD me_PRP incorrect_JJ information_NN then_RB argued_VBD with_IN me_PRP when_WRB I_PRP pointed_VBD out_RP what_WP was_VBD wrong_JJ ._.
+The_DT software_NN initiated_VBD itself_PRP on_IN startup_NN and_CC bogs_NNS down_IN your_PRP$ machine_NN ._.
+Good_JJ design_NN ,_, nice_JJ blue_JJ LED_NN ,_, silent_JJ ,_, heat_NN dissipation_NN OK_UH ,_, cheap_JJ ;_: Bundled_VBN software_NN a_DT waste_NN of_IN time_NN ,_, i/o_NN not_RB impressive_JJ ,_, you_PRP NEED_VBD to_TO assign_VB a_DT static_JJ IP_NNP otherwise_RB the_DT NAS_NNP server_NN goes_VBZ bust_NN when_WRB copying_VBG more_RBR that_IN 10k_CD of_IN data_NNS on_IN it_PRP ..._: :_: --_: RRB_SYM -_: seems_VBZ to_TO work_VB ok_NN on_IN 32bit_NN systems_NNS ,_, but_CC they_PRP 're_VBP disappearing_VBG ,_, so_RB who_WP cares_VBZ ;_: On_IN both_CC the_DT WD_NNP website_NN and_CC Mionet_NNP 's_POS website_NN ,_, they_PRP say_VBP the_DT drive_NN and_CC mionet_NN work_NN on_IN windows_NNS 2000/xp/vista_NN ._.
+Nothing_NN is_VBZ said_VBN about_IN 64_CD vs_CC 32bit_CD ._.
+Once_RB I_PRP got_VBD the_DT drive_NN ,_, I_PRP found_VBD I_PRP could_MD not_RB install_VB on_IN 64bit_JJ systems_NNS ._.
+Mionet_NNP web_NN does_VBZ n't_RB work_VB either_RB ._.
+I_PRP suppose_VBP this_DT is_VBZ an_DT ok_JJ product_NN if_IN you_PRP need_VBP an_DT occasional_JJ network_NN solution_NN in_IN small_JJ amounts_NNS ;_: WD_NNP has_VBZ no_DT clue_NN or_CC docs_NNS on_IN how_WRB to_TO install_VB 2_CD of_IN these_DT drives_NNS on_IN the_DT same_JJ home_NN network_NN ._.
+WD_NN worked_VBD fine_NN until_IN I_PRP had_VBD to_TO reload_VB windows_NNS ;_: WD_NN does_VBZ not_RB come_VBN with_IN a_DT disk_NN and_CC only_RB allows_VBZ one_CD install_VB ._.
+You_PRP have_VBP to_TO go_VB to_TO website_NN to_TO download_VB software_NN ..._: and_CC then_RB good_JJ luck_NN !_.
+It_PRP will_MD not_RB install_VB correcdtly_RB even_RB though_IN i_FW have_VBP a_DT warranty_NN till_IN 2011_CD ._.
+Many_JJ emails_NNS and_CC lots_NNS of_IN time_NN trying_VBG things_NNS ._.
+Its_PRP$ easy_JJ to_TO repackage_VB to_TO send_VB back_RB to_TO Western_NNP Digital_NNP ._.
+;_: I_PRP have_VBP supplied_VBN over_IN 5_CD of_IN these_DT during_IN a_DT 3_CD month_NN period_NN and_CC have_VBP had_VBN consistant_JJ trouble_NN with_IN each_DT one_CD since_IN installing_VBG them_PRP ._.
+They_PRP do_VBP not_RB work_VB as_IN asvertised_JJ ,_, are_VBP unreliable_JJ ,_, and_CC offer_NN extremely_RB poor_JJ support_NN ._.
+Looks_VBZ nice_JJ if_IN you_PRP need_VBP an_DT expensive_JJ paper_NN weight_NN ._.
+;_: The_DT Mionet_NN functionality_NN is_VBZ sporadic_JJ at_IN best_JJS often_RB indicating_VBG an_DT ``_`` off_JJ line_NN ''_'' failure_NN or_CC ``_`` failure_NN to_TO mount_VB ''_'' error_NN though_IN product_NN is_VBZ on_IN &#38;_CD correctly_RB networked_VBD ._.
+Product_NN began_VBD performing_VBG sporadically_RB after_IN 4_CD mos_NNS use_VBP until_IN it_PRP crashed_VBD and_CC wo_MD n't_RB power_NN on_IN ._.
+You_PRP can_MD take_VB it_PRP out_IN of_IN the_DT case_NN and_CC connect_VB it_PRP to_TO a_DT SATA_NNP port_NN on_IN your_PRP$ motherboard_NN ._.
+;_: resource_NN hog_NN ,_, 4_CD instances_NNS of_IN Mionet_NNP running_VBG ,_, taking_VBG up_RP 100_CD +_CC megs_NNS of_IN memory_NN ._.
+Nothing_NN good_JJ at_IN all_DT ;_: Drive_NNP has_VBZ a_DT 3_CD year_NN warranty_NN per_IN wriiten_NN documentation_NN ._.
+Tried_VBD to_TO get_VB an_DT an_DT RMA_NN from_IN tech_NN support_NN but_CC was_VBD told_VBN drive_NN had_VBD a_DT one_CD year_NN warranty_NN from_IN date_NN of_IN manuafacture_NN ._.
+Good_JJ news_NN is_VBZ that_IN one_CD of_IN our_PRP$ staff_NN attorney_NN 's_POS has_VBZ taken_VBN over_RP and_CC filing_VBG a_DT law_NN suit_NN ._.
+Hardware_NN seems_VBZ to_TO be_VB up_RB to_TO WD_NNP 's_POS usual_JJ standards_NNS ,_, although_IN it_PRP 's_VBZ difficult_JJ to_TO tell_VB ,_, due_JJ to_TO the_DT hideousness_NN of_IN the_DT bundled_VBN MioNet_NNP software_NN ._.
+;_: Do_VBP not_RB ,_, under_IN any_DT circumstances_NNS ,_, install_VB the_DT bundled_VBN MioNet_NNP software_NN ._.
+Not_RB only_RB does_VBZ it_PRP not_RB work_VB worth_IN a_DT tinker_VBP 's_POS ,_, it_PRP transmits_VBZ your_PRP$ info_NN to_TO MioNet_NNP ,_, making_VBG it_PRP virtually_RB impossible_JJ to_TO use_VB the_DT drive_NN without_IN MioNet_NNP in_IN the_DT future_NN ._.
+looks_VBZ great_JJ out_IN of_IN the_DT box_NN ,_, cool_JJ color_NN ,_, and_CC great_JJ blue_JJ indicating_VBG quality_NN and_CC security_NN ;_: After_IN struggling_VBG for_IN weeks_NNS with_IN this_DT I_PRP read_VBP the_DT reviews_NNS here_RB and_CC saw_VBD that_IN if_IN I_PRP just_RB let_VB the_DT software_NN go_VB ,_, I_PRP would_MD have_VB a_DT functional_JJ drive_NN ._.
+It_PRP remains_VBZ slow_JJ ,_, but_CC that_DT is_VBZ also_RB a_DT factor_NN of_IN the_DT network_NN speed_NN ._.
+Ethernet_NNP connection_NN ,_, 2_CD 500_CD GB_NN harddrives_NNS for_IN 1_CD TB_NN of_IN storage_NN ._.
+Simple_JJ stand_NN alone_RB networked_VBD storage_NN ._.
+;_: Extremely_RB noisy_JJ cooling_NN ._.
+Buy_VB aTargus_NNP `_`` Chill_NNP Mat_NNP '_POS for_IN $_$ 19.00_CD ,_, put_VB your_PRP$ MyBook_NN on_IN it_PRP and_CC the_DT noisy_JJ MyBook_NNP fan_NN stays_VBZ off_RP ._.
+The_DT hard_JJ drives_NNS are_VBP not_RB easily_RB swapped_VBD ,_, must_MD be_VB sent_VBN to_TO Western_NNP Digital_NNP ._.
+Size_NN of_IN drive_NN ,_, conveinence_NN of_IN connections_NNS ;_: Mionet_NNP software_NN is_VBZ like_IN a_DT virus_NN ._.
+Does_VBZ n't_RB go_VB away_RB ._.
+Slow_JJ transfer_NN speeds_NNS ._.
+Continually_RB drops_VBZ on_IN and_CC off_IN my_PRP$ network_NN ._.
+Poor_NNP tech_NN support_NN with_IN bad_JJ documentation_NN ._.
+Does_VBZ not_RB easily_RB configure_VB on_IN a_DT network_NN Lots_NNS of_IN space_NN ._.
+Stylish_JJ design_NN ._.
+``_`` Ooooh-ahhhh_NN ''_'' Blue_NNP lights_NNS ._.
+Space-saver_NN if_IN your_PRP$ computer_NN workplace_NN is_VBZ crowded_VBN ._.
+;_: Horrible_JJ networking_NN software_NN -LRB-_-LRB- Mionet_NN -RRB-_-RRB- which_WDT will_MD not_RB work_VB with_IN 64-bit_JJ Windows_NNP Vista_NNP and_CC which_WDT has_VBZ limited_VBN features_NNS ._.
+Slow_JJ over-the-net_NN transfer_NN speeds_NNS -LRB-_-LRB- If_IN your_PRP$ computer_NN does_VBZ not_RB go_VB on_IN hold_NN first_JJ -RRB-_-RRB- ,_, and_CC tech_NN support_NN is_VBZ hard_JJ to_TO reach_VB ._.
+Only_RB positive_JJ comment_NN is_VBZ imatches_JJ my_PRP$ otherstandard_NN myBook_NN ._.
+Otherwise_RB forget_VB the_DT World_NNP Edition_NNP range_NN for_IN NAS_NNP use_NN ._.
+You_PRP have_VBP been_VBN warned_VBN ._.
+I_PRP bought_VBD it_PRP because_IN it_PRP was_VBD cheap_JJ ._.
+Now_RB I_PRP know_VBP why_WRB noboby_JJ wants_VBZ them_PRP !_.
+Caveat_NN emptor_NN ._.
+;_: Running_VBG for_IN 1_CD yr_NN ._.
+Mionet_NNP software_NN is_VBZ rubbish_JJ ._.
+Not_RB an_DT NAS_NNP product_NN ._.
+Huge_JJ file_NN type_NN transfer_NN restrictions_NNS including_VBG mp3_NN ._.
+I_PRP create_VBP &#38;_CD publish_VB music_NN but_CC can_MD not_RB share_VB wth_NN this_DT drive_NN -_: what_WP a_DT waste_NN of_IN time_NN !_.
+Go_VB for_IN any_DT other_JJ manufacturer_NN but_CC not_RB this_DT one_CD ._.
+This_DT drive_NN was_VBD extremely_RB easy_JJ to_TO set_VB up_RP on_IN my_PRP$ Windows_NNP home_NN network_NN ..._: mapped_VBD it_PRP as_IN a_DT network_NN driveand_NN was_VBD using_VBG it_PRP for_IN backups_NNS very_RB quickly_RB ._.
+It_PRP has_VBZ some_DT nice_JJ features_NNS -LRB-_-LRB- media_NNS server_NN ,_, iTunes_NNP host_NN ,_, file_NN server_NN -RRB-_-RRB- found_VBN on_IN more_RBR expensive_JJ drives_NNS ._.
+;_: It_PRP locks_VBZ up_RP if_IN you_PRP try_VBP to_TO save_VB ``_`` more_JJR than_IN 1000_CD files_NNS or_CC over_IN 500_CD MB_NN to_TO the_DT drive_NN at_IN one_CD time_NN ._. ''_''
+Try_VB to_TO backup_VB your_PRP$ computer_NN ,_, it_PRP locks_VBZ up_RP ._.
+Save_VB a_DT Windows_NNP recovery_NN image_NN ,_, it_PRP locks_VBZ up_RP ._.
+Outlook_NN pst_NN file_NN ,_, it_PRP locks_VBZ up_RP ._.
+Large_JJ movie_NN files_NNS ,_, it_PRP locks_VBZ up_RP ._.
+Many_JJ options_NNS to_TO control_VB Groups_NNS &#38;_CD Users_NNS ._.
+On_IN a_DT 100_CD Mbps_NNS LAN_NN connection_NN the_DT drive_NN exceeded_VBD the_DT rated_VBN speed_NN -LRB-_-LRB- 12MBPs_NNS -RRB-_-RRB- ._.
+Never_RB tested_VBN Gigabit_NNP ._.
+Stays_VBZ very_RB cool_JJ ,_, and_CC quiet_JJ ._.
+MioNet_NNP give_VB fairly_RB easy_JJ access_NN to_TO the_DT drive_NN for_IN yourself_PRP and_CC others_NNS that_IN you_PRP invite_VBP ._.
+;_: Drive_VB worked_VBD fantastic_JJ over_IN varying_VBG network_NN conditions_NNS but_CC did_VBD drop_VB the_DT network_NN after_IN 38_CD GB_NN of_IN straight_JJ transfers_NNS ._.
+I_PRP had_VBD to_TO restart_VB it_PRP but_CC it_PRP ran_VBD fine_NN after_IN that_DT ._.
+Other_JJ than_IN 1_CD glitch_NN it_PRP 's_VBZ been_VBN running_VBG non_JJ stop_NN for_IN several_JJ days_NNS ._.
+Good_JJ amont_NN of_IN memory_NN for_IN the_DT price_NN ._.
+Also_RB ,_, Once_IN you_PRP figure_VBP out_RP you_PRP do_VBP n't_RB need_VB the_DT MioNet_NNP software_NN the_DT firmware_NN has_VBZ powerfull_JJ tools_NNS for_IN the_DT home_NN users_NNS giving_VBG you_PRP the_DT ability_NN to_TO to_TO control_VB file_NN acces_NNS by_IN user_NN ._.
+;_: MioNet_NNP software_NN is_VBZ complicated_VBN and_CC can_MD prevent_VB access_NN to_TO your_PRP$ drive_NN ._.
+The_DT drive_NN failed_VBD in_IN less_JJR than_IN a_DT year_NN which_WDT means_VBZ you_PRP could_MD loose_VB up_RP to_TO a_DT Terabyte_NN of_IN data_NNS ._.
+Support_NN site_NN seems_VBZ inadaquate_NN ._.
+that_IN it_PRP is_VBZ a_DT NAS_NNP ,_, and_CC via_IN USB_JJ you_PRP can_MD connect_VB external_JJ drives_NNS to_TO it_PRP to_TO increase_VB storage_NN space_NN ;_: the_DT external_JJ drives_NNS are_VBP very_RB slowly_RB accessed_VBN ,_, can_MD not_RB be_VB NTFS_NNS ,_, so_RB either_RB FAT32_NN with_IN 2Gb_NN file_NN limit_NN ,_, or_CC some_DT Linux_NN format_NN ,_, not_RB compatible_JJ with_IN Windows_NNP ._.
+The_DT backup_NN software_NN is_VBZ not_RB compatible_JJ with_IN WIn7_NN ,_, and_CC for_IN me_PRP in_IN 3_CD years_NNS has_VBZ never_RB completed_VBN a_DT backup_NN easy_JJ to_TO setup_NN ,_, fast_RB enough_RB for_IN most_JJS all_DT general_JJ NAS_NNP uses_VBZ like_IN streaming_NN music_NN and_CC general_JJ video_NN ,_, unless_IN you_PRP get_VBP into_IN full_JJ on_IN HD_NN ._.
+Works_NNP pretty_RB well_RB for_IN general_JJ storage_NN and_CC backups_NNS ._.
+;_: runs_VBZ a_DT little_JJ hot_JJ ._.
+is_VBZ n't_RB the_DT fastest_JJS in_IN the_DT world_NN but_CC ok_NN for_IN the_DT money_NN ._. ._.
+have_VB to_TO pay_VB extra_JJ for_IN the_DT software_NN to_TO get_VB use_NN of_IN some_DT of_IN the_DT advertised_VBN ``_`` features_NNS ''_'' ._.
+Do_VBP n't_RB even_RB mess_NN with_IN mionet_NN it_PRP 's_VBZ a_DT waste_NN ._. ._.
+no_DT backup_NN software_NN included_VBD For_IN the_DT price_NN ,_, this_DT 1_CD TB_NN network_NN hard_JJ drive_NN is_VBZ a_DT step_NN forward_RB for_IN home_NN data_NNS management_NN ,_, especially_RB backups_NNS and_CC sharing_NN ._.
+It_PRP is_VBZ possible_JJ to_TO reliably_RB run_VB backup_NN software_NN either_CC WD_NNP Anywhere_NNP provided_VBD or_CC others_NNS eg_FW ._.
+Allway_NNP Sync_NNP on_IN each_DT home_NN computer_NN ._.
+;_: Not_RB so_RB easy_JJ to_TO make_VB it_PRP work_VB as_IN it_PRP sounds_VBZ in_IN the_DT marketing_NN ,_, especially_RB the_DT Mionet_NNP remote_JJ file_NN access_NN ._.
+As_IN everyone_NN says_VBZ ,_, a_DT removable_JJ harddrive_NN system_NN -LRB-_-LRB- RAID_NN -RRB-_-RRB- is_VBZ better_JJR than_IN a_DT dedicated_JJ one_CD like_IN in_IN this_DT product_NN ._.
+For_IN about_IN two_CD weeks_NNS it_PRP was_VBD slow_JJ but_CC working_VBG ._.
+I_PRP had_VBD networked_VBN storage_NN and_CC that_DT was_VBD handy_JJ ._.
+My_PRP$ laptop_NN was_VBD no_RB longer_RB tied_VBN to_TO an_DT external_JJ HD_NN at_IN my_PRP$ desk_NN ._.
+But_CC then_RB I_PRP started_VBD getting_VBG the_DT ``_`` failed_VBD mount_VB ''_'' error_NN in_IN MioNet_NNP and_CC it_PRP was_VBD all_DT over_IN ._.
+;_: Mionet_NNP is_VBZ horrible_JJ from_IN the_DT start_NN ._.
+The_DT WDAnyWhereAcessBackUp_NN software_NN is_VBZ also_RB terrible_JJ ,_, it_PRP does_VBZ n't_RB indicate_VB when_WRB it_PRP will_MD back_VB up_RP or_CC give_VB you_PRP an_DT option_NN to_TO pick_VB a_DT regular_JJ time_NN to_TO do_VB back_RB ups_NNS ._.
+So_IN it_PRP seemed_VBD that_IN my_PRP$ files_NNS were_VBD always_RB pending_VBG ._.
+Hard_JJ drive_NN compact_JJ package_NN with_IN bundled_VBN software_NN for_IN automatic_JJ back_RB up_RB ,_, conceptually_RB is_VBZ a_DT good_JJ mode_NN ._.
+Like_IN that_IN the_DT system_NN continuously_RB monitors_VBZ all_DT computers_NNS on_IN the_DT network_NN and_CC automatically_RB backs_VBZ up_RP files_NNS ._.
+;_: This_DT is_VBZ not_RB a_DT plug-n-play_JJ bundle_NN ._.
+The_DT USB_JJ port_NN on_IN the_DT back_NN but_CC it_PRP does_VBZ n't_RB allow_VB you_PRP to_TO alternately_RB use_VB the_DT system_NN like_IN an_DT external_JJ RAID_NN drive_NN ._.
+iThe_NNP MioNet_NNP connectivity_NN sw_NN will_MD freeze_VB your_PRP$ system_NN if_IN you_PRP are_VBP on_IN a_DT VPN_NNP ._.
+The_DT Memo_NNP Backup_NNP sw_NN is_VBZ separate_JJ ._.

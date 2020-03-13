@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="590">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-rebel-xs-black-with-18-55mm-lens.MICROPINION.system.html</P>
+<P ID="MI_MS_A">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">canon-rebel-xs-black-with-18-55mm-lens.4.gold.html</M>
+<M ID="3">canon-rebel-xs-black-with-18-55mm-lens.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="591">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-rebel-xs-black-with-18-55mm-lens.MICROPINION.system.html</P>
+<P ID="MI_MS_A">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-rebel-xs-black-with-18-55mm-lens.0.gold.html</M>
+<M ID="3">canon-rebel-xs-black-with-18-55mm-lens.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="592">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-rebel-xs-black-with-18-55mm-lens.MICROPINION.system.html</P>
+<P ID="MI_MS_A">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">canon-rebel-xs-black-with-18-55mm-lens.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">canon-rebel-xs-black-with-18-55mm-lens.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-rebel-xs-black-with-18-55mm-lens.0.gold.html</M>
+<M ID="2">canon-rebel-xs-black-with-18-55mm-lens.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

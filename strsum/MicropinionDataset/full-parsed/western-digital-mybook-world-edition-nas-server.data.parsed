@@ -1,0 +1,1466 @@
+i/LS installed/VBN the/DT drive/NN as/IN a/DT regular/JJ fileserver/NN using/VBG the/DT web/NN interface/NN -LRB-/-LRB- http/JJ \/SYM \/SYM mybookworld/NN -RRB-/-RRB- ./.
+
+i/LS set/VBN up/RP the/DT users/NNS and/CC shares/NNS and/CC is/VBZ done/VBN in/IN 2/CD minutes/NNS after/IN this/DT i/FW looked/VBD it/PRP up/RP in/IN vista/NN 's/POS file/NN explorer/NN and/CC connected/VBN it/PRP as/IN a/DT network/NN drive/NN using/VBG the/DT previously/RB created/VBN user/NN name/NN ./.
+
+no/DT drivers/NNS or/CC additional/JJ software/NN needed/VBN ./.
+
+runs/NNS perfect/JJ -LRB-/-LRB- 100mb/JJ in/IN 30sec/CD ./. -RRB-/-RRB-
+
+-LRB-/-LRB- i/LS bought/VBD this/DT drive/NN because/IN i/FW is/VBZ absolutly/RB unsatisfied/JJ with/IN my/PRP$ previous/JJ hardware/NN netgear/NN storage/NN central/JJ -RRB-/-RRB- ./.
+
+let/VB me/PRP assure/VB the/DT mionet/NN remote/JJ access/NN users/NNS ,/, i/FW 've/VBP been/VBN able/JJ to/TO access/NN files/NNS with/IN mionet/NN web/NN within/IN the/DT local/JJ network/NN via/IN a/DT browser/NN by/IN modifying/VBG my/PRP$ mionet/NN ceated/JJ user/NN on/IN the/DT nas/NNS server/NN with/IN administrative/JJ rights/NNS ./.
+
+i/LS have/VBP not/RB yet/RB tried/VBN true/JJ remote/JJ access/NN from/IN e/LS ./.
+
+a/DT hotel/NN or/CC work/NN location/NN ./.
+
+the/DT nas/NN server/NN running/VBG at/IN 192/CD ./.
+
+168/CD ./.
+
+xxx/NN is/VBZ not/RB robust/JJ in/IN a/DT true/JJ sense/NN ,/, i/FW ./.
+
+once/RB i/FW setup/NN mionet/NN account/NN which/WDT made/VBD modifications/NNS on/IN the/DT nas/NNS server/NN -LRB-/-LRB- new/JJ user/NN ,/, file/NN shares/NNS etc/FW -RRB-/-RRB- ,/, the/DT server/NN pages/NNS were/VBD out/IN of/IN wack/NN i/FW rebooted/VBD the/DT server/NN and/CC verything/NN is/VBZ fine/JJ ./.
+
+despite/IN these/DT hickups/NNS i/FW would/MD recommend/VB this/DT 1tb/JJ network/NN harddrive/NN system/NN to/TO those/DT who/WP would/MD like/VB upgrade/VB their/PRP$ home/NN networks/NNS ./.
+
+another/DT tidbit/NN is/VBZ that/IN only/RB a/DT dlna/NN certified/VBD blu/FW ray/FW player/NN can/MD access/VB files/NNS on/IN this/DT system/NN if/IN you/PRP like/VBP to/TO watch/VB movies/NNS off/IN off/IN the/DT harddrive/NN on/IN your/PRP$ hdtv/NN ./.
+
+i/LS will/MD update/VB this/DT review/NN when/WRB i/FW have/VBP a/DT chance/NN to/TO test/VB more/RBR ./.
+
+everything/NN works/VBZ perfectly/RB on/IN the/DT drive/NN ./.
+
+people/NNS complaining/VBG about/IN the/DT speed/NN should/MD look/VB at/IN their/PRP$ own/JJ network/NN configuration/NN ./.
+
+remember/VB on/IN a/DT 100mbps/NNS 10mbps/NNS ./.
+
+-LRB-/-LRB- megabytes/NNS -RRB-/-RRB- the/DT average/JJ internal/JJ sata/NNS drive/VBP gets/VBZ around/IN 60mbps/NNS ./.
+
+yeah/VB its/PRP$ not/RB a/DT speed/NN demon/NN if/IN your/PRP$ network/NN is/VBZ slow/JJ ./.
+
+but/CC can/MD handle/VB up/RP to/TO 100mbps/NNS on/IN a/DT gigabit/NN configuration/NN ./.
+
+mionet/NN is/VBZ a/DT little/JJ awkward/JJ but/CC works/VBZ as/IN it/PRP should/MD allowing/VBG one/CD to/TO assign/VB users/NNS to/TO the/DT drive/NN and/CC set/VBN up/RP which/WDT folders/NNS each/DT one/CD has/VBZ access/NN to/TO ./.
+
+other/JJ features/NNS the/DT drive/NN supports/NNS are/VBP itunes/NNS server/NN ,/, smtp/NN ,/, dhcp/NN ,/, ftp/NN ,/, https/NNS ,/, ssh/NN ./.
+
+and/CC more/RBR ./.
+
+everything/NN about/IN the/DT drive/NN is/VBZ perfect/JJ ./.
+
+yeah/RB initially/RB i/FW had/VBD over/IN 400gb/CD to/TO transfer/VB to/TO the/DT drive/NN and/CC it/PRP took/VBD a/DT long/JJ time/NN -LRB-/-LRB- several/JJ hours/NNS -RRB-/-RRB- ./.
+
+but/CC it/PRP wouldnt/NN be/VB any/DT faster/RBR on/IN any/DT other/JJ nas/NNS with/IN the/DT same/JJ 100mbps/NNS lan/JJ connection/NN ./.
+
+the/DT usb/NN on/IN the/DT back/JJ allows/VBZ another/DT external/JJ to/TO be/VB used/VBN and/CC it/PRP works/VBZ great/JJ ./.
+
+you/PRP can/MD not/RB raid/VB off/RP a/DT usb/NN -LRB-/-LRB- its/PRP$ not/RB part/NN of/IN the/DT specification/NN -RRB-/-RRB- and/CC it/PRP would/MD slow/VB the/DT drive/NN down/RB ./.
+
+they/PRP make/VBP a/DT raid/NN version/NN of/IN the/DT world/NN edition/NN drives/NNS if/IN you/PRP need/VBP raid/NN ./.
+
+most/JJS of/IN the/DT complains/VBZ i/FW read/VBN are/VBP from/IN users/NNS complete/JJ ignorance/NN and/CC lack/NN of/IN understanding/VBG on/IN how/WRB a/DT nas/NN works/VBZ ./.
+
+they/PRP want/VBP it/PRP to/TO be/VB their/PRP$ network/NN server/NN and/CC mow/VB the/DT lawn/NN ,/, do/VBP the/DT dishes/NNS and/CC take/VB care/NN of/IN the/DT kids/NNS ./.
+
+this/DT is/VBZ a/DT file/NN server/NN and/CC it/PRP serves/VBZ this/DT purpose/NN perfectly/RB ./.
+
+read/VB the/DT manual/NN on/IN the/DT cd/NN they/PRP supplied/VBD ./.
+
+its/PRP$ great/JJ ./.
+
+mionet/NN offers/VBZ online/JJ tutorials/NNS of/IN heir/NN software/NN ./.
+
+its/PRP$ so/RB easy/JJ ./.
+
+mines/NNS setup/NN so/IN me/PRP and/CC my/PRP$ friends/NNS can/MD swap/VB music/NN ,/, pictures/NNS ,/, iso/NN 's/POS ,/, everything/NN from/IN everywhere/RB ./.
+
+yes/RB you/PRP must/MD use/VB mionet/NN for/IN this/DT feature/NN but/CC its/PRP$ limitless/JJ for/IN this/DT purpose/NN ./.
+
+dont/NN beleave/NN the/DT bad/JJ reviews/VBZ its/PRP$ a/DT good/JJ drive/NN for/IN $/$ 160/CD its/PRP$ easily/RB worth/JJ $/$ 200/CD ./.
+
+very/RB simple/JJ and/CC easy/JJ to/TO setup/NN ./.
+
+simply/RB nothing/NN more/JJR to/TO say/VB as/IN there/EX is/VBZ simply/RB nothing/NN to/TO setting/VBG up/RP great/JJ but/CC expensive/JJ way/NN to/TO find/VB out/RP about/IN trojans/NNS viruses/NNS ./.
+
+nas/NNS drive/VBP does/VBZ not/RB work/VB correctly/RB if/IN malicious/JJ s/w/NN is/VBZ preventing/VBG correct/JJ installation/NN could/MD do/VB with/IN better/JJR mac/NN support/NN ./.
+
+my/PRP$ wife/NN 's/POS pc/NN is/VBZ a/DT mac/NN 10/CD ./.
+
+2/CD ,/, and/CC i/FW 'm/VBP still/RB trying/VBG to/TO figure/VB out/RP how/WRB to/TO get/VB it/PRP to/TO run/VB with/IN a/DT mac/NN ./.
+
+this/DT is/VBZ the/DT contrast/NN in/IN easy/JJ between/IN windows/NNS and/CC mac/NN ./.
+
+i/FW am/VBP very/RB happy/JJ with/IN this/DT drive/NN ./.
+
+i/LS also/RB have/VBP an/DT hp/NN media/NNS vault/NN -LRB-/-LRB- 2/CD x/CC 500gb/CD drives/NNS -RRB-/-RRB- ,/, and/CC i/FW use/VBP the/DT wd/NN and/CC the/DT hp/NN for/IN network/NN storage/NN and/CC as/IN a/DT music/NN centre/NN for/IN the/DT house/NN ./.
+
+the/DT wd/NN is/VBZ very/RB easy/JJ to/TO set/VB up/RP just/RB hooked/VBD it/PRP into/IN a/DT spare/JJ port/NN on/IN the/DT network/NN switch/NN ,/, and/CC it/PRP is/VBZ visible/JJ as/IN a/DT drive/NN on/IN the/DT network/NN almost/RB immediately/RB just/RB had/VBD to/TO tell/VB my/PRP$ laptops/NNS that/IN it/PRP is/VBZ a/DT share/NN able/JJ drive/NN ./.
+
+so/IN it/PRP worked/VBD first/JJ time/NN without/IN a/DT hitch/NN ./.
+
+i/LS do/VBP not/RB need/VB a/DT blazing/VBG fast/JJ drive/NN for/IN this/DT purpose/NN ,/, just/RB a/DT reliable/JJ one/CD ,/, and/CC wd/NN has/VBZ a/DT good/JJ rep/NN for/IN that/DT ./.
+
+so/RB i/FW am/VBP very/RB happy/JJ with/IN my/PRP$ purchase/NN ./.
+
+what/WDT i/FW read/VBN in/IN these/DT reviews/NNS is/VBZ stay/VB away/RB from/IN mionet/NN ./.
+
+i/LS guess/NN i/FW got/VBD lucky/JJ and/CC from/IN the/DT get/VB go/VB i/FW did/VBD not/RB want/VB to/TO install/VB mionet/NN mainly/RB because/IN i/FW had/VBD no/DT interest/NN in/IN accessing/VBG this/DT remotely/RB ./.
+
+lucky/JJ for/IN me/PRP it/PRP seems/VBZ setup/NN is/VBZ simply/RB ./.
+
+analyze/VB your/PRP$ network/NN ip/NN 's/POS and/CC locate/VB the/DT ip/NN for/IN the/DT drive/NN ./.
+
+in/IN my/PRP$ case/NN it/PRP is/VBZ 192/CD ./.
+
+168/CD ./.
+
+i/LS pulled/VBD this/DT ip/NN up/RB and/CC this/DT is/VBZ where/WRB you/PRP can/MD access/VB the/DT web/NN base/NN wd/NN shared/VBD storage/NN manager/NN software/NN ./.
+
+this/DT is/VBZ the/DT os/NN software/NN control/NN panel/NN built/VBN in/IN and/CC loaded/VBN on/IN the/DT wd/NN drive/NN ./.
+
+from/IN there/EX you/PRP can/MD assign/VB users/NNS and/CC shared/VBN or/CC private/JJ folders/NNS ./.
+
+you/PRP can/MD rename/VB the/DT drive/NN itself/PRP ./.
+
+after/IN you/PRP rename/VBP it/PRP then/RB from/IN your/PRP$ internet/NN browser/NN type/NN \/CD \/NN yourname/NN and/CC hit/VBD the/DT enter/VBP key/JJ and/CC it/PRP will/MD pull/VB up/RP through/IN explorer/NN your/PRP$ folders/NNS on/IN the/DT drive/NN ./.
+
+from/IN there/EX you/PRP can/MD map/VB it/PRP to/TO a/DT drive/NN letter/NN ./.
+
+then/RB you/PRP install/VBP the/DT retrospect/JJ backup/NN hd/NN software/NN to/TO backup/VB or/CC copy/VB to/TO your/PRP$ mapped/VBN drive/NN ./.
+
+this/DT backup/NN software/NN is/VBZ very/RB easy/JJ to/TO use/VB i/FW give/VB it/PRP a/DT 9/CD out/IN of/IN 10/CD only/RB because/IN these/DT directions/NNS should/MD be/VB published/VBN and/CC not/RB rely/VB on/IN this/DT mionet/NN software/NN which/WDT seems/VBZ to/TO be/VB junk/NN ./.
+
+i/LS just/RB got/VBD my/PRP$ mybookworld/NN for/IN ethernet/NN 500/CD gb/NN and/CC is/VBZ awesome/JJ ./.
+
+to/TO use/VB it/PRP ,/, you/PRP do/VBP not/RB have/VB to/TO install/VB the/DT software/NN which/WDT comes/VBZ with/IN the/DT item/NN ./.
+
+to/TO customize/VB the/DT hard/JJ disk/NN so/IN that/IN you/PRP can/MD map/VB a/DT network/NN drive/NN to/TO it/PRP ,/, you/PRP need/VBP to/TO first/JJ install/VB the/DT software/NN and/CC then/RB follow/VB the/DT instructions/NNS from/IN western/JJ digital/JJ 's/POS website/NN ./.
+
+search/NN for/IN mapping/VBG network/NN drive/NN in/IN their/PRP$ support/NN website/NN and/CC you/PRP should/MD be/VB able/JJ to/TO get/VB the/DT instructions/NNS ,/, or/CC go/VB to/TO the/DT following/VBG url/NN http/NN //: //: wdc/NN ./.
+
+custhelp/NN ./.
+
+com/cgi/NN bin/wdc/NN ./.
+
+cfg/php/enduser/NN //: std/NN //NN adp/NN ./.
+
+php/NN ./.
+
+p/NN //SYM faqid/VBD 1531/CD p/NN //NN created/VBN 1176311730/CD p/NN //CD sid/NN xnd7/NN 7ci/CD p/NN //NN accessibility/NN 0/CD p/NN //SYM redirect/VB p/NN //NN lva/NN p/NN //CD sp/NN cf9zcmnoptemcf9zb3j0x2j5pszwx2dyawrzb3j0pszwx3jvd19jbnq9mtmmcf9wcm9kcz0mcf9jyxrzpszwx3b2pszwx2n2pszwx3nlyxjjaf90exblpxnlyxjjaf9mbmwmcf9wywdlptemcf9zzwfyy2hfdgv4dd1tyxa/NN p/NN //SYM li/FW p/NN //NN topview/NN 1/CD ./.
+
+when/WRB i/FW tried/VBD to/TO install/VB the/DT wd/NN anywhere/RB access/NN software/NN ,/, i/FW had/VBD to/TO do/VB it/PRP atleast/IN 3/CD times/NNS before/IN it/PRP showed/VBD me/PRP manage/VB mybookworld/NN option/NN under/IN file/NN ./.
+
+then/RB it/PRP is/VBZ fairly/RB easy/JJ to/TO map/VB the/DT drive/NN ./.
+
+once/RB you/PRP install/VBP the/DT software/NN and/CC register/NN ,/, you/PRP get/VBP 30/CD days/NNS free/JJ world/NN access/NN ./.
+
+,/, you/PRP can/MD login/VB into/IN their/PRP$ website/NN with/IN your/PRP$ registered/VBN userid/NN and/CC password/NN and/CC it/PRP allows/VBZ you/PRP full/JJ access/NN to/TO your/PRP$ home/NN network/NN ,/, your/PRP$ pc/NN -LRB-/-LRB- if/IN it/PRP is/VBZ on/IN -RRB-/-RRB- ./.
+
+you/PRP can/MD even/RB open/VB a/DT window/NN where/WRB you/PRP can/MD see/VB your/PRP$ home/NN pc/NN 's/POS desktop/NN ./.
+
+once/RB you/PRP are/VBP done/VBN ,/, you/PRP can/MD shut/VB it/PRP down/RB too/RB ./.
+
+my/PRP$ pc/NN is/VBZ running/VBG xp/NN professional/JJ edition/NN it/PRP even/RB lets/VBZ you/PRP piggyback/VB another/DT external/JJ usb/NN drive/NN ,/, where/WRB you/PRP can/MD see/VB this/DT other/JJ drive/NN from/IN any/DT computer/NN in/IN the/DT house/NN cool/JJ feature/NN ./.
+
+i/FW am/VBP very/RB happy/JJ with/IN this/DT product/NN if/IN you/PRP shop/VBP around/RB ,/, you/PRP can/MD get/VB it/PRP for/IN as/RB low/JJ as/IN $/$ 208/CD ./.
+
+for/IN the/DT price/NN of/IN two/CD drives/NNS and/CC a/DT very/RB capable/JJ container/NN ,/, you/PRP can/MD turn/VB these/DT wdc/NN wb/NN boxes/NNS into/IN mini/NNS servers/NNS ./.
+
+the/DT community/NN support/NN for/IN these/DT is/VBZ incredible/JJ people/NNS are/VBP serving/VBG up/RP files/NNS on/IN the/DT internet/NN for/IN free/JJ ,/, turning/VBG these/DT into/IN torrent/NN boxes/NNS and/CC linux/NN microservers/NNS ./.
+
+frankly/RB ,/, i/FW can/MD not/RB see/VB the/DT problems/NNS here/RB ,/, as/IN even/RB at/IN a/DT basic/JJ level/NN ,/, you/PRP can/MD mount/VB the/DT entire/JJ system/NN as/IN a/DT windows/NNS file/VBP share/NN and/CC just/RB use/VB it/PRP on/IN your/PRP$ network/NN as/IN a/DT huge/JJ drop/NN box/NN if/IN it/PRP had/VBD hot/JJ swap/NN ,/, usb/NN host/NN ,/, or/CC another/DT feature/NN for/IN expandability/NN ,/, i/FW 'd/MD give/VB it/PRP five/CD stars/NNS ./.
+
+i/FW am/VBP very/RB happy/JJ with/IN this/DT purchase/NN ,/, it/PRP is/VBZ exactly/RB what/WP i/FW needed/VBN ./.
+
+that/IN being/VBG said/VBD it/PRP is/VBZ very/RB slow/JJ to/TO r/w/VB and/CC i/FW wish/NN it/PRP had/VBD a/DT printer/NN port/NN ./.
+
+otherwise/RB its/PRP$ a/DT great/JJ way/NN to/TO complete/VB your/PRP$ home/NN or/CC small/JJ office/NN network/NN ./.
+
+i/LS read/VB every/DT review/NN about/IN this/DT product/NN and/CC i/FW is/VBZ really/RB scared/VBN to/TO buy/VB it/PRP ./.
+
+but/CC i/FW found/VBN it/PRP on/IN ebay/NN paid/VBD 90/CD $/$ for/IN it/PRP and/CC figured/VBD what/WP could/MD go/VB wrong/JJ ./.
+
+i/LS got/VBD it/PRP and/CC i/FW love/VBP it/PRP ./.
+
+it/PRP works/VBZ perfectly/RB but/CC most/JJS of/IN all/DT rtfm/NN read/VBD the/DT friendly/JJ instructions/NNS i/FW had/VBD no/DT problems/NNS setting/VBG it/PRP up/RP is/VBZ very/RB quick/JJ and/CC easy/JJ as/IN for/IN transfer/NN speed/NN what/WP do/VBP i/FW care/NN this/DT is/VBZ a/DT back/RB up/RB drive/VB you/PRP set/VB it/PRP to/TO back/VB up/RP at/IN night/NN ./.
+
+i/LS have/VBP put/VBN over/RP 170/CD gig/NN of/IN data/NNS and/CC it/PRP took/VBD one/CD night/NN to/TO do/VB it/PRP ./.
+
+so/RB what/WP ./.
+
+i/LS have/VBP an/DT internal/JJ c/NN and/CC d/NN -LRB-/-LRB- partitioned/VBN d/NN ./.
+
+f/LS -RRB-/-RRB- which/WDT are/VBP my/PRP$ speed/NN drives/NNS i/FW love/VBP the/DT remote/JJ access/NN yes/RB this/DT is/VBZ a/DT bit/NN cumbersome/JJ but/CC it/PRP does/VBZ work/VB and/CC as/IN for/IN the/DT subcription/NN it/PRP 's/VBZ free/JJ for/IN life/NN ./.
+
+i/LS have/VBP already/RB used/VBN the/DT drive/NN with/IN one/CD of/IN my/PRP$ customers/NNS as/IN a/DT ftp/NN site/NN where/WRB i/FW put/VBD a/DT large/JJ video/NN and/CC let/VB him/PRP have/VB access/NN to/TO download/VB it/PRP ./.
+
+what/WP a/DT dream/NN worked/VBD perfectly/RB so/RB if/IN you/PRP understand/VBP that/IN this/DT is/VBZ a/DT back/RB up/RB drive/VB and/CC use/VB it/PRP that/DT way/NN ./.
+
+i/FW am/VBP thinking/VBG that/IN you/PRP will/MD be/VB very/RB very/RB pleased/JJ ./.
+
+i/LS know/VB i/FW am/VBP also/RB ,/, it/PRP is/VBZ quiet/JJ ,/, nice/JJ to/TO look/VB at/IN and/CC i/FW have/VBP never/RB seen/VBN it/PRP get/VB hot/JJ just/RB warm/JJ ./.
+
+i/LS wish/NN i/FW 'd/MD read/VB all/PDT the/DT reviews/NNS before/IN i/FW set/VBN up/RP the/DT mybook/NN ./.
+
+i/FW 've/VBP had/VBD the/DT 1tb/JJ drive/NN in/IN a/DT box/NN for/IN well/RB over/IN a/DT year/NN ,/, and/CC never/RB set/VBD it/PRP up/RP because/IN the/DT mionet/NN software/NN looked/VBD overly/RB complicated/VBN ,/, and/CC looked/VBD like/IN it/PRP is/VBZ trying/VBG to/TO push/VB more/JJR features/NNS than/IN i/FW wanted/VBD ./.
+
+i/LS have/VBP a/DT mixed/JJ network/NN of/IN static/JJ and/CC dhcp/JJ addresses/NNS and/CC finding/VBG the/DT mybook/NN never/RB seemed/VBD easy/JJ ./.
+
+i/LS finally/RB just/RB plugged/VBD it/PRP and/CC a/DT pc/NN into/IN a/DT small/JJ hub/NN ,/, ran/VBD an/DT ethernet/NN packet/NN capture/NN utility/NN and/CC found/VBD the/DT default/NN ip/NN address/NN ./.
+
+if/IN only/RB the/DT documentation/NN had/VBD given/VBN me/PRP that/IN address/NN i/FW 'd/MD have/VB been/VBN using/VBG the/DT drive/NN a/DT year/NN ago/IN address/NN in/IN hand/NN ,/, i/FW used/VBN my/PRP$ browser/NN to/TO configure/VB a/DT static/JJ ip/NN address/NN ,/, created/VBD a/DT set/NN of/IN user/NN id/NN 's/POS and/CC several/JJ directories/NNS off/IN the/DT root/NN ./.
+
+rebooted/VBD the/DT drive/NN on/IN the/DT network/NN ,/, and/CC have/VBP had/VBN no/DT trouble/NN connecting/VBG to/TO it/PRP by/IN ip/NN address/NN from/IN vista/NN ,/, windows/NNS 7/CD and/CC xp/NN -LRB-/-LRB- all/DT running/VBG within/IN my/PRP$ home/NN network/NN -RRB-/-RRB- based/VBN on/IN the/DT other/JJ reviews/NNS i/FW 've/VBP read/VBN ,/, i/FW 'm/VBP still/RB a/DT little/JJ concerned/JJ about/IN having/VBG this/DT as/IN my/PRP$ only/JJ copy/NN of/IN files/NNS -LRB-/-LRB- there/EX seems/VBZ to/TO be/VB no/DT way/NN to/TO recover/VB if/IN the/DT drive/NN fails/VBZ ,/, but/CC there/EX should/MD always/RB be/VB a/DT backup/NN anyway/RB -RRB-/-RRB- i/FW am/VBP not/RB using/VBG the/DT mybook/NN for/IN multimedia/NNS file/VBP storage/NN ,/, and/CC i/FW have/VBP it/PRP plugged/VBD into/IN a/DT midlevel/JJ ethernet/NN switch/NN ,/, so/IN the/DT performance/NN issues/NNS other/JJ people/NNS have/VBP mentioned/VBN do/VBP not/RB seem/VB to/TO be/VB a/DT problem/NN for/IN me/PRP i/FW did/VBD install/VB the/DT mionet/NN software/NN after/IN i/FW had/VBD the/DT drive/NN up/RB and/CC running/VBG ,/, and/CC it/PRP appears/VBZ to/TO be/VB just/RB as/RB bad/JJ as/IN all/PDT the/DT reviews/NNS say/VBP it/PRP is/VBZ ./.
+
+now/RB i/FW have/VBP to/TO uninstall/VB it/PRP from/IN three/CD computers/NNS ./.
+
+lost/VBN connection/NN frequently/RB when/WRB i/FW used/VBN it/PRP between/IN my/PRP$ home/NN and/CC office/NN ,/, made/VBD accessing/VBG the/DT drive/NN much/RB more/RBR complicated/JJ than/IN it/PRP needed/VBD to/TO be/VB ./.
+
+i/LS bought/VBD this/DT drive/NN because/IN my/PRP$ needs/NNS were/VBD simple/JJ i/FW just/RB wanted/VBD a/DT way/NN to/TO share/VB files/NNS without/IN needing/VBG a/DT computer/NN running/VBG 24/7/CD ./.
+
+i/LS was/VBD not/RB interested/JJ in/IN a/DT full/JJ media/NNS server/NN i/FW would/MD ask/VB it/PRP to/TO stream/NN an/DT mp3/NN now/RB and/CC again/RB ,/, but/CC that/DT is/VBZ it/PRP to/TO that/DT end/NN ,/, the/DT box/NN did/VBD fine/NN ./.
+
+once/RB i/FW created/VBD the/DT basic/JJ share/NN ,/, i/FW did/VBD not/RB have/VB to/TO mess/NN with/IN the/DT box/NN ever/RB again/RB i/FW did/VBD not/RB install/VB the/DT mionet/NN software/NN because/IN i/FW saw/VBD many/JJ online/JJ warnings/NNS against/IN it/PRP and/CC i/FW did/VBD n't/RB need/VB access/NN my/PRP$ data/NNS via/IN an/DT external/JJ internet/NN connection/NN ./.
+
+i/LS also/RB did/VBD not/RB run/VB into/IN any/DT lock/NN up/RP problems/NNS as/IN i/FW have/VBP seen/VBN others/NNS discuss/VBP ./.
+
+i/LS did/VBD store/VB some/DT large/JJ -LRB-/-LRB- 3gb/JJ -RRB-/-RRB- files/NNS and/CC never/RB experienced/VBD a/DT lockup/NN the/DT transfer/NN rate/NN is/VBZ pretty/RB slow/JJ ./.
+
+i/LS accumulated/VBN about/IN 500gb/NN of/IN data/NNS ./.
+
+i/LS 'm/VBP now/RB migrating/VBG to/TO a/DT new/JJ file/NN server/NN ./.
+
+copying/VBG the/DT full/JJ 500gb/NN will/MD take/VB approximately/RB 30/CD +/CC hours/NNS ./.
+
+i/LS timed/VBD a/DT portion/NN of/IN the/DT copy/NN ,/, and/CC the/DT transfer/NN speed/NN is/VBZ approximately/RB 36/CD megabits/second/NN ./.
+
+that/DT 's/VBZ about/IN 1/20/CD of/IN what/WP is/VBZ theoretically/RB possible/JJ -LRB-/-LRB- parallel/JJ ata/NN 6/CD @/SYM 800/CD megabits/second/NN ;/: see/VB wikipedia/NN -RRB-/-RRB- ./.
+
+granted/VBN ,/, the/DT price/NN for/IN this/DT box/NN does/VBZ not/RB scream/VB top/JJ end/NN ,/, but/CC 1/20/CD is/VBZ hard/JJ to/TO argue/VB as/IN a/DT reasonable/JJ transfer/NN speed/NN even/RB for/IN budget/NN components/NNS ./.
+
+that/DT said/VBD ,/, the/DT speed/NN should/MD be/VB enough/JJ to/TO handle/VB light/JJ to/TO moderate/JJ data/NNS access/NN by/IN a/DT small/JJ number/NN of/IN people/NNS like/IN you/PRP would/MD typically/RB find/VB in/IN a/DT home/NN now/RB ,/, for/IN those/DT reviewers/NNS claiming/VBG that/IN the/DT box/NN should/MD transfer/VB at/IN 1000/CD megabits/second/NN because/IN the/DT packaging/NN says/VBZ 10/100/1000/CD ,/, you/PRP 're/VBP stretching/VBG ./.
+
+nowhere/RB does/VBZ the/DT packaging/NN say/VBP the/DT drive/NN will/MD transfer/VB at/IN maximum/NN listed/VBN speed/NN ./.
+
+what/WDT that/WDT 10/100/1000/CD designation/NN means/VBZ is/VBZ that/IN you/PRP can/MD plug/VB the/DT box/NN into/IN a/DT gigabit/JJ network/NN ./.
+
+and/CC by/IN plugging/VBG it/PRP in/IN ,/, your/PRP$ network/NN wo/MD n't/RB get/VB throttled/VBN down/RP to/TO 100/CD megabit/CD and/or/CC the/DT box/NN will/MD be/VB able/JJ to/TO handle/VB the/DT networking/NN overhead/NN with/IN other/JJ gigabit/NN devices/NNS at/IN speed/NN not/RB sustain/VB payload/NN data/NNS transfer/NN at/IN gigabit/NN speeds/NNS the/DT box/NN also/RB turns/VBZ on/IN automatically/RB when/WRB a/DT power/NN source/NN is/VBZ connected/VBN ./.
+
+this/DT would/MD n't/RB be/VB a/DT big/JJ problem/NN if/IN the/DT documentation/NN did/VBD not/RB state/NN that/WDT power/NN should/MD not/RB be/VB cut/VBN while/IN the/DT box/NN powers/NNS up/RB ./.
+
+the/DT power/NN up/RP is/VBZ a/DT bit/NN slow/JJ ./.
+
+so/RB ,/, if/IN your/PRP$ mybook/NN is/VBZ plugged/VBN into/IN a/DT power/NN strip/NN ,/, and/CC you/PRP 're/VBP moving/VBG equipment/NN around/IN ,/, you/PRP may/MD find/VB yourself/PRP waiting/VBG for/IN the/DT box/NN to/TO finish/VB powering/VBG up/RP more/JJR than/IN once/RB as/IN you/PRP rearrange/VB your/PRP$ stuff/NN in/IN a/DT new/JJ location/NN ./.
+
+i/FW 've/VBP seen/VBN pictures/NNS that/WDT show/VBP an/DT external/JJ power/NN switch/NN ./.
+
+so/RB ,/, western/JJ digital/JJ may/MD have/VB added/VBN a/DT switch/NN to/TO later/RB revisions/NNS or/CC possibly/RB the/DT world/NN edition/NN ii/LS in/IN all/DT ,/, if/IN your/PRP$ needs/NNS are/VBP simple/JJ ,/, this/DT box/NN will/MD handle/VB it/PRP ./.
+
+if/IN you/PRP want/VBP high/JJ end/NN performance/NN ,/, then/RB this/DT is/VBZ not/RB for/IN you/PRP ./.
+
+it/PRP 's/VBZ shortcomings/NNS will/MD cause/VB aggravation/NN at/IN times/NNS moving/VBG equipment/NN around/IN and/CC migrating/VBG to/TO another/DT storage/NN solution/NN ./.
+
+but/CC until/IN those/DT times/NNS ,/, it/PRP should/MD do/VB its/PRP$ job/NN quietly/RB and/CC with/IN little/JJ complaint/NN ./.
+
+after/IN battling/VBG for/IN 8/CD hours/NNS to/TO try/VB and/CC set/VB this/DT up/RP with/IN the/DT bundled/VBN mionet/NN software/NN as/IN a/DT shared/JJ file/NN server/NN for/IN an/DT xp/NN and/CC vista/NN pc/NN ,/, i/FW is/VBZ ready/JJ to/TO pack/VB it/PRP up/RB and/CC take/VB it/PRP back/RB ./.
+
+but/CC then/RB i/FW located/JJ on/IN the/DT support/NN website/NN how/WRB to/TO set/VB it/PRP up/RP without/IN the/DT mionet/NN software/NN ./.
+
+go/VB to/TO the/DT western/JJ digital/JJ support/NN knowledge/NN base/NN and/CC search/NN for/IN can/MD a/DT wd/NN my/PRP$ book/NN world/NN edition/NN hard/JJ drive/NN be/VB used/VBN without/IN using/VBG wd/NN anywhere/RB access/NN ./.
+
+make/VB sure/JJ you/PRP remove/VB any/DT files/NNS copied/VBD to/TO the/DT mybook/NN before/IN starting/VBG this/DT ./.
+
+worked/VBD well/RB afterwards/RB and/CC you/PRP can/MD completely/RB uninstall/VB their/PRP$ software/NN -LRB-/-LRB- you/PRP can/MD still/RB get/VB to/TO the/DT disk/NN web/NN interface/NN through/IN any/DT web/NN browser/NN -RRB-/-RRB- ./.
+
+also/RB forget/VB their/PRP$ bundled/VBN backup/NN software/NN ./.
+
+free/JJ syncback/NN does/VBZ the/DT trick/NN fine/NN ./.
+
+i/FW 've/VBP seen/VBN lots/NNS of/IN bad/JJ reviews/NNS here/RB ,/, and/CC i/FW do/VBP n't/RB quite/RB agree/VB ./.
+
+i/LS bought/VBD this/DT network/NN hd/NN because/IN i/FW needed/VBD a/DT lot/NN of/IN disk/NN space/NN for/IN my/PRP$ backups/NNS and/CC to/TO store/VB music/NN and/CC films/NNS that/WDT would/MD be/VB available/JJ through/IN my/PRP$ home/NN network/NN ./.
+
+this/DT net/JJ disk/NN solved/VBD all/DT my/PRP$ problems/NNS ./.
+
+with/IN 1tb/JJ ,/, i/FW can/MD store/VB all/DT i/FW have/VBP and/CC have/VBP not/RB used/VBN even/RB half/PDT the/DT space/NN ./.
+
+installation/NN on/IN lan/NN is/VBZ a/DT breeze/NN ,/, you/PRP just/RB plug/VBP it/PRP and/CC make/VB a/DT few/JJ simple/JJ changes/NNS to/TO the/DT web/NN like/IN interface/NN ./.
+
+and/CC you/PRP are/VBP up/RB and/CC running/VBG ./.
+
+the/DT drive/NN is/VBZ instantly/RB recognized/VBN by/IN xp/NN and/CC vista/NN computers/NNS alike/RB ./.
+
+the/DT only/RB not/RB so/RB good/JJ thing/NN is/VBZ that/IN ,/, despite/IN being/VBG connected/VBN at/IN gigabit/JJ speed/NN ,/, data/NNS transfer/NN is/VBZ considerably/RB slower/JJR compared/VBN to/TO tranfers/NNS between/IN two/CD gigabit/NN computers/NNS ./.
+
+having/VBG said/VBD that/IN ,/, the/DT data/NNS transfer/NN speed/NN is/VBZ more/JJR than/IN enough/RB for/IN me/PRP to/TO listen/VB to/TO music/NN or/CC watch/VB films/NNS stored/VBN on/IN the/DT unit/NN ,/, using/VBG an/DT old/JJ notebook/NN ./.
+
+note/NN that/IN i/FW 'm/VBP not/RB using/VBG the/DT remote/JJ access/NN software/NN ./.
+
+as/IN i/FW already/RB had/VBD synology/NN nas/NNS ,/, lack/NN of/IN functionality/NN does/VBZ not/RB major/JJ issue/NN to/TO me/PRP ,/, but/CC found/VBD a/DT stupid/JJ limitation/NN very/RB soon/RB ,/, while/IN i/FW am/VBP moving/VBG data/NNS on/IN it/PRP you/PRP can/MD not/RB create/VB any/DT folder/NN with/IN name/NN internal/JJ ./.
+
+first/RB of/IN all/DT ,/, please/VB ,/, please/VB dont/JJ compare/VB it/PRP to/TO other/JJ high/JJ end/NN network/NN drives/NNS ,/, but/CC this/DT is/VBZ a/DT low/JJ end/NN one/CD according/VBG to/TO its/PRP$ relative/JJ low/JJ price/NN it/PRP is/VBZ slow/JJ ./.
+
+if/IN you/PRP are/VBP going/VBG to/TO stream/NN music/NN ,/, ok/NN ./.
+
+vga/NN video/NN ,/, ok/NN ./.
+
+dvd/NN ,/, slightly/RB lag/NN ./.
+
+hd/NN video/NN ,/, no/DT good/JJ ./.
+
+if/IN you/PRP are/VBP going/VBG to/TO just/RB backup/VB files/NNS and/CC no/DT hurry/NN ,/, it/PRP is/VBZ not/RB bad/JJ ./.
+
+remember/VB ,/, higher/JJR speed/NN ,/, higher/JJR price/NN it/PRP lack/VBP of/IN usb/NN connection/NN ./.
+
+-LRB-/-LRB- the/DT usb/NN plug/NN is/VBZ for/IN external/JJ drive/NN only/RB -RRB-/-RRB- so/RB ,/, you/PRP are/VBP not/RB going/VBG to/TO get/VB the/DT data/NNS when/WRB your/PRP$ network/NN is/VBZ down/RB ./.
+
+i/LS think/VB this/DT is/VBZ the/DT major/JJ weakness/NN of/IN this/DT product/NN and/CC ,/, dont/JJ expect/VBP for/IN the/DT included/VBN softwares/NNS ./.
+
+it/PRP sucks/VBZ ./.
+
+unless/IN you/PRP know/VBP nothing/NN about/IN computers/NNS ,/, i/FW really/RB dont/JJ recommend/VB anyone/NN use/VB these/DT softwares/NNS ,/, no/DT use/NN at/IN all/DT finally/RB ,/, it/PRP is/VBZ lunix/JJ base/NN ,/, you/PRP could/MD expand/VB it/PRP functions/VBZ if/IN you/PRP know/VBP lunix/NN -LRB-/-LRB- but/CC i/FW dont/FW ./. -RRB-/-RRB-
+
+if/IN you/PRP want/VBP a/DT powerful/JJ server/NN ,/, sorry/JJ ,/, not/RB this/DT one/CD if/IN you/PRP want/VBP a/DT cheap/JJ way/NN to/TO only/RB backup/VB ,/, get/VB this/DT ./.
+
+i/FW ve/FW been/VBN using/VBG the/DT network/NN drive/NN for/IN a/DT week/NN now/RB ,/, and/CC i/FW think/VBP is/VBZ one/CD of/IN the/DT best/JJS purchases/NNS i/FW could/MD have/VB made/VBN ./.
+
+even/RB though/IN there/EX is/VBZ no/DT mac/NN software/NN availble/NN ./.
+
+,/, i/FW is/VBZ able/JJ to/TO archive/NN my/PRP$ files/NNS easily/RB ./.
+
+simple/JJ drag/NN and/CC drop/NN with/IN no/DT installations/NNS ./.
+
+my/PRP$ laptop/NN just/RB sow/VB the/DT hd/NN and/CC i/FW is/VBZ able/JJ to/TO move/VB files/NNS in/IN a/DT matter/NN of/IN minutes/NNS how/WRB about/IN some/DT mac/NN drivers/NNS as/RB well/RB ./.
+
+buy/VB the/DT 1/CD terabyte/NN version/NN at/IN best/JJS buy/VB for/IN $/$ 320/CD ./.
+
+00/CD data/NNS transfer/NN rate/NN via/IN ethernet/NN is/VBZ ok/JJ ,/, you/PRP can/MD watch/VB video/NN or/CC listen/VB to/TO music/NN ./.
+
+you/PRP can/MD not/RB transfer/VB big/JJ files/NNS and/CC access/NN -LRB-/-LRB- play/NN -RRB-/-RRB- video/music/NN at/IN the/DT same/JJ time/NN ./.
+
+i/LS have/VBP 600/CD gb/NN on/IN mybook/NN right/RB now/RB the/DT 1/CD tb/NN mybook/NN has/VBZ a/DT very/RB noisy/JJ cooling/NN fan/NN ,/, which/WDT runs/VBZ at/IN room/NN temperatures/NNS of/IN +75/CD degf/NN ./.
+
+i/LS bought/VBD a/DT $/$ 19/CD ./.
+
+00/CD targus/NN `/`` chill/NN mat/NN '/'' -LRB-/-LRB- 2/CD quiet/JJ cooling/NN fans/NNS -RRB-/-RRB- for/IN notebooks/NNS ,/, placed/VBN mybook/NN on/IN it/PRP and/CC the/DT mybook/NN cooling/NN fan/NN stays/VBZ off/RP ./.
+
+can/MD not/RB hear/VB the/DT `/`` chill/NN mat/NN '/'' fans/NNS at/IN all/DT use/NN of/IN standard/JJ western/JJ digital/JJ sata/NN 500/CD gb/NN drives/NNS for/IN replacement/NN would/MD be/VB handier/JJR ./.
+
+overall/JJ i/FW think/VBP the/DT product/NN is/VBZ pretty/RB good/JJ ,/, would/MD rank/VB it/PRP in/IN the/DT category/NN of/IN i/FW do/VBP n't/RB feel/VB like/IN i/FW got/VBD burned/VBN and/CC once/RB i/FW figured/VBD out/RP that/IN mionet/NN is/VBZ my/PRP$ problem/NN i/FW have/VBP been/VBN pretty/RB happy/JJ ./.
+
+my/PRP$ initial/JJ feeling/NN of/IN the/DT product/NN is/VBZ strongly/RB tainted/VBN by/IN the/DT mionet/NN software/NN ./.
+
+would/MD have/VB preferred/VBN they/PRP include/VBP a/DT basic/JJ piece/NN of/IN backup/NN software/NN and/CC left/VBD it/PRP at/IN that/DT instead/RB of/IN that/DT piece/NN of/IN please/VB buy/VB me/PRP software/NN ./.
+
+they/PRP push/VBP the/DT software/NN and/CC all/PDT those/DT lovely/JJ things/NNS you/PRP get/VBP with/IN the/DT drive/NN ,/, it/PRP 's/VBZ not/RB free/JJ ,/, you/PRP do/VBP n't/RB inherently/RB get/VB the/DT world/NN part/NN unless/IN you/PRP pay/VBP extra/JJ for/IN the/DT software/NN ./.
+
+unfortunately/RB for/IN them/PRP the/DT basic/JJ version/NN that/WDT 's/VBZ free/JJ gives/VBZ you/PRP very/RB little/JJ and/CC funcitons/NNS so/RB bad/JJ i/FW do/VBP not/RB even/RB want/VB it/PRP on/IN my/PRP$ system/NN much/RB less/RBR paying/VBG for/IN the/DT privelege/NN of/IN more/JJR of/IN it/PRP ./.
+
+using/VBG mionet/NN to/TO copy/VB 100/CD mp3/CD files/NNS it/PRP took/VBD over/RP an/DT hour/NN ,/, using/VBG a/DT direct/JJ mounted/VBN network/NN drive/NN it/PRP took/VBD 6/CD minutes/NNS ./.
+
+if/IN you/PRP go/VBP for/IN this/DT product/NN i/FW recommend/VB just/RB not/RB even/RB installing/VBG the/DT software/NN ,/, it/PRP 's/VBZ not/RB worth/JJ the/DT time/NN to/TO see/VB what/WP it/PRP 's/VBZ like/IN ./.
+
+just/RB be/VB aware/JJ that/IN outside/NN of/IN the/DT software/NN it/PRP 's/VBZ really/RB just/RB a/DT standard/JJ nas/NN mount/VBP a/DT network/NN drive/NN and/CC roll/NN ./.
+
+it/PRP is/VBZ easy/JJ to/TO setup/NN and/CC get/VB rolling/VBG on/IN my/PRP$ network/NN and/CC has/VBZ worked/VBN fine/JJ since/IN ./.
+
+i/LS generally/RB like/IN the/DT drive/NN ,/, but/CC having/VBG to/TO install/VB software/NN drains/VBZ significant/JJ cycles/NNS from/IN my/PRP$ machine/NN ,/, and/CC complicates/VBZ what/WP should/MD be/VB a/DT simple/JJ share/NN ./.
+
+if/IN i/FW had/VBD it/PRP to/TO do/VB over/RP again/RB ,/, i/FW would/MD look/VB for/IN an/DT alternative/JJ solution/NN because/IN of/IN the/DT software/NN ./.
+
+applesque/NN design/NN ,/, fits/VBZ in/IN nicely/RB with/IN the/DT rest/NN of/IN the/DT apple/NN gear/NN in/IN my/PRP$ room/NN ,/, blue/JJ led/VBD complements/VBZ the/DT light/NN from/IN the/DT jellyphish/JJ lamp/NN -LRB-/-LRB- lol/NN -RRB-/-RRB- ./.
+
+but/CC use/VBP static/JJ ip/NN address/NN ./.
+
+the/DT good/JJ news/NN is/VBZ that/IN the/DT access/NN anywhere/RB s/w/RB is/VBZ not/RB needed/VBN to/TO run/VB the/DT nas/NNS ,/, just/RB use/VB the/DT web/NN front/NN end/NN ./.
+
+does/VBZ the/DT trick/NN ./.
+
+if/IN you/PRP really/RB need/VBP to/TO make/VB your/PRP$ files/NNS available/JJ on/IN the/DT internet/NN use/VBP an/DT ftp/NN server/NN on/IN your/PRP$ home/NN pc/NN and/CC activate/VBP port/NN forwarding/NN on/IN your/PRP$ router/NN ./.
+
+the/DT my/PRP$ book/NN world/NN edition/NN nas/NN 500/CD gb/NN version/NN is/VBZ very/RB easy/JJ to/TO get/VB running/VBG ./.
+
+the/DT problem/NN i/FW had/VBD is/VBZ with/IN the/DT software/NN the/DT they/PRP want/VBP you/PRP to/TO install/VB for/IN accessing/VBG it/PRP ./.
+
+they/PRP call/VBP it/PRP wd/NN anywhere/RB access/NN and/CC it/PRP is/VBZ powered/VBN by/IN mionet/NN ./.
+
+this/DT software/NN gives/VBZ you/PRP the/DT ability/NN to/TO access/NN it/PRP from/IN the/DT internet/NN or/CC within/IN your/PRP$ own/JJ network/NN ./.
+
+this/DT software/NN is/VBZ overkill/NN i/FW just/RB wanted/VBD something/NN i/FW could/MD call/VB '/'' f/FW drive/NN '/'' and/CC copy/VB my/PRP$ backups/NNS to/TO ./.
+
+instead/RB this/DT software/NN made/VBD every/DT drive/NN on/IN my/PRP$ pc/NN available/JJ to/TO my/PRP$ laptop/NN and/CC vice/NN versa/RB not/RB what/WP i/FW want/VBP at/IN all/DT my/PRP$ pc/NN is/VBZ running/VBG xp/NN home/NN edition/NN ./.
+
+using/VBG the/DT wd/NN anywhere/RB access/NN software/NN i/FW had/VBD some/DT connection/NN issues/NNS ./.
+
+i/LS would/MD boot/NN up/RB and/CC the/DT network/NN drive/NN would/MD be/VB available/JJ ./.
+
+if/IN i/FW opened/VBD the/DT wd/NN anywhere/RB manager/NN tool/NN ,/, it/PRP would/MD tell/VB me/PRP the/DT nas/NN is/VBZ not/RB available/JJ ./.
+
+my/PRP$ laptop/NN is/VBZ running/VBG xp/NN pro/NN and/CC i/FW did/VBD not/RB have/VB any/DT of/IN these/DT issues/NNS before/IN boxing/NN it/PRP back/RB up/RB and/CC returning/VBG it/PRP ,/, i/FW checked/VBD out/RP western/JJ digitals/NNS help/VBP site/NN ./.
+
+i/LS finally/RB found/VBN a/DT knowledge/NN base/NN entry/NN that/WDT gave/VBD step/NN by/IN step/NN details/NNS on/IN creating/VBG a/DT mapped/VBN drive/NN without/IN using/VBG the/DT wd/NN anywhere/RB access/NN and/CC i/FW am/VBP now/RB happy/JJ ./.
+
+i/LS have/VBP 2/CD computers/NNS on/IN my/PRP$ network/NN and/CC the/DT one/CD with/IN vista/NN works/VBZ great/JJ with/IN the/DT s/w/NN but/CC the/DT other/JJ with/IN xp/NN causes/VBZ a/DT problem/NN using/VBG the/DT hp/NN c7280/NN printer/NN ,/, infact/NN i/FW cant/FW do/VBP anything/NN with/IN the/DT printer/NN on/IN this/DT computer/NN ./.
+
+i/LS un/NN install/VB the/DT s/w/NN and/CC printer/NN works/VBZ great/JJ ./.
+
+contacted/VBN their/PRP$ support/NN and/CC no/DT luck/NN ,/, never/RB heard/VBN of/IN this/DT problem/NN or/CC how/WRB to/TO fix/VB it/PRP ,/, they/PRP even/RB blamed/VBD it/PRP on/IN hp/NN and/CC hp/NN blamed/VBD it/PRP on/IN them/PRP then/RB wd/VBD blamed/VBN it/PRP on/IN my/PRP$ router/NN which/WDT has/VBZ came/VBD back/RB around/IN to/TO wd/VB support/NN again/RB ./.
+
+still/RB waiting/VBG for/IN word/NN back/RB from/IN wd/NN ./.
+
+any/DT other/JJ help/NN would/MD be/VB great/JJ ./.
+
+picked/VBN this/DT box/NN -LRB-/-LRB- 1tb/JJ version/NN -RRB-/-RRB- up/RP at/IN costco/NN for/IN $/$ 349/CD which/WDT seems/VBZ like/IN a/DT good/JJ value/NN ./.
+
+it/PRP is/VBZ very/RB easy/JJ to/TO hook/NN up/RP ,/, 5/CD mins/NNS ./.
+
+unfortunately/RB ,/, once/RB you/PRP start/VBP accessing/VBG the/DT drive/NN the/DT first/JJ thing/NN you/PRP notice/VBP is/VBZ how/WRB excruciatingly/RB slow/VB it/PRP is/VBZ ./.
+
+i/LS did/VBD not/RB read/VB the/DT cnet/NN review/NN first/RB -LRB-/-LRB- that/IN 'll/MD teach/VB me/PRP -RRB-/-RRB- but/CC the/DT review/NN is/VBZ spot/NN on/IN ,/, it/PRP acutally/RB takes/VBZ over/RP a/DT half/JJ hour/NN to/TO transfer/VB 5/CD gig/NN that/WDT 's/VBZ just/RB wrong/JJ ./.
+
+oh/UH and/CC if/IN you/PRP want/VBP to/TO access/NN mp3/NN files/NNS remotely/RB you/PRP 're/VBP out/IN of/IN luck/NN too/RB the/DT list/NN of/IN incompatible/JJ files/NNS for/IN remote/JJ access/NN is/VBZ looooong/VBG the/DT hp/NN media/NNS vault/NN looks/VBZ like/IN a/DT better/JJR choice/NN ./.
+
+the/DT only/JJ way/NN to/TO work/NN is/VBZ to/TO map/VB mybook/NN as/IN a/DT network/NN drive/NN ./.
+
+i/LS worked/VBD with/IN mionet/NN support/NN team/NN for/IN days/NNS ./.
+
+e/SYM mails/NNS and/CC phone/NN calls/NNS ./.
+
+they/PRP were/VBD very/RB responsive/JJ but/CC they/PRP could/MD n't/RB help/VB me/PRP at/IN all/DT ./.
+
+the/DT mionet/NN software/NN turned/VBD offine/NN and/CC that/DT is/VBZ it/PRP ./.
+
+it/PRP is/VBZ a/DT torture/VBP ./.
+
+i/LS spent/VBD hours/NNS on/IN hours/NNS on/IN this/DT ./.
+
+in/IN the/DT end/NN ,/, mionet/NN support/NN helped/VBD me/PRP do/VB a/DT direct/JJ mapping/NN and/CC that/DT 's/VBZ how/WRB it/PRP works/VBZ for/IN me/PRP even/RB when/WRB the/DT connection/NN is/VBZ active/JJ via/IN mionet/NN it/PRP disconnected/VBD every/DT few/JJ minutes/NNS files/VBZ that/IN you/PRP copied/VBD via/IN mionet/NN are/VBP readonly/RB when/WRB you/PRP access/NN through/IN direct/JJ mapping/NN i/FW do/VBP n't/RB understand/VB how/WRB a/DT respectable/JJ company/NN such/JJ as/IN western/JJ digital/JJ put/VBD their/PRP$ faith/NN on/IN this/DT lousy/JJ software/NN ./.
+
+if/IN you/PRP just/RB put/VBD the/DT cd/NN in/IN and/CC click/VB `/`` next/JJ next/JJ '/'' you/PRP end/VBP up/RP with/IN something/NN that/WDT does/VBZ not/RB work/VB ./.
+
+or/CC works/VBZ for/IN one/CD day/NN ./.
+
+and/CC disconnects/VBZ i/FW have/VBP never/RB seen/VBN something/NN like/IN that/DT in/IN my/PRP$ whole/JJ life/NN i/FW also/RB can/MD not/RB understand/VB cnet/NN review/NN which/WDT praises/VBZ the/DT mionet/NN software/NN -LRB-/-LRB- wd/NN anywhere/RB access/NN -RRB-/-RRB- ./.
+
+you/PRP should/MD work/VB with/IN more/JJR than/IN three/CD minutes/NNS ./.
+
+i/LS will/MD not/RB believe/VB your/PRP$ reviews/NNS anymore/RB ./.
+
+i/LS bought/VBD this/DT drive/NN to/TO share/VB pictures/NNS over/IN the/DT internet/NN and/CC access/NN documents/NNS ./.
+
+mionet/NN software/NN acts/VBZ like/IN a/DT virus/NN ./.
+
+even/RB if/IN you/PRP uninstall/VBP it/PRP ,/, it/PRP does/VBZ n't/RB go/VB away/RB ./.
+
+i/LS had/VBD to/TO edit/VB my/PRP$ registry/NN to/TO get/VB rid/JJ of/IN it/PRP ./.
+
+mionet/NN never/RB worked/VBD ./.
+
+it/PRP was/VBD not/RB easy/JJ to/TO get/VB on/IN my/PRP$ network/NN as/RB well/RB ./.
+
+it/PRP would/MD never/RB connect/VB to/TO my/PRP$ router/NN using/VBG dhcp/NN ,/, though/IN my/PRP$ other/JJ computers/NNS seemed/VBD to/TO work/VB fine/NN ./.
+
+i/LS finally/RB had/VBD to/TO set/VB a/DT fixed/JJ ip/NN in/IN order/NN to/TO get/VB it/PRP to/TO work/VB ./.
+
+but/CC it/PRP still/RB keeps/VBZ dropping/VBG off/RP my/PRP$ network/NN ./.
+
+i/LS 'm/VBP on/IN my/PRP$ second/JJ drive/NN in/IN which/WDT the/DT first/JJ one/CD would/MD never/RB connect/VB ./.
+
+it/PRP took/VBD over/RP a/DT week/NN of/IN useless/JJ tech/NN support/NN to/TO get/VB them/PRP to/TO send/VB me/PRP a/DT replacement/NN drive/NN ./.
+
+as/IN instructed/VBN i/FW sent/VBD them/PRP all/DT of/IN my/PRP$ materials/NNS ./.
+
+when/WRB wd/NN sent/VBD me/PRP a/DT new/JJ drive/NN ,/, it/PRP did/VBD not/RB come/VBN with/IN any/DT of/IN the/DT software/NN or/CC documentation/NN that/WDT i/FW sent/VBD them/PRP ./.
+
+all/DT i/FW got/VBD is/VBZ we/PRP did/VBD not/RB instruct/VB you/PRP to/TO send/VB those/DT items/NNS the/DT e/SYM mail/NN i/FW had/VBD from/IN wd/NN support/NN somehow/RB had/VBD it/PRP ./.
+
+hmmmmm/NN do/VBP not/RB buy/VB this/DT product/NN ./.
+
+most/RBS reviews/NNS here/RB are/VBP just/RB about/RB on/IN the/DT money/NN ./.
+
+this/DT is/VBZ marketed/VBN as/IN an/DT access/NN anywhere/RB product/NN ,/, but/CC turns/VBZ out/RP to/TO be/VB far/RB from/IN it/PRP ./.
+
+the/DT mionet/NN software/NN just/RB does/VBZ n't/RB work/VB with/IN the/DT linux/NN os/NNS installed/VBN on/IN the/DT mybook/NN ./.
+
+it/PRP took/VBD 3/CD installs/NNS to/TO get/VB it/PRP to/TO even/RB detect/VB the/DT mybook/NN ./.
+
+then/RB it/PRP is/VBZ offline/JJ ,/, and/CC nothing/NN i/FW could/MD do/VB would/MD get/VB it/PRP online/JJ sigh/NN ./.
+
+i/LS 'll/MD use/VB it/PRP as/IN a/DT network/NN share/NN ./.
+
+there/EX are/VBP sites/NNS with/IN hacks/NNS to/TO access/VB the/DT os/NNS and/CC set/VBN up/RP ssh/NN access/NN -LRB-/-LRB- not/RB for/IN the/DT uninitiated/JJ however/RB -RRB-/-RRB- ./.
+
+it/PRP 's/VBZ too/RB bad/JJ ,/, the/DT thought/NN of/IN accessing/VBG it/PRP easily/RB and/CC sharing/VBG photos/NNS ,/, music/NN and/CC video/NN is/VBZ rather/RB appealing/JJ ./.
+
+but/CC mionet/NN is/VBZ not/RB ready/JJ for/IN the/DT big/JJ league/NN yet/RB the/DT fan/NN is/VBZ rather/RB noisy/JJ ./.
+
+place/NN this/DT unit/NN somewhere/RB you/PRP wo/MD not/RB hear/VB it/PRP ,/, like/IN next/JJ to/TO your/PRP$ air/NN conditioner/NN or/CC refrigerator/NN ./.
+
+oh/UH yeah/RB ,/, network/NN access/NN is/VBZ sluggish/JJ how/WRB disappointing/JJ ,/, wd/NN ./.
+
+here/RB is/VBZ the/DT deal/NN ./.
+
+whatever/WDT you/PRP read/VBP do/VBP not/RB install/VB the/DT mionet/NN software/NN ./.
+
+not/RB ony/NN is/VBZ it/PRP invasive/JJ as/IN reported/VBN in/IN earlier/JJR posts/NNS ,/, but/CC it/PRP transfers/VBZ data/NNS like/IN a/DT snail/NN in/IN reverse/NN ./.
+
+whatever/WDT data/NNS you/PRP do/VBP transfer/VB under/IN the/DT mionet/NN sw/NN umbrella/NN can/MD easily/RB be/VB shared/VBN by/IN all/DT mionet/NN users/NNS but/CC worse/JJR ,/, can/MD only/RB be/VB accessed/VBN by/IN the/DT mionet/NN software/NN ./.
+
+i/LS had/VBD to/TO wipe/VB out/RP the/DT drive/NN ,/, delete/VB the/DT data/NNS and/CC uninstall/VB the/DT mionet/NN sw/NN ./.
+
+i/FW am/VBP now/RB using/VBG it/PRP as/IN a/DT shared/JJ drive/NN on/IN my/PRP$ network/NN and/CC while/IN it/PRP is/VBZ performing/VBG better/JJR it/PRP still/RB crawls/VBZ cosidering/VBG it/PRP has/VBZ gb/NN access/NN and/CC a/DT 7200/CD rpm/NN drive/NN ./.
+
+i/LS will/MD use/VB it/PRP as/IN a/DT repository/JJ but/CC wd/JJ needs/NNS to/TO provide/VB some/DT firmware/NN to/TO improve/VB performance/NN ./.
+
+this/DT could/MD have/VB been/VBN a/DT good/JJ product/NN ,/, it/PRP actually/RB could/MD have/VB been/VBN a/DT great/JJ product/NN ,/, but/CC 1/CD ./.
+
+the/DT backup/NN software/NN included/VBD called/VBN retrospect/NN is/VBZ horrendous/JJ ./.
+
+it/PRP fails/VBZ 90/CD %/NN of/IN the/DT time/NN and/CC just/RB give/VB you/PRP cryptic/JJ messages/NNS about/IN ``/`` malformed/JJ file/NN name/NN ''/'' ./.
+
+i/FW am/VBP using/VBG standard/JJ windows/NNS backup/VBP accessory/NN it/PRP works/VBZ ./.
+
+it/PRP claims/VBZ that/IN you/PRP can/MD have/VB access/NN to/TO your/PRP$ data/NNS from/IN anywhere/RB ./.
+
+not/RB true/JJ unless/IN you/PRP pay/VBP additional/JJ premium/NN monthly/JJ service/NN ./.
+
+documentation/NN is/VBZ a/DT minimal/JJ and/CC does/VBZ not/RB help/VB overcome/VB the/DT out/NN of/IN the/DT box/NN drawbacks/NNS ./.
+
+it/PRP is/VBZ unacceptably/RB slow/JJ i/FW hope/VBP that/IN wd/NN enjoys/VBZ my/PRP$ money/NN because/IN it/PRP will/MD be/VB the/DT last/JJ they/PRP are/VBP ever/RB going/VBG to/TO see/VB from/IN me/PRP ./.
+
+1/LS -RRB-/-RRB- mionet/NN is/VBZ a/DT large/JJ waste/NN of/IN time/NN ./.
+
+paying/VBG the/DT $/$ 70/CD a/DT year/NN to/TO access/VB your/PRP$ files/NNS is/VBZ rediculous/JJ ./.
+
+there/EX are/VBP many/JJ free/JJ alternatives/NNS that/WDT offer/VBP nearly/RB the/DT same/JJ functionality/NN ./.
+
+the/DT directions/NNS convey/VBP that/IN installing/VBG it/PRP is/VBZ required/VBN to/TO use/VB the/DT mybook/NN ,/, however/RB that/DT is/VBZ definately/RB not/RB the/DT case/NN 2/CD -RRB-/-RRB- installation/NN is/VBZ a/DT snap/NN when/WRB using/VBG it/PRP with/IN a/DT router/NN ./.
+
+it/PRP got/VBD its/PRP$ ip/NN ,/, and/CC is/VBZ easily/RB accessable/JJ using/VBG \/SYM \/SYM mybookworld/NN ./.
+
+also/RB ,/, the/DT web/NN setup/NN interface/NN is/VBZ simple/JJ and/CC easy/JJ to/TO use/VB ./.
+
+no/DT router/NN ./.
+
+load/NN up/IN the/DT pdf/NN manual/NN on/IN the/DT cd/NN ,/, scroll/NN way/NN to/TO the/DT bottom/NN where/WRB there/EX is/VBZ a/DT small/JJ section/NN on/IN how/WRB to/TO use/VB it/PRP without/IN a/DT router/NN ./.
+
+this/DT is/VBZ definately/RB not/RB a/DT device/NN for/IN people/NNS without/IN a/DT home/NN network/NN 3/CD -RRB-/-RRB- network/NN attatched/JJ storage/NN allows/VBZ easy/JJ access/NN to/TO files/NNS from/IN multiple/JJ computers/NNS ,/, and/CC does/VBZ n't/RB require/VB a/DT pc/NN to/TO be/VB running/VBG to/TO access/NN it/PRP ./.
+
+gigabit/NN ethernet/NN connection/NN ./.
+
+completely/RB worthless/JJ ./.
+
+no/DT matter/NN what/WDT i/FW tried/VBD ,/, i/FW could/MD n't/RB get/VB transfer/NN rates/NNS much/RB above/IN 45mbits/NNS ,/, which/WDT is/VBZ right/JJ around/IN 4mb/CD a/DT second/JJ -LRB-/-LRB- this/DT is/VBZ only/RB 4/CD ./.
+
+5/CD %/NN utilization/NN of/IN a/DT gigabit/NN connection/NN -RRB-/-RRB- ./.
+
+this/DT means/VBZ it/PRP took/VBD about/RB 30/CD hours/NNS to/TO fill/VB the/DT 500gb/JJ drive/NN 4/CD -RRB-/-RRB- boot/NN up/IN time/NN is/VBZ slow/JJ ./.
+
+be/VB prepared/VBN to/TO wait/VB 2/CD or/CC 3/CD minutes/NNS before/IN the/DT drive/NN is/VBZ accessable/JJ 5/CD -RRB-/-RRB- the/DT usb/NN port/NN on/IN the/DT back/NN is/VBZ nice/JJ to/TO exapand/VB the/DT device/NN with/IN another/DT usb/NN storage/NN device/NN overall/RB ,/, there/EX are/VBP much/JJ faster/RBR ,/, less/RBR expensive/JJ solutions/NNS available/JJ for/IN network/NN attatched/JJ storage/NN devices/NNS ./.
+
+although/IN the/DT mybook/NN makes/VBZ installation/NN and/CC access/NN very/RB easy/JJ ,/, it/PRP does/VBZ not/RB come/VB close/RB to/TO making/VBG up/RP for/IN its/PRP$ lack/NN of/IN performance/NN ./.
+
+if/IN all/DT you/PRP 're/VBP looking/VBG for/IN is/VBZ external/JJ storage/NN ,/, buy/VB a/DT usb/NN ,/, firewire/NN ,/, or/CC sata/JJ external/JJ drive/NN that/WDT will/MD attach/VB directly/RB to/TO a/DT pc/NN and/CC save/VB yourself/PRP hours/NNS of/IN file/NN transfer/NN time/NN ./.
+
+in/IN my/PRP$ opinion/NN you/PRP would/MD be/VB better/JJR served/VBD spending/VBG your/PRP$ money/NN on/IN a/DT cheaper/JJR and/CC faster/JJR usb/NN or/CC firewire/NN drive/NN ./.
+
+you/PRP could/MD also/RB access/VB the/DT storage/NN device/NN remotely/RB by/IN using/VBG another/DT remote/JJ access/NN software/NN like/IN pc/NN anywhere/RB or/CC gotomypc/NN ./.
+
+com/NN ./.
+
+the/DT performance/NN is/VBZ just/RB a/DT killer/NN ,/, just/RB too/RB slow/JJ for/IN such/PDT an/DT expensive/JJ piece/NN of/IN equipment/NN ./.
+
+if/IN all/DT you/PRP are/VBP looking/VBG for/IN is/VBZ a/DT gig/NN -LRB-/-LRB- or/CC half/PDT a/DT gig/NN raid/NN 1/CD -RRB-/-RRB- storage/NN ,/, that/WDT is/VBZ what/WP you/PRP get/VBP ./.
+
+if/IN you/PRP want/VBP this/DT for/IN the/DT file/NN sharing/NN and/CC back/RB up/RB capabilities/NNS ,/, you/PRP are/VBP going/VBG to/TO be/VB very/RB upset/JJ ./.
+
+the/DT moinet/NN is/VBZ nuts/NNS and/CC does/VBZ not/RB work/VB ./.
+
+the/DT emc/NN backup/NN software/NN included/VBD seems/VBZ to/TO depend/VB on/IN mionet/NN and/CC is/VBZ also/RB useless/JJ ./.
+
+and/CC ,/, as/IN most/JJS others/NNS have/VBP stated/VBN ,/, everything/NN is/VBZ slow/JJ over/IN your/PRP$ intranet/NN with/IN this/DT device/NN after/IN over/IN a/DT month/NN of/IN fighting/VBG through/IN various/JJ issues/NNS ,/, it/PRP appears/VBZ that/IN almost/RB everything/NN goes/VBZ back/RB to/TO the/DT firmware/NN software/NN internal/JJ to/TO the/DT device/NN ./.
+
+at/IN various/JJ times/NNS mine/PRP has/VBZ said/VBD it/PRP is/VBZ trying/VBG to/TO update/VB its/PRP$ software/NN or/CC mostly/RB is/VBZ just/RB offline/JJ it/PRP is/VBZ usually/RB -LRB-/-LRB- but/CC not/RB always/RB -RRB-/-RRB- available/JJ from/IN the/DT winderz/NN explorer/NN from/IN the/DT network/NN area/NN but/CC you/PRP will/MD not/RB see/VB all/PDT the/DT directories/NNS -LRB-/-LRB- folders/NNS -RRB-/-RRB- or/CC files/NNS that/WDT have/VBP actually/RB been/VBN placed/VBN there/RB bottom/JJ line/NN is/VBZ that/IN if/IN you/PRP are/VBP wanting/VBG this/DT for/IN everything/NN hyped/VBD in/IN the/DT marketing/NN advertizements/NNS ;/: save/VB your/PRP$ money/NN for/IN something/NN else/RB ./.
+
+it/PRP is/VBZ all/DT vaporware/NN i/FW 'm/VBP sending/VBG mine/PRP back/RB for/IN a/DT refund/NN ./.
+
+i/LS bought/VBD this/DT for/IN it/PRP 's/VBZ price/NN and/CC features/NNS ./.
+
+turns/VBZ out/RP to/TO be/VB a/DT nightmare/NN as/IN the/DT nas/NN keeps/VBZ going/VBG offline/JJ due/JJ to/TO the/DT network/NN connection/NN keeps/VBZ dropping/VBG ./.
+
+seems/VBZ to/TO happen/VB to/TO my/PRP$ 2/CD wd/NN mybook/NN world/NN nas/NNS ,/, with/IN my/PRP$ iomega/NN ,/, timecapsule/NN and/CC buffalo/NN that/WDT does/VBZ not/RB happen/VB so/IN it/PRP 's/VBZ not/RB my/PRP$ network/NN but/CC the/DT drives/NNS ./.
+
+no/DT more/JJR wd/NN nas/NNS for/IN me/PRP ./.
+
+this/DT is/VBZ a/DT great/JJ backup/NN drive/NN if/IN you/PRP only/RB want/VBP to/TO backup/VB a/DT handful/NN of/IN small/JJ files/NNS at/IN any/DT one/CD time/NN ./.
+
+it/PRP locks/VBZ up/RP consistently/RB if/IN you/PRP try/VBP to/TO do/VB any/DT serious/JJ backups/NNS with/IN it/PRP ./.
+
+this/DT is/VBZ a/DT known/JJ problem/NN ;/: western/JJ digital/JJ answer/NN id/VBD 1701/CD mentions/VBZ it/PRP ,/, but/CC offers/VBZ no/DT solutions/NNS ./.
+
+it/PRP also/RB locks/VBZ up/RP if/IN two/CD users/NNS attempt/VB to/TO access/NN it/PRP at/IN the/DT same/JJ time/NN -LRB-/-LRB- as/IN happens/VBZ if/IN you/PRP 're/VBP streaming/VBG media/NNS to/TO one/CD computer/NN when/WRB another/DT computer/NN attempts/VBZ to/TO save/VB or/CC access/VB a/DT file/NN -RRB-/-RRB- ./.
+
+it/PRP 's/VBZ not/RB a/DT very/RB robust/JJ network/NN drive/NN i/FW 'd/MD suggest/VB putting/VBG your/PRP$ money/NN towards/IN the/DT purchase/NN of/IN a/DT better/JJR drive/NN ./.
+
+i/LS would/MD look/VB further/RB ,/, because/IN there/EX is/VBZ -LRB-/-LRB- much/JJ -RRB-/-RRB- better/RBR on/IN the/DT market/NN ./.
+
+transfer/NN speeds/NNS of/IN 4/CD 5/CD mb/s/NNS is/VBZ too/RB slow/JJ ,/, and/CC max/NN number/NN of/IN connections/NNS is/VBZ 5/CD ./.
+
+media/NNS streaming/NN is/VBZ no/DT fun/NN on/IN this/DT one/CD do/VBP not/RB buy/VB ./.
+
+the/DT bundle/NN is/VBZ seriously/RB flawed/VBN ./.
+
+there/EX are/VBP two/CD sofware/JJ applications/NNS -LRB-/-LRB- and/CC providers/NNS -RRB-/-RRB- to/TO tend/VB with/IN ./.
+
+you/PRP must/MD install/VB the/DT mionet/NN and/CC memo/NN backup/NN to/TO complete/VB the/DT solution/NN ./.
+
+this/DT should/MD be/VB a/DT single/JJ integrated/JJ plug/NN and/CC plan/NN solution/NN but/CC appears/VBZ to/TO be/VB an/DT afterthought/NN ./.
+
+this/DT nas/NNS drive/NN can/MD only/RB be/VB accesses/NNS via/IN network/NN ./.
+
+the/DT usb/NN port/NN on/IN the/DT back/JJ wo/MD n't/RB let/VB you/PRP connect/VB directly/RB to/TO your/PRP$ computer/NN as/IN a/DT workaround/NN in/IN case/NN you/PRP can/MD not/RB use/VB mionet/NN because/IN mionet/NN causes/VBZ your/PRP$ computer/NN to/TO crash/VB if/IN you/PRP go/VBP onto/IN a/DT vpn/NN ./.
+
+the/DT mionet/NN website/NN says/VBZ they/PRP are/VBP working/VBG on/IN a/DT fix/NN but/CC the/DT site/NN is/VBZ woefully/RB out/IN of/IN date/NN and/CC anemic/JJ the/DT memo/NN backup/NN software/NN is/VBZ yet/RB another/DT application/NN ./.
+
+what/WDT might/MD appear/VB like/IN a/DT simple/JJ 3/CD step/NN proces/NNS -LRB-/-LRB- their/PRP$ screens/NNS -RRB-/-RRB- provides/VBZ no/DT help/NN if/IN things/NNS do/VBP not/RB go/VB as/IN described/VBN in/IN the/DT inadequate/JJ installation/NN -LRB-/-LRB- i/FW 've/VBP yet/RB have/VBP an/DT installation/NN go/VB as/RB easy/JJ as/IN described/VBN on/IN a/DT quick/JJ start/NN guide/NN ./.
+
+bottomline/NN this/DT hardware/NN is/VBZ compact/JJ and/CC efficient/JJ ./.
+
+wd/NN needs/VBZ to/TO build/VB an/DT integrated/VBN plug/NN and/CC play/VB version/NN of/IN the/DT applications/NNS and/CC allow/VB that/DT usb/NN port/NN to/TO work/VB directly/RB with/IN my/PRP$ laptop/NN ./.
+
+mionet/NN needs/VBZ to/TO fix/VB that/DT cisco/NN vpn/NN bug/NN problem/NN asap/RB ./.
+
+for/IN novice/NN users/NNS who/WP intend/VBP to/TO use/VB this/DT drive/NN as/IN their/PRP$ own/JJ ,/, personal/JJ file/NN storage/NN in/IN an/DT apartment/NN or/CC condo/NN ,/, this/DT is/VBZ the/DT drive/NN for/IN you/PRP ./.
+
+using/VBG a/DT usb/NN cable/NN with/IN this/DT devise/VBP makes/VBZ operating/VBG it/PRP simple/JJ and/CC fortunately/RB ,/, wd/NN drives/NNS are/VBP well/RB known/VBN for/IN ease/NN of/IN use/NN or/CC so/IN we/PRP thought/VBD ./.
+
+there/EX 's/VBZ lots/NNS of/IN drive/NN space/NN ,/, and/CC the/DT hardbound/JJ book/NN like/IN structure/NN of/IN the/DT drive/NN can/MD definitely/RB save/VB you/PRP a/DT lot/NN of/IN space/NN on/IN that/DT cluttered/JJ computer/NN desk/NN ./.
+
+it/PRP 's/VBZ a/DT very/RB stylish/JJ looking/VBG gadget/NN that/WDT can/MD quickly/RB complement/VB your/PRP$ mac/NN or/CC pc/NN here/RB 's/VBZ the/DT clincher/NN ./.
+
+i/LS would/MD 've/VB given/VBN this/DT drive/NN a/DT higher/JJR rating/NN if/IN it/PRP did/VBD n't/RB proudly/RB advertise/VB itself/PRP as/IN world/NN edition/NN ,/, which/WDT means/VBZ one/CD of/IN it/PRP 's/VBZ primary/JJ features/NNS is/VBZ for/IN the/DT user/NN to/TO be/VB able/JJ to/TO utilise/VB the/DT external/JJ drive/NN as/IN a/DT networked/JJ devise/VBP ./.
+
+unfortunately/RB ,/, it/PRP 's/VBZ own/JJ name/NN hardly/RB does/VBZ the/DT functionality/NN of/IN the/DT devise/VB any/DT justice/NN ./.
+
+the/DT drive/NN is/VBZ a/DT poor/JJ excuse/NN for/IN a/DT home/over/NN the/DT net/JJ network/NN storage/NN drive/NN ./.
+
+and/CC if/IN you/PRP 've/VBP recently/RB upgraded/VBN your/PRP$ os/NNS to/TO vista/NN 64/CD bit/NN ,/, you/PRP might/MD as/RB well/RB kiss/NN this/DT drive/NN good/JJ bye/NN especially/RB if/IN you/PRP 've/VBP done/VBN the/DT said/VBD os/NNS upgrade/VB to/TO all/DT your/PRP$ systems/NNS at/IN home/NN ./.
+
+the/DT already/RB slow/JJ networking/NN software/NN this/DT drive/NN uses/VBZ -LRB-/-LRB- mionet/NN -RRB-/-RRB- will/MD not/RB run/VB on/IN the/DT 64/CD bit/NN vista/NN ./.
+
+try/VB and/CC install/VB it/PRP and/CC you/PRP will/MD eventually/RB get/VB an/DT error/NN ./.
+
+now/RB ,/, some/DT users/NNS may/MD boast/VB that/IN they/PRP do/VBP have/VB a/DT workaround/NN for/IN this/DT problem/NN ,/, but/CC let/VBD 's/POS not/RB forget/VB that/IN not/RB all/DT users/NNS are/VBP tech/NN savvy/NN ./.
+
+if/IN you/PRP decide/VBP to/TO bypass/VB using/VBG mionet/NN to/TO add/VB your/PRP$ devise/VB to/TO your/PRP$ network/NN and/CC you/PRP are/VBP able/JJ to/TO map/VB the/DT drive/NN ,/, then/RB congratulations/NNS ./.
+
+however/RB be/VB prepared/VBN to/TO simply/RB view/VB your/PRP$ files/NNS and/CC not/RB be/VB able/JJ to/TO edit/VB ,/, save/VB or/CC change/VB any/DT of/IN them/PRP ./.
+
+that/DT 's/VBZ right/JJ folks/NNS ./.
+
+the/DT drive/NN becomes/VBZ nothing/NN more/JJR than/IN an/DT online/NN ,/, museum/NN for/IN your/PRP$ read/NN only/RB files/VBZ ./.
+
+if/IN you/PRP make/VBP a/DT change/NN to/TO any/DT of/IN the/DT files/NNS in/IN the/DT drive/NN ,/, and/CC try/VB to/TO save/VB those/DT changes/NNS ,/, an/DT annoying/JJ popup/NN will/MD tell/VB you/PRP you/PRP have/VBP no/DT permission/NN yadda/NN yadda/NN blah/RB blah/RB ./.
+
+and/CC the/DT only/JJ thing/NN that/WDT will/MD work/VB -LRB-/-LRB- surprise/NN surprise/NN -RRB-/-RRB- is/VBZ if/IN you/PRP mark/VBP your/PRP$ drive/NN as/IN the/DT destination/NN folder/NN for/IN your/PRP$ itunes/NNS files/NNS so/RB ,/, in/IN summation/NN ;/: good/JJ as/IN an/DT ordinary/JJ usb/NN personal/JJ drive/NN ;/: horrible/JJ as/IN a/DT network/NN storage/NN drive/NN ./.
+
+if/IN you/PRP intend/VBP to/TO pay/VB 200/CD +/CC dollars/NNS on/IN this/DT drive/NN ,/, my/PRP$ advise/VBP is/VBZ do/VBP not/RB ./.
+
+throw/VB in/RP a/DT hundred/CD more/JJR dollars/NNS and/CC you/PRP can/MD get/VB yourself/PRP a/DT network/NN server/NN that/WDT will/MD actually/RB work/VB ./.
+
+i/LS bought/VBD this/DT ext/NN ./.
+
+drive/NN today/NN because/IN i/FW wanted/VBD a/DT second/JJ net/JJ drive/NN so/RB what/WP is/VBZ my/PRP$ opinion/NN 1/CD ./.
+
+extremely/RB slow/JJ net/JJ transfers/NNS although/IN supports/NNS 1000m/VBP i/FW thinks/VBZ because/IN of/IN the/DT software/NN -LRB-/-LRB- mio/NN wd/NN anywhere/RB access/NN -RRB-/-RRB- i/FW have/VBP a/DT drive/NN 100m/RB with/IN ximeta/NN ndas/NNS software/NN and/CC its/PRP$ much/JJ more/RBR faster/RBR and/CC more/RBR easy/JJ to/TO use/VB than/IN wdc/NN software/NN 2/CD ./.
+
+the/DT software/NN to/TO access/VB the/DT drive/NN not/RB so/RB good/JJ -LRB-/-LRB- plus/CC u/NN have/VBP to/TO pay/VB to/TO upgrade/VB to/TO full/JJ version/NN ,/, not/RB so/RB friendly/JJ i/FW think/VB its/PRP$ responsible/JJ for/IN the/DT slow/JJ tranfers/NNS maybe/RB will/MD be/VB better/JJR creating/VBG a/DT mapped/VBN drive/NN without/IN using/VBG the/DT wd/NN anywhere/RB access/NN 3/CD ./.
+
+beautiful/JJ drive/NN 1tb/RB without/IN raid/NN maybe/RB wdc/NN should/MD use/VB ximeta/NN ndas/NNS software/NN for/IN local/JJ lan/NN ,/, the/DT drive/NN should/MD be/VB just/RB great/JJ and/CC much/JJ faster/RBR 2/LS ./.
+
+the/DT mybook/JJ world/NN edition/NN sounded/VBD like/IN a/DT good/JJ idea/NN ./.
+
+500gb/NN ,/, network/NN connection/NN for/IN under/IN $/$ 100/CD ./.
+
+sounds/NNS great/JJ i/FW used/VBN this/DT primarily/RB as/IN a/DT storage/NN drive/NN ./.
+
+the/DT drive/NN would/MD get/VB fairly/RB warm/JJ -LRB-/-LRB- on/IN 24/7/CD ,/, but/CC not/RB in/IN constant/JJ use/NN -RRB-/-RRB- ,/, but/CC nothing/NN out/IN of/IN the/DT ordinary/JJ for/IN an/DT external/JJ drive/NN ./.
+
+i/LS had/VBD the/DT drive/NN for/IN about/RB 6/CD months/NNS ,/, then/RB i/FW could/MD not/RB connect/VB to/TO it/PRP all/DT of/IN a/DT sudden/JJ i/FW read/NN later/RB on/IN that/DT other/JJ users/NNS have/VBP had/VBN this/DT same/JJ problem/NN ./.
+
+the/DT usb/ethernet/NN pcb/NN has/VBZ some/DT major/JJ issues/NNS apparently/RB ./.
+
+lots/NNS of/IN field/NN failures/NNS ./.
+
+after/IN removing/VBG the/DT drive/NN from/IN the/DT case/NN ,/, i/FW tried/VBD to/TO read/VB it/PRP through/IN another/DT external/JJ case/NN and/CC connecting/VBG to/TO a/DT pc/NN directly/RB ./.
+
+the/DT drive/NN is/VBZ recognized/VBN ,/, but/CC could/MD not/RB be/VB read/VBN ./.
+
+i/LS ended/VBD up/RP having/VBG to/TO reformat/VB the/DT drive/NN ,/, and/CC now/RB it/PRP works/VBZ fine/JJ buyers/NNS beware/VBP on/IN this/DT one/CD ./.
+
+for/IN network/NN backup/NN storage/NN separate/JJ from/IN main/JJ computer/NN at/IN $/$ 0/CD ./.
+
+25/gig/NN i/FW guess/NN i/FW can/MD handle/VB the/DT slow/JJ speed/NN ./.
+
+paid/VBN $/$ 120/CD ./.
+
+00/CD for/IN 500/CD gig/NN version/NN in/IN february/NNP 2008/CD ./.
+
+looking/VBG into/IN why/WRB my/PRP$ mybook/NN is/VBZ clicking/VBG suddenly/RB ,/, it/PRP seems/VBZ that/IN this/DT problem/NN is/VBZ not/RB uncommon/JJ ./.
+
+according/VBG to/TO wd/NN ,/, there/EX is/VBZ nothing/NN to/TO be/VB done/VBN ./.
+
+the/DT drive/NN is/VBZ dead/JJ ./.
+
+also/RB ,/, if/IN you/PRP check/VB your/PRP$ network/NN activity/NN you/PRP may/MD find/VB -LRB-/-LRB- as/IN i/FW did/VBD -RRB-/-RRB- that/IN the/DT drive/NN is/VBZ contacting/VBG some/DT ip/NN address/NN in/IN france/NN about/IN every/DT 15/CD to/TO 30/CD minutes/NNS ./.
+
+nothing/NN is/VBZ being/VBG sent/VBN but/CC is/VBZ this/DT really/RB necessary/JJ ./.
+
+the/DT ip/NN address/NN is/VBZ 87/CD ./.
+
+219/CD ./.
+
+my/PRP$ firewall/NN logged/VBD the/DT activity/NN ,/, ethereal/JJ captured/VBN the/DT content/NN ,/, which/WDT as/IN i/FW said/VBD is/VBZ nothing/NN ./.
+
+further/RB digging/NN into/IN the/DT ip/NN address/NN suggests/VBZ that/IN it/PRP may/MD have/VB connections/NNS to/TO mionet/NN maybe/RB ./.
+
+i/LS have/VBP done/VBN nothing/NN further/JJ but/CC i/FW plan/NN to/TO call/VB wd/NN and/CC ask/VB them/PRP is/VBZ this/DT for/IN ./.
+
+i/LS love/VBP the/DT drive/NN ,/, works/VBZ flawlessly/RB if/IN you/PRP avoid/VBP mionet/NN ./.
+
+read/VB the/DT user/NN reviews/NNS and/CC believe/VB them/PRP ;/: i/LS knew/VBD this/DT product/NN would/MD be/VB slow/JJ ,/, but/CC i/FW never/RB expected/VBN it/PRP to/TO be/VB this/DT slow/JJ ;/: speed/NN is/VBZ such/JJ that/IN when/WRB editing/NN or/CC manipulating/VBG a/DT number/NN of/IN files/NNS -LRB-/-LRB- for/IN example/NN ,/, jpgs/NNS -RRB-/-RRB- make/VBP sure/JJ the/DT files/NNS are/VBP on/IN you/PRP local/JJ hdd/NN ./.
+
+then/RB ,/, after/IN working/VBG with/IN the/DT files/NNS ,/, you/PRP can/MD then/RB copy/VB them/PRP to/TO the/DT mbw/NN ./.
+
+otherwise/RB you/PRP spend/VBP most/JJS of/IN your/PRP$ time/NN waiting/VBG ./.
+
+even/RB doing/VBG a/DT photo/NN gallery/NN review/NN of/IN jpgs/NNS is/VBZ painfully/RB slow/JJ ./.
+
+also/RB ,/, reviews/VBZ talk/NN about/IN how/WRB loud/JJ the/DT fan/NN is/VBZ ,/, it/PRP is/VBZ louder/RBR than/IN you/PRP can/MD imagine/VB ./.
+
+i/LS had/VBD it/PRP beneath/IN my/PRP$ desk/NN and/CC the/DT distraction/NN is/VBZ such/JJ ,/, that/IN i/FW had/VBD to/TO put/VB it/PRP into/IN a/DT closet/NN ./.
+
+even/RB in/IN the/DT closet/NN you/PRP could/MD hear/VB the/DT fan/NN ./.
+
+when/WRB first/RB set/VBN up/RP on/IN my/PRP$ lan/NN ,/, the/DT mbw/NN is/VBZ directly/RB attached/VBN to/TO the/DT router/NN -LRB-/-LRB- wrt54g/NN -RRB-/-RRB- ./.
+
+then/RB ,/, about/IN once/RB a/DT week/NN ,/, the/DT network/NN would/MD stop/VB recognizing/VBG the/DT drive/NN -LRB-/-LRB- including/VBG my/PRP$ network/NN magic/NN -RRB-/-RRB- ./.
+
+by/IN chance/NN ,/, i/FW discovered/VBN that/IN by/IN connecting/VBG to/TO the/DT lan/NN via/IN a/DT switch/NN corrected/VBN this/DT problem/NN ./.
+
+finally/RB ,/, both/DT drive/NN failed/VBD on/IN me/PRP ./.
+
+thank/VB god/NN ,/, i/FW saw/VBD this/DT coming/VBG and/CC completed/VBD a/DT backup/NN of/IN my/PRP$ important/JJ files/NNS ./.
+
+if/IN you/PRP own/VBP this/DT product/NN ,/, make/VBP backups/NNS an/DT important/JJ part/NN of/IN you/PRP routine/JJ ./.
+
+nothing/NN but/CC headaches/NNS ,/, no/DT diagnostic/JJ capabilities/NNS ,/, drops/VBZ connections/NNS frequently/RB ,/, switches/VBZ drive/NN letters/NNS randomly/RB ,/, copies/NNS of/IN files/NNS to/TO it/PRP can/MD disappear/VB ,/, just/RB completely/RB frustrating/VBG ./.
+
+western/JJ digital/JJ used/VBN to/TO be/VB a/DT quality/NN company/NN ./.
+
+now/RB they/PRP are/VBP nothing/NN more/JJR than/IN a/DT group/NN of/IN misfits/NNS engaging/VBG in/IN consumer/NN fraud/NN ./.
+
+useless/JJ for/IN those/DT running/VBG 64/CD bit/NN systems/NNS ./.
+
+mionet/NN software/NN is/VBZ complicated/VBN and/CC can/MD prevent/VB access/NN to/TO your/PRP$ drive/NN possibly/RB because/IN it/PRP needs/VBZ to/TO connect/VB to/TO the/DT westerndigital/JJ server/NN first/RB before/IN accessing/VBG your/PRP$ home/NN network/NN drive/NN ./.
+
+this/DT raises/VBZ the/DT whole/JJ issue/NN of/IN security/NN even/RB if/IN you/PRP are/VBP a/DT home/NN userthis/NN connection/NN is/VBZ dropped/VBN for/IN some/DT reason/NN and/CC the/DT support/NN site/NN does/VBZ not/RB have/VB an/DT adequate/JJ solution/NN even/RB though/IN several/JJ users/NNS report/VBP this/DT issue/NN ./.
+
+the/DT drive/NN failed/VBD after/IN a/DT year/NN and/CC the/DT only/JJ way/NN to/TO fix/VB it/PRP would/MD be/VB to/TO send/VB the/DT entire/JJ drive/NN to/TO western/JJ digital/JJ ./.
+
+so/RB if/IN you/PRP have/VBP sensitive/JJ data/NNS on/IN it/PRP ,/, it/PRP is/VBZ at/IN risk/NN ./.
+
+never/RB buy/VB world/NN edition/NN again/RB ./.
+
+yep/RB just/RB too/RB bad/JJ wd/NN did/VBD go/VB that/DT way/NN ,/, last/JJ time/NN i/FW buy/VB a/DT network/NN drive/NN for/IN them/PRP that/DT is/VBZ for/IN sure/JJ ./.
+
+i/LS would/MD also/RB like/VB to/TO know/VB how/WRB did/VBD you/PRP manage/VBP to/TO get/VB it/PRP going/VBG as/IN a/DT mapped/VBN drive/NN ./.
+
+i/LS have/VBP no/DT problem/NN accessing/VBG the/DT public/JJ part/NN but/CC impossible/JJ to/TO access/VB my/PRP$ password/NN protected/VBD folders/NNS ,/, just/RB a/DT shame/NN updated/VBN ./.
+
+on/IN may/MD 21/CD ,/, 2009/CD ./.
+
+do/VB not/RB buy/VB wd/NN ,/, tech/NN support/NN sucks/VBZ and/CC their/PRP$ products/NNS have/VBP a/DT extremely/RB high/JJ failure/NN rate/NN ./.
+
+the/DT cons/NNS above/IN really/RB tell/VB it/PRP all/DT ./.
+
+this/DT drive/NN will/MD not/RB stay/VB connected/VBN to/TO the/DT network/NN ./.
+
+wd/NN tells/VBZ you/PRP on/IN its/PRP$ website/NN that/IN the/DT only/JJ way/NN to/TO keep/VB the/DT drive/NN online/NN is/VBZ to/TO access/VB it/PRP only/RB with/IN its/PRP$ mionet/NN software/NN ./.
+
+wd/NN also/RB tells/VBZ you/PRP that/IN the/DT drive/NN 's/POS cpu/NN is/VBZ to/TO dumb/JJ to/TO maintain/VB a/DT connection/NN if/IN more/JJR than/IN about/IN 3/CD users/NNS try/VB to/TO connect/VB at/IN once/RB ./.
+
+if/IN you/PRP try/VBP to/TO use/VB the/DT drive/NN like/IN any/DT decent/JJ network/NN drive/NN ,/, and/CC access/NN files/NNS via/IN other/JJ apps/NNS ,/, the/DT drive/NN disconnects/NNS and/CC you/PRP have/VBP to/TO restart/VB it/PRP ./.
+
+my/PRP$ drive/NN has/VBZ not/RB stayed/VBN connected/VBN for/IN more/JJR than/IN about/RB 6/CD hours/NNS at/IN a/DT time/NN in/IN two/CD years/NNS ./.
+
+there/EX have/VBP to/TO be/VB better/JJR products/NNS out/IN there/RB ./.
+
+in/IN fact/NN ,/, i/FW is/VBZ looking/VBG for/IN something/NN to/TO replace/VB it/PRP when/WRB i/FW came/VBD across/IN cnet/NN 's/POS ridiculously/RB inflated/JJ review/NN ./.
+
+for/IN your/PRP$ own/JJ good/JJ ,/, look/VB elsewhere/RB ./.
+
+and/CC cnet/NN ,/, how/WRB about/RB doing/VBG some/DT real/JJ testing/NN and/CC not/RB just/RB something/NN perfunctory/JJ so/IN you/PRP can/MD keep/VB taking/VBG the/DT ad/NN dollars/NNS ./.
+
+mionet/NN 's/POS central/JJ server/NN has/VBZ been/VBN down/RP for/IN over/IN a/DT week/NN ./.
+
+i/LS have/VBP called/VBN mionet/NN 's/POS customer/NN support/NN multiple/JJ times/NNS and/CC also/RB open/JJ trouble/NN tickets/NNS ./.
+
+they/PRP assure/VBP me/PRP they/PRP are/VBP working/VBG on/IN the/DT issue/NN ./.
+
+they/PRP tell/VBP me/PRP the/DT only/JJ way/NN i/FW can/MD access/VB my/PRP$ data/NNS is/VBZ to/TO go/VB through/IN their/PRP$ server/NN and/CC there/EX is/VBZ no/DT possible/JJ back/JJ door/NN ./.
+
+i/LS have/VBP over/IN a/DT years/NNS worth/NN of/IN work/NN on/IN my/PRP$ hard/JJ drive/NN that/WDT i/FW am/VBP loosing/VBG hope/NN of/IN ever/RB recovering/VBG ./.
+
+mionet/NN 's/POS tech/NN support/NN has/VBZ told/VBN me/PRP not/RB even/RB they/PRP can/MD access/VB my/PRP$ data/NNS if/IN their/PRP$ servers/NNS are/VBP down/RB ./.
+
+had/VBD i/FW known/VBN that/IN i/FW would/MD have/VB to/TO go/VB through/IN their/PRP$ server/NN to/TO access/VB my/PRP$ own/JJ data/NNS on/IN my/PRP$ own/JJ hard/JJ drive/NN ,/, i/FW would/MD never/RB had/VBD purchased/VBN this/DT product/NN ./.
+
+i/LS will/MD never/RB purchase/VB another/DT mionet/NN or/CC western/JJ digital/JJ product/NN again/RB after/IN this/DT experience/NN ./.
+
+would/MD have/VB returned/VBN product/NN but/CC over/IN return/NN period/NN when/WRB i/FW finally/RB began/VBD to/TO use/VB my/PRP$ book/NN world/NN ./.
+
+the/DT software/NN setup/NN is/VBZ not/RB trivial/JJ ./.
+
+every/DT restart/VB of/IN client/NN computers/NNS requires/VBZ online/JJ login/NN to/TO mionet/NN service/NN -LRB-/-LRB- via/IN the/DT internet/NN -RRB-/-RRB- ./.
+
+the/DT biggest/JJS disadvantage/NN the/DT storage/NN is/VBZ often/RB stucked/VBN when/WRB handling/VBG transfer/NN of/IN big/JJ volumes/NNS of/IN data/NNS 100/CD +/CC mb/NN ./.
+
+i/LS needed/VBD a/DT shared/JJ backup/NN server/NN so/RB in/IN my/PRP$ case/NN ;/: this/DT product/NN is/VBZ revealed/VBN as/IN useless/JJ ./.
+
+overall/RB ,/, very/RB faulty/JJ ,/, prematurely/RB released/VBN to/TO the/DT point/NN of/IN being/VBG disrespectful/JJ to/TO the/DT potential/JJ buyer/NN ./.
+
+the/DT firmware/NN is/VBZ slow/JJ and/CC you/PRP have/VBP to/TO constantly/RB reset/VB it/PRP so/IN it/PRP saved/VBD the/DT changes/NNS applied/VBD to/TO it/PRP such/JJ as/IN everytime/NN you/PRP create/VBP a/DT folder/NN or/CC create/VB a/DT user/NN with/IN permissions/NNS ./.
+
+i/LS 'm/VBP de/IN installing/VBG wd/NN backup/NN anywhere/RB ./.
+
+very/RB frustrating/JJ not/RB to/TO have/VB the/DT product/NN i/FW bought/VBN with/IN extra/JJ warranty/NN too/RB ./.
+
+i/LS can/MD not/RB use/VB the/DT program/NN now/RB ./.
+
+as/IN i/FW said/VBD ,/, with/IN work/NN you/PRP can/MD work/VB your/PRP$ way/NN thru/IN the/DT install/VB for/IN 1/CD drive/NN ,/, but/CC if/IN you/PRP try/VBP to/TO install/VB 2/CD world/NN edition/NN drives/NNS on/IN the/DT same/JJ home/NN lan/NN ,/, using/VBG the/DT mionet/NN software/NN provided/VBN ,/, you/PRP will/MD find/VB yourself/PRP devoting/VBG an/DT entire/JJ weekend/NN or/CC more/JJR to/TO do/VB so/RB ./.
+
+after/IN a/DT number/NN of/IN email/NN exchanges/NNS with/IN the/DT wd/NN support/NN staff/NN ,/, i/FW 've/VBP come/VBN to/TO the/DT conclusion/NN that/IN either/CC -LRB-/-LRB- a/LS -RRB-/-RRB- wd/NN never/RB thought/VBD some/DT would/MD actually/RB buy/VB 2/CD of/IN them/PRP ,/, or/CC -LRB-/-LRB- b/LS -RRB-/-RRB- the/DT wd/NN supoort/NN staff/NN has/VBZ no/DT clue/NN how/WRB the/DT product/NN should/MD with/IN 2/CD in/IN the/DT same/JJ segment/NN if/IN i/FW were/VBD running/VBG off/RP standard/JJ workstations/NNS like/IN linux/NN or/CC windows/NNS 95/CD ,/, i/FW 'd/MD cut/VB them/PRP slack/VB ,/, but/CC i/FW running/VBG xp/NN and/CC vista/NN and/CC the/DT software/NN wo/MD not/RB let/VB me/PRP add/VB rge/NN 2nd/JJ drive/NN no/DT matter/NN what/WDT i/FW try/VBP ./.
+
+oh/UH well/RB ,/, guess/VB it/PRP 's/VBZ return/NN the/DT wd/NN to/TO best/JJS buy/NN and/CC pick/VB up/RP hp/NN ./.
+
+should/MD have/VB read/VBN cnet/NN before/IN buying/VBG this/DT junk/NN ./.
+
+on/IN the/DT surface/NN ,/, this/DT is/VBZ an/DT amazing/JJ product/NN ./.
+
+but/CC first/RB off/RB ,/, i/FW could/MD not/RB get/VB my/PRP$ dell/NN inspiron/NN to/TO recognize/VB it/PRP ./.
+
+then/RB it/PRP kept/VBD `/`` timing/VBG out/RP '/'' when/WRB i/FW tried/VBD to/TO transfer/VB files/NNS to/TO it/PRP -LRB-/-LRB- resulting/VBG in/IN many/JJ hours/NNS of/IN seeing/VBG what/WP it/PRP did/VBD copy/move/NN and/CC picking/VBG up/RP where/WRB it/PRP left/VBD off/RP -RRB-/-RRB- ./.
+
+once/RB i/FW got/VBD it/PRP working/VBG right/RB ,/, the/DT added/VBN mionet/NN software/NN for/IN online/JJ access/NN of/IN the/DT drive/NN from/IN outside/IN the/DT home/NN is/VBZ limited/JJ and/CC extremely/RB ,/, agonizingly/RB slow/JJ ./.
+
+plus/CC ,/, i/FW could/MD not/RB access/VB my/PRP$ mp3/NN 's/POS as/IN there/EX is/VBZ a/DT block/NN on/IN that/DT format/NN -LRB-/-LRB- one/CD of/IN the/DT reasons/NNS i/FW bought/VBD this/DT product/NN is/VBZ so/RB that/IN i/FW could/MD access/VB my/PRP$ music/NN from/IN the/DT office/NN at/IN home/NN -RRB-/-RRB- ./.
+
+no/DT can/MD do/VB but/CC what/WP took/VBD the/DT cake/NN is/VBZ the/DT failure/NN of/IN the/DT drive/NN after/RB just/RB over/IN a/DT year/NN of/IN use/NN ./.
+
+the/DT warranty/NN covers/VBZ defects/NNS up/IN to/TO 3/CD years/NNS ,/, which/WDT is/VBZ great/JJ ./.
+
+except/IN that/DT it/PRP does/VBZ not/RB cover/VB data/NNS recovery/NN which/WDT is/VBZ in/IN the/DT $/$ 500/CD $/$ 2/CD ,/, 500/CD -LRB-/-LRB- ouch/NN ./. -RRB-/-RRB-
+
+range/NN however/RB ,/, i/FW also/RB have/VBP a/DT wd/NN passport/NN ,/, which/WDT works/VBZ great/JJ and/CC which/WDT i/FW highly/RB recommend/VB -LRB-/-LRB- so/RB far/RB ./.
+
+why/WRB all/PDT the/DT hassle/NN with/IN mionet/NN ./.
+
+how/WRB does/VBZ it/PRP actualy/RB benefit/VBP the/DT user/NN ./.
+
+why/WRB does/VBZ it/PRP take/VB so/RB long/RB to/TO set/VB up/RP and/CC why/WRB do/VBP you/PRP have/VB turn/VB all/DT your/PRP$ network/NN security/NN features/VBZ off/RP ./.
+
+why/WRB does/VBZ not/RB it/PRP work/VB with/IN mswindows/NNS vista/NN which/WDT is/VBZ the/DT most/RBS common/JJ version/NN of/IN ms/NNS windows/NNS ./.
+
+why/WRB does/VBZ it/PRP constantly/RB ping/VBP an/DT ip/NN address/NN overseas/RB and/CC what/WP implications/NNS does/VBZ this/DT have/VB on/IN your/PRP$ privacy/NN and/CC security/NN ./.
+
+maybe/RB i/FW 'm/VBP expecting/VBG too/RB much/JJ but/CC normally/RB when/WRB you/PRP pay/VBP good/JJ money/NN ,/, take/VB something/NN out/IN of/IN the/DT box/NN ,/, follow/VB instructions/NNS and/CC plug/VB it/PRP in/IN ,/, you/PRP will/MD also/RB expect/VB it/PRP to/TO work/VB ./.
+
+i/LS 'm/VBP not/RB interested/JJ in/IN getting/VBG a/DT degree/NN in/IN linux/NN or/CC reading/VBG the/DT knowledge/NN base/NN for/IN hours/NNS thats/NNS why/WRB i/FW pay/NN to/TO buy/VB it/PRP out/IN of/IN the/DT box/NN ./.
+
+great/JJ idea/NN ,/, not/RB a/DT good/JJ product/NN ./.
+
+setup/NN is/VBZ awful/JJ ,/, and/CC is/VBZ inconsistent/JJ from/IN user/NN to/TO user/NN ./.
+
+interface/NN is/VBZ rediculously/RB inadequate/JJ ./.
+
+mionet/NN provides/VBZ sketchy/JJ service/NN and/CC the/DT documentation/NN is/VBZ nil/NN ./.
+
+skip/VB this/DT and/CC wait/VB for/IN a/DT better/JJR solution/NN ./.
+
+i/LS bought/VBD this/DT because/IN it/PRP is/VBZ $/$ 60/CD cheaper/JJR than/IN the/DT comparable/JJ usb/NN 2/CD ./.
+
+0/CD drive/NN ./.
+
+i/LS should/MD have/VB coughed/VBN up/RP the/DT extra/JJ dough/NN ./.
+
+i/LS ended/VBD up/RP taking/VBG the/DT drive/NN out/IN of/IN its/PRP$ case/NN and/CC making/VBG it/PRP into/IN an/DT internal/JJ drive/NN ./.
+
+the/DT speed/NN is/VBZ sluggish/JJ at/IN best/JJS over/IN ethernet/NN ,/, and/CC the/DT mionet/NN software/NN eats/VBZ up/RP all/DT your/PRP$ ram/NN ./.
+
+for/IN those/DT who/WP are/VBP interested/JJ ,/, the/DT drive/NN in/IN this/DT unit/NN is/VBZ a/DT wd10eacs/JJ 3gb/sec/CD sata/NNS drive/NN ./.
+
+works/NNS quite/RB well/RB now/RB that/IN i/FW fixed/VBN it/PRP ,/, but/CC i/FW kinda/FW wanted/VBD an/DT external/JJ drive/NN ./.
+
+i/LS had/VBD to/TO return/VB this/DT unit/NN back/RB to/TO the/DT store/NN because/IN it/PRP is/VBZ almost/RB imposable/JJ to/TO work/VB due/JJ the/DT time/NN transfer/NN ./.
+
+it/PRP takes/VBZ over/RP 4/CD hours/NNS just/RB to/TO transfer/VB around/IN 50gb/JJ ./.
+
+also/RB that/IN mionet/NN software/NN that/WDT comes/VBZ with/IN it/PRP 's/VBZ annoying/JJ ./.
+
+i/LS just/RB wanted/VBD fast/JJ data/NNS drive/VBP not/RB all/PDT the/DT options/NNS that/WDT physically/RB slows/VBZ this/DT machine/NN down/RB ./.
+
+it/PRP also/RB keeps/VBZ connecting/VBG with/IN some/DT strange/JJ ip/NN address/NN from/IN witch/NN ever/RB reason/NN and/CC my/PRP$ firebox/NN keep/VB blocking/VBG that/IN connection/NN ./.
+
+we/PRP purchased/VBD 3/CD ./.
+
+the/DT sharing/NN software/NN hard/JJ rebooted/VBN 3/CD different/JJ xp/NN machines/NNS -LRB-/-LRB- serveral/JJ times/NNS all/DT at/IN the/DT same/JJ point/NN -RRB-/-RRB- ./.
+
+support/NN offered/VBD no/DT solutions/NNS for/IN this/DT ./.
+
+2/CD units/NNS had/VBD to/TO be/VB setup/NN manually/RB ,/, one/CD of/IN them/PRP had/VBD to/TO be/VB hard/JJ reset/NN ./.
+
+the/DT 3rd/JJ unit/NN did/VBD not/RB register/VB on/IN the/DT network/NN at/IN all/DT even/RB after/IN a/DT hard/JJ reset/NN ./.
+
+i/LS would/MD not/RB recommend/VB this/DT product/NN to/TO any/DT one/CD let/VB alone/RB a/DT home/NN user/NN ./.
+
+i/LS would/MD steer/VB away/RB from/IN this/DT box/NN ./.
+
+it/PRP has/VBZ very/RB slow/JJ network/NN performance/NN ./.
+
+the/DT advertised/JJ 1gbps/NNS speed/NN is/VBZ a/DT joke/NN ./.
+
+it/PRP will/MD only/RB connect/VB at/IN that/DT speed/NN ./.
+
+transfer/NN rates/NNS stay/VBP below/IN 10mbps/NNS ./.
+
+the/DT cnet/NN review/NN shows/VBZ it/PRP is/VBZ the/DT slowest/JJS of/IN the/DT lot/NN ./.
+
+wish/NN i/FW had/VBD read/VBN that/IN first/RB ./.
+
+junk/NN ,/, that/WDT looks/VBZ good/JJ ,/, but/CC still/RB junk/NN ./.
+
+this/DT product/NN fails/VBZ for/IN 5/CD reasons/NNS 1/LS -RRB-/-RRB- you/PRP can/MD not/RB connect/VB the/DT usb/NN port/NN to/TO a/DT computer/NN to/TO load/NN files/NNS they/PRP must/MD be/VB transferred/VBN over/IN the/DT network/NN ,/, 2/LS -RRB-/-RRB- network/NN transfer/NN is/VBZ painfully/RB slow/JJ ,/, 3/LS -RRB-/-RRB- it/PRP does/VBZ not/RB work/VB with/IN vista/NN ,/, 4/LS -RRB-/-RRB- it/PRP requires/VBZ the/DT use/NN of/IN proprietary/JJ software/NN to/TO function/VB ,/, and/CC 5/CD -RRB-/-RRB- to/TO use/VB the/DT best/JJS features/NNS of/IN the/DT software/NN requires/VBZ a/DT monthly/JJ fee/NN ./.
+
+forever/RB ./.
+
+hardware/NN seems/VBZ to/TO be/VB up/RB to/TO wd/NN 's/POS usual/JJ standards/NNS ,/, although/IN it/PRP 's/VBZ difficult/JJ to/TO tell/VB ,/, due/JJ to/TO the/DT hideousness/NN of/IN the/DT bundled/VBN mionet/NN software/NN ./.
+
+my/PRP$ mionet/NN has/VBZ always/RB been/VBN shaky/JJ ,/, dead/JJ slow/JJ ,/, hard/JJ to/TO get/VB to/TO use/VB ,/, constant/JJ popup/NN messages/NNS on/IN startup/NN about/IN some/DT problem/NN etc/FW ./.
+
+and/CC now/RB after/IN about/IN a/DT year/NN of/IN poor/JJ performance/NN ,/, mionet/NN stopped/VBD working/VBG altogether/RB ./.
+
+the/DT registry/NN is/VBZ wrong/JJ it/PRP says/VBZ suggesting/VBG a/DT reinstall/NN ./.
+
+reinstall/NN did/VBD n't/RB work/NN of/IN course/NN ,/, so/RB now/RB i/FW can/MD not/RB access/VB any/DT of/IN the/DT files/NNS i/FW have/VBP on/IN my/PRP$ wd/NN when/WRB i/FW have/VBP tried/VBN to/TO communicate/VB with/IN them/PRP about/IN my/PRP$ problems/NNS ,/, i/FW get/VB some/DT indian/JJ support/NN which/WDT does/VBZ not/RB work/VB because/IN i/FW am/VBP not/RB writing/VBG my/PRP$ problems/NNS in/IN the/DT correct/JJ way/NN ,/, within/IN the/DT right/JJ brackets/NNS etc/NN ./.
+
+in/IN the/DT end/NN ,/, my/PRP$ complaint/NN errand/NN just/RB died/VBD out/RP i/FW find/VB it/PRP astonishing/JJ that/IN a/DT reputable/JJ company/NN like/IN western/JJ digital/JJ would/MD tarnish/VB its/PRP$ name/NN by/IN shipping/VBG their/PRP$ super/JJ duper/NN nas/NN drives/NNS ,/, with/IN some/DT collage/NN level/NN hack/NN to/TO make/VB it/PRP work/VB like/IN they/PRP advertise/VBP it/PRP ./.
+
+mionet/NN is/VBZ the/DT worst/JJS software/NN i/FW have/VBP come/VBN across/IN in/IN my/PRP$ time/NN as/IN web/NN developer/NN ever/RB ,/, and/CC wd/NN has/VBZ lost/VBN all/DT its/PRP$ credibility/NN after/IN this/DT mess/NN ./.
+
+i/LS will/MD never/RB buy/VB a/DT wd/NN product/NN again/RB and/CC i/FW will/MD also/RB advice/NN all/DT my/PRP$ friends/NNS agains/NNS buying/VBG any/DT ,/, in/IN irl/NN and/CC online/NN like/IN here/RB run/VBN from/IN mionet/NN and/CC wd/NN and/CC never/RB stop/VB ./.
+
+oh/UH the/DT horror/NN i/FW do/VBP not/RB understand/VB why/WRB cnet/NN gave/VBD this/DT drive/NN anything/NN more/JJR than/IN zero/CD stars/NNS ./.
+
+the/DT drive/NN doesnt/NN work/NN anymore/RB and/CC when/WRB it/PRP did/VBD work/VB it/PRP is/VBZ very/RB flaky/JJ transfer/NN speeds/NNS were/VBD extremely/RB slow/JJ ./.
+
+you/PRP can/MD not/RB connect/VB it/PRP directly/RB to/TO the/DT pc/NN even/RB though/IN it/PRP has/VBZ a/DT usb/NN port/NN -LRB-/-LRB- the/DT port/NN is/VBZ only/RB for/IN extension/NN purposes/NNS or/CC so/IN the/DT manual/NN says/VBZ -RRB-/-RRB- ./.
+
+all/DT in/IN all/DT you/PRP are/VBP stuck/VBN with/IN a/DT network/NN drive/NN that/WDT does/VBZ not/RB connect/VB to/TO the/DT network/NN ,/, and/CC if/IN and/CC when/WRB it/PRP does/VBZ the/DT transfer/NN rate/NN is/VBZ so/RB dismally/RB slow/JJ i/FW 'd/MD rather/RB watch/VB paint/NN dry/JJ ./.
+
+would/MD not/RB recommend/VB this/DT product/NN to/TO anyone/NN ./.
+
+this/DT is/VBZ a/DT quote/NN from/IN wd/NN customer/NN service/NN the/DT box/NN states/VBZ that/IN the/DT drive/NN has/VBZ a/DT gigabit/NN ethernet/NN port/NN which/WDT it/PRP does/VBZ ./.
+
+the/DT box/NN does/VBZ n't/RB state/NN that/IN it/PRP will/MD transfer/VB at/IN gigabit/NN speeds/NNS ./.
+
+what/WDT ./.
+
+so/IN they/PRP admit/VBP that/IN they/PRP are/VBP doing/VBG false/JJ advertisement/NN ./.
+
+if/IN i/FW say/VBP that/IN a/DT car/NN is/VBZ a/DT ferrari/NN it/PRP better/RBR damn/RB well/RB perform/VB like/IN a/DT ferrari/NN ./.
+
+obviously/RB this/DT company/NN is/VBZ full/JJ of/IN crap/NN ./.
+
+they/PRP do/VBP not/RB deserve/VB your/PRP$ money/NN or/CC your/PRP$ business/NN ./.
+
+i/LS asked/VBD them/PRP if/IN i/FW can/MD at/IN least/JJS get/VB credit/NN to/TO buy/VB another/DT real/JJ gigabit/NN nas/NNS drive/VBP they/PRP probably/RB just/RB laughed/VBD ./.
+
+well/RB i/FW buy/VB tons/NNS of/IN computer/NN stuff/NN and/CC i/FW never/RB had/VBD too/RB much/JJ of/IN an/DT issue/NN with/IN wd/NN ./.
+
+not/RB anymore/RB ./.
+
+i/LS will/MD tell/VB everyone/NN what/WDT kind/NN of/IN crap/NN advertisement/NN these/DT people/NNS have/VBP ./.
+
+do/VB not/RB buy/VB western/JJ digital/JJ products/NNS ./.
+
+if/IN i/FW could/MD give/VB them/PRP a/DT negative/JJ star/NN i/FW would/MD shove/VB it/PRP in/IN their/PRP$ negative/JJ lying/VBG face/NN ./.
+
+they/PRP put/VBP their/PRP$ name/NN on/IN it/PRP ,/, they/PRP say/VBP it/PRP is/VBZ a/DT gigabit/NN drive/NN it/PRP better/RBR perform/VB like/IN it/PRP ./.
+
+do/VB not/RB get/VB this/DT junk/NN product/NN or/CC anything/NN else/RB these/DT rip/NN offs/NNS sell/VBP ./.
+
+i/LS have/VBP been/VBN back/RB and/CC forth/RB with/IN their/PRP$ customer/NN service/NN on/IN the/DT phone/NN and/CC email/NN for/IN the/DT past/JJ year/NN ./.
+
+they/PRP said/VBD they/PRP would/MD exchange/VB it/PRP about/IN 3/CD months/NNS ago/IN for/IN a/DT 1tb/JJ esata/NN drive/NN no/DT charge/NN but/CC many/JJ failed/VBD attempts/NNS to/TO contact/VB them/PRP puts/VBZ me/PRP back/RP in/IN the/DT same/JJ spot/NN ./.
+
+i/LS really/RB like/IN wd/NN but/CC their/PRP$ mionet/NN is/VBZ such/JJ a/DT bad/JJ product/NN ./.
+
+please/VB what/WP ever/RB you/PRP do/VBP stay/VB away/RB from/IN this/DT ./.
+
+it/PRP will/MD cause/VB you/PRP to/TO be/VB irrate/JJ and/CC possibly/RB throw/VB your/PRP$ $/$ 300/CD +/CC hard/JJ drive/NN ./.
+
+am/RB spending/VBG 5x/NN the/DT product/NN cost/NN to/TO recover/VB data/NNS from/IN the/DT hdd/NN ./.
+
+have/VB switched/VBN to/TO the/DT maxtor/NN central/JJ axis/NN network/NN storage/NN server/NN thus/RB far/RB a/DT much/JJ superior/JJ product/NN ./.
+
+be/VB warned/VBN do/VBP not/RB buy/VB the/DT wd/NN myworld/NN book/NN products/NNS unless/IN you/PRP are/VBP an/DT expert/NN linux/NN hack/NN and/CC want/VBP to/TO spend/VB your/PRP$ time/NN on/IN work/NN arounds/NNS and/CC recovery/NN ./.
+
+i/LS 'd/MD be/VB better/JJR off/RP with/IN a/DT usb/JJ adaptor/NN and/CC physically/RB hauling/VBG a/DT hard/JJ drive/NN around/IN my/PRP$ network/NN ./.
+
+this/DT has/VBZ been/VBN a/DT painful/JJ experience/NN ./.
+
+this/DT thing/NN is/VBZ so/RB unreliable/JJ out/IN of/IN the/DT box/NN that/IN there/EX is/VBZ even/RB a/DT full/JJ blown/VBN hack/NN site/NN for/IN this/DT product/NN ./.
+
+too/RB bad/JJ ,/, they/PRP loaded/VBD a/DT worthless/JJ software/NN gim/VBP me/PRP on/IN top/NN of/IN a/DT functional/JJ piece/NN of/IN hardware/NN ./.
+
+currently/RB ,/, most/RBS new/JJ computers/NNS are/VBP 64bit/JJ ,/, at/IN least/JJS for/IN any/DT serious/JJ ,/, professional/JJ type/NN machine/NN ./.
+
+including/VBG consumer/NN laptops/NNS ./.
+
+and/CC yet/RB ,/, this/DT cool/JJ high/JJ tech/NN device/NN can/MD not/RB be/VB accessed/VBN by/IN these/DT systems/NNS ./.
+
+western/JJ digital/JJ 's/POS support/NN has/VBZ no/DT solution/NN except/IN to/TO return/VB it/PRP for/IN a/DT refund/NN ./.
+
+mionet/NN does/VBZ not/RB even/RB have/VB a/DT support/NN number/NN to/TO contact/VB ./.
+
+they/PRP are/VBP clearly/RB misrepresenting/VBG this/DT product/NN ./.
+
+keep/VB away/RB from/IN it/PRP ./.
+
+there/EX 's/VBZ lots/NNS of/IN other/JJ nas/NNS options/NNS out/IN there/RB ./.
+
+so/RB i/FW have/VBP about/IN 450/CD gigs/NNS on/IN the/DT hd/NN that/WDT i/FW can/MD not/RB access/VB because/IN of/IN mionet/NN and/CC the/DT failed/VBN mount/VBP error/NN which/WDT if/IN you/PRP google/VBP you/PRP 'll/MD see/VB is/VBZ the/DT scourge/NN of/IN the/DT networked/JJ storage/NN options/NNS ./.
+
+wd/NN tech/NN support/NN is/VBZ useless/JJ on/IN this/DT error/NN ,/, and/CC lots/NNS of/IN people/NNS think/VBP there/EX should/MD be/VB a/DT class/NN action/NN suit/NN -LRB-/-LRB- all/DT in/IN favor/NN say/VBP aye/NN aye/NN -RRB-/-RRB- ./.
+
+i/LS 'm/VBP stuck/JJ attempting/VBG to/TO figure/VB out/RP a/DT way/NN to/TO get/VB the/DT data/NNS off/IN the/DT drive/NN before/IN returning/VBG it/PRP if/IN you/PRP 're/VBP looking/VBG at/IN this/DT drive/NN ,/, you/PRP need/VBP to/TO just/RB accept/VB the/DT fact/NN that/IN networked/JJ storage/NN is/VBZ not/RB yet/RB available/JJ on/IN the/DT mass/NN user/NN market/NN ./.
+
+if/IN you/PRP have/VBP the/DT tech/NN savy/NN and/CC money/NN to/TO build/VB your/PRP$ own/JJ home/NN server/NN ,/, go/VB at/IN it/PRP ./.
+
+drobo/NN might/MD work/VB well/RB ,/, but/CC if/IN otherwise/RB just/RB accept/VB that/IN the/DT usb/NN cable/NN will/MD have/VB to/TO stay/VB plugged/VBN into/IN one/CD of/IN your/PRP$ usb/NN ports/NNS if/IN you/PRP want/VBP to/TO access/VB the/DT files/NNS -LRB-/-LRB- i/FW only/RB gave/VBD it/PRP a/DT ./.
+
+5/CD star/NN because/IN i/FW had/VBD to/TO give/VB it/PRP some/DT kind/NN of/IN star/NN rating/NN for/IN this/DT review/NN to/TO get/VB posted/VBN -RRB-/-RRB- ./.
+
+extremely/RB unreliable/JJ -LRB-/-LRB- connection/NN problem/NN see/VBP cons/NNS -RRB-/-RRB- ./.
+
+now/RB they/PRP have/VBP been/VBN on/IN the/DT market/NN for/IN a/DT while/IN the/DT reviews/NNS have/VBP come/VBN in/IN ./.
+
+given/VBN that/IN nearly/RB 100/CD %/NN of/IN the/DT reviews/NNS are/VBP negative/JJ i/FW feel/VBP it/PRP fairly/RB safe/JJ to/TO reccomend/VB that/IN you/PRP dont/VBP buy/VB one/CD ./.
+
+it/PRP seems/VBZ sad/JJ when/WRB you/PRP read/VBP the/DT blogs/NNS about/IN a/DT product/NN ,/, with/IN known/JJ problems/NNS ,/, but/CC the/DT company/NN seemingly/RB looks/VBZ the/DT other/JJ way/NN ./.
+
+that/IN seems/VBZ to/TO be/VB the/DT case/NN with/IN wd/NN ./.
+
+within/IN two/CD days/NNS of/IN purchasing/VBG their/PRP$ wd3200/NN premiere/NN ,/, i/FW emailed/FW their/PRP$ support/NN department/NN asking/VBG them/PRP for/IN help/NN ./.
+
+nothing/NN happened/VBD ./.
+
+i/LS did/VBD again/RB ./.
+
+again/RB nothing/NN ./.
+
+life/NN kicks/VBZ in/IN and/CC i/FW travel/NN ./.
+
+it/PRP still/RB works/VBZ with/IN the/DT slower/JJR usb/NN ,/, but/CC i/FW purchased/VBN the/DT drive/NN for/IN firewire/NN ./.
+
+when/WRB i/FW finally/RB got/VBD around/IN to/TO using/VBG the/DT drive/NN in/IN earnest/JJ -LSB-/-LRB- with/IN a/DT brand/NN new/JJ machine/NN -RSB-/-RRB- ,/, the/DT warranty/NN had/VBD expired/VBN ./.
+
+then/RB ,/, wd/NN is/VBZ more/JJR than/IN happy/JJ to/TO tell/VB me/PRP the/DT problems/NNS and/CC the/DT fact/NN that/IN i/FW is/VBZ sol/NN ./.
+
+wd/NN has/VBZ lost/VBN me/PRP as/IN a/DT customer/NN and/CC i/FW will/MD go/VB to/TO the/DT ends/NNS of/IN the/DT earth/NN to/TO tell/VB others/NNS my/PRP$ story/NN so/IN they/PRP can/MD decide/VB for/IN themselves/PRP ./.
+
+based/VBN on/IN the/DT blogs/NNS ,/, others/NNS have/VBP found/VBN out/RP too/RB late/RB as/RB well/RB ./.
+
+this/DT is/VBZ undoubtedly/RB the/DT worst/JJS buy/NN i/FW have/VBP made/VBN ./.
+
+it/PRP is/VBZ a/DT spur/NN of/IN the/DT moment/NN buy/VB when/WRB i/FW saw/VBD it/PRP at/IN a/DT bargain/NN price/NN in/IN the/DT shop/NN ./.
+
+1tb/JJ for/IN ï/NN ¿/CD 1/2/CD 130/CD in/IN uk/NN ./.
+
+it/PRP solved/VBD an/DT immediat/NN eproblem/NN to/TO bakup/VB a/DT laptop/NN ./.
+
+after/IN that/DT i/FW wanted/VBD to/TO use/VB it/PRP as/IN an/DT nas/NN drive/NN so/RB my/PRP$ children/NNS could/MD back/VB up/RP their/PRP$ university/NN work/NN files/NNS remotely/RB ./.
+
+well/RB what/WP a/DT waste/NN of/IN time/NN ./.
+
+the/DT con/NN is/VBZ that/IN you/PRP have/VBP to/TO pay/VB for/IN mionet/NN service/NN to/TO get/VB the/DT remote/JJ nas/NNS capabilities/NNS they/PRP do/VBP n't/RB mention/VB that/DT on/IN the/DT box/NN ./.
+
+nor/CC do/VBP they/PRP mention/VB that/DT numerous/JJ filetypes/NNS can/MD not/RB be/VB shared/VBN ./.
+
+we/PRP were/VBD recording/VBG voice/NN files/NNS of/IN their/PRP$ grandad/NN in/IN hospital/NN and/CC wanted/VBD to/TO share/VB the/DT conversations/NNS with/IN them/PRP could/MD we/PRP ./.
+
+no/DT they/PRP do/VBP n't/RB allow/VB mp3/NN files/NNS to/TO be/VB transferred/VBN ./.
+
+yes/RB the/DT workaround/NN is/VBZ to/TO wrap/VB it/PRP into/IN a/DT zip/NN file/NN but/CC why/WRB should/MD i/FW have/VBP to/TO do/VB that/DT when/WRB i/FW have/VBP paid/VBN for/IN a/DT product/NN that/WDT says/VBZ it/PRP allows/VBZ me/PRP to/TO share/VB files/NNS ./.
+
+my/PRP$ next/JJ step/NN is/VBZ to/TO decommission/VB this/DT and/CC convert/VB it/PRP into/IN a/DT non/JJ nas/NNS drive/NN ./.
+
+i/FW thought/VBN about/IN selling/VBG it/PRP on/IN ebay/NN but/CC felt/VBD that/DT would/MD be/VB immoral/JJ as/IN i/FW would/MD be/VB tranferring/VBG the/DT con/NN and/CC disappointment/NN to/TO some/DT other/JJ poor/JJ unsuspecting/JJ person/NN ./.
+
+i/LS could/MD n't/RB live/VB with/IN the/DT guilt/NN ./.
+
+i/LS do/VBP not/RB know/VB how/WRB westen/JJ digital/JJ live/JJ with/IN the/DT guilt/NN that/IN they/PRP are/VBP conning/VBG many/JJ thousands/NNS of/IN people/NNS of/IN their/PRP$ hard/JJ earned/VBN money/NN -LRB-/-LRB- well/RB for/IN themajority/NN of/IN us/PRP it/PRP is/VBZ hard/JJ earned/VBN -RRB-/-RRB- i/FW think/VBP you/PRP get/VB the/DT pcture/NN that/WDT i/FW feel/VBP strongly/RB that/IN this/DT is/VBZ a/DT bad/JJ buy/NN ./.
+
+i/FW feel/VBP ripped/VBN off/RP ./.
+
+after/IN reading/VBG a/DT review/NN on/IN the/DT net/NN and/CC finding/VBG it/PRP at/IN costco/NN ,/, i/FW thought/VBD this/DT is/VBZ what/WP i/FW is/VBZ looking/VBG for/IN ./.
+
+boy/NN is/VBZ i/FW wrong/JJ ./.
+
+not/RB only/RB do/VB my/PRP$ cons/NNS tell/VBP the/DT story/NN but/CC trying/VBG to/TO get/VB help/VB from/IN wd/NN is/VBZ impossible/JJ ./.
+
+they/PRP refered/VBD me/PRP to/TO a/DT faq/NN page/NN and/CC informed/VBD me/PRP that/IN they/PRP do/VBP not/RB support/VB xbox/NN 360/CD ./.
+
+learn/VB from/IN my/PRP$ mistake/NN ./.
+
+not/RB every/DT product/NN is/VBZ perfect/JJ for/IN every/DT one/CD ,/, but/CC unless/IN you/PRP want/VBP slow/JJ or/CC non/JJ existant/JJ access/NN to/TO your/PRP$ files/NNS ,/, and/CC your/PRP$ not/RB storing/VBG music/NN then/RB maybe/RB this/DT product/NN is/VBZ for/IN you/PRP ./.
+
+i/LS have/VBP had/VBD the/DT 500gb/JJ drive/NN for/IN about/IN a/DT year/NN ./.
+
+mounting/VBG to/TO my/PRP$ network/NN is/VBZ always/RB an/DT issue/NN ./.
+
+i/LS have/VBP to/TO reboot/NN the/DT drive/NN and/or/CC my/PRP$ pc/NN ./.
+
+it/PRP will/MD work/VB fine/JJ for/IN a/DT couple/NN of/IN days/NNS to/TO a/DT week/NN or/CC so/RB ./.
+
+then/RB its/PRP$ gone/VBN again/RB ./.
+
+finally/RB about/IN two/CD weeks/NNS ago/IN it/PRP failed/VBD again/RB and/CC have/VBP not/RB been/VBN able/JJ to/TO mount/VB ./.
+
+the/DT mionet/NN and/CC retrospect/NN software/NN are/VBP also/RB very/RB unreliable/JJ ./.
+
+do/VB not/RB even/RB consider/VB buying/VBG this/DT product/NN ./.
+
+of/IN course/NN no/DT help/NN from/IN wd/NN unless/IN you/PRP want/VBP to/TO pay/VB a/DT tech/NN fee/NN ./.
+
+this/DT is/VBZ absolutely/RB the/DT most/RBS ridiculous/JJ thing/NN i/FW 've/VBP ever/RB heard/VBN ./.
+
+and/CC i/FW 'm/VBP not/RB alone/RB ./.
+
+for/IN starters/NNS see/VBP ./.
+
+pcmag/NN ./.
+
+com/article2/0/NN ,/, 2704/CD ,/, 2229868/CD ,/, 00/CD ./.
+
+asp/NN ./.
+
+www/NN ./.
+
+gearlog/NN ./.
+
+com/2007/12/NN //: western/JJ //NN digital/JJ //NN blocks/VBZ //SYM nas/FW //FW fro/NN ./.
+
+php/NN ./.
+
+http/NN //: //: tech/NN ./.
+
+propeller/NN ./.
+
+com/story/2007/NN //: 12/07/file/CD sharing/VBG off/RP limits/NNS on/IN western/JJ digital/JJ nas/NNS ./.
+
+technologyexpert/NN ./.
+
+blogspot/NN ./.
+
+com/2007/12/NN //: multimedia/NNS sharing/VBG off/RP limits/NNS on/IN ./.
+
+html/NN ./.
+
+http/NN //: //: www/NN ./.
+
+computerworld/NN ./.
+
+com/action/article/NN ./.
+
+command/NN viewarticlebasic/JJ taxonomyname/NN nas/NN articleid/NN 9051599/CD taxonomyid/NN 148/CD ./.
+
+www/NN ./.
+
+marrowbones/NNS ./.
+
+com/commons/technosocial/JJ //: 2007/12/western/JJ //NN digital/JJ //NN cripples/NNS //VBP file/NN ./.
+
+html/NN ./.
+
+never/RB have/VBP i/FW had/VBD the/DT misfortune/NN to/TO purchase/VB something/NN from/IN a/DT well/RB known/VBN manufacturer/NN that/WDT has/VBZ been/VBN so/RB utterly/RB crap/NN two/CD main/JJ issues/NNS ./.
+
+it/PRP 's/VBZ very/RB very/RB slow/JJ ,/, both/DT to/TO read/VB and/CC write/VB ./.
+
+for/IN example/NN ,/, it/PRP takes/VBZ about/RB 5/CD minutes/NNS to/TO copy/VB a/DT 60mb/JJ mp3/NN album/NN to/TO this/DT drive/NN ./.
+
+however/RB ,/, that/IN pales/VBZ in/IN comparison/NN to/TO the/DT next/JJ problem/NN 2/CD ./.
+
+you/PRP can/MD only/RB upload/VB about/IN 500mb/NN of/IN data/NNS to/TO the/DT drive/NN before/IN it/PRP locks/VBZ itself/PRP and/CC you/PRP can/MD not/RB write/VB any/DT more/JJR until/IN the/DT power/NN is/VBZ cycled/VBN ./.
+
+this/DT problem/NN seems/VBZ relatively/RB well/RB documented/VBN ,/, but/CC i/FW contacted/VBN wd/NN tech/NN support/NN about/IN it/PRP regardless/RB and/CC got/VBD teh/NN following/JJ reply/NN ./.
+
+we/PRP recommend/VBP you/PRP transfer/VB data/NNS to/TO your/PRP$ drive/NN in/IN 500mb/JJ increments/NNS to/TO see/VB if/IN that/DT resolves/VBZ the/DT problem/NN you/PRP 're/VBP having/VBG ./.
+
+if/IN you/PRP transfer/VB more/JJR than/IN 500mb/CD to/TO the/DT drive/NN ,/, it/PRP may/MD fall/VB offline/JJ and/CC abort/VB the/DT data/NNS transfer/NN ./.
+
+so/RB ,/, they/PRP know/VBP about/IN it/PRP and/CC seem/VB to/TO think/VB it/PRP 's/VBZ ok/NN ./.
+
+to/TO put/VB this/DT in/IN perspective/NN ,/, if/IN i/FW wanted/VBD to/TO completely/RB fill/VB my/PRP$ 500gb/JJ drive/NN ,/, i/FW 'd/MD have/VB to/TO power/NN cycle/NN it/PRP 1000/CD times/NNS ./.
+
+now/RB that/IN really/RB is/VBZ rubbish/JJ thankfully/RB i/FW 've/VBP been/VBN able/JJ to/TO return/VB the/DT drive/NN and/CC replace/VB it/PRP with/IN a/DT decent/JJ lacie/NN one/CD ./.
+
+i/LS usually/RB do/VBP n't/RB complain/VB about/IN such/JJ cosmetic/JJ things/NNS as/IN design/NN ,/, user/NN friendliness/NN etc/NN ./.
+
+even/RB though/IN i/FW think/VB this/DT white/JJ gadget/NN sometimes/RB make/VB a/DT bit/NN to/TO much/JJ noise/NN ,/, i/FW can/MD live/VB with/IN noise/NN i/FW managed/VBD to/TO get/VB everything/NN up/RB and/CC running/VBG ,/, uploaded/VBD some/DT files/NNS to/TO the/DT drive/NN -LRB-/-LRB- even/RB though/IN it/PRP is/VBZ way/NN slower/JJR than/IN it/PRP claims/VBZ to/TO be/VB -RRB-/-RRB- ./.
+
+with/IN approx/RB 200/CD g/NN 's/POS of/IN data/NNS uploaded/VBD ,/, the/DT problems/NNS started/VBD at/IN first/JJ it/PRP occasionally/RB disconnected/VBD from/IN the/DT network/NN without/IN any/DT warnings/NNS ,/, and/CC after/IN a/DT few/JJ weeks/NNS it/PRP did/VBD not/RB even/RB respond/VB to/TO hardware/NN actions/NNS -LRB-/-LRB- such/JJ as/IN pressing/VBG the/DT power/NN button/NN in/IN an/DT attempt/NN to/TO turn/VB the/DT machine/NN off/RB and/CC restart/VB it/PRP -RRB-/-RRB- ./.
+
+right/RB now/RB it/PRP seems/VBZ to/TO be/VB stuck/VBN in/IN some/DT kind/NN of/IN limbo/NN ,/, it/PRP is/VBZ obviously/RB running/VBG -LRB-/-LRB- i/FW can/MD hear/VB it/PRP ,/, competing/VBG with/IN my/PRP$ neighbours/NNS power/NN drill/NN about/IN who/WP 's/VBZ the/DT noisiest/JJS -RRB-/-RRB- ,/, but/CC the/DT power/NN indicator/NN is/VBZ not/RB lit/VBN still/RB ,/, it/PRP is/VBZ an/DT impressive/JJ way/NN of/IN disposing/VBG of/IN 200/CD g/NN 's/POS of/IN data/NNS and/CC years/NNS of/IN hard/JJ work/NN ./.
+
+fortunately/RB i/FW have/VBP several/JJ backups/NNS of/IN most/JJS of/IN the/DT data/NNS ,/, but/CC still/RB ,/, this/DT is/VBZ the/DT worst/JJS piece/NN of/IN junk/NN i/FW have/VBP ever/RB come/VBN across/IN where/WRB does/VBZ western/JJ digital/JJ find/VB such/JJ junky/JJ equipment/NN ./.
+
+afghanistan/NN ./.
+
+the/DT unit/NN i/FW bought/VBN at/IN the/DT apple/NN store/NN failed/VBD ./.
+
+they/PRP sent/VBD me/PRP a/DT replacement/NN -LRB-/-LRB- procedure/NN is/VBZ not/RB too/RB difficult/JJ -RRB-/-RRB- that/WDT did/VBD not/RB even/RB turn/VB on/IN they/PRP sent/VBD me/PRP another/DT shipping/NN label/NN ,/, but/CC now/RB i/FW am/VBP making/VBG another/DT trip/NN to/TO ship/VB the/DT 2nd/JJ one/CD back/RB ./.
+
+tiresome/JJ ./.
+
+although/IN this/DT product/NN comes/VBZ with/IN a/DT 1gbps/NNS network/NN connection/NN ,/, the/DT real/JJ transmitting/VBG speed/NN is/VBZ scarily/RB low/JJ ,/, my/PRP$ estimation/NN is/VBZ 3m/JJ bytes/NNS per/IN second/JJ at/IN most/JJS ./.
+
+the/DT second/JJ problem/NN is/VBZ sometimes/RB there/EX is/VBZ no/DT response/NN ,/, especially/RB large/JJ file/NN writing/VBG last/JJ but/CC not/RB least/JJS ,/, the/DT hci/NN only/RB allow/VBP anywhere/RB software/NN to/TO connect/VB ./.
+
+although/IN you/PRP can/MD mapping/VBG it/PRP as/IN network/NN folder/NN mapping/NN ,/, it/PRP really/RB a/DT nightmare/NN when/WRB there/EX is/VBZ no/DT response/NN although/IN the/DT product/NN comes/VBZ with/IN a/DT excellent/JJ looking/VBG and/CC led/VBD indicators/NNS ,/, plus/CC a/DT good/JJ price/NN ,/, i/FW would/MD not/RB recommend/VB this/DT product/NN ./.
+
+the/DT bottom/JJ line/NN is/VBZ 1t/JJ or/CC 2t/JJ writing/VBG on/IN this/DT 3m/NN speed/NN storage/NN might/MD drive/VB you/PRP crazy/JJ ./.
+
+the/DT software/NN for/IN this/DT hemorage/NN in/IN a/DT box/NN nearly/RB destroyed/VBD both/CC computers/NNS i/FW tried/VBD it/PRP on/IN before/IN i/FW decided/VBD there/EX were/VBD cheaper/JJR ways/NNS to/TO cause/VB myself/PRP anguish/NN ./.
+
+the/DT hardrive/JJ itself/PRP is/VBZ fine/JJ but/CC since/IN the/DT true/JJ value/NN of/IN this/DT product/NN is/VBZ its/PRP$ networking/NN capabilities/NNS -LRB-/-LRB- powered/VBN by/IN the/DT mionet/NN software/NN -RRB-/-RRB- ,/, it/PRP fails/VBZ in/IN comparison/NN to/TO cheaper/JJR externals/NNS ./.
+
+you/PRP want/VBP to/TO whip/VB out/RP your/PRP$ os/NNS recovery/NN cd/NN ./.
+
+by/IN all/DT means/NNS buy/VBP the/DT external/JJ from/IN hell/NN ./.
+
+mio/NN net/NN -LRB-/-LRB- the/DT software/NN that/WDT comes/VBZ bundled/VBN with/IN the/DT my/PRP$ book/NN -RRB-/-RRB- is/VBZ terrible/JJ ./.
+
+you/PRP have/VBP to/TO install/VB it/PRP on/IN every/DT computer/NN on/IN your/PRP$ network/NN that/IN you/PRP want/VBP to/TO access/VB the/DT hard/JJ drive/NN ./.
+
+western/JJ digital/JJ then/RB tries/VBZ to/TO market/NN upgrades/NNS to/TO the/DT software/NN for/IN remote/JJ access/NN and/CC remote/JJ control/NN of/IN other/JJ computers/NNS on/IN the/DT network/NN ./.
+
+it/PRP took/VBD me/PRP a/DT while/NN to/TO figure/VB out/RP what/WP the/DT software/NN is/VBZ for/IN and/CC what/WP i/FW needed/VBN i/FW just/RB wanted/VBD to/TO add/VB this/DT baby/NN to/TO the/DT router/NN ,/, give/VB it/PRP a/DT password/NN ,/, and/CC go/VB ./.
+
+is/VBZ that/IN so/RB difficult/JJ ./.
+
+i/LS just/RB added/VBD some/DT photos/NNS to/TO the/DT mybook/NN and/CC my/PRP$ computer/NN locks/VBZ up/RP trying/VBG to/TO read/VB them/PRP from/IN it/PRP ./.
+
+how/WRB am/VBP i/FW supposed/VBN to/TO share/VB large/JJ amounts/NNS of/IN data/NNS like/IN this/DT ./.
+
+this/DT product/NN seems/VBZ a/DT total/JJ waste/NN of/IN time/NN and/CC based/VBN on/IN what/WP others/NNS have/VBP written/VBN here/RB i/FW will/MD now/RB try/VB to/TO get/VB my/PRP$ money/NN back/RB i/FW is/VBZ very/RB disappointed/JJ with/IN this/DT product/NN ./.
+
+this/DT thing/NN is/VBZ absolutely/RB useless/JJ ./.
+
+check/VB the/DT lengthy/JJ list/NN of/IN file/NN types/NNS that/IN this/DT drive/NN will/MD refuse/VB to/TO load/VB http/NN //: //: wdc/NN ./.
+
+custhelp/NN ./.
+
+com/cgi/NN bin/wdc/NN ./.
+
+cfg/php/enduser/NN //: std/NN //NN adp/NN ./.
+
+php/NN ./.
+
+p/NN //SYM faqid/VBD 1495/CD p/NN //NN created/VBN 1168641440/CD p/NN //NN sid/NN bltfvjli/NN p/NN //NN accessibility/NN 0/CD p/NN //SYM redirect/VB p/NN //NN lva/NN p/NN //CD sp/NN cf9zcmnoptemcf9zb3j0x2j5pszwx2dyawrzb3j0pszwx3jvd19jbnq9nsw1jnbfchjvzhm9mczwx2nhdhm9mczwx3b2pszwx2n2pszwx3nlyxjjaf90exblpwfuc3dlcnmuc2vhcmnox2zubczwx3bhz2u9mszwx3nlyxjjaf90zxh0ps5hdmk/NN p/NN //SYM li/FW p/NN //NN topview/NN 1/CD ./.
+
+make/VB sure/JJ you/PRP understand/VBP that/IN many/JJ file/NN types/NNS aac/NN ,/, aif/NN ,/, aifc/NN ,/, aiff/NN ,/, amf/NN ,/, asf/NN ,/, asx/NN ,/, avi/NN ,/, ,/, cda/NN ,/, dvi/NN ,/, divx/NN ,/, far/RB ,/, it/PRP ,/, itz/NN ,/, kar/FW ,/, mdz/NN ,/, mov/NN ,/, mp1/NN ,/, mp2/NN ,/, mp3/NN ,/, mp4/NN ,/, mpa/NN ,/, mpe/NN ,/, mpeg/NN ,/, mpg/NN ,/, mpga/NN ,/, mpv2/NN ,/, ogg/NN ,/, okt/NN ,/, ptm/NN ,/, qt/NN ,/, qt1/NN ,/, vob/NN ,/, voc/NN ,/, wm/NN ,/, wma/NN ,/, wmv/NN plus/CC more/JJR will/MD not/RB work/VB with/IN this/DT drive/NN ./.
+
+of/IN course/NN they/PRP 're/VBP also/RB the/DT largest/JJS files/NNS i/FW have/VBP and/CC the/DT ones/NNS i/FW wanted/VBD to/TO move/VB off/RP my/PRP$ pc/NN 's/POS hd/NN onto/IN network/NN storage/NN too/RB ./.
+
+booo/NN hisss/NN to/TO western/JJ digital/JJ for/IN trying/VBG to/TO decide/VB for/IN me/PRP which/WDT files/VBZ i/FW can/MD or/CC can/MD not/RB share/VB ./.
+
+i/LS bought/VBD this/DT drive/NN to/TO back/VB up/RP a/DT failing/VBG 1/CD tb/NN lacie/NN talk/NN about/IN dissappointment/NN ./.
+
+reads/writes/NNS are/VBP abysmally/RB slow/JJ i/FW is/VBZ under/IN the/DT impression/NN that/IN the/DT additional/JJ memory/NN is/VBZ supposed/VBN to/TO speed/VB up/RP things/NNS instead/RB it/PRP seems/VBZ to/TO be/VB doing/VBG the/DT opposite/NN ./.
+
+i/LS can/MD transfer/VB 2/CD music/NN directories/NNS in/IN less/JJR than/IN 2/CD minutes/NNS from/IN 2/CD usb/NN lacie/NN drives/NNS ./.
+
+same/JJ files/NNS from/IN a/DT lacie/NN to/TO the/DT mybook/NN takes/VBZ 16/CD mintutes/NNS what/WP a/DT joke/NN ./.
+
+i/LS very/RB much/RB do/VB not/RB recommend/VB this/DT this/DT drive/NN ./.
+
+this/DT product/NN is/VBZ sold/VBN with/IN false/JJ claims/NNS ./.
+
+the/DT mionet/NN software/NN seems/VBZ like/IN a/DT first/JJ generation/NN beta/NN that/WDT even/RB the/DT customer/NN service/NN reps/NNS admit/VBP dosent/JJ work/NN ./.
+
+i/FW cant/FW belive/FW wd/NN would/MD use/VB this/DT ./.
+
+i/LS have/VBP had/VBN multiple/JJ problems/NNS from/IN installing/VBG it/PRP that/WDT could/MD only/RB be/VB repaired/VBN with/IN a/DT system/NN restore/VB ./.
+
+if/IN you/PRP want/VBP to/TO use/VB this/DT drive/NN remotely/RB dont/VBD buy/VB it/PRP ./.
+
+you/PRP can/MD use/VB it/PRP on/IN a/DT lan/NN with/IN out/JJ mionet/NN and/CC it/PRP works/VBZ ./.
+
+bought/VBD it/PRP last/JJ night/NN at/IN best/JJS buy/NN ./.
+
+installed/VBN smoothly/RB ./.
+
+realised/VBN right/RB away/RB that/IN it/PRP is/VBZ slow/JJ to/TO transfer/VB files/NNS ./.
+
+these/DT are/VBP critcal/JJ files/NNS for/IN business/NN purposes/NNS ./.
+
+drive/NN crashed/VBD and/CC went/VBD offline/JJ and/CC i/FW reset/VB it/PRP ./.
+
+files/NNS disappeared/VBD ./.
+
+copied/VBN files/NNS again/RB overnight/RB ./.
+
+crashed/VBD ./.
+
+reset/VB ./.
+
+files/NNS missing/VBG ,/, disappeared/VBD ./.
+
+then/RB the/DT mionet/NN software/NN asked/VBD me/PRP to/TO go/VB to/TO my/PRP$ email/NN and/CC verify/VB my/PRP$ email/NN address/NN or/CC it/PRP wouldnt/NN let/VB me/PRP use/VB drive/NN ./.
+
+afterwich/JJ mionet/NN began/VBD failing/VBG again/RB ./.
+
+drive/NN remaines/NNS offline/JJ whenever/WRB it/PRP feels/VBZ like/IN it/PRP ./.
+
+also/RB it/PRP runs/VBZ really/RB really/RB hot/JJ ./.
+
+likely/RB this/DT will/MD burn/VB itself/PRP up/RP ,/, or/CC burn/VBP down/RP my/PRP$ house/NN ./.
+
+i/LS did/VBD not/RB trust/VB it/PRP right/RB away/RB so/RB i/FW lost/VBN nothing/NN off/IN my/PRP$ c/NN ./.
+
+deleted/VBN copies/NNS of/IN my/PRP$ files/NNS on/IN external/JJ drive/NN ./.
+
+pacakged/VBN up/RP up/RB in/IN the/DT box/NN ./.
+
+returned/VBD it/PRP in/IN afternoon/NN ./.
+
+took/VBD 14/CD hours/NNS to/TO get/VB rid/JJ of/IN this/DT piece/NN of/IN total/JJ junk/NN ./.
+
+i/LS sould/NN have/VBP just/RB smashed/VBN a/DT brick/NN on/IN my/PRP$ forehead/NN and/CC called/VBD it/PRP technology/NN ./.
+
+western/JJ digital/JJ is/VBZ the/DT drive/NN i/FW trust/NN with/IN my/PRP$ whole/JJ business/NN and/CC i/FW 've/VBP never/RB had/VBN a/DT problem/NN ./.
+
+this/DT is/VBZ a/DT full/JJ blown/VBN disappointment/NN ./.
+
+and/CC i/FW 'm/VBP not/RB the/DT only/JJ one/CD here/RB saying/VBG this/DT ./.
+
+do/VB not/RB buy/VB this/DT ./.
+
+if/IN you/PRP see/VBP it/PRP on/IN the/DT street/NN ,/, run/VBP the/DT other/JJ way/NN ./.
+
+you/PRP will/MD waste/VB you/PRP time/NN and/CC life/NN and/CC never/RB be/VB able/JJ to/TO get/VB that/DT back/RB ./.
+
+do/VB yourself/PRP a/DT favor/NN and/CC run/VB away/RB from/IN this/DT hard/JJ drive/NN ./.
+
+i/LS 'd/MD been/VBN contemplating/VBG buying/VBG one/CD of/IN these/DT for/IN months/NNS and/CC when/WRB i/FW finally/RB got/VBD it/PRP i/FW took/VBD it/PRP bak/NN to/TO bestbuy/NN after/IN a/DT few/JJ hours/NNS trying/VBG to/TO set/VB it/PRP up/IN 1/CD -RRB-/-RRB- you/PRP need/VBP a/DT subscription/NN to/TO continue/VB to/TO access/VB your/PRP$ data/NNS remotely/RB after/IN 1/CD month/NN ./.
+
+this/DT fact/NN kills/VBZ the/DT whole/JJ idea/NN of/IN having/VBG a/DT remote/JJ hard/JJ drive/NN you/PRP can/MD access/VB anywhere/RB 2/LS -RRB-/-RRB- mionet/NN is/VBZ one/CD of/IN the/DT worst/JJS pieces/NNS of/IN sofware/NN ever/RB encoded/VBN ./.
+
+it/PRP 's/VBZ so/RB bad/JJ i/FW hate/VBP it/PRP more/JJR than/IN sonicstage/NN from/IN sony/NN ,/, which/WDT should/MD tell/VB you/PRP something/NN if/IN youv/NN '/'' e/SYM ever/RB used/VBN sonicstage/NN 3/CD -RRB-/-RRB- i/FW could/MD find/VB no/DT way/NN to/TO wirelessly/RB access/VB my/PRP$ data/NNS without/IN using/VBG the/DT internet/NN connection/NN ,/, which/WDT is/VBZ ridiculously/RB slow/JJ ./.
+
+this/DT should/MD have/VB been/VBN the/DT first/JJ thing/NN built/VBN into/IN the/DT drive/NN i/FW bought/VBD this/DT drive/NN primarily/RB so/RB i/FW could/MD put/VB all/DT my/PRP$ movies/NNS ,/, homevideos/NNS ,/, pictures/NNS ,/, music/NN ,/, etc/FW on/IN it/PRP and/CC wirelessly/RB access/NN the/DT data/NNS in/IN my/PRP$ own/JJ home/NN ./.
+
+it/PRP 's/VBZ possible/JJ to/TO do/VB this/DT ,/, but/CC only/RB through/IN a/DT live/JJ internet/NN connection/NN ,/, which/WDT defeats/VBZ the/DT purpose/NN ./.
+
+i/LS 'm/VBP gon/VBG na/TO buy/VB the/DT ./.
+
+iomega/JJ storcenter/NN wireless/JJ nas/NNS 1tb/VBP even/RB though/IN the/DT user/NN reviews/VBZ on/IN cnet/NN are/VBP pretty/RB harsh/JJ ./.
+
+this/DT should/MD be/VB a/DT terrific/JJ piece/NN of/IN hardware/NN from/IN a/DT `/`` reputable/JJ '/'' manufacturer/NN ./.
+
+it/PRP is/VBZ instead/RB patheticaly/RB slow/JJ operating/NN at/IN lan/NN speeds/NNS no/RB better/RB than/IN 1/20th/NN of/IN its/PRP$ advertised/JJ performance/NN while/IN simple/JJ use/NN as/IN nas/NN is/VBZ doable/JJ ,/, finding/VBG out/RP how/WRB to/TO do/VB this/DT is/VBZ not/RB simple/JJ at/IN all/DT and/CC the/DT interface/NN is/VBZ very/RB minimalist/JJ and/CC not/RB user/NN friendly/JJ the/DT mionet/NN nonsense/NN is/VBZ definitely/RB to/TO be/VB avoided/VBN ,/, usesless/JJ really/RB for/IN anything/NN more/JJR than/IN small/JJ text/NN documents/NNS ./.
+
+subscription/NN required/VBN ./.
+
+put/VB that/DT on/IN the/DT outside/NN of/IN the/DT box/NN please/VB ./.
+
+i/LS have/VBP turned/VBN of/IN the/DT anywhere/RB access/NN four/CD times/NNS now/RB as/IN it/PRP seems/VBZ to/TO keep/VB turning/VBG itself/PRP on/IN ./.
+
+i/LS do/VBP n't/RB want/VB the/DT extra/JJ network/NN activity/NN or/CC public/JJ access/NN to/TO my/PRP$ device/NN ever/RB ./.
+
+seeing/VBG as/IN the/DT interface/controller/NN is/VBZ running/VBG linux/NN to/TO manage/VB the/DT box/NN ,/, why/WRB can/MD not/RB we/PRP have/VBP a/DT little/RB more/RBR manageability/NN ./.
+
+how/WRB about/RB moving/VBG files/NNS from/IN one/CD folder/NN to/TO another/DT require/VBP that/IN they/PRP be/VB moved/VBN from/IN the/DT box/NN to/TO the/DT pc/NN and/CC back/RB to/TO the/DT box/NN ./.
+
+some/DT simple/JJ file/NN management/NN would/MD really/RB help/VB here/RB ./.
+
+wd/NN get/VB a/DT grip/NN ./.
+
+burned/VBN by/IN wd/NN twice/RB this/DT month/NN as/IN my/PRP$ raptor/NN 10k/CD rpm/NN based/VBN raid0/NN drive/NN had/VBD a/DT drive/NN failure/NN within/IN three/CD weeks/NNS of/IN purchase/set/NN up/IN tsk/NN ./.
+
+tsk/RB ./.
+
+is/VBZ wd/NN trying/VBG to/TO become/VB the/DT new/JJ fujitsu/NN ./.
+
+wait/VB until/IN they/PRP get/VBP this/DT thing/NN working/VBG before/IN you/PRP spend/VBP your/PRP$ money/NN on/IN a/DT paperweight/NN ./.
+
+think/VB twice/RB before/IN buying/VBG a/DT wd/NN product/NN as/IN quality/NN is/VBZ taking/VBG a/DT turn/NN for/IN the/DT worse/JJR a/DT day/NN later/RB and/CC 43/CD ./.
+
+5/CD minutes/NNS on/IN the/DT phone/NN waiting/VBG for/IN a/DT second/JJ level/NN tech/NN support/NN rep/NN at/IN western/JJ digital/JJ to/TO tell/VB me/PRP that/IN 3/CD or/CC 4/CD mb/sec/NN is/VBZ all/DT you/PRP can/MD expect/VB from/IN these/DT drives/NNS ,/, they/PRP are/VBP slow/JJ a/DT direct/JJ quote/NN ./.
+
+that/DT of/IN course/NN translates/VBZ to/TO -LRB-/-LRB- 3/CD or/CC 4/CD time/NN 8/CD -RRB-/-RRB- 24/CD mb/NN to/TO 32/CD mb/NN transfer/NN rates/NNS ./.
+
+hardly/RB the/DT advertised/VBN 1/CD gb/NN lan/NN that/WDT is/VBZ all/DT over/IN the/DT box/NN ./.
+
+a/DT further/JJ quote/NN these/DT things/NNS run/VBP on/IN a/DT linux/NN system/NN internaly/RB and/CC there/EX is/VBZ nothing/NN we/PRP can/MD do/VB to/TO speed/VB them/PRP up/RP ./.
+
+i/LS 'm/VBP sorry/JJ sir/NNP but/CC that/DT 's/VBZ how/WRB it/PRP is/VBZ ./.
+
+my/PRP$ system/NN back/RB up/RB consisting/VBG of/IN 450/CD gb/NN of/IN data/NNS uploaded/VBD at/IN gb/NN speeds/NNS now/RB that/IN i/FW have/VBP to/TO restore/VB it/PRP ,/, do/VBP the/DT math/NN ,/, 1/CD gb/NN is/VBZ ~/NN 1/CD ,/, 000/CD ,/, 000/CD ,/, 000/CD mb/NN so/RB 450/CD ,/, 000/CD ,/, 000/CD ,/, 000/CD x/CC 8/CD -LRB-/-LRB- for/IN bytes/NNS -RRB-/-RRB- is/VBZ 3/CD ,/, 600/CD ,/, 000/CD ,/, 000/CD ,/, 000/CD bytes/NNS divided/VBN by/IN 24/CD ,/, 000/CD ,/, 000/CD or/CC 32/CD ,/, 000/CD ,/, 000/CD is/VBZ between/IN 112/CD ,/, 500/CD and/CC 150/CD ,/, 000/CD seconds/NNS or/CC 31/CD and/CC 42/CD hours/NNS ./.
+
+that/DT is/VBZ if/IN it/PRP does/VBZ not/RB choke/VB on/IN some/DT of/IN the/DT larger/JJR files/NNS -LRB-/-LRB- over/IN 2gb/JJ -RRB-/-RRB- like/IN it/PRP has/VBZ done/VBN already/RB avoid/VB this/DT drive/NN at/IN all/DT costs/NNS as/IN it/PRP is/VBZ not/RB a/DT practical/JJ place/NN to/TO store/NN and/CC retrieve/VB large/JJ amounts/NNS of/IN data/NNS ./.
+
+now/RB to/TO figure/VB out/RP how/WRB to/TO get/VB that/DT data/NNS back/RB maybe/RB seagate/VB data/NNS recovery/NN services/NNS ./.
+
+wd/NN drive/NN are/VBP usually/RB good/JJ for/IN the/DT money/NN ./.
+
+this/DT product/NN is/VBZ a/DT complete/JJ disaster/NN ./.
+
+i/LS wonder/VB how/WRB many/JJ time/NN wd/NN will/MD get/VB sued/VBN for/IN false/JJ advertising/NN ./.
+
+there/EX is/VBZ nothing/NN on/IN the/DT packaging/NN that/WDT tells/VBZ the/DT customers/NNS a/DT subscription/NN is/VBZ required/VBN ./.
+
+furthermore/RB letting/VBG their/PRP$ customers/NNS go/VB through/IN the/DT mionet/NN nightmare/NN install/VB -LRB-/-LRB- email/NN ,/, name/NN ,/, etc/FW ./.
+
+etc/NN -RRB-/-RRB- is/VBZ the/DT last/JJ straw/NN for/IN me/PRP ./.
+
+this/DT piece/NN of/IN equipment/NN is/VBZ back/RB to/TO where/WRB it/PRP came/VBD from/IN tomorrow/NN morning/NN ./.
+
+buyers/NNS beware/VBP ./.
+
+this/DT thing/NN is/VBZ not/RB an/DT ip/NN nas/NN ./.
+
+use/VB it/PRP to/TO cook/VB your/PRP$ eggs/NNS at/IN best/JJS or/CC better/JJR just/RB walk/VB away/RB from/IN it/PRP cnet/NN editor/NN 's/POS rating/NN is/VBZ 7/CD ./.
+
+what/WP a/DT joke/NN ./.
+
+i/LS got/VBD this/DT because/IN it/PRP looked/VBD like/IN a/DT great/JJ deal/NN a/DT nas/NN with/IN gigabit/NN ./.
+
+well/RB ,/, the/DT bad/JJ news/NN is/VBZ that/IN it/PRP 's/VBZ very/RB slow/JJ and/CC does/VBZ not/RB live/VB up/RP to/TO it/PRP 's/VBZ gigabit/JJ claim/NN ./.
+
+it/PRP took/VBD 4/CD hours/NNS to/TO back/VB up/RP 22g/CD ./.
+
+that/DT 's/VBZ unacceptable/JJ ./.
+
+reading/VBG around/RB ,/, it/PRP seems/VBZ that/IN the/DT transfer/NN speed/NN is/VBZ more/RBR in/IN the/DT 3/CD 5/CD mps/NNS than/IN the/DT 1000mps/NNS that/IN it/PRP claims/VBZ i/FW am/VBP returning/VBG it/PRP tomorrow/NN after/IN i/FW wipe/VBP it/PRP clean/JJ ./.
+
+a/DT usb2/NN or/CC firewire/NN drive/NN would/MD be/VB a/DT better/JJR choice/NN ./.
+
+unless/IN you/PRP really/RB ,/, really/RB want/VBP to/TO access/VB your/PRP$ files/NNS remotely/RB ,/, do/VBP not/RB install/VB the/DT mionet/NN the/DT software/NN ./.
+
+after/IN connecting/VBG it/PRP to/TO your/PRP$ router/NN ,/, find/VB the/DT drive/NN with/IN your/PRP$ browser/NN at/IN \/CD \/SYM \/SYM mybookworld/NN then/RB map/VBP it/PRP to/TO your/PRP$ computer/NN and/CC go/VB from/IN there/EX any/DT files/NNS you/PRP put/VBP on/IN the/DT drive/NN using/VBG mionet/NN software/NN can/MD not/RB be/VB accessed/VBN without/IN the/DT software/NN suddenly/RB ,/, after/IN about/IN a/DT week/NN ,/, i/FW is/VBZ never/RB again/RB able/JJ to/TO access/VB the/DT files/NNS i/FW had/VBD loaded/VBN on/IN ,/, despite/IN three/CD phone/NN calls/NNS to/TO second/JJ level/NN support/NN even/RB after/IN using/VBG the/DT technique/NN described/VBN above/IN for/IN bypassing/VBG the/DT mionet/NN software/NN ,/, i/FW could/MD never/RB train/VB my/PRP$ firewall/NN to/TO accept/VB the/DT drive/NN and/CC let/VB me/PRP load/VB new/JJ files/NNS on/IN the/DT drive/NN ./.
+
+i/LS 'll/MD be/VB taking/VBG it/PRP back/RB to/TO the/DT store/NN where/WRB i/FW bought/VBD it/PRP -LRB-/-LRB- best/JJS buy/NN -RRB-/-RRB- and/CC will/MD lose/VB my/PRP$ files/NNS in/IN the/DT process/NN ./.
+

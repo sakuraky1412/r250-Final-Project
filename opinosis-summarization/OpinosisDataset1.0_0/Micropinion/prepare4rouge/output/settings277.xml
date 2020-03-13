@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1051">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">tomtom-one-xl.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-xl.MI_OP_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-xl.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-one-xl.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">tomtom-one-xl.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-xl.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">tomtom-one-xl.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">tomtom-one-xl.6.gold.html</M>
+<M ID="3">tomtom-one-xl.2.gold.html</M>
+<M ID="4">tomtom-one-xl.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1052">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">tomtom-one-xl.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-xl.MI_OP_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-xl.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-one-xl.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">tomtom-one-xl.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-xl.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">tomtom-one-xl.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-one-xl.0.gold.html</M>
+<M ID="3">tomtom-one-xl.2.gold.html</M>
+<M ID="4">tomtom-one-xl.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1053">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">tomtom-one-xl.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-xl.MI_OP_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-xl.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-one-xl.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">tomtom-one-xl.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-xl.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">tomtom-one-xl.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-one-xl.0.gold.html</M>
+<M ID="2">tomtom-one-xl.6.gold.html</M>
+<M ID="4">tomtom-one-xl.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1054">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">tomtom-one-xl.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-xl.MI_OP_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-xl.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-one-xl.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">tomtom-one-xl.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-xl.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">tomtom-one-xl.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-one-xl.0.gold.html</M>
+<M ID="2">tomtom-one-xl.6.gold.html</M>
+<M ID="3">tomtom-one-xl.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

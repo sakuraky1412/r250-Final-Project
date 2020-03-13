@@ -1,0 +1,37 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="36">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00009W3PA.AM_OP_20.system.html</P>
+<P ID="AM_OP_F">B00009W3PA.AM_OP_F.system.html</P>
+<P ID="AM_MS_F">B00009W3PA.AM_MS_F.system.html</P>
+<P ID="AM_MS_10">B00009W3PA.AM_MS_10.system.html</P>
+<P ID="AM_MS_20">B00009W3PA.AM_MS_20.system.html</P>
+<P ID="AM_OP_10">B00009W3PA.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">B00009W3PA.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="37">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00009W3PA.AM_OP_20.system.html</P>
+<P ID="AM_OP_F">B00009W3PA.AM_OP_F.system.html</P>
+<P ID="AM_MS_F">B00009W3PA.AM_MS_F.system.html</P>
+<P ID="AM_MS_10">B00009W3PA.AM_MS_10.system.html</P>
+<P ID="AM_MS_20">B00009W3PA.AM_MS_20.system.html</P>
+<P ID="AM_OP_10">B00009W3PA.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00009W3PA.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

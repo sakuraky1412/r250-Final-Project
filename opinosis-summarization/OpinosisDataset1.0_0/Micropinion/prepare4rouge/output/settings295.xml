@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1117">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">sony-dcr-hc90.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">sony-dcr-hc90.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-dcr-hc90.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">sony-dcr-hc90.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">sony-dcr-hc90.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-dcr-hc90.MICROPINION.system.html</P>
+<P ID="MI_MS_20">sony-dcr-hc90.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sony-dcr-hc90.2.gold.html</M>
+<M ID="3">sony-dcr-hc90.6.gold.html</M>
+<M ID="4">sony-dcr-hc90.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1118">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">sony-dcr-hc90.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">sony-dcr-hc90.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-dcr-hc90.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">sony-dcr-hc90.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">sony-dcr-hc90.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-dcr-hc90.MICROPINION.system.html</P>
+<P ID="MI_MS_20">sony-dcr-hc90.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-dcr-hc90.4.gold.html</M>
+<M ID="3">sony-dcr-hc90.6.gold.html</M>
+<M ID="4">sony-dcr-hc90.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1119">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">sony-dcr-hc90.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">sony-dcr-hc90.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-dcr-hc90.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">sony-dcr-hc90.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">sony-dcr-hc90.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-dcr-hc90.MICROPINION.system.html</P>
+<P ID="MI_MS_20">sony-dcr-hc90.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-dcr-hc90.4.gold.html</M>
+<M ID="2">sony-dcr-hc90.2.gold.html</M>
+<M ID="4">sony-dcr-hc90.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1120">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">sony-dcr-hc90.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">sony-dcr-hc90.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-dcr-hc90.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">sony-dcr-hc90.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">sony-dcr-hc90.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-dcr-hc90.MICROPINION.system.html</P>
+<P ID="MI_MS_20">sony-dcr-hc90.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-dcr-hc90.4.gold.html</M>
+<M ID="2">sony-dcr-hc90.2.gold.html</M>
+<M ID="3">sony-dcr-hc90.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

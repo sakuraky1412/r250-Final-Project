@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="616">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">htc-aria-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">htc-aria-att.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-aria-att.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">htc-aria-att.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">htc-aria-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">htc-aria-att.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-aria-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">htc-aria-att.6.gold.html</M>
+<M ID="3">htc-aria-att.2.gold.html</M>
+<M ID="4">htc-aria-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="617">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">htc-aria-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">htc-aria-att.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-aria-att.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">htc-aria-att.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">htc-aria-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">htc-aria-att.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-aria-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-aria-att.0.gold.html</M>
+<M ID="3">htc-aria-att.2.gold.html</M>
+<M ID="4">htc-aria-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="618">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">htc-aria-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">htc-aria-att.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-aria-att.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">htc-aria-att.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">htc-aria-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">htc-aria-att.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-aria-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-aria-att.0.gold.html</M>
+<M ID="2">htc-aria-att.6.gold.html</M>
+<M ID="4">htc-aria-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="619">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">htc-aria-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">htc-aria-att.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-aria-att.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">htc-aria-att.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">htc-aria-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">htc-aria-att.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-aria-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-aria-att.0.gold.html</M>
+<M ID="2">htc-aria-att.6.gold.html</M>
+<M ID="3">htc-aria-att.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

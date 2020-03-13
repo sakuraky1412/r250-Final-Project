@@ -1,0 +1,177 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="436">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">windows-xp-professional-edition.2.gold.html</M>
+<M ID="3">windows-xp-professional-edition.8.gold.html</M>
+<M ID="4">windows-xp-professional-edition.6.gold.html</M>
+<M ID="5">windows-xp-professional-edition.0.gold.html</M>
+<M ID="6">windows-xp-professional-edition-version-upgrade.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="437">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-xp-professional-edition.4.gold.html</M>
+<M ID="3">windows-xp-professional-edition.8.gold.html</M>
+<M ID="4">windows-xp-professional-edition.6.gold.html</M>
+<M ID="5">windows-xp-professional-edition.0.gold.html</M>
+<M ID="6">windows-xp-professional-edition-version-upgrade.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="438">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-xp-professional-edition.4.gold.html</M>
+<M ID="2">windows-xp-professional-edition.2.gold.html</M>
+<M ID="4">windows-xp-professional-edition.6.gold.html</M>
+<M ID="5">windows-xp-professional-edition.0.gold.html</M>
+<M ID="6">windows-xp-professional-edition-version-upgrade.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="439">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-xp-professional-edition.4.gold.html</M>
+<M ID="2">windows-xp-professional-edition.2.gold.html</M>
+<M ID="3">windows-xp-professional-edition.8.gold.html</M>
+<M ID="5">windows-xp-professional-edition.0.gold.html</M>
+<M ID="6">windows-xp-professional-edition-version-upgrade.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="440">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-xp-professional-edition.4.gold.html</M>
+<M ID="2">windows-xp-professional-edition.2.gold.html</M>
+<M ID="3">windows-xp-professional-edition.8.gold.html</M>
+<M ID="4">windows-xp-professional-edition.6.gold.html</M>
+<M ID="6">windows-xp-professional-edition-version-upgrade.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="441">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">windows-xp-professional-edition-version-upgrade.MICROPINION.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition-version-upgrade.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition-version-upgrade.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition.MI_OP_20.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition-version-upgrade.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition-version-upgrade.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition.MI_MS_10.system.html</P>
+<P ID="MICROPINION">windows-xp-professional-edition.MICROPINION.system.html</P>
+<P ID="MI_MS_10">windows-xp-professional-edition-version-upgrade.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-xp-professional-edition.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">windows-xp-professional-edition.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">windows-xp-professional-edition-version-upgrade.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">windows-xp-professional-edition.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">windows-xp-professional-edition.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-xp-professional-edition.4.gold.html</M>
+<M ID="2">windows-xp-professional-edition.2.gold.html</M>
+<M ID="3">windows-xp-professional-edition.8.gold.html</M>
+<M ID="4">windows-xp-professional-edition.6.gold.html</M>
+<M ID="5">windows-xp-professional-edition.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

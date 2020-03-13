@@ -1,0 +1,55 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="209">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="2">network-storage-link-for-usb-2.0-disk-drives.0.gold.html</M>
+<M ID="3">network-storage-link-for-usb-2.0-disk-drives.4.gold.html</M>
+<M ID="4">network-storage-link-for-usb-2.0-disk-drives.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="210">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">network-storage-link-for-usb-2.0-disk-drives.6.gold.html</M>
+<M ID="3">network-storage-link-for-usb-2.0-disk-drives.4.gold.html</M>
+<M ID="4">network-storage-link-for-usb-2.0-disk-drives.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="211">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">network-storage-link-for-usb-2.0-disk-drives.6.gold.html</M>
+<M ID="2">network-storage-link-for-usb-2.0-disk-drives.0.gold.html</M>
+<M ID="4">network-storage-link-for-usb-2.0-disk-drives.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="212">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">network-storage-link-for-usb-2.0-disk-drives.6.gold.html</M>
+<M ID="2">network-storage-link-for-usb-2.0-disk-drives.0.gold.html</M>
+<M ID="3">network-storage-link-for-usb-2.0-disk-drives.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

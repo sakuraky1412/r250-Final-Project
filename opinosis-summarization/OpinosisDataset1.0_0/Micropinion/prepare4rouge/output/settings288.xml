@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1090">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">microsoft-zune-second-generation-80gb-black.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">microsoft-zune-second-generation-80gb-black.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">microsoft-zune-second-generation-80gb-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">microsoft-zune-second-generation-80gb-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">microsoft-zune-second-generation-80gb-black.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-zune-second-generation-80gb-black.MI_MS_10.system.html</P>
+<P ID="MICROPINION">microsoft-zune-second-generation-80gb-black.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">microsoft-zune-second-generation-80gb-black.6.gold.html</M>
+<M ID="3">microsoft-zune-second-generation-80gb-black.2.gold.html</M>
+<M ID="4">microsoft-zune-second-generation-80gb-black.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1091">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">microsoft-zune-second-generation-80gb-black.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">microsoft-zune-second-generation-80gb-black.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">microsoft-zune-second-generation-80gb-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">microsoft-zune-second-generation-80gb-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">microsoft-zune-second-generation-80gb-black.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-zune-second-generation-80gb-black.MI_MS_10.system.html</P>
+<P ID="MICROPINION">microsoft-zune-second-generation-80gb-black.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-zune-second-generation-80gb-black.0.gold.html</M>
+<M ID="3">microsoft-zune-second-generation-80gb-black.2.gold.html</M>
+<M ID="4">microsoft-zune-second-generation-80gb-black.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1092">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">microsoft-zune-second-generation-80gb-black.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">microsoft-zune-second-generation-80gb-black.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">microsoft-zune-second-generation-80gb-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">microsoft-zune-second-generation-80gb-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">microsoft-zune-second-generation-80gb-black.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-zune-second-generation-80gb-black.MI_MS_10.system.html</P>
+<P ID="MICROPINION">microsoft-zune-second-generation-80gb-black.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-zune-second-generation-80gb-black.0.gold.html</M>
+<M ID="2">microsoft-zune-second-generation-80gb-black.6.gold.html</M>
+<M ID="4">microsoft-zune-second-generation-80gb-black.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1093">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">microsoft-zune-second-generation-80gb-black.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">microsoft-zune-second-generation-80gb-black.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">microsoft-zune-second-generation-80gb-black.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">microsoft-zune-second-generation-80gb-black.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">microsoft-zune-second-generation-80gb-black.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-zune-second-generation-80gb-black.MI_MS_10.system.html</P>
+<P ID="MICROPINION">microsoft-zune-second-generation-80gb-black.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-zune-second-generation-80gb-black.0.gold.html</M>
+<M ID="2">microsoft-zune-second-generation-80gb-black.6.gold.html</M>
+<M ID="3">microsoft-zune-second-generation-80gb-black.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

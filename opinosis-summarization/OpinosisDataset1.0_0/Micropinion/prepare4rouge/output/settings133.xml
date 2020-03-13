@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="503">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-255w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-255w.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-255w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-255w.MI_MS_20.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-255w.MICROPINION.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-255w.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-255w.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">garmin-nuvi-255w.4.gold.html</M>
+<M ID="3">garmin-nuvi-255w.2.gold.html</M>
+<M ID="4">garmin-nuvi-255w.6.gold.html</M>
+<M ID="5">garmin-nuvi-255w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="504">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-255w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-255w.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-255w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-255w.MI_MS_20.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-255w.MICROPINION.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-255w.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-255w.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-255w.8.gold.html</M>
+<M ID="3">garmin-nuvi-255w.2.gold.html</M>
+<M ID="4">garmin-nuvi-255w.6.gold.html</M>
+<M ID="5">garmin-nuvi-255w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="505">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-255w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-255w.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-255w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-255w.MI_MS_20.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-255w.MICROPINION.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-255w.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-255w.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-255w.8.gold.html</M>
+<M ID="2">garmin-nuvi-255w.4.gold.html</M>
+<M ID="4">garmin-nuvi-255w.6.gold.html</M>
+<M ID="5">garmin-nuvi-255w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="506">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-255w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-255w.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-255w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-255w.MI_MS_20.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-255w.MICROPINION.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-255w.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-255w.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-255w.8.gold.html</M>
+<M ID="2">garmin-nuvi-255w.4.gold.html</M>
+<M ID="3">garmin-nuvi-255w.2.gold.html</M>
+<M ID="5">garmin-nuvi-255w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="507">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-255w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-255w.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-255w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-255w.MI_MS_20.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-255w.MICROPINION.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-255w.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-255w.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-255w.8.gold.html</M>
+<M ID="2">garmin-nuvi-255w.4.gold.html</M>
+<M ID="3">garmin-nuvi-255w.2.gold.html</M>
+<M ID="4">garmin-nuvi-255w.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="84">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">performance_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MyTestRun">performance_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_OP_20">performance_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="Opinosis10">performance_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_netbook_1005ha.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">performance_netbook_1005ha.3.gold.html</M>
+<M ID="3">performance_netbook_1005ha.4.gold.html</M>
+<M ID="4">performance_netbook_1005ha.2.gold.html</M>
+<M ID="5">performance_netbook_1005ha.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="85">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">performance_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MyTestRun">performance_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_OP_20">performance_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="Opinosis10">performance_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_netbook_1005ha.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_netbook_1005ha.5.gold.html</M>
+<M ID="3">performance_netbook_1005ha.4.gold.html</M>
+<M ID="4">performance_netbook_1005ha.2.gold.html</M>
+<M ID="5">performance_netbook_1005ha.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="86">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">performance_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MyTestRun">performance_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_OP_20">performance_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="Opinosis10">performance_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_netbook_1005ha.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_netbook_1005ha.5.gold.html</M>
+<M ID="2">performance_netbook_1005ha.3.gold.html</M>
+<M ID="4">performance_netbook_1005ha.2.gold.html</M>
+<M ID="5">performance_netbook_1005ha.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="87">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">performance_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MyTestRun">performance_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_OP_20">performance_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="Opinosis10">performance_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_netbook_1005ha.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_netbook_1005ha.5.gold.html</M>
+<M ID="2">performance_netbook_1005ha.3.gold.html</M>
+<M ID="3">performance_netbook_1005ha.4.gold.html</M>
+<M ID="5">performance_netbook_1005ha.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="88">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">performance_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MyTestRun">performance_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_OP_20">performance_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="Opinosis10">performance_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_netbook_1005ha.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_netbook_1005ha.5.gold.html</M>
+<M ID="2">performance_netbook_1005ha.3.gold.html</M>
+<M ID="3">performance_netbook_1005ha.4.gold.html</M>
+<M ID="4">performance_netbook_1005ha.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

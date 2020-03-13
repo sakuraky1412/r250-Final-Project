@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="258">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">samsung-gravity-t-black-t-mobile.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-gravity-t-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-gravity-t-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">samsung-gravity-t-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_A">samsung-gravity-t-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">samsung-gravity-t-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">samsung-gravity-t-black-t-mobile.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-gravity-t-black-t-mobile.1.gold.html</M>
+<M ID="3">samsung-gravity-t-black-t-mobile.2.gold.html</M>
+<M ID="4">samsung-gravity-t-black-t-mobile.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="259">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">samsung-gravity-t-black-t-mobile.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-gravity-t-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-gravity-t-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">samsung-gravity-t-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_A">samsung-gravity-t-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">samsung-gravity-t-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">samsung-gravity-t-black-t-mobile.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-gravity-t-black-t-mobile.0.gold.html</M>
+<M ID="3">samsung-gravity-t-black-t-mobile.2.gold.html</M>
+<M ID="4">samsung-gravity-t-black-t-mobile.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="260">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">samsung-gravity-t-black-t-mobile.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-gravity-t-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-gravity-t-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">samsung-gravity-t-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_A">samsung-gravity-t-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">samsung-gravity-t-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">samsung-gravity-t-black-t-mobile.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-gravity-t-black-t-mobile.0.gold.html</M>
+<M ID="2">samsung-gravity-t-black-t-mobile.1.gold.html</M>
+<M ID="4">samsung-gravity-t-black-t-mobile.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="261">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">samsung-gravity-t-black-t-mobile.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-gravity-t-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-gravity-t-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">samsung-gravity-t-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_A">samsung-gravity-t-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">samsung-gravity-t-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">samsung-gravity-t-black-t-mobile.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-gravity-t-black-t-mobile.0.gold.html</M>
+<M ID="2">samsung-gravity-t-black-t-mobile.1.gold.html</M>
+<M ID="3">samsung-gravity-t-black-t-mobile.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="29">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">gas_mileage_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="MULTISEN">gas_mileage_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">gas_mileage_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="Opinosis10">gas_mileage_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_MS_F">gas_mileage_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">gas_mileage_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">gas_mileage_toyota_camry_2007.3.gold.html</M>
+<M ID="3">gas_mileage_toyota_camry_2007.5.gold.html</M>
+<M ID="4">gas_mileage_toyota_camry_2007.2.gold.html</M>
+<M ID="5">gas_mileage_toyota_camry_2007.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="30">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">gas_mileage_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="MULTISEN">gas_mileage_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">gas_mileage_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="Opinosis10">gas_mileage_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_MS_F">gas_mileage_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">gas_mileage_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gas_mileage_toyota_camry_2007.1.gold.html</M>
+<M ID="3">gas_mileage_toyota_camry_2007.5.gold.html</M>
+<M ID="4">gas_mileage_toyota_camry_2007.2.gold.html</M>
+<M ID="5">gas_mileage_toyota_camry_2007.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="31">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">gas_mileage_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="MULTISEN">gas_mileage_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">gas_mileage_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="Opinosis10">gas_mileage_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_MS_F">gas_mileage_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">gas_mileage_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gas_mileage_toyota_camry_2007.1.gold.html</M>
+<M ID="2">gas_mileage_toyota_camry_2007.3.gold.html</M>
+<M ID="4">gas_mileage_toyota_camry_2007.2.gold.html</M>
+<M ID="5">gas_mileage_toyota_camry_2007.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="32">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">gas_mileage_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="MULTISEN">gas_mileage_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">gas_mileage_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="Opinosis10">gas_mileage_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_MS_F">gas_mileage_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">gas_mileage_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gas_mileage_toyota_camry_2007.1.gold.html</M>
+<M ID="2">gas_mileage_toyota_camry_2007.3.gold.html</M>
+<M ID="3">gas_mileage_toyota_camry_2007.5.gold.html</M>
+<M ID="5">gas_mileage_toyota_camry_2007.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="33">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">gas_mileage_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="MULTISEN">gas_mileage_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">gas_mileage_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="Opinosis10">gas_mileage_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_MS_F">gas_mileage_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">gas_mileage_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gas_mileage_toyota_camry_2007.1.gold.html</M>
+<M ID="2">gas_mileage_toyota_camry_2007.3.gold.html</M>
+<M ID="3">gas_mileage_toyota_camry_2007.5.gold.html</M>
+<M ID="4">gas_mileage_toyota_camry_2007.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="225">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">comfort_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">comfort_toyota_camry_2007.OP_MS_20.system.html</P>
+<P ID="MULTISEN">comfort_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">comfort_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MyTestRun">comfort_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="Opinosis10">comfort_toyota_camry_2007.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">comfort_toyota_camry_2007.4.gold.html</M>
+<M ID="3">comfort_toyota_camry_2007.2.gold.html</M>
+<M ID="4">comfort_toyota_camry_2007.5.gold.html</M>
+<M ID="5">comfort_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="226">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">comfort_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">comfort_toyota_camry_2007.OP_MS_20.system.html</P>
+<P ID="MULTISEN">comfort_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">comfort_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MyTestRun">comfort_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="Opinosis10">comfort_toyota_camry_2007.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">comfort_toyota_camry_2007.1.gold.html</M>
+<M ID="3">comfort_toyota_camry_2007.2.gold.html</M>
+<M ID="4">comfort_toyota_camry_2007.5.gold.html</M>
+<M ID="5">comfort_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="227">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">comfort_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">comfort_toyota_camry_2007.OP_MS_20.system.html</P>
+<P ID="MULTISEN">comfort_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">comfort_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MyTestRun">comfort_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="Opinosis10">comfort_toyota_camry_2007.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">comfort_toyota_camry_2007.1.gold.html</M>
+<M ID="2">comfort_toyota_camry_2007.4.gold.html</M>
+<M ID="4">comfort_toyota_camry_2007.5.gold.html</M>
+<M ID="5">comfort_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="228">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">comfort_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">comfort_toyota_camry_2007.OP_MS_20.system.html</P>
+<P ID="MULTISEN">comfort_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">comfort_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MyTestRun">comfort_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="Opinosis10">comfort_toyota_camry_2007.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">comfort_toyota_camry_2007.1.gold.html</M>
+<M ID="2">comfort_toyota_camry_2007.4.gold.html</M>
+<M ID="3">comfort_toyota_camry_2007.2.gold.html</M>
+<M ID="5">comfort_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="229">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">comfort_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">comfort_toyota_camry_2007.OP_MS_20.system.html</P>
+<P ID="MULTISEN">comfort_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_OP_20">comfort_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MyTestRun">comfort_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="Opinosis10">comfort_toyota_camry_2007.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">comfort_toyota_camry_2007.1.gold.html</M>
+<M ID="2">comfort_toyota_camry_2007.4.gold.html</M>
+<M ID="3">comfort_toyota_camry_2007.2.gold.html</M>
+<M ID="4">comfort_toyota_camry_2007.5.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

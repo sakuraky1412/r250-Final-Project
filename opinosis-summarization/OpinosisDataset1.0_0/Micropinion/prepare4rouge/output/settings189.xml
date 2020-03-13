@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="726">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">tomtom-go-720.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-go-720.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-go-720.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">tomtom-go-720.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">tomtom-go-720.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">tomtom-go-720.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">tomtom-go-720.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">tomtom-go-720.0.gold.html</M>
+<M ID="3">tomtom-go-720.4.gold.html</M>
+<M ID="4">tomtom-go-720.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="727">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">tomtom-go-720.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-go-720.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-go-720.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">tomtom-go-720.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">tomtom-go-720.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">tomtom-go-720.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">tomtom-go-720.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-go-720.6.gold.html</M>
+<M ID="3">tomtom-go-720.4.gold.html</M>
+<M ID="4">tomtom-go-720.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="728">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">tomtom-go-720.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-go-720.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-go-720.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">tomtom-go-720.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">tomtom-go-720.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">tomtom-go-720.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">tomtom-go-720.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-go-720.6.gold.html</M>
+<M ID="2">tomtom-go-720.0.gold.html</M>
+<M ID="4">tomtom-go-720.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="729">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">tomtom-go-720.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-go-720.MICROPINION.system.html</P>
+<P ID="MI_OP_20">tomtom-go-720.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">tomtom-go-720.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">tomtom-go-720.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">tomtom-go-720.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">tomtom-go-720.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-go-720.6.gold.html</M>
+<M ID="2">tomtom-go-720.0.gold.html</M>
+<M ID="3">tomtom-go-720.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

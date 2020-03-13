@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="18">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_10.system.html</P>
+<P ID="MICROPINION">d-link-dns-323-2-bay-network-storage-enclosure.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">d-link-dns-323-2-bay-network-storage-enclosure.4.gold.html</M>
+<M ID="3">d-link-dns-323-2-bay-network-storage-enclosure.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="19">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_10.system.html</P>
+<P ID="MICROPINION">d-link-dns-323-2-bay-network-storage-enclosure.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">d-link-dns-323-2-bay-network-storage-enclosure.2.gold.html</M>
+<M ID="3">d-link-dns-323-2-bay-network-storage-enclosure.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="20">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">d-link-dns-323-2-bay-network-storage-enclosure.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">d-link-dns-323-2-bay-network-storage-enclosure.MI_MS_10.system.html</P>
+<P ID="MICROPINION">d-link-dns-323-2-bay-network-storage-enclosure.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">d-link-dns-323-2-bay-network-storage-enclosure.2.gold.html</M>
+<M ID="2">d-link-dns-323-2-bay-network-storage-enclosure.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

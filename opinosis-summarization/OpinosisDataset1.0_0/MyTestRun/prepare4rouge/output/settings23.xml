@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="104">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">size_asus_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_MS_20">size_asus_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">size_asus_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MULTISEN">size_asus_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="OP_OP_20">size_asus_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="Opinosis10">size_asus_netbook_1005ha.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">size_asus_netbook_1005ha.3.gold.html</M>
+<M ID="3">size_asus_netbook_1005ha.5.gold.html</M>
+<M ID="4">size_asus_netbook_1005ha.2.gold.html</M>
+<M ID="5">size_asus_netbook_1005ha.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="105">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">size_asus_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_MS_20">size_asus_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">size_asus_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MULTISEN">size_asus_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="OP_OP_20">size_asus_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="Opinosis10">size_asus_netbook_1005ha.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">size_asus_netbook_1005ha.1.gold.html</M>
+<M ID="3">size_asus_netbook_1005ha.5.gold.html</M>
+<M ID="4">size_asus_netbook_1005ha.2.gold.html</M>
+<M ID="5">size_asus_netbook_1005ha.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="106">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">size_asus_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_MS_20">size_asus_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">size_asus_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MULTISEN">size_asus_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="OP_OP_20">size_asus_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="Opinosis10">size_asus_netbook_1005ha.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">size_asus_netbook_1005ha.1.gold.html</M>
+<M ID="2">size_asus_netbook_1005ha.3.gold.html</M>
+<M ID="4">size_asus_netbook_1005ha.2.gold.html</M>
+<M ID="5">size_asus_netbook_1005ha.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="107">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">size_asus_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_MS_20">size_asus_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">size_asus_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MULTISEN">size_asus_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="OP_OP_20">size_asus_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="Opinosis10">size_asus_netbook_1005ha.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">size_asus_netbook_1005ha.1.gold.html</M>
+<M ID="2">size_asus_netbook_1005ha.3.gold.html</M>
+<M ID="3">size_asus_netbook_1005ha.5.gold.html</M>
+<M ID="5">size_asus_netbook_1005ha.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="108">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">size_asus_netbook_1005ha.MyTestRun.system.html</P>
+<P ID="OP_MS_20">size_asus_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">size_asus_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="MULTISEN">size_asus_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="OP_OP_20">size_asus_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="Opinosis10">size_asus_netbook_1005ha.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">size_asus_netbook_1005ha.1.gold.html</M>
+<M ID="2">size_asus_netbook_1005ha.3.gold.html</M>
+<M ID="3">size_asus_netbook_1005ha.5.gold.html</M>
+<M ID="4">size_asus_netbook_1005ha.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

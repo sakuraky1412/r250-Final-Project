@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="34">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">navigation_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">navigation_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">navigation_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MyTestRun">navigation_amazon_kindle.MyTestRun.system.html</P>
+<P ID="Opinosis10">navigation_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">navigation_amazon_kindle.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">navigation_amazon_kindle.4.gold.html</M>
+<M ID="3">navigation_amazon_kindle.2.gold.html</M>
+<M ID="4">navigation_amazon_kindle.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="35">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">navigation_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">navigation_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">navigation_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MyTestRun">navigation_amazon_kindle.MyTestRun.system.html</P>
+<P ID="Opinosis10">navigation_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">navigation_amazon_kindle.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigation_amazon_kindle.1.gold.html</M>
+<M ID="3">navigation_amazon_kindle.2.gold.html</M>
+<M ID="4">navigation_amazon_kindle.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="36">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">navigation_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">navigation_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">navigation_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MyTestRun">navigation_amazon_kindle.MyTestRun.system.html</P>
+<P ID="Opinosis10">navigation_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">navigation_amazon_kindle.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigation_amazon_kindle.1.gold.html</M>
+<M ID="2">navigation_amazon_kindle.4.gold.html</M>
+<M ID="4">navigation_amazon_kindle.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="37">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">navigation_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">navigation_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">navigation_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MyTestRun">navigation_amazon_kindle.MyTestRun.system.html</P>
+<P ID="Opinosis10">navigation_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">navigation_amazon_kindle.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigation_amazon_kindle.1.gold.html</M>
+<M ID="2">navigation_amazon_kindle.4.gold.html</M>
+<M ID="3">navigation_amazon_kindle.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="188">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">parking_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_F">parking_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">parking_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">parking_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">parking_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="MULTISEN">parking_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">parking_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">parking_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="4">parking_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="189">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">parking_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_F">parking_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">parking_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">parking_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">parking_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="MULTISEN">parking_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">parking_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="3">parking_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="4">parking_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="190">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">parking_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_F">parking_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">parking_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">parking_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">parking_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="MULTISEN">parking_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">parking_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="2">parking_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="4">parking_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="191">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">parking_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_F">parking_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">parking_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">parking_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">parking_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="MULTISEN">parking_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">parking_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="2">parking_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">parking_bestwestern_hotel_sfo.3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

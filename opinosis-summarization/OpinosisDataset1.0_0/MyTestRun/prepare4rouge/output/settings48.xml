@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="220">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">location_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_OP_20">location_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">location_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="Opinosis10">location_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_20">location_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">location_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">location_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">location_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">location_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">location_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="221">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">location_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_OP_20">location_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">location_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="Opinosis10">location_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_20">location_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">location_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">location_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="3">location_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">location_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">location_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="222">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">location_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_OP_20">location_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">location_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="Opinosis10">location_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_20">location_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">location_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">location_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">location_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="4">location_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">location_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="223">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">location_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_OP_20">location_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">location_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="Opinosis10">location_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_20">location_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">location_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">location_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">location_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">location_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="5">location_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="224">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">location_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_OP_20">location_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">location_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="Opinosis10">location_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_20">location_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">location_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">location_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">location_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">location_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">location_bestwestern_hotel_sfo.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

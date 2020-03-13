@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1043">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_20.system.html</P>
+<P ID="MICROPINION">nec-multisync-17-tft-lcd-flat-panel-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">nec-multisync-17-tft-lcd-flat-panel-monitor.3.gold.html</M>
+<M ID="3">nec-multisync-17-tft-lcd-flat-panel-monitor.0.gold.html</M>
+<M ID="4">nec-multisync-17-tft-lcd-flat-panel-monitor.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1044">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_20.system.html</P>
+<P ID="MICROPINION">nec-multisync-17-tft-lcd-flat-panel-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nec-multisync-17-tft-lcd-flat-panel-monitor.2.gold.html</M>
+<M ID="3">nec-multisync-17-tft-lcd-flat-panel-monitor.0.gold.html</M>
+<M ID="4">nec-multisync-17-tft-lcd-flat-panel-monitor.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1045">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_20.system.html</P>
+<P ID="MICROPINION">nec-multisync-17-tft-lcd-flat-panel-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nec-multisync-17-tft-lcd-flat-panel-monitor.2.gold.html</M>
+<M ID="2">nec-multisync-17-tft-lcd-flat-panel-monitor.3.gold.html</M>
+<M ID="4">nec-multisync-17-tft-lcd-flat-panel-monitor.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1046">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_20.system.html</P>
+<P ID="MICROPINION">nec-multisync-17-tft-lcd-flat-panel-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">nec-multisync-17-tft-lcd-flat-panel-monitor.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nec-multisync-17-tft-lcd-flat-panel-monitor.2.gold.html</M>
+<M ID="2">nec-multisync-17-tft-lcd-flat-panel-monitor.3.gold.html</M>
+<M ID="3">nec-multisync-17-tft-lcd-flat-panel-monitor.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="131">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">performance_honda_accord_2008.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_honda_accord_2008.MULTISEN.system.html</P>
+<P ID="MyTestRun">performance_honda_accord_2008.MyTestRun.system.html</P>
+<P ID="Opinosis10">performance_honda_accord_2008.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_honda_accord_2008.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">performance_honda_accord_2008.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">performance_honda_accord_2008.2.gold.html</M>
+<M ID="3">performance_honda_accord_2008.4.gold.html</M>
+<M ID="4">performance_honda_accord_2008.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="132">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">performance_honda_accord_2008.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_honda_accord_2008.MULTISEN.system.html</P>
+<P ID="MyTestRun">performance_honda_accord_2008.MyTestRun.system.html</P>
+<P ID="Opinosis10">performance_honda_accord_2008.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_honda_accord_2008.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">performance_honda_accord_2008.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_honda_accord_2008.3.gold.html</M>
+<M ID="3">performance_honda_accord_2008.4.gold.html</M>
+<M ID="4">performance_honda_accord_2008.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="133">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">performance_honda_accord_2008.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_honda_accord_2008.MULTISEN.system.html</P>
+<P ID="MyTestRun">performance_honda_accord_2008.MyTestRun.system.html</P>
+<P ID="Opinosis10">performance_honda_accord_2008.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_honda_accord_2008.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">performance_honda_accord_2008.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_honda_accord_2008.3.gold.html</M>
+<M ID="2">performance_honda_accord_2008.2.gold.html</M>
+<M ID="4">performance_honda_accord_2008.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="134">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">performance_honda_accord_2008.OP_OP_20.system.html</P>
+<P ID="MULTISEN">performance_honda_accord_2008.MULTISEN.system.html</P>
+<P ID="MyTestRun">performance_honda_accord_2008.MyTestRun.system.html</P>
+<P ID="Opinosis10">performance_honda_accord_2008.Opinosis10.system.html</P>
+<P ID="OP_MS_20">performance_honda_accord_2008.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">performance_honda_accord_2008.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">performance_honda_accord_2008.3.gold.html</M>
+<M ID="2">performance_honda_accord_2008.2.gold.html</M>
+<M ID="3">performance_honda_accord_2008.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

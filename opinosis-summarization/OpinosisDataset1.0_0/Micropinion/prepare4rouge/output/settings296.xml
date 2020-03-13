@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1121">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">apple-ipod-touch-2010-8gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-2010-8gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-2010-8gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-2010-8gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-2010-8gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-2010-8gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">apple-ipod-touch-2010-8gb.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">apple-ipod-touch-2010-8gb.1.gold.html</M>
+<M ID="3">apple-ipod-touch-2010-8gb.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1122">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">apple-ipod-touch-2010-8gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-2010-8gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-2010-8gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-2010-8gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-2010-8gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-2010-8gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">apple-ipod-touch-2010-8gb.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-ipod-touch-2010-8gb.2.gold.html</M>
+<M ID="3">apple-ipod-touch-2010-8gb.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1123">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">apple-ipod-touch-2010-8gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-2010-8gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-2010-8gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-2010-8gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-2010-8gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-2010-8gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">apple-ipod-touch-2010-8gb.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-ipod-touch-2010-8gb.2.gold.html</M>
+<M ID="2">apple-ipod-touch-2010-8gb.1.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

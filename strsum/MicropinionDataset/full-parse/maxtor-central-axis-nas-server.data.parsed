@@ -1,0 +1,173 @@
+it_PRP has_VBZ the_DT best_JJS combination_NN of_IN features_NNS and_CC includes_VBZ a_DT free_JJ remote_JJ access_NN account_NN ._.
+other_JJ reviewers_NNS sound_VB like_IN maybe_RB they_PRP are_VBP not_RB taking_VBG the_DT totality_NN of_IN this_DT products_NNS features_VBZ into_IN account_NN and_CC objectively_RB comparing_VBG to_TO comparable_JJ models_NNS ._.
+there_EX are_VBP not_RB a_DT whole_JJ lot_NN of_IN tb_NN choices_NNS out_IN there_RB right_RB now_RB so_RB i_FW would_MD buy_VB it_PRP if_IN yo_FW uhave_FW to_TO back_VB up_RP a_DT lot_NN of_IN users_NNS data_NNS over_IN a_DT lan_NN ._.
+the_DT hardware_NN is_VBZ nice_JJ ,_, but_CC it_PRP runs_VBZ extremely_RB hot_JJ ._.
+this_DT will_MD probably_RB impact_VB the_DT lifespan_NN of_IN the_DT drive_NN the_DT software_NN that_WDT comes_VBZ with_IN this_DT unit_NN is_VBZ so_RB poorly_RB written_VBN it_PRP 's_VBZ laughable_JJ ._.
+the_DT local_JJ client_NN and_CC the_DT web_NN client_NN partially_RB overlap_VBP in_IN terms_NNS of_IN function_NN ._.
+the_DT term_NN user_NN and_CC share_NN are_VBP used_VBN inconsistently_RB between_IN the_DT two_CD ._.
+they_PRP also_RB act_VBP differently_RB when_WRB creating_VBG user_NN accounts_NNS ._.
+it_PRP can_MD be_VB confusing_VBG the_DT web_NN interface_NN does_VBZ not_RB use_VB ssl_NN so_IN the_DT admin_JJ password_NN is_VBZ sent_VBN in_IN clear_JJ text_NN ._.
+this_DT could_MD be_VB a_DT concern_NN in_IN environments_NNS that_WDT use_VBP wireless_JJ connections_NNS the_DT most_RBS glaring_JJ deficiency_NN is_VBZ that_IN the_DT backup_NN excludes_VBZ a_DT number_NN of_IN critical_JJ data_NNS elements_NNS ,_, including_VBG ,_, of_IN all_DT things_NNS ,_, outlook_NN e_SYM mail_NN ,_, which_WDT is_VBZ typically_RB located_JJ under_IN documents_NNS and_CC settings_NNS on_IN xp_NN and_CC earlier_JJR seagate_NN support_NN recommends_VBZ exporting_VBG outlook_NN data_NNS into_IN a_DT supported_VBN directory_NN ._.
+total_JJ nonsense_NN it_PRP will_MD not_RB backup_VB other_JJ os_NNS related_JJ directories_NNS either_CC ._.
+in_IN fact_NN ,_, what_WP is_VBZ being_VBG called_VBN backup_NN is_VBZ nothing_NN more_JJR than_IN a_DT severely_RB restricted_JJ file_NN copy_NN ._.
+there_EX are_VBP no_DT provisions_NNS to_TO backup_VB the_DT registry_NN ,_, system_NN state_NN ,_, file_NN attributes_NNS ,_, permissions_NNS or_CC to_TO perform_VB incremental_JJ backups_NNS i_FW should_MD mention_VB that_IN you_PRP can_MD copy_VB your_PRP$ outlook_NN pst_NN files_NNS to_TO the_DT drive_NN manually_RB -LRB-_-LRB- remember_VB to_TO close_JJ outlook_NN first_RB ._. -RRB-_-RRB-
+i_LS found_VBD the_DT software_NN to_TO be_VB lacking_VBG many_JJ features_NNS found_VBN on_IN comparable_JJ products_NNS ,_, including_VBG support_NN for_IN linux_NN ,_, raid_NN ,_, ftp_NN ,_, scp_NN ,_, etc_FW if_IN you_PRP want_VBP a_DT full_JJ backup_NN ,_, run_VBP microsoft_NN 's_POS backup_NN and_CC have_VBP it_PRP use_VB the_DT mapped_VBN drive_NN to_TO this_DT device_NN as_IN the_DT location_NN for_IN the_DT backup_NN files_NNS ._.
+that_DT 's_VBZ the_DT only_JJ way_NN i_FW know_VB of_IN to_TO get_VB a_DT full_JJ backup_NN cheers_NNS ._.
+good_JJ when_WRB it_PRP worked_VBD ,_, but_CC died_VBD with_IN flashing_VBG red_JJ light_NN after_IN 6_CD months_NNS ._.
+nothing_NN worked_VBD to_TO restart_VB ._.
+second_JJ seagate/matxor_NN backup_NN system_NN to_TO die_VB on_IN me_PRP ._.
+last_JJ time_NN moving_VBG on_IN to_TO a_DT better_JJR product_NN more_RBR reliable_JJ product_NN ,_, hopefully_RB something_NN cheaper_JJR ,_, down_RB $_$ 500_CD plus_CC on_IN these_DT two_CD failed_VBD units_NNS ._.
+spend_VB the_DT money_NN and_CC get_VB a_DT netgear_JJ readynas_NN pro_NN ._.
+let_VB maxtor_NN and_CC seagate_NN stick_NN to_TO making_VBG magnetic_JJ harddrives_NNS which_WDT they_PRP do_VBP very_RB well_RB at_IN ._.
+it_PRP 's_VBZ is_VBZ nothing_NN like_IN as_RB good_JJ as_IN the_DT synology_NN units_NNS and_CC the_DT warranty_NN from_IN nz_NN is_VBZ very_RB expensive_JJ to_TO get_VB access_NN to_TO ._.
+ve_VB own_JJ several_JJ personal_JJ computers_NNS ,_, peripherals_NNS ,_, digital_JJ cameras_NNS ,_, and_CC all_DT kinds_NNS of_IN electronic_JJ devices_NNS since_IN the_DT mid_JJ 1980_CD ._.
+maybe_RB i_LS ._.
+ve_VB just_RB be_VB lucky_JJ ,_, but_CC i_LS ._.
+ve_VB never_RB had_VBD a_DT hard_JJ drive_NN crash_NN or_CC a_DT device_NN just_RB ._.
+die_VB ._.
+on_IN me_PRP ._.
+that_DT is_VBZ until_IN this_DT past_JJ year_NN with_IN two_CD maxtor_NN drives_NNS ._.
+they_PRP weren_VBP ._.
+t_NN the_DT drive_NN featured_VBN here_RB ,_, but_CC i_FW did_VBD purchase_VB two_CD 750_CD mb_NN external_JJ drives_NNS ,_, one_CD as_IN a_DT back_RB up_RB for_IN my_PRP$ computer_NN and_CC the_DT other_JJ for_IN additional_JJ storage_NN for_IN my_PRP$ dvr_NN ._.
+with_IN a_DT year_NN both_CC failed_VBD ._.
+when_WRB mentioned_VBN this_DT to_TO a_DT friend_NN ,_, they_PRP shared_VBD a_DT similar_JJ experience_NN ._.
+so_RB just_RB beware_VB ._.
+the_DT unit_NN taunts_VBZ me_PRP ,_, with_IN an_DT almost_RB complete_JJ power_NN up_RB ,_, then_RB reverts_VBZ to_TO the_DT flashing_VBG red_JJ led_VBN ._.
+the_DT technical_JJ support_NN team_NN only_RB works_VBZ bankers_NNS hours_NNS ,_, so_RB good_JJ luck_NN getting_VBG anywhere_RB with_IN the_DT problem_NN ,_, if_IN you_PRP actually_RB have_VBP a_DT job_NN to_TO go_VB to_TO ._.
+i_LS now_RB have_VBP a_DT black_JJ paperweight_NN to_TO remind_VB me_PRP of_IN my_PRP$ beloved_JJ music_NN collection_NN ._.
+i_LS can_MD not_RB believe_VB the_DT irresponsibility_NN of_IN this_DT company_NN to_TO manufacture_VB such_PDT an_DT inferior_JJ product_NN ._.
+i_LS purchased_VBD this_DT about_IN 6_CD months_NNS ago_IN to_TO backup_VB my_PRP$ pc_NN ._.
+about_IN 3_CD weeks_NNS ago_RB ,_, i_FW had_VBD to_TO reimage_VB my_PRP$ desktop_NN ,_, so_RB i_FW verified_VBN all_DT of_IN my_PRP$ data_NNS is_VBZ on_IN the_DT drive_NN before_IN formatting_VBG my_PRP$ computer_NN ._.
+it_PRP took_VBD me_PRP about_IN 3_CD days_NNS to_TO load_VB all_DT of_IN my_PRP$ software_NN back_RB on_IN my_PRP$ pc_NN ._.
+the_DT third_JJ or_CC fourth_JJ day_NN ,_, i_FW go_VB to_TO copy_VB my_PRP$ data_NNS back_RB on_IN my_PRP$ pc_NN and_CC the_DT drive_NN is_VBZ inaccessible_JJ ._.
+after_IN troubleshooting_VBG it_PRP myself_PRP and_CC no_DT luck_NN -LRB-_-LRB- just_RB the_DT sound_NN of_IN the_DT drive_NN like_IN it_PRP is_VBZ trying_VBG to_TO spin_VB up_RP -RRB-_-RRB- ,_, i_FW contacted_VBN tech_NN support_NN ._.
+they_PRP quickly_RB said_VBD i_FW would_MD have_VB to_TO send_VB it_PRP in_IN to_TO be_VB repaired_VBN and_CC if_IN i_FW needed_VBD the_DT data_NNS recovered_VBD ,_, they_PRP conveniently_RB owned_VBD a_DT data_NN recovery_NN company_NN that_WDT could_MD recover_VB the_DT data_NNS ._.
+i_LS just_RB sent_VBN the_DT drive_NN back_RB in_IN and_CC received_VBD my_PRP$ replacement_NN drive_NN last_JJ week_NN ._.
+i_LS have_VBP little_JJ faith_NN in_IN the_DT product_NN now_RB since_IN the_DT only_JJ time_NN i_FW truly_RB needed_VBN it_PRP ,_, i_FW was_VBD not_RB able_JJ to_TO recover_VB the_DT data_NNS i_FW needed_VBN ._.
+do_VB not_RB even_RB begin_VB to_TO consider_VB this_DT drive_NN if_IN your_PRP$ intention_NN is_VBZ to_TO use_VB it_PRP to_TO store_VB data_NNS it_PRP will_MD store_VB it_PRP ok_NN but_CC ,_, without_IN warning_NN ,_, will_MD lock_VB up_RB hard_RB as_IN a_DT rock_NN -LRB-_-LRB- what_WP it_PRP has_VBZ now_RB become_VBN -RRB-_-RRB- and_CC any_DT stored_VBN data_NNS will_MD be_VB completely_RB inaccessible_JJ updated_VBN ._.
+on_IN jan_NN 4_CD ,_, 2009_CD ._.
+they_PRP did_VBD n't_RB even_RB mention_VB that_IN there_EX is_VBZ a_DT warranty_NN ._.
+seagate_VB just_RB wanted_VBD me_PRP to_TO purchase_VB their_PRP$ support_NN services_NNS to_TO restore_VB the_DT drive_NN they_PRP said_VBD the_DT drive_NN is_VBZ dead_JJ once_IN the_DT red/white_JJ light_NN is_VBZ blinking_RB no_DT notice_NN ,_, no_DT support_NN ,_, just_RB screwed_VBN ._.
+they_PRP do_VBP not_RB give_VB you_PRP any_DT options_NNS ,_, just_RB send_VB you_PRP over_IN to_TO their_PRP$ siste_NN company_NN for_IN a_DT quote_NN stay_VB away_RB ._.
+please_VB wait_NN while_IN we_PRP find_VBP an_DT agent_NN to_TO assist_VB you_PRP hello_UH ._.
+how_WRB may_MD i_FW help_VB you_PRP ._.
+chris_NN p_NN hi_UH luke_NN ._.
+how_WRB may_MD i_FW help_VB you_PRP ._.
+chris_NN p_NN has_VBZ left_VBN the_DT session_NN your_PRP$ agent_NN is_VBZ experiencing_VBG technical_JJ difficulties_NNS ._.
+please_VB stand_NN by_IN while_IN we_PRP re_VBP establish_VB contact_NN or_CC find_VB a_DT new_JJ agent_NN all_DT agents_NNS are_VBP currently_RB busy_JJ ._.
+please_VB stand_NN by_IN please_VB wait_NN while_IN we_PRP find_VBP an_DT agent_NN from_IN the_DT english_JJ department_NN to_TO assist_VB you_PRP hello_UH ._.
+how_WRB may_MD i_FW help_VB you_PRP ._.
+luke_NN ball_NN hello_UH ._.
+luke_NN ball_NN i_FW is_VBZ able_JJ to_TO connect_VB my_PRP$ central_JJ axis_NN drive_NN on_IN friday_NNP ._.
+luke_NN ball_NN but_CC on_IN saturday_NNP i_FW started_VBD getting_VBG this_DT error_NN message_NN ._.
+luke_NN ball_NN either_CC there_EX 's_VBZ a_DT poor_JJ internet_NN connection_NN or_CC your_PRP$ seagate_NN storage_NN device_NN is_VBZ turned_VBN off_RP ._.
+attempting_VBG to_TO view_VB backed_VBN up_RP folders_NNS might_MD fail_VB jeffery_NN h_NN ._.
+is_VBZ this_DT the_DT serial_JJ number_NN of_IN your_PRP$ drive_NN 2dd41p3d_NN ._.
+luke_NN ball_NN let_VB me_PRP double_JJ check_NN ._.
+luke_NN ball_NN but_CC that_IN seems_VBZ correct_JJ ._.
+luke_NN ball_NN yes_RB ,_, that_DT 's_VBZ it_PRP ._.
+jeffery_NN h_NN ._.
+and_CC you_PRP 're_VBP running_VBG windows_NNS 7_CD ._.
+luke_NN ball_NN yes_RB ._.
+luke_NN ball_NN i_FW can_MD get_VB to_TO the_DT drive_NN locally_RB ._.
+luke_NN ball_NN its_PRP$ only_RB when_WRB trying_VBG to_TO get_VB online_JJ access_NN ._.
+jeffery_NN h_NN ._.
+how_WRB are_VBP you_PRP trying_VBG to_TO access_NN it_PRP online_NN ._.
+luke_NN ball_NN clicking_VBG on_IN the_DT web_NN access_NN and_CC sharing_VBG icon_NN ._.
+jeffery_NN h_NN ._.
+ok_VB the_DT maxtor_NN software_NN is_VBZ not_RB supported_VBN on_IN windows_NNS 7_CD ._.
+you_PRP can_MD only_RB use_VB the_DT drive_NN as_IN a_DT manually_RB mapped_VBN drive_NN luke_NN ball_NN are_VBP you_PRP serious_JJ ._.
+luke_NN ball_NN so_IN my_PRP$ being_VBG able_JJ to_TO connect_VB on_IN the_DT first_JJ day_NN is_VBZ just_RB a_DT fluke_NN ._.
+jeffery_NN h_NN ._.
+unfortunately_RB yes_UH ._.
+luke_NN ball_NN that_WDT is_VBZ very_RB strange_JJ i_FW would_MD have_VB thought_VBN it_PRP would_MD have_VB given_VBN me_PRP an_DT uncompatible_JJ error_NN message_NN ,_, and_CC not_RB one_CD stating_VBG that_IN my_PRP$ internet_NN connection_NN had_VBD dropped_VBN luke_NN ball_NN so_RB this_DT is_VBZ a_DT windows_NNS issue_NN ,_, that_IN microsoft_NN will_MD need_VB to_TO address_VB ._.
+jeffery_NN h_NN ._.
+well_RB since_IN you_PRP can_MD access_VB the_DT drive_NN locally_RB on_IN your_PRP$ network_NN that_WDT is_VBZ the_DT way_NN you_PRP will_MD have_VB to_TO use_VB it_PRP luke_VB ball_NN unfortunately_RB that_DT 's_VBZ not_RB why_WRB i_FW purchased_VBD it_PRP luke_NN ball_NN lol_NN ._.
+luke_NN ball_NN but_CC back_RB to_TO my_PRP$ last_JJ question_NN ._.
+luke_NN ball_NN is_VBZ this_DT a_DT microsoft_NN issue_NN ._.
+jeffery_NN h_NN ._.
+no_DT thats_NNS a_DT functinality_NN of_IN the_DT maxtor_NN software_NN and_CC there_EX will_MD not_RB be_VB a_DT version_NN produced_VBD for_IN windows_NNS 7_CD ._.
+luke_NN ball_NN oh_UH ,_, i_FW see_VB ._.
+jeffery_NN h_NN ._.
+is_VBZ there_EX anything_NN else_RB i_FW can_MD do_VB for_IN you_PRP today_NN ._.
+luke_NN ball_NN so_RB anyone_NN with_IN windows_NNS 7_CD will_MD not_RB be_VB able_JJ to_TO use_VB this_DT device_NN in_IN the_DT fashion_NN its_PRP$ intended_JJ or_CC advertised_VBN ._.
+jeffery_NN h_NN ._.
+the_DT drive_NN will_MD work_VB as_IN a_DT mapped_VBN drive_NN ,_, but_CC none_NN of_IN the_DT software_NN related_JJ features_NNS will_MD be_VB available_JJ luke_NN ball_NN i_FW dont_FW recall_NN seeing_VBG that_IN info_NN when_WRB purchasing_VBG the_DT device_NN ._.
+you_PRP may_MD want_VB to_TO add_VB that_DT ._.
+jeffery_NN h_NN ._.
+the_DT drive_NN is_VBZ no_RB longer_RB in_IN production_NN ._.
+is_VBZ there_EX anything_NN else_RB i_FW can_MD help_VB you_PRP with_IN today_NN ._.
+luke_NN ball_NN lol_NN ._.
+luke_NN ball_NN nope_RB ._.
+your_PRP$ session_NN has_VBZ ended_VBN ._.
+you_PRP may_MD now_RB close_VB this_DT window_NN ._.
+everything_NN about_IN this_DT product_NN is_VBZ wrong_JJ ,_, documentation_NN is_VBZ confusing_VBG ,_, performance_NN is_VBZ very_RB slow_JJ ,_, user_NN interface_NN is_VBZ confusing_JJ and_CC keeps_VBZ crashing_VBG ,_, back_RB ups_NNS sometimes_RB go_VBP to_TO nowhere_RB land_VB you_PRP are_VBP bound_VBN to_TO loose_VB all_DT your_PRP$ data_NNS ._.
+i_LS wanted_VBD to_TO use_VB this_DT as_IN a_DT home_NN server_NN for_IN my_PRP$ music_NN and_CC documents_NNS ._.
+that_DT is_VBZ fine_JJ for_IN about_IN 8_CD months_NNS ,_, then_RB it_PRP started_VBD to_TO slow_VB down_RP ._.
+the_DT the_DT red_JJ exclamation_JJ mark_NN started_VBD to_TO stay_VB on_IN -LRB-_-LRB- this_DT is_VBZ not_RB a_DT valid_JJ status_NN per_IN the_DT documentation_NN as_IN far_RB as_IN i_FW can_MD tell_VB -RRB-_-RRB- ._.
+it_PRP became_VBD too_RB slow_JJ to_TO use_VB so_RB i_FW now_RB use_VBP an_DT old_JJ pc_NN for_IN my_PRP$ nas_NNS ._.
+not_RB sure_JJ what_WP to_TO do_VB with_IN it_PRP i_FW feel_VB like_IN i_FW wasted_VBN $_$ 249_CD ._.
+tech_NN support_NN wanted_VBD me_PRP to_TO test_VB the_DT output_NN of_IN the_DT power_NN supply_NN with_IN a_DT multi_JJ meter_NN ._.
+when_WRB i_FW told_VBD them_PRP i_FW do_VBP n't_RB have_VB one_CD ,_, they_PRP said_VBD to_TO go_VB to_TO radio_NN shack_NN and_CC they_PRP 'd_MD help_VB me_PRP ._.
+really_RB ._.
+would_MD not_RB authorize_VB a_DT return_NN until_IN i_FW tested_VBN the_DT power_NN supply_NN ._.
+i_LS took_VBD delight_NN in_IN smashing_VBG it_PRP ._.
+i_LS 'll_MD never_RB buy_VB maxtor/seagate_NN again_RB ._.
+i_LS 'm_VBP a_DT consultant_NN and_CC will_MD tell_VB my_PRP$ clients_NNS the_DT same_JJ ._.
+avoid_VB this_DT product_NN it_PRP will_MD die_VB just_RB read_VB the_DT forums_NNS on_IN their_PRP$ own_JJ web_NN site_NN ._.
+everyone_NN hates_VBZ this_DT thing_NN ._.
+seagate_NN is_VBZ a_DT ripoff_JJ stay_NN away_RB from_IN there_EX products_NNS ._.
+i_LS 've_VBP been_VBN using_VBG the_DT 2_CD tb_NN central_JJ axis_NN for_IN business_NN as_IN a_DT 1_CD tb_NN mirrored_VBN nas_NNS for_IN about_IN 8_CD months_NNS ._.
+a_DT few_JJ days_NNS ago_IN one_CD of_IN the_DT hard_JJ drives_NNS failed_VBD ._.
+luckily_RB there_EX is_VBZ no_DT loss_NN of_IN data_NNS because_IN the_DT drives_NNS were_VBD mirrored_VBN ._.
+however_RB ,_, on_IN contacting_VBG seagate_NN ,_, they_PRP will_MD only_RB honor_VB the_DT warranty_NN if_IN i_FW send_VB the_DT entire_JJ unit_NN back_RB ._.
+obviously_RB that_IN wont_NN work_NN because_IN all_DT of_IN my_PRP$ business_NN data_NNS is_VBZ on_IN the_DT unit_NN ._.
+my_PRP$ only_JJ option_NN is_VBZ to_TO purchase_VB a_DT replacement_NN drive_NN and_CC void_VB the_DT warranty_NN ._.
+why_WRB would_MD someone_NN buy_VB a_DT mirrored_VBN business_NN nas_NNS ,_, and_CC send_VB the_DT whole_JJ thing_NN back_RB for_IN who_WP knows_VBZ how_WRB long_RB for_IN warranty_NN repair_NN ._.
+i_LS 'll_MD never_RB buy_VB another_DT maxtor/seagate_NN product_NN updated_VBN ._.
+on_IN jan_NN 10_CD ,_, 2010_CD ._.
+the_DT central_JJ axis_NN started_VBD having_VBG trouble_NN booting_VBG up_RP a_DT few_JJ weeks_NNS ago_RB ._.
+the_DT on_IN line_NN trouble_NN shooting_VBG guides_NNS were_VBD of_IN no_DT help_NN ._.
+ultimately_RB it_PRP would_MD not_RB boot_NN at_IN all_DT and_CC just_RB flashed_VBD a_DT red_JJ light_NN ._.
+the_DT power_NN switch_NN had_VBD no_DT more_RBR effect_NN ._.
+knowing_VBG we_PRP lost_VBD everything_NN that_WDT is_VBZ stored_VBN on_IN it_PRP ,_, i_FW sent_VBD it_PRP to_TO seagate_VB last_JJ week_NN to_TO be_VB replaced_VBN ._.
+i_LS just_RB found_VBN out_IN that_IN seagate_NN rejected_VBD my_PRP$ claim_NN ,_, and_CC is_VBZ returning_VBG the_DT unit_NN unrepaired_JJ because_IN they_PRP found_VBD a_DT scratch_NN somewhere_RB on_IN the_DT external_JJ cover_NN ._.
+now_RB i_FW 'm_VBP feeling_VBG twice_RB cheated_VBN do_VBP not_RB depend_VB on_IN this_DT device_NN to_TO safeguard_VB your_PRP$ valuable_JJ data_NNS or_CC media_NNS files_NNS ._.
+i_LS 'm_VBP not_RB the_DT only_JJ one_CD having_VBG these_DT problems_NNS ._.
+do_VB not_RB buy_VB if_IN you_PRP do_VBP make_VB sure_JJ to_TO not_RB put_VB anything_NN in_IN there_EX that_WDT care_VBP about_IN losing_VBG as_IN you_PRP are_VBP sure_JJ to_TO lose_VB it_PRP eventually_RB ._.
+this_DT is_VBZ just_RB a_DT poorly_RB designed_VBN product_NN ._.
+if_IN you_PRP are_VBP going_VBG to_TO buy_VB this_DT forget_VB the_DT software_NN and_CC use_VB it_PRP as_IN a_DT plain_JJ old_JJ drive_NN ._.
+ironically_RB my_PRP$ router_NN recently_RB died_VBD causing_VBG me_PRP to_TO replace_VB it_PRP and_CC for_IN a_DT lot_NN less_JJR money_NN i_FW can_MD hook_NN up_IN a_DT regular_JJ external_JJ drive_NN ._.
+had_VBD i_FW known_VBN i_FW would_MD have_VB gone_VBN that_IN route_NN instead_RB ._.
+i_FW feel_VBP duped_VBN ._.
+i_LS would_MD even_RB pay_VB for_IN support_NN which_WDT is_VBZ the_DT only_JJ option_NN but_CC i_FW have_VBP so_RB little_JJ confidence_NN in_IN the_DT product_NN that_WDT i_FW am_VBP dubious_JJ i_FW would_MD get_VB help_VB that_DT way_NN ._.
+if_IN you_PRP still_RB want_VBP to_TO buy_VB please_VB check_VB out_RP the_DT forum_NN and_CC knowledge_NN pages_NNS first_RB ._.
+they_PRP speak_VBP for_IN themselves_PRP ._.
+do_VBP n't_RB buy_VB it_PRP ._.
+do_VB not_RB buy_VB another_DT segate_NN or_CC maxtor_NN product_NN ._.
+even_RB if_IN the_DT product_NN is_VBZ good_JJ to_TO great_JJ the_DT support_NN and_CC willingness_NN to_TO work_VB with_IN you_PRP if_IN problems_NNS arise_VBP is_VBZ non_JJ existent_JJ ._.
+this_DT product_NN is_VBZ pure_JJ junk_NN ._.
+i_LS bought_VBD this_DT to_TO replace_VB a_DT snap_NN nas_VBZ that_IN i_FW had_VBD for_IN ten_CD years_NNS that_WDT finally_RB died_VBD ._.
+i_LS usually_RB research_NN products_NNS thoroughly_RB ,_, but_CC this_DT time_NN i_FW did_VBD n't_RB ._.
+about_IN two_CD months_NNS after_IN owning_VBG this_DT product_NN ,_, it_PRP stopped_VBD working_VBG ._.
+i_LS did_VBD a_DT quick_JJ search_NN for_IN known_JJ issues_NNS ,_, and_CC found_VBD out_RP instantly_RB that_IN most_JJS ,_, if_IN not_RB all_DT of_IN these_DT units_NNS will_MD die_VB quickly_RB ,_, due_JJ to_TO a_DT heating_NN issue_NN killing_VBG the_DT drive_NN controller_NN ._.
+i_LS did_VBD find_VB out_RP that_IN if_IN i_FW remove_VB the_DT hard_JJ drive_NN from_IN the_DT unit_NN ,_, i_FW could_MD retrieve_VB my_PRP$ data_NNS by_IN plugging_VBG directly_RB into_IN a_DT pc_NN and_CC using_VBG a_DT linux_NN reading_NN app_NN to_TO copy_VB the_DT data_NNS off_IN of_IN the_DT drive_NN ._.
+i_LS called_VBN seagate_NN to_TO let_VB them_PRP know_VB i_FW is_VBZ aware_JJ of_IN the_DT is_VBZ issue_NN and_CC repair_NN ,_, but_CC seeing_VBG that_IN i_FW just_RB purchased_VBD the_DT unit_NN ,_, and_CC that_IN they_PRP are_VBP well_RB aware_JJ of_IN the_DT issue_NN ,_, that_WDT i_FW should_MD either_RB get_VB free_JJ of_IN charge_NN data_NNS recovery_NN ._.
+needless_NN to_TO say_VB ,_, i_FW got_VBD an_DT immediate_JJ no_DT ._.
+so_RB ,_, i_FW then_RB made_VBD them_PRP aware_JJ that_IN i_FW can_MD recover_VB the_DT data_NNS myself_PRP ,_, but_CC they_PRP told_VBD me_PRP that_WDT would_MD void_VB warranty_NN ._.
+i_LS just_RB just_RB told_VBD them_PRP thank_VB you_PRP ,_, that_IN i_FW 'd_MD recover_VB the_DT data_NNS myself_PRP ,_, and_CC i_FW 'd_MD have_VB to_TO eat_VB the_DT loss_NN ._.
+the_DT real_JJ loss_NN is_VBZ that_IN i_FW do_VBP all_DT of_IN the_DT it_PRP purchasing_VBG for_IN my_PRP$ company_NN ,_, will_MD always_RB be_VB in_IN this_DT profession_NN ,_, and_CC i_FW will_MD never_RB purchase_VB a_DT seagate_NN product_NN ever_RB again_RB ._.
+in_IN addition_NN ,_, i_FW will_MD badmouth_VB seagate_NN forever_RB on_IN reviews_NNS and_CC when_WRB i_FW make_VBP product_NN recommendations_NNS ,_, i_FW will_MD stress_VB never_RB to_TO buy_VB anything_NN from_IN seagate_NN ._.
+who_WP really_RB loses_VBZ ._.
+the_DT best_JJS part_NN of_IN it_PRP is_VBZ ,_, the_DT money_NN did_VBD not_RB come_VBN out_IN of_IN my_PRP$ pocket_NN to_TO purchase_VB this_DT device_NN ._.
+i_LS would_MD not_RB recommend_VB purchasing_VBG anything_NN from_IN seagate_NN ,_, as_IN they_PRP can_MD not_RB even_RB stand_VB behind_IN their_PRP$ own_JJ products_NNS ._.
+lousy_JJ customer_NN service_NN in_IN my_PRP$ opinion_NN ._.
+the_DT right_JJ thing_NN for_IN them_PRP to_TO have_VB done_VBN ,_, is_VBZ realize_VB my_PRP$ position_NN in_IN the_DT it_PRP industry_NN ,_, and_CC recovered_VBD my_PRP$ data_NNS free_JJ of_IN charge_NN to_TO prevent_VB me_PRP from_IN never_RB purchasing_VBG again_RB ._.
+setup_NN failed_VBD miserably_RB ._.
+attempted_VBN install_VB on_IN two_CD different_JJ computers_NNS ;_: tried_VBD three_CD different_JJ cat5_NN cables_NNS ;_: every_DT port_NN in_IN my_PRP$ router_NN ;_: disabled_JJ firewall_NN and_CC antivirus_NN still_RB no_DT central_JJ axis_NN drives_NNS were_VBD found_VBN by_IN the_DT maxtor_NN manager_NN ._.
+every_DT online_NN support_NN option_NN ended_VBN with_IN the_DT same_JJ conclusion_NN ,_, return_NN to_TO maxtor_VB for_IN replacement_NN ._.
+apparently_RB ,_, my_PRP$ unit_NN is_VBZ dead_JJ on_IN arrival_NN ._.
+do_VB not_RB attempt_VB to_TO set_VB this_DT up_RB unless_IN you_PRP can_MD call_VB maxtor_NN for_IN help_NN during_IN business_NN hours_NNS ._.
+if_IN you_PRP try_VBP this_DT on_IN a_DT saturday_NNP and_CC you_PRP encounter_VBP a_DT problem_NN ,_, you_PRP 'll_MD waste_VB your_PRP$ day_NN off_RB ._.
+the_DT design_NN is_VBZ sleek_JJ and_CC it_PRP 's_VBZ a_DT great_JJ concept_NN for_IN the_DT home_NN ._.
+however_RB ,_, i_FW 'm_VBP rating_NN this_DT a_DT one_NN because_IN there_EX are_VBP no_DT weekend_NN support_NN hours_NNS and_CC the_DT problem_NN solving_VBG documentation_NN is_VBZ abysmal_JJ ._.

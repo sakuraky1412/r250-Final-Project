@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="113">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">tomtom-one-125.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">tomtom-one-125.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">tomtom-one-125.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-125.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-125.MICROPINION.system.html</P>
+<P ID="MI_MS_20">tomtom-one-125.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-125.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">tomtom-one-125.0.gold.html</M>
+<M ID="3">tomtom-one-125.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="114">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">tomtom-one-125.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">tomtom-one-125.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">tomtom-one-125.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-125.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-125.MICROPINION.system.html</P>
+<P ID="MI_MS_20">tomtom-one-125.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-125.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-one-125.2.gold.html</M>
+<M ID="3">tomtom-one-125.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="115">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">tomtom-one-125.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">tomtom-one-125.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">tomtom-one-125.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">tomtom-one-125.MI_MS_10.system.html</P>
+<P ID="MICROPINION">tomtom-one-125.MICROPINION.system.html</P>
+<P ID="MI_MS_20">tomtom-one-125.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">tomtom-one-125.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">tomtom-one-125.2.gold.html</M>
+<M ID="2">tomtom-one-125.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

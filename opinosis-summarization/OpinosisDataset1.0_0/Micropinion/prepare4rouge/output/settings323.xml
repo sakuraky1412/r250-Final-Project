@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1209">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">navigon-5100.MICROPINION.system.html</P>
+<P ID="MI_OP_20">navigon-5100.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">navigon-5100.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">navigon-5100.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">navigon-5100.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">navigon-5100.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">navigon-5100.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">navigon-5100.4.gold.html</M>
+<M ID="3">navigon-5100.0.gold.html</M>
+<M ID="4">navigon-5100.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1210">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">navigon-5100.MICROPINION.system.html</P>
+<P ID="MI_OP_20">navigon-5100.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">navigon-5100.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">navigon-5100.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">navigon-5100.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">navigon-5100.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">navigon-5100.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigon-5100.2.gold.html</M>
+<M ID="3">navigon-5100.0.gold.html</M>
+<M ID="4">navigon-5100.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1211">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">navigon-5100.MICROPINION.system.html</P>
+<P ID="MI_OP_20">navigon-5100.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">navigon-5100.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">navigon-5100.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">navigon-5100.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">navigon-5100.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">navigon-5100.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigon-5100.2.gold.html</M>
+<M ID="2">navigon-5100.4.gold.html</M>
+<M ID="4">navigon-5100.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1212">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">navigon-5100.MICROPINION.system.html</P>
+<P ID="MI_OP_20">navigon-5100.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">navigon-5100.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">navigon-5100.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">navigon-5100.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">navigon-5100.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">navigon-5100.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">navigon-5100.2.gold.html</M>
+<M ID="2">navigon-5100.4.gold.html</M>
+<M ID="3">navigon-5100.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

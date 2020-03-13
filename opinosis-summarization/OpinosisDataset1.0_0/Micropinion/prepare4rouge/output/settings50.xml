@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="184">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">panasonic-viera-tc-p50g10.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">panasonic-viera-tc-p50g10.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">panasonic-viera-tc-p50g10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">panasonic-viera-tc-p50g10.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">panasonic-viera-tc-p50g10.MI_OP_20.system.html</P>
+<P ID="MICROPINION">panasonic-viera-tc-p50g10.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-viera-tc-p50g10.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">panasonic-viera-tc-p50g10.2.gold.html</M>
+<M ID="3">panasonic-viera-tc-p50g10.8.gold.html</M>
+<M ID="4">panasonic-viera-tc-p50g10.6.gold.html</M>
+<M ID="5">panasonic-viera-tc-p50g10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="185">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">panasonic-viera-tc-p50g10.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">panasonic-viera-tc-p50g10.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">panasonic-viera-tc-p50g10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">panasonic-viera-tc-p50g10.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">panasonic-viera-tc-p50g10.MI_OP_20.system.html</P>
+<P ID="MICROPINION">panasonic-viera-tc-p50g10.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-viera-tc-p50g10.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-viera-tc-p50g10.4.gold.html</M>
+<M ID="3">panasonic-viera-tc-p50g10.8.gold.html</M>
+<M ID="4">panasonic-viera-tc-p50g10.6.gold.html</M>
+<M ID="5">panasonic-viera-tc-p50g10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="186">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">panasonic-viera-tc-p50g10.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">panasonic-viera-tc-p50g10.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">panasonic-viera-tc-p50g10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">panasonic-viera-tc-p50g10.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">panasonic-viera-tc-p50g10.MI_OP_20.system.html</P>
+<P ID="MICROPINION">panasonic-viera-tc-p50g10.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-viera-tc-p50g10.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-viera-tc-p50g10.4.gold.html</M>
+<M ID="2">panasonic-viera-tc-p50g10.2.gold.html</M>
+<M ID="4">panasonic-viera-tc-p50g10.6.gold.html</M>
+<M ID="5">panasonic-viera-tc-p50g10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="187">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">panasonic-viera-tc-p50g10.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">panasonic-viera-tc-p50g10.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">panasonic-viera-tc-p50g10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">panasonic-viera-tc-p50g10.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">panasonic-viera-tc-p50g10.MI_OP_20.system.html</P>
+<P ID="MICROPINION">panasonic-viera-tc-p50g10.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-viera-tc-p50g10.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-viera-tc-p50g10.4.gold.html</M>
+<M ID="2">panasonic-viera-tc-p50g10.2.gold.html</M>
+<M ID="3">panasonic-viera-tc-p50g10.8.gold.html</M>
+<M ID="5">panasonic-viera-tc-p50g10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="188">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">panasonic-viera-tc-p50g10.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">panasonic-viera-tc-p50g10.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">panasonic-viera-tc-p50g10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">panasonic-viera-tc-p50g10.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">panasonic-viera-tc-p50g10.MI_OP_20.system.html</P>
+<P ID="MICROPINION">panasonic-viera-tc-p50g10.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-viera-tc-p50g10.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-viera-tc-p50g10.4.gold.html</M>
+<M ID="2">panasonic-viera-tc-p50g10.2.gold.html</M>
+<M ID="3">panasonic-viera-tc-p50g10.8.gold.html</M>
+<M ID="4">panasonic-viera-tc-p50g10.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

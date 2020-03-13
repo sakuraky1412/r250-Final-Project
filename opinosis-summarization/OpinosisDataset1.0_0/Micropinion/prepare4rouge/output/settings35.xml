@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="131">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">sony-hdr-fx1.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-hdr-fx1.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-hdr-fx1.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-hdr-fx1.MI_MS_A.system.html</P>
+<P ID="MICROPINION">sony-hdr-fx1.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-hdr-fx1.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-hdr-fx1.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sony-hdr-fx1.2.gold.html</M>
+<M ID="3">sony-hdr-fx1.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="132">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">sony-hdr-fx1.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-hdr-fx1.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-hdr-fx1.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-hdr-fx1.MI_MS_A.system.html</P>
+<P ID="MICROPINION">sony-hdr-fx1.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-hdr-fx1.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-hdr-fx1.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-hdr-fx1.0.gold.html</M>
+<M ID="3">sony-hdr-fx1.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="133">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">sony-hdr-fx1.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-hdr-fx1.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">sony-hdr-fx1.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-hdr-fx1.MI_MS_A.system.html</P>
+<P ID="MICROPINION">sony-hdr-fx1.MICROPINION.system.html</P>
+<P ID="MI_MS_10">sony-hdr-fx1.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-hdr-fx1.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-hdr-fx1.0.gold.html</M>
+<M ID="2">sony-hdr-fx1.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,450 @@
+it/PRP has/VBZ the/DT best/JJS combination/NN of/IN features/NNS and/CC includes/VBZ a/DT free/JJ remote/JJ access/NN account/NN ./.
+
+other/JJ reviewers/NNS sound/VB like/IN maybe/RB they/PRP are/VBP not/RB taking/VBG the/DT totality/NN of/IN this/DT products/NNS features/VBZ into/IN account/NN and/CC objectively/RB comparing/VBG to/TO comparable/JJ models/NNS ./.
+
+there/EX are/VBP not/RB a/DT whole/JJ lot/NN of/IN tb/NN choices/NNS out/IN there/RB right/RB now/RB so/RB i/FW would/MD buy/VB it/PRP if/IN yo/FW uhave/FW to/TO back/VB up/RP a/DT lot/NN of/IN users/NNS data/NNS over/IN a/DT lan/NN ./.
+
+the/DT hardware/NN is/VBZ nice/JJ ,/, but/CC it/PRP runs/VBZ extremely/RB hot/JJ ./.
+
+this/DT will/MD probably/RB impact/VB the/DT lifespan/NN of/IN the/DT drive/NN the/DT software/NN that/WDT comes/VBZ with/IN this/DT unit/NN is/VBZ so/RB poorly/RB written/VBN it/PRP 's/VBZ laughable/JJ ./.
+
+the/DT local/JJ client/NN and/CC the/DT web/NN client/NN partially/RB overlap/VBP in/IN terms/NNS of/IN function/NN ./.
+
+the/DT term/NN user/NN and/CC share/NN are/VBP used/VBN inconsistently/RB between/IN the/DT two/CD ./.
+
+they/PRP also/RB act/VBP differently/RB when/WRB creating/VBG user/NN accounts/NNS ./.
+
+it/PRP can/MD be/VB confusing/VBG the/DT web/NN interface/NN does/VBZ not/RB use/VB ssl/NN so/IN the/DT admin/JJ password/NN is/VBZ sent/VBN in/IN clear/JJ text/NN ./.
+
+this/DT could/MD be/VB a/DT concern/NN in/IN environments/NNS that/WDT use/VBP wireless/JJ connections/NNS the/DT most/RBS glaring/JJ deficiency/NN is/VBZ that/IN the/DT backup/NN excludes/VBZ a/DT number/NN of/IN critical/JJ data/NNS elements/NNS ,/, including/VBG ,/, of/IN all/DT things/NNS ,/, outlook/NN e/SYM mail/NN ,/, which/WDT is/VBZ typically/RB located/JJ under/IN documents/NNS and/CC settings/NNS on/IN xp/NN and/CC earlier/JJR seagate/NN support/NN recommends/VBZ exporting/VBG outlook/NN data/NNS into/IN a/DT supported/VBN directory/NN ./.
+
+total/JJ nonsense/NN it/PRP will/MD not/RB backup/VB other/JJ os/NNS related/JJ directories/NNS either/CC ./.
+
+in/IN fact/NN ,/, what/WP is/VBZ being/VBG called/VBN backup/NN is/VBZ nothing/NN more/JJR than/IN a/DT severely/RB restricted/JJ file/NN copy/NN ./.
+
+there/EX are/VBP no/DT provisions/NNS to/TO backup/VB the/DT registry/NN ,/, system/NN state/NN ,/, file/NN attributes/NNS ,/, permissions/NNS or/CC to/TO perform/VB incremental/JJ backups/NNS i/FW should/MD mention/VB that/IN you/PRP can/MD copy/VB your/PRP$ outlook/NN pst/NN files/NNS to/TO the/DT drive/NN manually/RB -LRB-/-LRB- remember/VB to/TO close/JJ outlook/NN first/RB ./. -RRB-/-RRB-
+
+i/LS found/VBD the/DT software/NN to/TO be/VB lacking/VBG many/JJ features/NNS found/VBN on/IN comparable/JJ products/NNS ,/, including/VBG support/NN for/IN linux/NN ,/, raid/NN ,/, ftp/NN ,/, scp/NN ,/, etc/FW if/IN you/PRP want/VBP a/DT full/JJ backup/NN ,/, run/VBP microsoft/NN 's/POS backup/NN and/CC have/VBP it/PRP use/VB the/DT mapped/VBN drive/NN to/TO this/DT device/NN as/IN the/DT location/NN for/IN the/DT backup/NN files/NNS ./.
+
+that/DT 's/VBZ the/DT only/JJ way/NN i/FW know/VB of/IN to/TO get/VB a/DT full/JJ backup/NN cheers/NNS ./.
+
+good/JJ when/WRB it/PRP worked/VBD ,/, but/CC died/VBD with/IN flashing/VBG red/JJ light/NN after/IN 6/CD months/NNS ./.
+
+nothing/NN worked/VBD to/TO restart/VB ./.
+
+second/JJ seagate/matxor/NN backup/NN system/NN to/TO die/VB on/IN me/PRP ./.
+
+last/JJ time/NN moving/VBG on/IN to/TO a/DT better/JJR product/NN more/RBR reliable/JJ product/NN ,/, hopefully/RB something/NN cheaper/JJR ,/, down/RB $/$ 500/CD plus/CC on/IN these/DT two/CD failed/VBD units/NNS ./.
+
+spend/VB the/DT money/NN and/CC get/VB a/DT netgear/JJ readynas/NN pro/NN ./.
+
+let/VB maxtor/NN and/CC seagate/NN stick/NN to/TO making/VBG magnetic/JJ harddrives/NNS which/WDT they/PRP do/VBP very/RB well/RB at/IN ./.
+
+it/PRP 's/VBZ is/VBZ nothing/NN like/IN as/RB good/JJ as/IN the/DT synology/NN units/NNS and/CC the/DT warranty/NN from/IN nz/NN is/VBZ very/RB expensive/JJ to/TO get/VB access/NN to/TO ./.
+
+ve/VB own/JJ several/JJ personal/JJ computers/NNS ,/, peripherals/NNS ,/, digital/JJ cameras/NNS ,/, and/CC all/DT kinds/NNS of/IN electronic/JJ devices/NNS since/IN the/DT mid/JJ 1980/CD ./.
+
+maybe/RB i/LS ./.
+
+ve/VB just/RB be/VB lucky/JJ ,/, but/CC i/LS ./.
+
+ve/VB never/RB had/VBD a/DT hard/JJ drive/NN crash/NN or/CC a/DT device/NN just/RB ./.
+
+die/VB ./.
+
+on/IN me/PRP ./.
+
+that/DT is/VBZ until/IN this/DT past/JJ year/NN with/IN two/CD maxtor/NN drives/NNS ./.
+
+they/PRP weren/VBP ./.
+
+t/NN the/DT drive/NN featured/VBN here/RB ,/, but/CC i/FW did/VBD purchase/VB two/CD 750/CD mb/NN external/JJ drives/NNS ,/, one/CD as/IN a/DT back/RB up/RB for/IN my/PRP$ computer/NN and/CC the/DT other/JJ for/IN additional/JJ storage/NN for/IN my/PRP$ dvr/NN ./.
+
+with/IN a/DT year/NN both/CC failed/VBD ./.
+
+when/WRB mentioned/VBN this/DT to/TO a/DT friend/NN ,/, they/PRP shared/VBD a/DT similar/JJ experience/NN ./.
+
+so/RB just/RB beware/VB ./.
+
+the/DT unit/NN taunts/VBZ me/PRP ,/, with/IN an/DT almost/RB complete/JJ power/NN up/RB ,/, then/RB reverts/VBZ to/TO the/DT flashing/VBG red/JJ led/VBN ./.
+
+the/DT technical/JJ support/NN team/NN only/RB works/VBZ bankers/NNS hours/NNS ,/, so/RB good/JJ luck/NN getting/VBG anywhere/RB with/IN the/DT problem/NN ,/, if/IN you/PRP actually/RB have/VBP a/DT job/NN to/TO go/VB to/TO ./.
+
+i/LS now/RB have/VBP a/DT black/JJ paperweight/NN to/TO remind/VB me/PRP of/IN my/PRP$ beloved/JJ music/NN collection/NN ./.
+
+i/LS can/MD not/RB believe/VB the/DT irresponsibility/NN of/IN this/DT company/NN to/TO manufacture/VB such/PDT an/DT inferior/JJ product/NN ./.
+
+i/LS purchased/VBD this/DT about/IN 6/CD months/NNS ago/IN to/TO backup/VB my/PRP$ pc/NN ./.
+
+about/IN 3/CD weeks/NNS ago/RB ,/, i/FW had/VBD to/TO reimage/VB my/PRP$ desktop/NN ,/, so/RB i/FW verified/VBN all/DT of/IN my/PRP$ data/NNS is/VBZ on/IN the/DT drive/NN before/IN formatting/VBG my/PRP$ computer/NN ./.
+
+it/PRP took/VBD me/PRP about/IN 3/CD days/NNS to/TO load/VB all/DT of/IN my/PRP$ software/NN back/RB on/IN my/PRP$ pc/NN ./.
+
+the/DT third/JJ or/CC fourth/JJ day/NN ,/, i/FW go/VB to/TO copy/VB my/PRP$ data/NNS back/RB on/IN my/PRP$ pc/NN and/CC the/DT drive/NN is/VBZ inaccessible/JJ ./.
+
+after/IN troubleshooting/VBG it/PRP myself/PRP and/CC no/DT luck/NN -LRB-/-LRB- just/RB the/DT sound/NN of/IN the/DT drive/NN like/IN it/PRP is/VBZ trying/VBG to/TO spin/VB up/RP -RRB-/-RRB- ,/, i/FW contacted/VBN tech/NN support/NN ./.
+
+they/PRP quickly/RB said/VBD i/FW would/MD have/VB to/TO send/VB it/PRP in/IN to/TO be/VB repaired/VBN and/CC if/IN i/FW needed/VBD the/DT data/NNS recovered/VBD ,/, they/PRP conveniently/RB owned/VBD a/DT data/NN recovery/NN company/NN that/WDT could/MD recover/VB the/DT data/NNS ./.
+
+i/LS just/RB sent/VBN the/DT drive/NN back/RB in/IN and/CC received/VBD my/PRP$ replacement/NN drive/NN last/JJ week/NN ./.
+
+i/LS have/VBP little/JJ faith/NN in/IN the/DT product/NN now/RB since/IN the/DT only/JJ time/NN i/FW truly/RB needed/VBN it/PRP ,/, i/FW was/VBD not/RB able/JJ to/TO recover/VB the/DT data/NNS i/FW needed/VBN ./.
+
+do/VB not/RB even/RB begin/VB to/TO consider/VB this/DT drive/NN if/IN your/PRP$ intention/NN is/VBZ to/TO use/VB it/PRP to/TO store/VB data/NNS it/PRP will/MD store/VB it/PRP ok/NN but/CC ,/, without/IN warning/NN ,/, will/MD lock/VB up/RB hard/RB as/IN a/DT rock/NN -LRB-/-LRB- what/WP it/PRP has/VBZ now/RB become/VBN -RRB-/-RRB- and/CC any/DT stored/VBN data/NNS will/MD be/VB completely/RB inaccessible/JJ updated/VBN ./.
+
+on/IN jan/NN 4/CD ,/, 2009/CD ./.
+
+they/PRP did/VBD n't/RB even/RB mention/VB that/IN there/EX is/VBZ a/DT warranty/NN ./.
+
+seagate/VB just/RB wanted/VBD me/PRP to/TO purchase/VB their/PRP$ support/NN services/NNS to/TO restore/VB the/DT drive/NN they/PRP said/VBD the/DT drive/NN is/VBZ dead/JJ once/IN the/DT red/white/JJ light/NN is/VBZ blinking/RB no/DT notice/NN ,/, no/DT support/NN ,/, just/RB screwed/VBN ./.
+
+they/PRP do/VBP not/RB give/VB you/PRP any/DT options/NNS ,/, just/RB send/VB you/PRP over/IN to/TO their/PRP$ siste/NN company/NN for/IN a/DT quote/NN stay/VB away/RB ./.
+
+please/VB wait/NN while/IN we/PRP find/VBP an/DT agent/NN to/TO assist/VB you/PRP hello/UH ./.
+
+how/WRB may/MD i/FW help/VB you/PRP ./.
+
+chris/NN p/NN hi/UH luke/NN ./.
+
+how/WRB may/MD i/FW help/VB you/PRP ./.
+
+chris/NN p/NN has/VBZ left/VBN the/DT session/NN your/PRP$ agent/NN is/VBZ experiencing/VBG technical/JJ difficulties/NNS ./.
+
+please/VB stand/NN by/IN while/IN we/PRP re/VBP establish/VB contact/NN or/CC find/VB a/DT new/JJ agent/NN all/DT agents/NNS are/VBP currently/RB busy/JJ ./.
+
+please/VB stand/NN by/IN please/VB wait/NN while/IN we/PRP find/VBP an/DT agent/NN from/IN the/DT english/JJ department/NN to/TO assist/VB you/PRP hello/UH ./.
+
+how/WRB may/MD i/FW help/VB you/PRP ./.
+
+luke/NN ball/NN hello/UH ./.
+
+luke/NN ball/NN i/FW is/VBZ able/JJ to/TO connect/VB my/PRP$ central/JJ axis/NN drive/NN on/IN friday/NNP ./.
+
+luke/NN ball/NN but/CC on/IN saturday/NNP i/FW started/VBD getting/VBG this/DT error/NN message/NN ./.
+
+luke/NN ball/NN either/CC there/EX 's/VBZ a/DT poor/JJ internet/NN connection/NN or/CC your/PRP$ seagate/NN storage/NN device/NN is/VBZ turned/VBN off/RP ./.
+
+attempting/VBG to/TO view/VB backed/VBN up/RP folders/NNS might/MD fail/VB jeffery/NN h/NN ./.
+
+is/VBZ this/DT the/DT serial/JJ number/NN of/IN your/PRP$ drive/NN 2dd41p3d/NN ./.
+
+luke/NN ball/NN let/VB me/PRP double/JJ check/NN ./.
+
+luke/NN ball/NN but/CC that/IN seems/VBZ correct/JJ ./.
+
+luke/NN ball/NN yes/RB ,/, that/DT 's/VBZ it/PRP ./.
+
+jeffery/NN h/NN ./.
+
+and/CC you/PRP 're/VBP running/VBG windows/NNS 7/CD ./.
+
+luke/NN ball/NN yes/RB ./.
+
+luke/NN ball/NN i/FW can/MD get/VB to/TO the/DT drive/NN locally/RB ./.
+
+luke/NN ball/NN its/PRP$ only/RB when/WRB trying/VBG to/TO get/VB online/JJ access/NN ./.
+
+jeffery/NN h/NN ./.
+
+how/WRB are/VBP you/PRP trying/VBG to/TO access/NN it/PRP online/NN ./.
+
+luke/NN ball/NN clicking/VBG on/IN the/DT web/NN access/NN and/CC sharing/VBG icon/NN ./.
+
+jeffery/NN h/NN ./.
+
+ok/VB the/DT maxtor/NN software/NN is/VBZ not/RB supported/VBN on/IN windows/NNS 7/CD ./.
+
+you/PRP can/MD only/RB use/VB the/DT drive/NN as/IN a/DT manually/RB mapped/VBN drive/NN luke/NN ball/NN are/VBP you/PRP serious/JJ ./.
+
+luke/NN ball/NN so/IN my/PRP$ being/VBG able/JJ to/TO connect/VB on/IN the/DT first/JJ day/NN is/VBZ just/RB a/DT fluke/NN ./.
+
+jeffery/NN h/NN ./.
+
+unfortunately/RB yes/UH ./.
+
+luke/NN ball/NN that/WDT is/VBZ very/RB strange/JJ i/FW would/MD have/VB thought/VBN it/PRP would/MD have/VB given/VBN me/PRP an/DT uncompatible/JJ error/NN message/NN ,/, and/CC not/RB one/CD stating/VBG that/IN my/PRP$ internet/NN connection/NN had/VBD dropped/VBN luke/NN ball/NN so/RB this/DT is/VBZ a/DT windows/NNS issue/NN ,/, that/IN microsoft/NN will/MD need/VB to/TO address/VB ./.
+
+jeffery/NN h/NN ./.
+
+well/RB since/IN you/PRP can/MD access/VB the/DT drive/NN locally/RB on/IN your/PRP$ network/NN that/WDT is/VBZ the/DT way/NN you/PRP will/MD have/VB to/TO use/VB it/PRP luke/VB ball/NN unfortunately/RB that/DT 's/VBZ not/RB why/WRB i/FW purchased/VBD it/PRP luke/NN ball/NN lol/NN ./.
+
+luke/NN ball/NN but/CC back/RB to/TO my/PRP$ last/JJ question/NN ./.
+
+luke/NN ball/NN is/VBZ this/DT a/DT microsoft/NN issue/NN ./.
+
+jeffery/NN h/NN ./.
+
+no/DT thats/NNS a/DT functinality/NN of/IN the/DT maxtor/NN software/NN and/CC there/EX will/MD not/RB be/VB a/DT version/NN produced/VBD for/IN windows/NNS 7/CD ./.
+
+luke/NN ball/NN oh/UH ,/, i/FW see/VB ./.
+
+jeffery/NN h/NN ./.
+
+is/VBZ there/EX anything/NN else/RB i/FW can/MD do/VB for/IN you/PRP today/NN ./.
+
+luke/NN ball/NN so/RB anyone/NN with/IN windows/NNS 7/CD will/MD not/RB be/VB able/JJ to/TO use/VB this/DT device/NN in/IN the/DT fashion/NN its/PRP$ intended/JJ or/CC advertised/VBN ./.
+
+jeffery/NN h/NN ./.
+
+the/DT drive/NN will/MD work/VB as/IN a/DT mapped/VBN drive/NN ,/, but/CC none/NN of/IN the/DT software/NN related/JJ features/NNS will/MD be/VB available/JJ luke/NN ball/NN i/FW dont/FW recall/NN seeing/VBG that/IN info/NN when/WRB purchasing/VBG the/DT device/NN ./.
+
+you/PRP may/MD want/VB to/TO add/VB that/DT ./.
+
+jeffery/NN h/NN ./.
+
+the/DT drive/NN is/VBZ no/RB longer/RB in/IN production/NN ./.
+
+is/VBZ there/EX anything/NN else/RB i/FW can/MD help/VB you/PRP with/IN today/NN ./.
+
+luke/NN ball/NN lol/NN ./.
+
+luke/NN ball/NN nope/RB ./.
+
+your/PRP$ session/NN has/VBZ ended/VBN ./.
+
+you/PRP may/MD now/RB close/VB this/DT window/NN ./.
+
+everything/NN about/IN this/DT product/NN is/VBZ wrong/JJ ,/, documentation/NN is/VBZ confusing/VBG ,/, performance/NN is/VBZ very/RB slow/JJ ,/, user/NN interface/NN is/VBZ confusing/JJ and/CC keeps/VBZ crashing/VBG ,/, back/RB ups/NNS sometimes/RB go/VBP to/TO nowhere/RB land/VB you/PRP are/VBP bound/VBN to/TO loose/VB all/DT your/PRP$ data/NNS ./.
+
+i/LS wanted/VBD to/TO use/VB this/DT as/IN a/DT home/NN server/NN for/IN my/PRP$ music/NN and/CC documents/NNS ./.
+
+that/DT is/VBZ fine/JJ for/IN about/IN 8/CD months/NNS ,/, then/RB it/PRP started/VBD to/TO slow/VB down/RP ./.
+
+the/DT the/DT red/JJ exclamation/JJ mark/NN started/VBD to/TO stay/VB on/IN -LRB-/-LRB- this/DT is/VBZ not/RB a/DT valid/JJ status/NN per/IN the/DT documentation/NN as/IN far/RB as/IN i/FW can/MD tell/VB -RRB-/-RRB- ./.
+
+it/PRP became/VBD too/RB slow/JJ to/TO use/VB so/RB i/FW now/RB use/VBP an/DT old/JJ pc/NN for/IN my/PRP$ nas/NNS ./.
+
+not/RB sure/JJ what/WP to/TO do/VB with/IN it/PRP i/FW feel/VB like/IN i/FW wasted/VBN $/$ 249/CD ./.
+
+tech/NN support/NN wanted/VBD me/PRP to/TO test/VB the/DT output/NN of/IN the/DT power/NN supply/NN with/IN a/DT multi/JJ meter/NN ./.
+
+when/WRB i/FW told/VBD them/PRP i/FW do/VBP n't/RB have/VB one/CD ,/, they/PRP said/VBD to/TO go/VB to/TO radio/NN shack/NN and/CC they/PRP 'd/MD help/VB me/PRP ./.
+
+really/RB ./.
+
+would/MD not/RB authorize/VB a/DT return/NN until/IN i/FW tested/VBN the/DT power/NN supply/NN ./.
+
+i/LS took/VBD delight/NN in/IN smashing/VBG it/PRP ./.
+
+i/LS 'll/MD never/RB buy/VB maxtor/seagate/NN again/RB ./.
+
+i/LS 'm/VBP a/DT consultant/NN and/CC will/MD tell/VB my/PRP$ clients/NNS the/DT same/JJ ./.
+
+avoid/VB this/DT product/NN it/PRP will/MD die/VB just/RB read/VB the/DT forums/NNS on/IN their/PRP$ own/JJ web/NN site/NN ./.
+
+everyone/NN hates/VBZ this/DT thing/NN ./.
+
+seagate/NN is/VBZ a/DT ripoff/JJ stay/NN away/RB from/IN there/EX products/NNS ./.
+
+i/LS 've/VBP been/VBN using/VBG the/DT 2/CD tb/NN central/JJ axis/NN for/IN business/NN as/IN a/DT 1/CD tb/NN mirrored/VBN nas/NNS for/IN about/IN 8/CD months/NNS ./.
+
+a/DT few/JJ days/NNS ago/IN one/CD of/IN the/DT hard/JJ drives/NNS failed/VBD ./.
+
+luckily/RB there/EX is/VBZ no/DT loss/NN of/IN data/NNS because/IN the/DT drives/NNS were/VBD mirrored/VBN ./.
+
+however/RB ,/, on/IN contacting/VBG seagate/NN ,/, they/PRP will/MD only/RB honor/VB the/DT warranty/NN if/IN i/FW send/VB the/DT entire/JJ unit/NN back/RB ./.
+
+obviously/RB that/IN wont/NN work/NN because/IN all/DT of/IN my/PRP$ business/NN data/NNS is/VBZ on/IN the/DT unit/NN ./.
+
+my/PRP$ only/JJ option/NN is/VBZ to/TO purchase/VB a/DT replacement/NN drive/NN and/CC void/VB the/DT warranty/NN ./.
+
+why/WRB would/MD someone/NN buy/VB a/DT mirrored/VBN business/NN nas/NNS ,/, and/CC send/VB the/DT whole/JJ thing/NN back/RB for/IN who/WP knows/VBZ how/WRB long/RB for/IN warranty/NN repair/NN ./.
+
+i/LS 'll/MD never/RB buy/VB another/DT maxtor/seagate/NN product/NN updated/VBN ./.
+
+on/IN jan/NN 10/CD ,/, 2010/CD ./.
+
+the/DT central/JJ axis/NN started/VBD having/VBG trouble/NN booting/VBG up/RP a/DT few/JJ weeks/NNS ago/RB ./.
+
+the/DT on/IN line/NN trouble/NN shooting/VBG guides/NNS were/VBD of/IN no/DT help/NN ./.
+
+ultimately/RB it/PRP would/MD not/RB boot/NN at/IN all/DT and/CC just/RB flashed/VBD a/DT red/JJ light/NN ./.
+
+the/DT power/NN switch/NN had/VBD no/DT more/RBR effect/NN ./.
+
+knowing/VBG we/PRP lost/VBD everything/NN that/WDT is/VBZ stored/VBN on/IN it/PRP ,/, i/FW sent/VBD it/PRP to/TO seagate/VB last/JJ week/NN to/TO be/VB replaced/VBN ./.
+
+i/LS just/RB found/VBN out/IN that/IN seagate/NN rejected/VBD my/PRP$ claim/NN ,/, and/CC is/VBZ returning/VBG the/DT unit/NN unrepaired/JJ because/IN they/PRP found/VBD a/DT scratch/NN somewhere/RB on/IN the/DT external/JJ cover/NN ./.
+
+now/RB i/FW 'm/VBP feeling/VBG twice/RB cheated/VBN do/VBP not/RB depend/VB on/IN this/DT device/NN to/TO safeguard/VB your/PRP$ valuable/JJ data/NNS or/CC media/NNS files/NNS ./.
+
+i/LS 'm/VBP not/RB the/DT only/JJ one/CD having/VBG these/DT problems/NNS ./.
+
+do/VB not/RB buy/VB if/IN you/PRP do/VBP make/VB sure/JJ to/TO not/RB put/VB anything/NN in/IN there/EX that/WDT care/VBP about/IN losing/VBG as/IN you/PRP are/VBP sure/JJ to/TO lose/VB it/PRP eventually/RB ./.
+
+this/DT is/VBZ just/RB a/DT poorly/RB designed/VBN product/NN ./.
+
+if/IN you/PRP are/VBP going/VBG to/TO buy/VB this/DT forget/VB the/DT software/NN and/CC use/VB it/PRP as/IN a/DT plain/JJ old/JJ drive/NN ./.
+
+ironically/RB my/PRP$ router/NN recently/RB died/VBD causing/VBG me/PRP to/TO replace/VB it/PRP and/CC for/IN a/DT lot/NN less/JJR money/NN i/FW can/MD hook/NN up/IN a/DT regular/JJ external/JJ drive/NN ./.
+
+had/VBD i/FW known/VBN i/FW would/MD have/VB gone/VBN that/IN route/NN instead/RB ./.
+
+i/FW feel/VBP duped/VBN ./.
+
+i/LS would/MD even/RB pay/VB for/IN support/NN which/WDT is/VBZ the/DT only/JJ option/NN but/CC i/FW have/VBP so/RB little/JJ confidence/NN in/IN the/DT product/NN that/WDT i/FW am/VBP dubious/JJ i/FW would/MD get/VB help/VB that/DT way/NN ./.
+
+if/IN you/PRP still/RB want/VBP to/TO buy/VB please/VB check/VB out/RP the/DT forum/NN and/CC knowledge/NN pages/NNS first/RB ./.
+
+they/PRP speak/VBP for/IN themselves/PRP ./.
+
+do/VBP n't/RB buy/VB it/PRP ./.
+
+do/VB not/RB buy/VB another/DT segate/NN or/CC maxtor/NN product/NN ./.
+
+even/RB if/IN the/DT product/NN is/VBZ good/JJ to/TO great/JJ the/DT support/NN and/CC willingness/NN to/TO work/VB with/IN you/PRP if/IN problems/NNS arise/VBP is/VBZ non/JJ existent/JJ ./.
+
+this/DT product/NN is/VBZ pure/JJ junk/NN ./.
+
+i/LS bought/VBD this/DT to/TO replace/VB a/DT snap/NN nas/VBZ that/IN i/FW had/VBD for/IN ten/CD years/NNS that/WDT finally/RB died/VBD ./.
+
+i/LS usually/RB research/NN products/NNS thoroughly/RB ,/, but/CC this/DT time/NN i/FW did/VBD n't/RB ./.
+
+about/IN two/CD months/NNS after/IN owning/VBG this/DT product/NN ,/, it/PRP stopped/VBD working/VBG ./.
+
+i/LS did/VBD a/DT quick/JJ search/NN for/IN known/JJ issues/NNS ,/, and/CC found/VBD out/RP instantly/RB that/IN most/JJS ,/, if/IN not/RB all/DT of/IN these/DT units/NNS will/MD die/VB quickly/RB ,/, due/JJ to/TO a/DT heating/NN issue/NN killing/VBG the/DT drive/NN controller/NN ./.
+
+i/LS did/VBD find/VB out/RP that/IN if/IN i/FW remove/VB the/DT hard/JJ drive/NN from/IN the/DT unit/NN ,/, i/FW could/MD retrieve/VB my/PRP$ data/NNS by/IN plugging/VBG directly/RB into/IN a/DT pc/NN and/CC using/VBG a/DT linux/NN reading/NN app/NN to/TO copy/VB the/DT data/NNS off/IN of/IN the/DT drive/NN ./.
+
+i/LS called/VBN seagate/NN to/TO let/VB them/PRP know/VB i/FW is/VBZ aware/JJ of/IN the/DT is/VBZ issue/NN and/CC repair/NN ,/, but/CC seeing/VBG that/IN i/FW just/RB purchased/VBD the/DT unit/NN ,/, and/CC that/IN they/PRP are/VBP well/RB aware/JJ of/IN the/DT issue/NN ,/, that/WDT i/FW should/MD either/RB get/VB free/JJ of/IN charge/NN data/NNS recovery/NN ./.
+
+needless/NN to/TO say/VB ,/, i/FW got/VBD an/DT immediate/JJ no/DT ./.
+
+so/RB ,/, i/FW then/RB made/VBD them/PRP aware/JJ that/IN i/FW can/MD recover/VB the/DT data/NNS myself/PRP ,/, but/CC they/PRP told/VBD me/PRP that/WDT would/MD void/VB warranty/NN ./.
+
+i/LS just/RB just/RB told/VBD them/PRP thank/VB you/PRP ,/, that/IN i/FW 'd/MD recover/VB the/DT data/NNS myself/PRP ,/, and/CC i/FW 'd/MD have/VB to/TO eat/VB the/DT loss/NN ./.
+
+the/DT real/JJ loss/NN is/VBZ that/IN i/FW do/VBP all/DT of/IN the/DT it/PRP purchasing/VBG for/IN my/PRP$ company/NN ,/, will/MD always/RB be/VB in/IN this/DT profession/NN ,/, and/CC i/FW will/MD never/RB purchase/VB a/DT seagate/NN product/NN ever/RB again/RB ./.
+
+in/IN addition/NN ,/, i/FW will/MD badmouth/VB seagate/NN forever/RB on/IN reviews/NNS and/CC when/WRB i/FW make/VBP product/NN recommendations/NNS ,/, i/FW will/MD stress/VB never/RB to/TO buy/VB anything/NN from/IN seagate/NN ./.
+
+who/WP really/RB loses/VBZ ./.
+
+the/DT best/JJS part/NN of/IN it/PRP is/VBZ ,/, the/DT money/NN did/VBD not/RB come/VBN out/IN of/IN my/PRP$ pocket/NN to/TO purchase/VB this/DT device/NN ./.
+
+i/LS would/MD not/RB recommend/VB purchasing/VBG anything/NN from/IN seagate/NN ,/, as/IN they/PRP can/MD not/RB even/RB stand/VB behind/IN their/PRP$ own/JJ products/NNS ./.
+
+lousy/JJ customer/NN service/NN in/IN my/PRP$ opinion/NN ./.
+
+the/DT right/JJ thing/NN for/IN them/PRP to/TO have/VB done/VBN ,/, is/VBZ realize/VB my/PRP$ position/NN in/IN the/DT it/PRP industry/NN ,/, and/CC recovered/VBD my/PRP$ data/NNS free/JJ of/IN charge/NN to/TO prevent/VB me/PRP from/IN never/RB purchasing/VBG again/RB ./.
+
+setup/NN failed/VBD miserably/RB ./.
+
+attempted/VBN install/VB on/IN two/CD different/JJ computers/NNS ;/: tried/VBD three/CD different/JJ cat5/NN cables/NNS ;/: every/DT port/NN in/IN my/PRP$ router/NN ;/: disabled/JJ firewall/NN and/CC antivirus/NN still/RB no/DT central/JJ axis/NN drives/NNS were/VBD found/VBN by/IN the/DT maxtor/NN manager/NN ./.
+
+every/DT online/NN support/NN option/NN ended/VBN with/IN the/DT same/JJ conclusion/NN ,/, return/NN to/TO maxtor/VB for/IN replacement/NN ./.
+
+apparently/RB ,/, my/PRP$ unit/NN is/VBZ dead/JJ on/IN arrival/NN ./.
+
+do/VB not/RB attempt/VB to/TO set/VB this/DT up/RB unless/IN you/PRP can/MD call/VB maxtor/NN for/IN help/NN during/IN business/NN hours/NNS ./.
+
+if/IN you/PRP try/VBP this/DT on/IN a/DT saturday/NNP and/CC you/PRP encounter/VBP a/DT problem/NN ,/, you/PRP 'll/MD waste/VB your/PRP$ day/NN off/RB ./.
+
+the/DT design/NN is/VBZ sleek/JJ and/CC it/PRP 's/VBZ a/DT great/JJ concept/NN for/IN the/DT home/NN ./.
+
+however/RB ,/, i/FW 'm/VBP rating/NN this/DT a/DT one/NN because/IN there/EX are/VBP no/DT weekend/NN support/NN hours/NNS and/CC the/DT problem/NN solving/VBG documentation/NN is/VBZ abysmal/JJ ./.
+
+You/PRP are/VBP better/JJR off/RP burning/VBG your/PRP$ money/NN ,/, you/PRP will/MD save/VB time/NN and/CC grief/NN ;/: DO/NNP NOT/NNP BUY/NNP !!!/.
+
+DO/NNP NOT/NNP BUY/NNP !!!!/. It/PRP 's/VBZ cheap/JJ and/CC fairly/RB simple/JJ to/TO use/VB ./.
+
+;/: Ca/MD n't/RB backup/VB Outlook/NNP ,/, or/CC perform/VB full/JJ backups/NNS ,/, Runs/VBZ HOT/NNP ./.
+
+nothing/NN is/VBZ good/JJ about/IN this/DT device/NN ;/: Product/NNP is/VBZ notoriously/RB known/VBN for/IN failure/NN ./.
+
+If/IN you/PRP buy/VBP this/DT ,/, rest/NN assured/VBD it/PRP will/MD not/RB last/VB long/RB ./.
+
+Good/JJ Price/Performance/NN ;/: Early/JJ failure/NN ,/, Seagate/NNP will/MD not/RB send/VB a/DT replacement/NN drive/NN ./.
+
+You/PRP need/VBP to/TO return/VB the/DT entire/JJ unit/NN ./.
+
+the/DT fact/NN that/IN it/PRP is/VBZ a/DT NAS/NNP ;/: Overheats/NNP ./.
+
+Locks/NNS up/RP with/IN flashing/VBG red/JJ lights/NNS ./.
+
+Complete/JJ loss/NN of/IN many/JJ gigabytes/NNS of/IN data/NNS ./.
+
+HUGE/JJ waste/NN of/IN time/NN ./.
+
+MASSIVE/JJ loss/NN of/IN data/NNS when/WRB worked/VBN -LRB-/-LRB- 6/CD months/NNS -RRB-/-RRB- accessing/VBG via/IN internet/NN was/VBD great/JJ ;/: died/VBD after/IN 6/CD months/NNS ,/, lost/VBD all/DT info/NN stored/VBN in/IN it/PRP ./.
+
+They/PRP wanted/VBD 180/CD $/$ to/TO retrieve/VB my/PRP$ info/NN from/IN sister/NN company/NN .../: which/WDT may/MD or/CC may/MD not/RB be/VB able/JJ to/TO retrieve/VB it/PRP .../: Promise/NNP of/IN vast/JJ storage/NN on/IN a/DT reliable/JJ home/NN server/NN ./.
+
+Built/VBN in/IN print/NN server/NN function/NN ;/: Runs/VBZ HOT/NNP ./.
+
+Needs/NNS to/TO be/VB manually/RB rebooted/VBN when/WRB the/DT power/NN goes/VBZ out/RP ./.
+
+Died/VBN after/IN one/CD year/NN Sexy/JJ black/JJ tower/NN from/IN reputable/JJ company/NN ./.
+
+;/: It/PRP worked/VBD for/IN about/IN 3/CD months/NNS ./.
+
+Long/NNP enough/RB for/IN me/PRP to/TO organize/VB all/DT 23,000/CD songs/NNS from/IN my/PRP$ entire/JJ music/NN collection/NN ./.
+
+Then/RB ,/, with/IN no/DT warning/NN whatsoever/RB I/PRP got/VBD the/DT red/JJ flashing/VBG LED/SYM -/: which/WDT is/VBZ n't/RB even/RB explained/VBN in/IN the/DT users/NNS manual/NN ./.
+
+Hundreds/NNS of/IN hours/NNS lost/VBN ./.
+
+I/PRP ca/MD n't/RB think/VB of/IN any/DT right/NN now/RB ./.
+
+I/PRP need/VBP the/DT space/NN so/IN it/PRP is/VBZ better/JJR than/IN nothing/NN ?/.
+
+;/: The/DT admin/NN tools/NNS are/VBP buggy/NN and/CC confusing/JJ ./.
+
+Everytime/NNP i/FW modify/VB an/DT account/NN Iock/NN myself/PRP out/IN of/IN everything/NN ./.
+
+Public/NNP folders/NNS wo/MD n't/RB allow/VB you/PRP to/TO modify/VB a/DT read-only/JJ file/NN to/TO read/VB ./.
+
+Large/JJ storage/NN space/NN 2/CD TB/NN ;/: When/WRB it/PRP failed/VBD after/IN only/RB 6/CD months/NNS warranty/NN replacement/NN involved/VBN sending/VBG the/DT unit/NN from/IN NZ/NN to/TO Singapore/NNP at/IN my/PRP$ expense/NN ./.
+
+Worse/RBR yet/RB the/DT unit/NN does/VBZ not/RB work/VB well/RB with/IN Shirt/NN Pocket/NN 's/POS Superduper/NNP backup/NN on/IN the/DT Mac/NNP and/CC usually/RB several/JJ tries/NNS are/VBP needed/VBN ./.
+
+I/PRP bought/VBD it/PRP because/IN it/PRP was/VBD offered/VBN alot/NN of/IN stoarage/NN and/CC the/DT Ethernet/NNP interface/NN ;/: Ran/NN hot/JJ &#38;/CD failed/VBD with/IN no/DT warning/NN ./.
+
+tried/VBD everything/NN ./.
+
+Blinking/VBG R/W/NN light/NN should/MD n't/RB be/VB a/DT diagnostic/JJ ,/, just/RB a/DT ``/`` your/PRP$ screwed/VBN light/NN ''/'' ./.
+
+No/DT support/NN ,/, I/PRP told/VBD them/PRP about/IN the/DT lights/NNS ,/, they/PRP sent/VBD me/PRP to/TO their/PRP$ data/NNS service/NN group/NN who/WP wanted/VBD $/$ 2,900/CD to/TO restore/VB the/DT data/NNS The/DT Seagate/NNP Global/NNP Access/NN account/NN included/VBD for/IN free/JJ is/VBZ more/RBR valuable/JJ than/IN the/DT dive/NN itself/PRP ./.
+
+Has/VBZ GigaBit/NNP ports/NNS so/IN you/PRP can/MD backup/VB much/JJ faster/JJR than/IN 10/100/CD drives/NNS !/.
+
+It/PRP also/RB has/VBZ USB/JJ port/NN for/IN a/DT printer/NN ./.
+
+The/DT user/NN interface/NN is/VBZ very/RB simple/JJ and/CC idiot-proof/JJ ./.
+
+;/: It/PRP does/VBZ get/VB a/DT little/JJ warm/JJ ,/, but/CC mine/PRP has/VBZ been/VBN running/VBG fine/NN since/IN 2008/CD ./.
+
+The/DT web/NN interface/NN is/VBZ somewhat/RB sluggish/JJ ,/, but/CC it/PRP works/VBZ ./.
+
+its/PRP$ black/JJ That/DT is/VBZ all/DT i/FW can/MD say/VB good/JJ for/IN it/PRP after/IN i/FW got/VBD it/PRP it/PRP was/VBD slow/JJ it/PRP didnt/JJ work/NN right/NN and/CC when/WRB it/PRP did/VBD ah/RB well/RB ive/JJ wasted/VBN more/RBR then/RB 300/CD in/IN my/PRP$ live/JJ You/PRP would/MD think/VB they/PRP would/MD at/IN least/JJS Honor/NN there/RB Prod/NNP IF/IN I/PRP OWNED/VBD STOCK/NN in/IN SEAGate/NN I/PRP would/MD SELL/VB IT/PRP ;/: dies/VBZ after/IN a/DT few/JJ months/NNS over/IN heats/VBZ then/RB its/PRP$ a/DT door/NN stop/VB dont/JJ trust/NN SEAGATE/NNP Fairly/RB Fast/JJ ;/: the/DT box/NN died/VBD after/IN 1/CD month/NN with/IN no/DT alerts/VBZ ,/, log/NN file/NN info/NN and/CC just/RB a/DT red/JJ blinking/RB lite/VBP that/DT was/VBD not/RB explained/VBN anywhere/RB on/IN Maxtor/NNP Web/NN Site/NN also/RB Tech/NNP support/NN very/RB slow/JJ Compact/NNP ,/, easy/JJ install/VB but/CC some/DT what/WDT confusing/JJ instructions/NNS ./.
+
+Did/VBD come/VBN up/RP when/WRB I/PRP finished/VBD ./.
+
+Worked/VBD good/JJ when/WRB it/PRP worked/VBD though/RB .../: ;/: Reliability/NN for/IN this/DT product/NN was/VBD n't/RB good/JJ ./.
+
+It/PRP ran/VBD hot/JJ and/CC died/VBD like/IN I/PRP was/VBD warned/VBN about/RB ./.
+
+Took/VBD all/DT my/PRP$ data/NNS from/IN 5/CD laptops/NNS and/CC two/CD desks/NNS tops/VBZ down/RP with/IN it/PRP ./.
+
+Got/NNP to/TO get/VB something/NN else/RB but/CC not/RB a/DT Maxtor/Seagate/NN product/NN ./.
+
+cheapest/JJS TB/NN drive/NN I/PRP could/MD find/VB ./.
+
+To/TO bad/JJ I/PRP purchased/VBD it/PRP with/IN the/DT idea/NN of/IN being/VBG able/JJ to/TO share/VB video/NN and/CC music/NN library/NN with/IN my/PRP$ family/NN ./.
+
+;/: It/PRP is/VBZ not/RB supported/VBN in/IN windows/NNS 7/CD ./.
+
+Not/RB a/DT microsoft/NN issue/NN but/CC an/DT issue/NN with/IN Maxtor/NNP and/CC since/IN the/DT device/NN is/VBZ now/RB discontinued/VBN there/EX are/VBP no/DT plans/NNS to/TO ever/RB address/VB that/DT issue/NN ./.
+
+When/WRB it/PRP worked/VBD ,/, it/PRP worked/VBD great/JJ ./.
+
+It/PRP was/VBD fast/RB ,/, quite/RB ,/, and/CC easy/JJ to/TO use/VB ./.
+
+The/DT setup/NN and/CC configuration/NN screens/NNS where/WRB easy/JJ to/TO follow/VB ,/, and/CC I/PRP had/VBD it/PRP up/RP and/CC running/VBG within/IN minutes/NNS of/IN unpacking/VBG it/PRP ./.
+
+;/: It/PRP failed/VBD within/IN one/CD month/NN of/IN purchase/NN ,/, just/RB died/VBD ./.
+
+Ca/MD n't/RB access/VB it/PRP ,/, but/CC can/MD ping/VB it/PRP on/IN the/DT network/NN still/RB ./.
+
+Called/VBN up/IN the/DT support/NN line/NN and/CC they/PRP indicated/VBD they/PRP could/MD not/RB do/VB anything/NN for/IN me/PRP ,/, just/RB send/VB me/PRP a/DT replacement/NN at/IN my/PRP$ cost/NN ./.
+

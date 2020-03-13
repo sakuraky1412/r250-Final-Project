@@ -1,0 +1,170 @@
+i purchased the dns    323 after lots of research  .
+and i must admit , that although i is not very impressed by some of the reviews i had read online    i'm glad that they were wrong my primary purpose for purchasing this unit is to maintain a backup of my files , stream videos and pictures over my home network and dowlonading torrents  .
+this unit does all the three beautifully the setup is extremely easy  .
+pay attention to which hard drives to purchase though  .
+lots of research available on the dlink forums  .
+i have 2x 2 tb in a raid 1 setup  .
+setup is a breeze  .
+i now enjoy a complete backup (redundant) and stream media on a regular basis  .
+having the ftp server built in a bonus overall the product works great  .
+do your research on the hard drives  .
+i would highly recommend to other users .
+i really like this nas device  .
+i house 2 1  .
+5tb drives wuth raid  .
+speed is fine for that i do    music server (sonos) , vidoe and file storage  .
+i would like some way to mirror two of these devices .
+this unit does exactly as advertised at a low cost and it is easily upgradeable to larger hard drives when you run out of space .
+if you want/need an ethernet capable nas this is basically your best choice  .
+after attempting to fill my need with other companies and/or other d    link products , this is by far the best bang for the buck  .
+as of 03/11/2009 there's a $30 rebate bringing this down to $127 shipped from amazon .
+this product is awesome  .
+i recently had my primary pc crash and burn luckily , i had the 323 set up to backup all of my files so i is easily able to get back to normal  .
+the unit is solid and built like a truck  .
+it also has gigabit speed for quick back ups and transfers  .
+only complaint is the bright blinking leds    i recommend not keeping this in your bedroom at night unless you're looking for a strobe nightlight .
+what a great product  .
+i have had no issues after 1 year .
+overall a great product for cheap  .
+the download and upload speed are usually around 2  .
+0mb/s  .
+it runs so quietly with the two wd 500gb drives i have in it , runs very cool as well with its little fan  .
+look sleek and feels fairly solid  .
+i wish it had a few more features but for the money it is well worth it .
+works exceptionally well so far , much quieter than my linkstation ; if it continues to work as well , i'm thinking i may get another  .
+set it up with a dlink dir    655 wireless router and two western digital 1tb harddrives  .
+easy setup  .
+updated firmware to latest version  .
+had a hard time deciding whether to configure it as standard for 2tb or raid1 for 1tb  .
+finally decided to be conservative with raid1  .
+now i want to store everything on the dns    323 , and not on my linkstation  .
+have not tried the print server or ftp server , but plan to soon  .
+the unit's an awesome addition to a home network  .
+backups become a hassle of the past  .
+plenty of drive space on a remote device means you can centralize all your data for everyone on the network  .
+it runs my media server files and handles them well  .
+i've been able to get everything out of it that i wanted and more .
+dlink support staff is usually 6 month behind  .
+i got mine a few weeks before release and the support team had no idea what a dns323 was  .
+a few months later i had trouble with my original xbox (xbmc) only seeing the root files and support still had no documentation on the device in early fw releases you had to reformat your drives which is very time consuming to copy off your data , reformat then copy data back to dns for upnp , if you share a folder with sub folders your dns will crash with pink leds which dlink support has no documentation of pink leds i still think this device is better than most others but would like more airflow or a larger fan to pull hot air out of the box .
+read a lot of bad reviews on this one  .
+i have only owned the device for about a day and no problems so far  .
+the set up is easy but the instructions were kinda muddled and i found myself repeating steps over again will report back to see if it really becomes the horror story that the other reviewers claim that it is stay tuned .
+i like it .
+the main reason i bought this device is for its media server and raid 1 capability  .
+before spending money on 2 1tb hard drives i decided to test it with a single 160gb hdd i had lying around , and i'm so glad i did  .
+its speed when transferring files to/from it is around 10mb/second (that's mega bytes) , which is consistent with other nases i have used  .
+my setup is a lenovo laptop , airlink101 b/g/n router , and a d    link dsm    520 media player , which i have been using to stream movies wirelessly from a buffalo linkstation live nas server (without the need for the laptop to be on)  .
+with this setup i can be watching a movie and copying       or transferring       massive amounts of data to the linkstation live , and the movie continues to play flawlessly  .
+such is not the case with the dns    323  .
+the movie would freeze if i attempted to read data (play the movie) and write data (copy files) at the same time (unfortunately buffalo does not make nsa enclosures that i know of ; the linkstation live is just an nsa with a single 500gb hard drive)  .
+i asumed that because both the d    link media player and dns    323 are from the same company they would work flawlessly , but i is wrong  .
+it is a real shame because i really liked the enclosure's small size and the fact that it's made of aluminum , not cheap plastic like some others out there       even more expensive ones .
+bottom line   gets the job done (although not very gracefully) for a decent price great hardware , smaller than i expected  .
+physical installation nearly idiot    proof  .
+quiet  .
+relatively low    waste packaging  .
+probably the best value for a multi    bay nas right now , all things considered but the admin tools are very version    1  .
+critical and basic oversights include inability to rename the shared disk (you're stuck with volume_1 like it or not) or configure email alerts for modern mail servers (no way to specify ssl or non    standard smtp port , required by most spam    conscious isps)  .
+a host of other small but annoying head    slappers like that take a big bite out of the otherwise positive impression i have of this unit clunky user interface reminds me of the early days of small routers before they hit the consumer mainstream and companies realized they had to hire someone to make things look right and work for average folks  .
+since more and more 'average' folks are indeed looking at nas products , these admin/ui problems really need to be addressed the vibrant community of linux geeks/gurus out there with sites dedicated to hacking and enhancing this device is evidence of the 323's versatility and potential and the shortcomings of its out    of    the    box features  .
+maybe d    link should hire some of these talented people to exploit its potential macs see and use the shared disk fine , and web    based admin tools are platform    agnostic  .
+d    link's quick    start cdrom and printed instructions are windows    only , however , so if you're setting this up with a mac you will have to take a few leaps of faith to get things up and running  .
+it's do    able , but you're on your own itunes server is fun in theory , but not sure it's worth the effort to set up and manage an additional music library when itunes on my laptop shares itself just fine not sure if drive mechanism would be readable in a standard usb/firewire drive enclosure now that it's been formatted in 'ext    2' format  .
+that slightly concerns me should i ever need to abandon the dlink box for some reason i thought this unit is unique by featuring wan access  .
+turns out this functionality is by way of an oh    so    very    1993 ftp server  .
+if you're going to open a port on your router to allow ftp access anyway , you may as well direct inbound smb or afp traffic to your nas and access it as a shared drive  .
+that technique will work with any nas prior to this purchase , i experimented briefly with an apple time capsule and found both the admin tools and finder/desktop integration to be smoother for both mac and vista workstations  .
+the d    link box clearly has more features (not the least of which is a dual    bay enclosure) , and i know raid features are important to many nas consumers  .
+but since i already have a reliable offsite backup solution in place , if i had it to do over again , i think my modest home storage needs (and a desire for fewer electronics , cords , power bricks , etc) would be better served by the all    in    one timecapsule product .
+well i really link dlink products  .
+unfortunately i had big problems (over 10hrs with tech support) that they said were related to hard drives not on there approved hard drive list  .
+after a power outage the unit would not allow access to the raid1 share would have to login and reset to factory defaults it would then see the share but i could no longer get into configuration to setup ftp etc  .
+funny thing is i is going to buy approved hard drives  .
+but found out that every time the power goes out you have to manually turn it back on  .
+not an option i want on a ftp server , a feature i is using  .
+on two separate occasions the user information on certain files is lost  .
+when this happens , nobody can access the affected files because no users are authorized  .
+if you are using a raid system , the bad file will automatically overwrite your good backup  .
+1st support had me reformat the hd , file gone , second time one yr later , pay support and they never returned my call .
+when insert hdd to slot (if u call that slot ) please insert it's in vertical only  .
+after insert hdd do not wave it ; beacuse your hdd will cashe body frame    (sound like click click every time i move this junk)  .
+yes very easy to open top cover  .
+bootup quick but plugin gigabit switc i can make only 18 mb/s  .
+is it fast  .
+do not use raid 0 or 1 if your hdd is not confirm in d    link web site  .
+after heavy usage (both read/write in the same time by 5 pc over 16 hour ++) sometime require reboot unit not like lin#@$% n@s 20o unit  .
+(i have both with 1 tb    2 unit inside    small home office)  .
+after install hdd make sure to not shake  .
+i mentioned that the support is terrible  .
+well it is worse than what you  .
+re thinking  .
+i had upgraded to firmware 1  .
+this version of the firmware is incompatible with email notification  .
+i had to downgrade to 1  .
+5 this should be a well documented issue but these buttheads didn  .
+t know anything about it  .
+i had to do hours of research to find this info out in some obscure place  .
+the reason i spoke to this guy at all after telling me to reformat my drive is because the first 5 (yes count them five) support representatives all hung up on me  .
+you could blame it on bad comms or something , but i think they hung up on me  .
+ve been reading this on all the other posts too once i  .
+ve put the time and effort into researching and screwing around with my device , i have been rewarded  .
+it is a nice little box  .
+i use the itunes server , the ftp server the email notification etc  .
+i am very pleased with it  .
+if only there is someone who could help support this thing  .
+ll be willing to help out where i can i can be reached via email me at sean  .
+tucker at lehman  .
+com  .
+finally , the nice features that i mentioned like ftp and file permissions  .
+very bare bones  .
+you can  .
+t log anything for instance or configure in any way  .
+ftp is also quite slow .
+i have 2 hard    drives setup in raid1 mode  .
+after 2 months in operation , the raid started reporting degradation problems and the only way to fix the problem is too backup all files to an external location and rebuild the array  .
+tried their technical support but they were slow (2    day delays for every email) , redundant (i had to respond the same questions many times) , and not knowledgeable at all (did not know anything about tcp/ip and did not fix my problem) after fixing the problem on my own the first time , the raid array failed again after 1  .
+5 months  .
+i decided to cut my loses and try a different nas box  .
+i will never buy anything from dlink again .
+i have worked with many brands (qnap , synology , buffalo , snapserver , etc)  .
+this dlink is the worst by leaps and bounds  .
+the admin tool kit it to crippled i have to make mutiple shares for folders since i cannot assign multiple groups/users to a shared folder  .
+raid tools and hd health tools are a joke  .
+when i compare to an 8yead old nas the dlink fails for the reviewers that like the dlink i can only assume that they have only ever used the dlink and do not know what else is out there the only way i can recommend this is if you dump the dlink os and hack in your own os for it for a good nas look to synology (my current fav) or qnap (almost as good)  .
+buffalo is cheap and ok  .
+look to anything other then the dlink  .
+our dlink is a few months old in a small office and we are planning on putting it in the trash and popping the hd into something else anything else .
+this is just plain horrible  .
+it is my second try to replace an aging maxtor and i wanted raid so i got this turkey  .
+the unit can be found and setup for network attachment easily as any other nas box but after that , the setup is a total nightmare  .
+groups are completely broken  .
+when you assign a user to a group , it works  .
+when you assign that same user to another group , it is removed from the first group  .
+this makes setting up group a waste of time to consider  .
+not documented  .
+when you add additional users to share a folder , you get a different share for each user named in the order they were added with a dash and a number behind  .
+you cannot change this  .
+it is not documented  .
+this unit has a fan which does nothing to cool the unit  .
+i had to purchase an external fan to keep it below 100 degrees in a cooled environment  .
+without the fan , it goes to about 120 when used at all  .
+during initial loading (if you still insist on buying one of these turkeys) , be sure to have a fan blowing on it and best to just keep it going forever if i could give it negative stars , i would but cannot so gave it the lowest i could  .
+avoid  .
+i am somewhat stuck with it now and trying to make the best of a sad situation  .
+tech support does not care and they do not intend to fix anything , ever on this box  .
+with reasonable software , i would love it  .
+small , quiet and broken as designed (bad) .
+just about ok as a nas but the non    windiws file format is annoying  .
+cnet didn't test the upnp server    they should have done , as it is completely hopeless  .
+d    link's poor tech support lived up to its name and have totally failed to help  .
+the unit is supposed to have a programmable hibernation mode to save power when the unit is not in use    doesn't work  .
+also , the included backup software is only a 30    day trial (not mentioned on packaging or promotional material)    very shoddy approach indeed and technically a breach of advertising regulations  .
+you can be sure i wo not be buying any more d    link products .
+forget about it .
+this is going in the junk pile , the box where i keep all the orphaned power blobs and connectors .
+in conclusion   not that i do not like dlink they have a few good products , infact i have 3 dlink switches 2 routers nic cards in 8 systems , and i had this dns    323 unit  .
+after the support i received from dlink with this unit i will never buy another dlink product , and i will find every single message board and review for this item to tell everyone how horrible this company is with their support and product  .
+dlink trys to blame you and not help you at all  .
+im a networkadmin and have built many systems and servers in my day  .
+i just completed a build for a company using all dlink products what a regret .

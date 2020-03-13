@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="674">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-xbox-360-elite.MI_OP_A.system.html</P>
+<P ID="MICROPINION">microsoft-xbox-360-elite.MICROPINION.system.html</P>
+<P ID="MI_OP_20">microsoft-xbox-360-elite.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">microsoft-xbox-360-elite.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">microsoft-xbox-360-elite.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">microsoft-xbox-360-elite.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-xbox-360-elite.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">microsoft-xbox-360-elite.4.gold.html</M>
+<M ID="3">microsoft-xbox-360-elite.0.gold.html</M>
+<M ID="4">microsoft-xbox-360-elite.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="675">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-xbox-360-elite.MI_OP_A.system.html</P>
+<P ID="MICROPINION">microsoft-xbox-360-elite.MICROPINION.system.html</P>
+<P ID="MI_OP_20">microsoft-xbox-360-elite.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">microsoft-xbox-360-elite.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">microsoft-xbox-360-elite.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">microsoft-xbox-360-elite.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-xbox-360-elite.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-xbox-360-elite.2.gold.html</M>
+<M ID="3">microsoft-xbox-360-elite.0.gold.html</M>
+<M ID="4">microsoft-xbox-360-elite.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="676">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-xbox-360-elite.MI_OP_A.system.html</P>
+<P ID="MICROPINION">microsoft-xbox-360-elite.MICROPINION.system.html</P>
+<P ID="MI_OP_20">microsoft-xbox-360-elite.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">microsoft-xbox-360-elite.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">microsoft-xbox-360-elite.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">microsoft-xbox-360-elite.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-xbox-360-elite.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-xbox-360-elite.2.gold.html</M>
+<M ID="2">microsoft-xbox-360-elite.4.gold.html</M>
+<M ID="4">microsoft-xbox-360-elite.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="677">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-xbox-360-elite.MI_OP_A.system.html</P>
+<P ID="MICROPINION">microsoft-xbox-360-elite.MICROPINION.system.html</P>
+<P ID="MI_OP_20">microsoft-xbox-360-elite.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">microsoft-xbox-360-elite.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">microsoft-xbox-360-elite.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">microsoft-xbox-360-elite.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-xbox-360-elite.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-xbox-360-elite.2.gold.html</M>
+<M ID="2">microsoft-xbox-360-elite.4.gold.html</M>
+<M ID="3">microsoft-xbox-360-elite.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

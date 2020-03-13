@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="234">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-265wt.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-265wt.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-265wt.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-265wt.MI_MS_10.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-265wt.MICROPINION.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-265wt.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-265wt.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">garmin-nuvi-265wt.0.gold.html</M>
+<M ID="3">garmin-nuvi-265wt.4.gold.html</M>
+<M ID="4">garmin-nuvi-265wt.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="235">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-265wt.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-265wt.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-265wt.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-265wt.MI_MS_10.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-265wt.MICROPINION.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-265wt.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-265wt.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-265wt.6.gold.html</M>
+<M ID="3">garmin-nuvi-265wt.4.gold.html</M>
+<M ID="4">garmin-nuvi-265wt.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="236">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-265wt.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-265wt.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-265wt.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-265wt.MI_MS_10.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-265wt.MICROPINION.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-265wt.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-265wt.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-265wt.6.gold.html</M>
+<M ID="2">garmin-nuvi-265wt.0.gold.html</M>
+<M ID="4">garmin-nuvi-265wt.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="237">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">garmin-nuvi-265wt.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">garmin-nuvi-265wt.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">garmin-nuvi-265wt.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">garmin-nuvi-265wt.MI_MS_10.system.html</P>
+<P ID="MICROPINION">garmin-nuvi-265wt.MICROPINION.system.html</P>
+<P ID="MI_MS_20">garmin-nuvi-265wt.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">garmin-nuvi-265wt.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">garmin-nuvi-265wt.6.gold.html</M>
+<M ID="2">garmin-nuvi-265wt.0.gold.html</M>
+<M ID="3">garmin-nuvi-265wt.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

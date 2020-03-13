@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="56">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">samsung-hl61a750.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-hl61a750.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-hl61a750.MICROPINION.system.html</P>
+<P ID="MI_OP_A">samsung-hl61a750.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-hl61a750.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">samsung-hl61a750.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-hl61a750.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-hl61a750.2.gold.html</M>
+<M ID="3">samsung-hl61a750.4.gold.html</M>
+<M ID="4">samsung-hl61a750.0.gold.html</M>
+<M ID="5">samsung-hl61a750.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="57">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">samsung-hl61a750.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-hl61a750.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-hl61a750.MICROPINION.system.html</P>
+<P ID="MI_OP_A">samsung-hl61a750.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-hl61a750.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">samsung-hl61a750.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-hl61a750.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-hl61a750.8.gold.html</M>
+<M ID="3">samsung-hl61a750.4.gold.html</M>
+<M ID="4">samsung-hl61a750.0.gold.html</M>
+<M ID="5">samsung-hl61a750.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="58">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">samsung-hl61a750.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-hl61a750.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-hl61a750.MICROPINION.system.html</P>
+<P ID="MI_OP_A">samsung-hl61a750.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-hl61a750.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">samsung-hl61a750.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-hl61a750.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-hl61a750.8.gold.html</M>
+<M ID="2">samsung-hl61a750.2.gold.html</M>
+<M ID="4">samsung-hl61a750.0.gold.html</M>
+<M ID="5">samsung-hl61a750.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="59">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">samsung-hl61a750.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-hl61a750.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-hl61a750.MICROPINION.system.html</P>
+<P ID="MI_OP_A">samsung-hl61a750.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-hl61a750.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">samsung-hl61a750.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-hl61a750.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-hl61a750.8.gold.html</M>
+<M ID="2">samsung-hl61a750.2.gold.html</M>
+<M ID="3">samsung-hl61a750.4.gold.html</M>
+<M ID="5">samsung-hl61a750.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="60">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">samsung-hl61a750.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-hl61a750.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-hl61a750.MICROPINION.system.html</P>
+<P ID="MI_OP_A">samsung-hl61a750.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-hl61a750.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">samsung-hl61a750.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-hl61a750.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-hl61a750.8.gold.html</M>
+<M ID="2">samsung-hl61a750.2.gold.html</M>
+<M ID="3">samsung-hl61a750.4.gold.html</M>
+<M ID="4">samsung-hl61a750.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

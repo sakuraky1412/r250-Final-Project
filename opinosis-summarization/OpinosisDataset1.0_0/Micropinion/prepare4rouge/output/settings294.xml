@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1113">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-moment-sprint.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-moment-sprint.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-moment-sprint.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-moment-sprint.MICROPINION.system.html</P>
+<P ID="MI_OP_20">samsung-moment-sprint.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">samsung-moment-sprint.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-moment-sprint.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-moment-sprint.0.gold.html</M>
+<M ID="3">samsung-moment-sprint.4.gold.html</M>
+<M ID="4">samsung-moment-sprint.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1114">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-moment-sprint.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-moment-sprint.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-moment-sprint.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-moment-sprint.MICROPINION.system.html</P>
+<P ID="MI_OP_20">samsung-moment-sprint.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">samsung-moment-sprint.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-moment-sprint.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-moment-sprint.6.gold.html</M>
+<M ID="3">samsung-moment-sprint.4.gold.html</M>
+<M ID="4">samsung-moment-sprint.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1115">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-moment-sprint.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-moment-sprint.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-moment-sprint.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-moment-sprint.MICROPINION.system.html</P>
+<P ID="MI_OP_20">samsung-moment-sprint.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">samsung-moment-sprint.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-moment-sprint.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-moment-sprint.6.gold.html</M>
+<M ID="2">samsung-moment-sprint.0.gold.html</M>
+<M ID="4">samsung-moment-sprint.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1116">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-moment-sprint.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-moment-sprint.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-moment-sprint.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-moment-sprint.MICROPINION.system.html</P>
+<P ID="MI_OP_20">samsung-moment-sprint.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">samsung-moment-sprint.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">samsung-moment-sprint.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-moment-sprint.6.gold.html</M>
+<M ID="2">samsung-moment-sprint.0.gold.html</M>
+<M ID="3">samsung-moment-sprint.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

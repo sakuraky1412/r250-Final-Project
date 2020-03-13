@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="38">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">screen_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">screen_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="Opinosis10">screen_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_OP_20">screen_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">screen_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="MyTestRun">screen_netbook_1005ha.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">screen_netbook_1005ha.3.gold.html</M>
+<M ID="3">screen_netbook_1005ha.4.gold.html</M>
+<M ID="4">screen_netbook_1005ha.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="39">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">screen_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">screen_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="Opinosis10">screen_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_OP_20">screen_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">screen_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="MyTestRun">screen_netbook_1005ha.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">screen_netbook_1005ha.1.gold.html</M>
+<M ID="3">screen_netbook_1005ha.4.gold.html</M>
+<M ID="4">screen_netbook_1005ha.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="40">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">screen_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">screen_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="Opinosis10">screen_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_OP_20">screen_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">screen_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="MyTestRun">screen_netbook_1005ha.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">screen_netbook_1005ha.1.gold.html</M>
+<M ID="2">screen_netbook_1005ha.3.gold.html</M>
+<M ID="4">screen_netbook_1005ha.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="41">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">screen_netbook_1005ha.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">screen_netbook_1005ha.OP_MS_20.system.html</P>
+<P ID="Opinosis10">screen_netbook_1005ha.Opinosis10.system.html</P>
+<P ID="OP_OP_20">screen_netbook_1005ha.OP_OP_20.system.html</P>
+<P ID="MULTISEN">screen_netbook_1005ha.MULTISEN.system.html</P>
+<P ID="MyTestRun">screen_netbook_1005ha.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">screen_netbook_1005ha.1.gold.html</M>
+<M ID="2">screen_netbook_1005ha.3.gold.html</M>
+<M ID="3">screen_netbook_1005ha.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

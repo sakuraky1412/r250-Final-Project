@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="285">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">westinghouse-tx-42f430s.MI_OP_10.system.html</P>
+<P ID="MICROPINION">westinghouse-tx-42f430s.MICROPINION.system.html</P>
+<P ID="MI_MS_20">westinghouse-tx-42f430s.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">westinghouse-tx-42f430s.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">westinghouse-tx-42f430s.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">westinghouse-tx-42f430s.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">westinghouse-tx-42f430s.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">westinghouse-tx-42f430s.4.gold.html</M>
+<M ID="3">westinghouse-tx-42f430s.0.gold.html</M>
+<M ID="4">westinghouse-tx-42f430s.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="286">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">westinghouse-tx-42f430s.MI_OP_10.system.html</P>
+<P ID="MICROPINION">westinghouse-tx-42f430s.MICROPINION.system.html</P>
+<P ID="MI_MS_20">westinghouse-tx-42f430s.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">westinghouse-tx-42f430s.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">westinghouse-tx-42f430s.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">westinghouse-tx-42f430s.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">westinghouse-tx-42f430s.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">westinghouse-tx-42f430s.2.gold.html</M>
+<M ID="3">westinghouse-tx-42f430s.0.gold.html</M>
+<M ID="4">westinghouse-tx-42f430s.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="287">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">westinghouse-tx-42f430s.MI_OP_10.system.html</P>
+<P ID="MICROPINION">westinghouse-tx-42f430s.MICROPINION.system.html</P>
+<P ID="MI_MS_20">westinghouse-tx-42f430s.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">westinghouse-tx-42f430s.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">westinghouse-tx-42f430s.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">westinghouse-tx-42f430s.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">westinghouse-tx-42f430s.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">westinghouse-tx-42f430s.2.gold.html</M>
+<M ID="2">westinghouse-tx-42f430s.4.gold.html</M>
+<M ID="4">westinghouse-tx-42f430s.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="288">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">westinghouse-tx-42f430s.MI_OP_10.system.html</P>
+<P ID="MICROPINION">westinghouse-tx-42f430s.MICROPINION.system.html</P>
+<P ID="MI_MS_20">westinghouse-tx-42f430s.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">westinghouse-tx-42f430s.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">westinghouse-tx-42f430s.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">westinghouse-tx-42f430s.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">westinghouse-tx-42f430s.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">westinghouse-tx-42f430s.2.gold.html</M>
+<M ID="2">westinghouse-tx-42f430s.4.gold.html</M>
+<M ID="3">westinghouse-tx-42f430s.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="70">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">staff_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="OP_MS_F">staff_swissotel_chicago.OP_MS_F.system.html</P>
+<P ID="MyTestRun">staff_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_OP_20">staff_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_MS_20">staff_swissotel_chicago.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">staff_swissotel_chicago.3.gold.html</M>
+<M ID="3">staff_swissotel_chicago.4.gold.html</M>
+<M ID="4">staff_swissotel_chicago.2.gold.html</M>
+<M ID="5">staff_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="71">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">staff_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="OP_MS_F">staff_swissotel_chicago.OP_MS_F.system.html</P>
+<P ID="MyTestRun">staff_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_OP_20">staff_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_MS_20">staff_swissotel_chicago.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_swissotel_chicago.5.gold.html</M>
+<M ID="3">staff_swissotel_chicago.4.gold.html</M>
+<M ID="4">staff_swissotel_chicago.2.gold.html</M>
+<M ID="5">staff_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="72">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">staff_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="OP_MS_F">staff_swissotel_chicago.OP_MS_F.system.html</P>
+<P ID="MyTestRun">staff_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_OP_20">staff_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_MS_20">staff_swissotel_chicago.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_swissotel_chicago.5.gold.html</M>
+<M ID="2">staff_swissotel_chicago.3.gold.html</M>
+<M ID="4">staff_swissotel_chicago.2.gold.html</M>
+<M ID="5">staff_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="73">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">staff_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="OP_MS_F">staff_swissotel_chicago.OP_MS_F.system.html</P>
+<P ID="MyTestRun">staff_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_OP_20">staff_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_MS_20">staff_swissotel_chicago.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_swissotel_chicago.5.gold.html</M>
+<M ID="2">staff_swissotel_chicago.3.gold.html</M>
+<M ID="3">staff_swissotel_chicago.4.gold.html</M>
+<M ID="5">staff_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="74">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">staff_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="OP_MS_F">staff_swissotel_chicago.OP_MS_F.system.html</P>
+<P ID="MyTestRun">staff_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_OP_20">staff_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_MS_20">staff_swissotel_chicago.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_swissotel_chicago.5.gold.html</M>
+<M ID="2">staff_swissotel_chicago.3.gold.html</M>
+<M ID="3">staff_swissotel_chicago.4.gold.html</M>
+<M ID="4">staff_swissotel_chicago.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

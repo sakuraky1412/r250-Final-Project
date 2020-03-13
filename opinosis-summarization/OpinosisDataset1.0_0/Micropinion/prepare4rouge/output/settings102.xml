@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="378">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">gateway-fpd2275w.MICROPINION.system.html</P>
+<P ID="MI_OP_20">gateway-fpd2275w.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">gateway-fpd2275w.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">gateway-fpd2275w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">gateway-fpd2275w.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">gateway-fpd2275w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">gateway-fpd2275w.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">gateway-fpd2275w.4.gold.html</M>
+<M ID="3">gateway-fpd2275w.2.gold.html</M>
+<M ID="4">gateway-fpd2275w.6.gold.html</M>
+<M ID="5">gateway-fpd2275w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="379">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">gateway-fpd2275w.MICROPINION.system.html</P>
+<P ID="MI_OP_20">gateway-fpd2275w.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">gateway-fpd2275w.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">gateway-fpd2275w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">gateway-fpd2275w.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">gateway-fpd2275w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">gateway-fpd2275w.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gateway-fpd2275w.8.gold.html</M>
+<M ID="3">gateway-fpd2275w.2.gold.html</M>
+<M ID="4">gateway-fpd2275w.6.gold.html</M>
+<M ID="5">gateway-fpd2275w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="380">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">gateway-fpd2275w.MICROPINION.system.html</P>
+<P ID="MI_OP_20">gateway-fpd2275w.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">gateway-fpd2275w.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">gateway-fpd2275w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">gateway-fpd2275w.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">gateway-fpd2275w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">gateway-fpd2275w.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gateway-fpd2275w.8.gold.html</M>
+<M ID="2">gateway-fpd2275w.4.gold.html</M>
+<M ID="4">gateway-fpd2275w.6.gold.html</M>
+<M ID="5">gateway-fpd2275w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="381">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">gateway-fpd2275w.MICROPINION.system.html</P>
+<P ID="MI_OP_20">gateway-fpd2275w.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">gateway-fpd2275w.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">gateway-fpd2275w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">gateway-fpd2275w.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">gateway-fpd2275w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">gateway-fpd2275w.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gateway-fpd2275w.8.gold.html</M>
+<M ID="2">gateway-fpd2275w.4.gold.html</M>
+<M ID="3">gateway-fpd2275w.2.gold.html</M>
+<M ID="5">gateway-fpd2275w.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="382">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">gateway-fpd2275w.MICROPINION.system.html</P>
+<P ID="MI_OP_20">gateway-fpd2275w.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">gateway-fpd2275w.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">gateway-fpd2275w.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">gateway-fpd2275w.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">gateway-fpd2275w.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">gateway-fpd2275w.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">gateway-fpd2275w.8.gold.html</M>
+<M ID="2">gateway-fpd2275w.4.gold.html</M>
+<M ID="3">gateway-fpd2275w.2.gold.html</M>
+<M ID="4">gateway-fpd2275w.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="97">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">panasonic-dmp-bd60k.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">panasonic-dmp-bd60k.MI_MS_A.system.html</P>
+<P ID="MICROPINION">panasonic-dmp-bd60k.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-dmp-bd60k.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">panasonic-dmp-bd60k.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">panasonic-dmp-bd60k.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">panasonic-dmp-bd60k.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">panasonic-dmp-bd60k.4.gold.html</M>
+<M ID="3">panasonic-dmp-bd60k.0.gold.html</M>
+<M ID="4">panasonic-dmp-bd60k.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="98">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">panasonic-dmp-bd60k.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">panasonic-dmp-bd60k.MI_MS_A.system.html</P>
+<P ID="MICROPINION">panasonic-dmp-bd60k.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-dmp-bd60k.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">panasonic-dmp-bd60k.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">panasonic-dmp-bd60k.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">panasonic-dmp-bd60k.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-dmp-bd60k.2.gold.html</M>
+<M ID="3">panasonic-dmp-bd60k.0.gold.html</M>
+<M ID="4">panasonic-dmp-bd60k.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="99">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">panasonic-dmp-bd60k.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">panasonic-dmp-bd60k.MI_MS_A.system.html</P>
+<P ID="MICROPINION">panasonic-dmp-bd60k.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-dmp-bd60k.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">panasonic-dmp-bd60k.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">panasonic-dmp-bd60k.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">panasonic-dmp-bd60k.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-dmp-bd60k.2.gold.html</M>
+<M ID="2">panasonic-dmp-bd60k.4.gold.html</M>
+<M ID="4">panasonic-dmp-bd60k.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="100">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">panasonic-dmp-bd60k.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">panasonic-dmp-bd60k.MI_MS_A.system.html</P>
+<P ID="MICROPINION">panasonic-dmp-bd60k.MICROPINION.system.html</P>
+<P ID="MI_MS_10">panasonic-dmp-bd60k.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">panasonic-dmp-bd60k.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">panasonic-dmp-bd60k.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">panasonic-dmp-bd60k.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">panasonic-dmp-bd60k.2.gold.html</M>
+<M ID="2">panasonic-dmp-bd60k.4.gold.html</M>
+<M ID="3">panasonic-dmp-bd60k.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

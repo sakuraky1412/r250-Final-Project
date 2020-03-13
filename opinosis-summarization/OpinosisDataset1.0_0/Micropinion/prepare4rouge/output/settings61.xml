@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="229">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-va1912wb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">viewsonic-va1912wb.MICROPINION.system.html</P>
+<P ID="MI_OP_20">viewsonic-va1912wb.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">viewsonic-va1912wb.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-va1912wb.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">viewsonic-va1912wb.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">viewsonic-va1912wb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">viewsonic-va1912wb.0.gold.html</M>
+<M ID="3">viewsonic-va1912wb.4.gold.html</M>
+<M ID="4">viewsonic-va1912wb.2.gold.html</M>
+<M ID="5">viewsonic-va1912wb.8.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="230">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-va1912wb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">viewsonic-va1912wb.MICROPINION.system.html</P>
+<P ID="MI_OP_20">viewsonic-va1912wb.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">viewsonic-va1912wb.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-va1912wb.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">viewsonic-va1912wb.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">viewsonic-va1912wb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-va1912wb.6.gold.html</M>
+<M ID="3">viewsonic-va1912wb.4.gold.html</M>
+<M ID="4">viewsonic-va1912wb.2.gold.html</M>
+<M ID="5">viewsonic-va1912wb.8.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="231">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-va1912wb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">viewsonic-va1912wb.MICROPINION.system.html</P>
+<P ID="MI_OP_20">viewsonic-va1912wb.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">viewsonic-va1912wb.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-va1912wb.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">viewsonic-va1912wb.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">viewsonic-va1912wb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-va1912wb.6.gold.html</M>
+<M ID="2">viewsonic-va1912wb.0.gold.html</M>
+<M ID="4">viewsonic-va1912wb.2.gold.html</M>
+<M ID="5">viewsonic-va1912wb.8.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="232">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-va1912wb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">viewsonic-va1912wb.MICROPINION.system.html</P>
+<P ID="MI_OP_20">viewsonic-va1912wb.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">viewsonic-va1912wb.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-va1912wb.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">viewsonic-va1912wb.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">viewsonic-va1912wb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-va1912wb.6.gold.html</M>
+<M ID="2">viewsonic-va1912wb.0.gold.html</M>
+<M ID="3">viewsonic-va1912wb.4.gold.html</M>
+<M ID="5">viewsonic-va1912wb.8.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="233">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-va1912wb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">viewsonic-va1912wb.MICROPINION.system.html</P>
+<P ID="MI_OP_20">viewsonic-va1912wb.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">viewsonic-va1912wb.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-va1912wb.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">viewsonic-va1912wb.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">viewsonic-va1912wb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-va1912wb.6.gold.html</M>
+<M ID="2">viewsonic-va1912wb.0.gold.html</M>
+<M ID="3">viewsonic-va1912wb.4.gold.html</M>
+<M ID="4">viewsonic-va1912wb.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

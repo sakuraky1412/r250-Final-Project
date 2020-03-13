@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="25">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-eternity-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-eternity-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">samsung-eternity-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-eternity-att.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-eternity-att.MICROPINION.system.html</P>
+<P ID="MI_MS_10">samsung-eternity-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-eternity-att.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-eternity-att.2.gold.html</M>
+<M ID="3">samsung-eternity-att.6.gold.html</M>
+<M ID="4">samsung-eternity-att.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="26">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-eternity-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-eternity-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">samsung-eternity-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-eternity-att.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-eternity-att.MICROPINION.system.html</P>
+<P ID="MI_MS_10">samsung-eternity-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-eternity-att.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-eternity-att.4.gold.html</M>
+<M ID="3">samsung-eternity-att.6.gold.html</M>
+<M ID="4">samsung-eternity-att.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="27">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-eternity-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-eternity-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">samsung-eternity-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-eternity-att.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-eternity-att.MICROPINION.system.html</P>
+<P ID="MI_MS_10">samsung-eternity-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-eternity-att.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-eternity-att.4.gold.html</M>
+<M ID="2">samsung-eternity-att.2.gold.html</M>
+<M ID="4">samsung-eternity-att.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="28">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-eternity-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">samsung-eternity-att.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">samsung-eternity-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">samsung-eternity-att.MI_MS_A.system.html</P>
+<P ID="MICROPINION">samsung-eternity-att.MICROPINION.system.html</P>
+<P ID="MI_MS_10">samsung-eternity-att.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-eternity-att.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-eternity-att.4.gold.html</M>
+<M ID="2">samsung-eternity-att.2.gold.html</M>
+<M ID="3">samsung-eternity-att.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

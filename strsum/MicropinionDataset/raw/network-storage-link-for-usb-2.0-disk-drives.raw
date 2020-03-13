@@ -1,0 +1,254 @@
+$$;
+Pros:. Unbelievable richness of usage (complete linux box). 
+Cons:. Does not support all usb cameras. 
+Summary:. This little, innocently looking box is addicting. Firstly it has a Linux OS, which can be upgraded and since it connects to a (or two -with some soldering up to 5) harddrives or thumbdrives it can be set to access those drives also to boot from and store linux applications on it which it can execute.. Then there is an ethernet port that can be used to far more than serving files!. You like Asterisk as a PBS with endless posibilities (including VOIP, voicemail and virtual attendant for 4 in/outgoing lines) ? Load and run it on the 'slug' as it is lovingly called by the large family of slug addicts. You want to provide streaming music through the whole house or a web server in a DMZ (like an apache or other server)? Use the slug or a few of them (you can get them on eBay for 25-50$ if you are lucky. You want to send videos from some USB cameras out to the rest of the world? Guess what!. You unsolder one resistor and the NSLU2 doubles its cpu speed without getting warmer (since it is factory underclocked).. Finally, you don't believe me since I am probably a linksys employee who wants to sell those devices? You are wrong! I don't even like Linksys since it was bought by Cisco.. There is only one (free) way to see what the slug is used for: http://www.nslu2-linux.org/ (a very active open community of sluggers) and to read what hundreds of others all over the world have done with this precious box: http://www.nslu2-linux.org/wiki/Info/WhatPeopleAreReallyUsingTheirSlugsFor. You will see such a richness of applications only at device which cost at least 5-20 times as much.. 
+
+$$;
+Pros:. Easy to set up. I don't understand the complaints. I had no problems. Have 2 160GB drives. Drive 1 is target for 5 computers Norton Ghost 9.0 backups. Drive 2 is copy of Drive 1 using NSLU2 functionality.. 
+Cons:. Speed is limited by 100MB Ethernet. Web UI needs some improvement. 
+
+$$;
+Pros:. People don't read what the product is used for before they buy it. They should have known it is reformated to a NAS disk, and it does run off a Lunix Platform. If you didnt know, the one touch button doesn't work on the maxtor one-touch's. Stupid people b. 
+Cons:. Easy to use, I am a large scale network administratror and it is amazing.. 
+
+$$;
+Pros:. Small, runs linux, browsed by 'server name' as in \\mynslu2, config was easy (and im a network admin). 
+Cons:. only can be used on the 192.168.1.xx network when setting up!. 
+Summary:. This is good and I was surprised that it browses by \. slu2servername. 
+
+$$;
+Pros:. - USB Memory Stick which is not being refoprmatted, making it possible for me to swap between the NSLU and (!) a windoze based XP system in order to transport files between Linux/Windoze. 
+Cons:. - Sluggish data transfer - Does not support EXT3 AND NTFS/FAT32 partitions on one and the same drive. If it did, swapping files by copying them from one to another partition (or backing them up even automatically) would be great.. 
+
+$$;
+Pros:. One of the best things about this product is the fact that it runs Linux and the community has managed to completely replace the Linksys provided firmware. The alternative firmware unlocks the great potential of this very cost effective hardware platform. 
+Cons:. The standard factory firmware leaves a lot of potential hidden from users.. 
+
+$$;
+Pros:. Very configurable! If you're willing to play with the device, go visit http://www.nslu2-linux.org With a modified firmware, you can have NFS, you can set it up to read VFAT drives, you can hotplug USB2 drives... Of course the modified firmware voids yo. 
+Cons:. I too had problems getting my first ext hd formatted. Once the firmware was upgraded (in this case to the latest Linksys firmware) the hd formatted fine.. 
+
+$$;
+Pros:. runs linux, so can be hacked to run open source firmware and additional applications. 
+Cons:. none that i've identified so far. the complaints about not using any HDD are because it's a linux system and formats drives for the linux ext3 filesystem. however, with open-source firmware you _can_ use windows-formatted drives. google around.. 
+
+$$;
+Pros:. does exactly what it says it does. it goes on your network for storage. NOT MOBILE STORAGE. plays music and video from drive with no problem. easily formatted with a 250g hard drive. make sure to use your WEP if wireless.. 
+Cons:. not very fast with the wireless 11mbps connection, but fast when connected with wire.. 
+
+$$;
+Pros:. Good price, Hacking with free third party firmware turns this thing into... well anything!. 
+Cons:. Slightly feeble processor, limited ram, drive partitioning issues, not good with NTFS drives. 
+Summary:. The NSLU2 is another consumer-level networking device from Linksys with Linux-based firmware. What's that mean? You can legally "hack" into your slug (nickname of the NSLU2) and change the firmware to gain extra features and improve usability. This process is not for the tech-faint-of-heart, but can add dozens of improvements over the standard Linksys firmware (which is riddled with bugs) and even turn the slug into a music server (to play mp3s on other PCs over your network), a web-server, an email server, a network sys-logger and many more. Unfortunately, the limited ram prevents installing or running too many programs, but some modders have even boosted the ram by adding old chips from DDR ram sticks. There are several Linux-based firmwares available, from a bare-bones command prompt only version to one to one with a web interface that basically mimics the original firmware, but adds some important bug fixes. I've installed Unslung 6.8 and mt-daapd on my slug (free iTunes server software) which streams my 3000+ song collection to any computer on my network, and my Roku Soundbridge M2000 wireless media player. Installing optional programs in Unslung is very easy, with a single command that downloads the installation file from the internet and installs it.. Originally, I wanted to leave the attached 120gb USB HDD formatted in NTFS, but that proved too much for the slug to handle and crashed it regularly. Although I didn't really want to, I reformatted the drive in the Linux ext3 system and it's worked flawlessly for months. Transferring entire ripped CDs to the NSLU2 takes a few minutes over my 54mbps wireless network. It's also fast enough to stream avi, mpeg and wmv files to wireless clients with no drop-outs or rebuffering. LARGE 700mb files including DVD-quality full-length movies work perfect. I also tried setting up a torrent client to run on the hacked NSLU2 with mixed results. It's not something I think I'll look into, but the Unslung firmware I installed also has the ability to connect other USB devices, provided their drivers are compatible. NSLU2 forums have how-to's on installing webcams, USB printers and many others.. As far as some of the other less-positive reviews here, I didn't test a drive over 120gb, so I don't know if there is a size limitation. Seems it was fixed with new firmware from Linksys, but even two 120gb HDDs is an awful lot of storage, so I can't imagine the average user needing more than that. Another reviewer was upset that you can't plug an ext3 formatted drive into a Windows machine, but they were partly wrong. Free software like "Ext2 Installable File System for Windows" and "DiskInternals Linux Reader" will do just that. I wouldn't expect Linksys customer service in India to know that (or recommend using it), but a simple Google of "ext3" and "Windows" was all I needed to find both programs. The slowness others may have experienced with transfer speeds may be due to using NTFS formatted drives. Interestingly, NTFS is copyrighted by Microsoft, and anyone wanting to use software that directly accesses the system has to pay licensing or reverse-engineer the system themselves, which on its own, is terribly designed. Hence the speed of ext3 over NTFS, even in XP environments.. If you enjoy modding or tinkering with things, the NSLU2 is for you. With some knowledge of basic networking, telnet and Linux, the NSLU2 can be turned into a fairly powerful mini-Linux networked PC. Even the novice user could update to the Unslung firmware - which is very similar to the Linksys firmware but fixes some bugs - with a little research.. 
+
+$$;
+Pros:. This product does exactly what it was made for, to be a Network accessible file storage with good security options. Instead of using a PC for storage, this unit has no moving parts so its reliable network storage. Just add hard drive. 
+Cons:. Could be a little faster on the Reads. Would be nice if they had a Gigabit version of this!. 
+
+$$;
+Pros:. Love it easty to use. 
+Cons:. bummer that it reformats the drive so that it can no longer be plugged into a pc directly...but, hey that's Linux for you.... 
+
+$$;
+Pros:. Easy to setup and it works with my Maxtor 250. It solves a lot of problems with my customers. My first install was on a hub...very slow. Moved it to my switched router and it took off and ran like a scalded ass ape.. 
+Cons:. Slow from a hub but that is due to the network topology.. 
+
+$$;
+Pros:. This product is actually an embedded linux box with a ethernet port and two USB 2.0 ports. There is a highly active community who have taken it upon themselves to customise this item with additional functionality such as iTune servers, mail servers, CVS s. 
+Cons:. I have a huge USB 2.0 hard drive half full formatted as FAT32. Can't use iot with the NSLU2 unless I format it to the ext3 format used by this box. I'm waiting for FAT32 functionality to be added by the community.. 
+
+$$;
+Pros:. works great with Maxtor 250GB USB Drive. Mounts easily from Windows XP and Linux. Easily moved my "My Documents" folder to NAS drive away from C:(.. 
+Cons:. Only supports SMB mounts. Not a NFS server ( so UNIX Symbolic Links not possible). Unable to move my /home accounts to drive as Gnome requires symbolic links.. 
+
+$$;
+Pros:. uses standard/cheap USB drives. does backups. easy configure. quiet, secure, cheap.. 
+Cons:. USB drives aren't swappable and able to be read by windows machines. no NFS.. 
+
+$$;
+Pros:. Works great with Maxtor Drive. USB is acceptable across the Network. 
+Cons:. Maxtor software does not recognize drive over the network, a little buggy on the install. 
+Summary:. Once it's up and running, it is convenient having the hard drive up on the network. The Network has to be running properly. I did a complete firmware upgrade with the install. It seemed to help me with connection issues- but dont expect the Maxtor software to be of any value at all. It won't see the drive across a network and you can only use the hard drive with the wireless due to its own formatting standard. If you want to also connect with cable from time to time, this is not for you. Across a network I am finding it to be effective and faster than other hard drives on other network computers. The power button needs to go, but others have written about this as well.. 
+
+$$;
+Pros:. Great for network storage. I have a 120GB drive on it and it works great!. 
+Cons:. Have to re-format the drive with their format.. 
+
+$$;
+Pros:. Pretty easy to setup. Took about 10 minutes excluding format time. I have two drives, 250G WD and 200G Seagate in generic external USB boxes and both work fine. The most stress I put on the device was two inbound Trueimage drive images at once. No pro. 
+Cons:. The fact the device formats disks that cannot be read by Windows is not a big deal as that is not what the device was intended for. Yes it is somewhat slow. Yes RAID1 would be nice. Yes the admin interface is clunky. And finally gig ethernet would be. 
+
+$$;
+Pros:. Supports 2x Maxtor 250gb Good backup utility Works with Win and UNIX Hackable. 
+Cons:. Could be faster but better than nothing. 
+
+$$;
+Pros:. - More flexible than integrated disk/network units - Can mount and mod ext3 filesystems NSLU2 defines on USB disk(s) - Decent performance, replaces an aging 500MHz PIII server at comparable SMB speed - NFS hack now available - Linux internals can be updat. 
+Cons:. - not integrated unit, requires yet another wall-wart brick - reported stability problems of early NSLU2 units (only running for 3 days continuously here to date) Would appreciate more reports from users on experiences (stable, unstable, etc).. 
+
+$$;
+Pros:. Allows the use of USB drives as Network Attached Storage, reliable. 
+Cons:. Slow, only allows two drives, does not work with USB hubs, must reformat hard drive before it can be used, no printer support, drives are NOT hot swappable. 
+Summary:. The NSLU2 is a great idea, but the execution leaves a bit to be desired. However, this device does fulfill its function, which is to allow the use of cheap USB drives as NAS without dedicating a computer to the task.. This device is quite small - about the size of a calculator. It is also quite light. Thus, finding a spot for it is very easy. Setting it up is not hard - PC software is included that can locate and configure the unit. One problem - if your present network is not configured as 192.168.1.X, then you will need to reconfigure your network to accomodate this device - it comes configured with a static address, and there is no way to change the address until it is attached to an appropriate network.. During setup, the software also installs a program on your PC that allows your computer to use the drive; from what I can tell, the application must be installed to use the attached drive. Once setup, you can attach a hard drive - note that you cannot hot swap drives; if you remove a drive while the device is operating, you must reset the device before reattaching the drive. Also, the device will not recognize the drive until it has reformatted it - a major pain if you have already been using the drive as a network backup. Once the drive is formatted, any computers on the network with the application are able to access the drive through the "My Network Places" location in windows explorer.. I must admit that I am disappointed by the NSLU2's performance. Prior to installing this device, I had a separate computer acting as a file / print server. Transfers to the USB drive in that setup occurred at approximately 18Mbps for large files. With the NSLU2 the highest transfer rate that I get is around 3Mbps.. The NSLU2 unfortuneately does not work with USB hubs. I suppose you could purchase more NSLU2s to add additional drives, but given that my wireless router only has four ethernet ports, and three are now taken, that is not a promising approach. Hopefully, this issue will be rectified in a future firmware release.. Lastly, the NSLU2 does not work with printers. Thus, you will need a separate print server if you need to hook USB printers to your network.. Overall, despite many of the negative points I raised, I am satisfied with the NSLU2. It allows the attachment of NAS at a reasonable cost, has no reliability issues, and is reasonably easy to setup. If that fits your needs (as it does mine), then I would not hesitate to recommend it.. 
+
+$$;
+Pros:. It is easy to set up. I bought a buffalo linkstation, but it won't work with my company pc at my home network. NSLU2 works without any problem.. 
+Cons:. Slow is an understatement. Nor does it work with DVD burners. Linksys should also add print server capability for the unit. Lastly, what's up with the hard drive formatting requirement?. 
+
+$$;
+Pros:. quick fast hook up. Cheap. will work for dial up users well but Cable/dsl users will find unit slow.. 
+Cons:. 1.Only downloads to users @ 64K. 2. you must format the harddrives when connecting erasing all existing DATA..then you must reload the harddrive across ethernet @10/100M instead of USB 2 @ 400M. SO in other words it takes for ever to fill the drive once a. 
+
+$$;
+Pros:. Easy to connect hard-drives and watch videos thru a wireless network.. 
+Cons:. It's almost the price of entry-level external hard-drives. Buffalo ethernet hard-drive is worth it. Try that.. 
+
+$$;
+Pros:. Access your files across the network (wireless, in my case). 
+Cons:. Linksys never mentioned the need to format harddrives to ext3 file system!. 
+Summary:. Ok, I recently purchased this network storage link. First impressions were that it was cheap feeling, the circuit board rattles inside of the plastic case when I shake it.. Secondly, I read the stuff, and powered it up. I could not do anything with the drives. The only option was to format! My drives (both 80GB, FAT32)are full of music and information, there was NO WAY! I was going to do that. I put it back in the box.. When I calmed back down (2 days later) I tried again. A usb flash drive worked in the disk 2 slot just fine. But that was it. I turned to the linksys forums and found some information and a link to a firmware upgrade (Version V23R63). After upgrading, it now allows me to see and browse the files. The access is rather slow, being limited by the 10/100Mbps network speed (nowhere near usb2.0 of 480Mbps) but I can live with that.. NOTE: All that talk about user and group security is useless if you don't format the drives attached to the ext3 file system. 
+
+$$;
+Pros:. Currently hooked up directly to Linksys router with 120GB Lacie drive. I get much better performance than CNET and other users have reported - using a computer directly connected to same router, get anywhere from 25-35Mbs (CNET said 10-12). No client con. 
+Cons:. I mentioned my *final* configuration. When I first got the unit, tried to hook a 80GB old Seagate with USB enclosure... didn't work. Bought the Lacie USB drive and it was formatted correctly, but was getting weird errors, trouble updating firmware, and. 
+
+$$;
+Pros:. Small form factor, good aesthetics, useful feature set. 
+Cons:. The worst tech support (in India) that you can find. If you are in trouble, look on the Net and learn.. 
+
+$$;
+Pros:. Network storage (yay!). Basic setup very easy. I thought it was slow until I realized my PC was running at half duplex (3com card dated 1995, go figure!). Once I fixed that, it got MUCH faster.. 
+Cons:. Group/User setup not immediatly easy. The reformatting was a bummer, but if I setup my own file server it would have been linux, and the drives reformatted ext3 anyways.. 
+
+$$;
+Pros:. Cheap NAS storage for SOHO setups. Simple and inexpensive way to get your files off your virus susceptible PC. Easily performs automated backups to a 2nd drive.. 
+Cons:. - Unsuitable for Media Streaming. Every hour or so, the NSLU2 hangs for a minute. Definitely annoying while creating documents, etc - but completely unusable for streaming MP3s, JPEGs, MPEG Video, ripping audio CDs, etc. I have to periodically copy all of. 
+
+$$;
+Pros:. I've had my NSLU2 3 weeks. I am using it with a single Maxtor OneTouch 250 GB drive. I was able to set it up, format the drive, and define users and shares with no problems. Email response from Linksys tech support within a few hours. My measured perfor. 
+Cons:. Due to the many negative comments posted I decided to give it a stress test. I set up a batch file to repeatedly copy a file from a PC to NSLU2. I ran this test simultaneously on 2 PCs. With earlier firmware releases I had severe problems which required r. 
+
+$$;
+Pros:. Inexpensive; runs Linux; uses non-Microsoft file system; Can support any size external USB2 drive.. 
+Cons:. I hooked up this unit to a 120GB drive in a $25 USB2.0 external enclosure, it worked fine. I also tried a 250 Maxtor exernal unit and it works as well. Hardware aside, however, this product is still very immature. I had a lot of problems trying to set it. 
+
+$$;
+Pros:. Easy setup Low power drain. 
+Cons:. Slow data transfer Half the rate of my Ximeta drive Have to use a program like ext2fs to access from Windows PC Poor technical support Internal clock looses almost 1 minute per hour. 
+
+$$;
+Pros:. Easily set up a network storage point. Thumbs up to Linksys for NOT using proprietary Microsoft features like the NTFS file system. The EXT2 file system is an excellent choice for this purpose. For those who want to simply plug their drive into Windows. 
+Cons:. I have not tested formatting drives over 80 GB yet but will report back if they work when I try. Perhaps Cisco/Linksys should be more technically explicit with respect to standards used in their products like EXT2 and CIFS. If it is mentioned, then it sh. 
+
+$$;
+Pros:. Affordable, small, easy to set up.. 
+Cons:. This device formats the USB drive with a file system that can't be read directly by a windows PC. You can't hook up a USB drive that contains data without loosing the data when you format the drive for the device to use. Also, if your network goes down, y. 
+
+$$;
+Pros:. Let's you put disk drives on a wireless network.. 
+Cons:. Drive can not have a Microsoft Windows format such as NTFS or FAT32. This is a deal breaker!. 
+
+$$;
+Pros:. I bought the device primarily because the box said that it woulg give me accessability to one of my hard drives from the internet, so I did. When I brought the device home and opened it up I did not realize the challenge that I was about to go through. I. 
+Cons:. Very difficult to set up. The directions and user guide definitely need some work.. 
+
+$$;
+Pros:. Got mine going with a 200mb Maxtor inside a Venus DS3 external enclosure.. 
+Cons:. Still working on settings. Users, Groups, Shares and other settings doesn't make any sense. and the insatallation guide is no help.. 
+
+$$;
+Pros:. Easy to setup and use. 
+Cons:. So slow sourcesafe thinks the network connection is down and won't save files.. 
+Summary:. It's the slowest thing on earth. Only good for archiving things but not real time use like Sourcesafe or Morpheus. The programs writing to it think it's broken because it's so slow.. 
+
+$$;
+Pros:. Quik and easy setup. Gets USB HDs shared.. 
+Cons:. Very Very Slow throughput.. 
+Summary:. I am generally a Linksys fan but this product will be going back to the store. The NSLU2 was quick and easy to setup and got me going pretty fast. I was a little disappointed by the fact that I had to reformat my HDDs but figured it would be a small price to pay for the ability to access the content from any machine in the house. Once I formatted and setup security I attempted to copy the approx 25 GB of data back to the drive which was removed prior to formatting. Three hours later I cancelled the copy operation with only about 7 GB copied so far. UGH!!!. Sorry but this one is a flop.. 
+
+$$;
+Pros:. Inexpensive. 
+Cons:. Devices fails / crashes. 
+Summary:. Purchased device for an easy network backup solution on a 3 PC Network when Linksys reported device now supports NTFS/Fat32.. Installation was uneventful, firmware outdated. Sadly, device does not have enough memory, so one has to use a Linksys software tool to delete old firmware in the device before installing 2.3R63 firmware. No big deal, but an additional step that is undocumented and will be painful for the average home user.. USB (NTFS) drive attached, device comes online, network sees the NSLU2 and I think; great. Copy a couple of files back and forth, response time is as expected; not fast but very acceptable.. Then, using Explorer I drop a folder containing subfolders and files of varying sizes. Unit begins to copy files, then fails with error that device is no longer available. This error was 100% consistently duplicated around 16-28 files copied. I duplicate the error using all PCs on my network.. In a 24 hour period; 9 calls, with 7+ hours of my time on the phone with Linksys Tech Support, the issue is unresolved with no time provided by Linksys of when a firmware fix will be available.. Unit may be satisfactory in the Unix world; but is NOT a solution in its current configuration for non-unix.. 
+
+$$;
+Pros:. It was rather inexpensive. 
+Cons:. Difficult to work with and use. 
+Summary:. I purchased it since it was cheap. When I opened the box, the first thing I noticed was the lack of documentation. This device was made to be used by someone with years of experience and/or in business environment and to be installed by someone in the know. It took me almost 24 hours of playing around with it before I could get anything to work. The O.S. for this device lacks for the ability to be able to delete the files you don't want if you happen to change your basic settings. The device will reformat your H.D. into the Linux environment and from then on, you will NOT be able to change it back to the Windows environment should you decide to do so. Once you hook a H.D. up to this device and begin using it, that is all it will ever be good for. I spent hours with support trying to find out how to re-use a H.D. in the Windows environment if one should change their mind OR get a larger H.D. to use on this system. I was finally told their wasn't any way. No where in their meager documentation (if one could call it that) does it so let you know. This device is NOT for the faint of heart or for the average computer user. Take it from me.. 
+
+$$;
+Pros:. Increased storage without an extra PC. Easy Setup.. 
+Cons:. Don't expect to be able to stream music or move big files it can't handle it. Don't buy it not worth the hassle. Always crashes. Even for setup it crashes. 
+
+$$;
+Pros:. Easy to set up.. 
+Cons:. I own a half dozen linksys network products that I love. This one I can't stand. Throughput is horribly slow. If all you want to do is backup relatively small (up to a gigabyte max) files it's fine but for mass backups forget it. Now I can't figure ou. 
+
+$$;
+Pros:. Interface. 
+Cons:. Could not format a 4 gig drive, called support they told me to format fat first, still did not work. Cannot connect on USB1, only 2. Also has a static IP address out of box, so I had to reconfig my network to get connected to the device.. 
+
+$$;
+Pros:. Connects up to 2 USB HDD's together.. 
+Cons:. Well it seems to me the Linksys is just becoming plain Garbage there products start sucking even more and failing even more. One this that Buyer should beware of is that if he has an external HDD with memory already on it this stupid little machine will F. 
+
+$$;
+Pros:. It is a very cost-effective solution to store files but not a good idea to make a backup from local drive to NSL.. 
+Cons:. There are a lot of features expected to improve NSL. I found a new vendor, Santrum, to integrate iSCSI with NAS, supporting NTFS and FAT, By using a free Windows iSCSI initiator logging on the Santrum's V-Stor, I can apply either NTFS or FAT to the attach. 
+
+$$;
+Cons:. Hard to set up. Have to format drive in a way that can't be read by windows when directly connected to a computer.. 
+
+$$;
+Pros:. None, this product is falsely advertised. 
+Cons:. False Advertising, slow performance, must format your drives. 
+Summary:. I wrote an extended review of the NSLU2, which can be found here:. http://arajani.blogspot.com/2006/10/linksys-nslu2-network-storage-link.html. 
+
+$$;
+Pros:. Adds additional storage easily be accessed from LAn and Internet. I have a 200GB USB drive and a USB 128MB Flash up and running.. 
+Cons:. Configuration instruction must be followed very exactly, get all infos you can get from the internet BEFORE you start. Don't trial on error, corrections afterwards may be very hard.. 
+
+$$;
+Pros:. Great idea, if it worked.. 
+Cons:. I am on my 2nd unit waiting for my 3rd replacement from Linksys. The device has very bad performace and constatly drops the network connection. And all tech support can tell me is basically reset the device... Only after being on hold for 45 minutes!. 
+
+$$;
+Pros:. Works as a basic network file storage devise. Makes a pretty good $80 door stop.. 
+Cons:. What's the purpose if you can not HOT swap it from your Network Storage Link to a Windows computer. So much for having a "Removable/External" USB hard drive. Linksys should specifically state this on their website. I found out when it was too late. Link. 
+
+$$;
+Pros:. None that I could find.... 
+Cons:. Wasted $100. 
+Summary:. You have to reformat the drive - wish that was explicit in explanation. I wouldn't have bought one if I had known. Bought a Buffalo TeraStation instead.... 
+
+$$;
+Pros:. There is nothing good. 
+Cons:. It doesn't work. 
+Summary:. This did not work at all. It would only see the drives for a few minutes before losing the connection. When accessing files on the drive my system would lock up or crash.. 
+
+$$;
+Pros:. lights turn on. 
+Cons:. different hard drive format, slow, shuts down making it useless in a total wireless environment, 32 hours with 6 tech support people to install, setup, configure, and operate. NO documentation!!!. 
+Summary:. Quick install guide is incomplete, is MISSING steps, and does not clue you into some major details... ie. hard drive space IS limited to 250 GB, format is not Widows, and the technical delay to access a USB device...reminds me of the first Hard drives... long seek, read and write times. Tech support was not supportive, no one could understand that I have a total wireless network. Each person started me out with a "wired" setup. After almost 3 days, finally was able to use the drive, however, it takes 5 minutes for 1 2.2mb photo to pull up. Way too slow. Suggest using a D-Link router (DI-624S) with a usb port (not print server.. 
+
+$$;
+Pros:. At this moment in time? None.. 
+Cons:. Limited hard drive size along with limited information!. 
+Summary:. If you want to waste time and money run out and buy the NSLU2 right now! I bought this unit along with two Maxtor OneTouch II 300Gb drives. After going through the process of setting everything up, with a little "help" from tech support (set up includes formatting the drives using a format not compatible with Windows) I start transferring files. Things go ok then rapidly downhill with some very strange problems. Not seeing the drives on the network then suddenly the drives are there, the same files "appearing" on both drives even though Drive two had not been written to, suddenly only one drive is there, oh there it is again, and so on.. This morning I talk to Tech support, that's when I find out that the drive size is limited to 250Gb MAX. Yet when I point out that on the box it says "...connect up to two stand-alone USB disk drives of any size...". From that point on I got excuse after excuse and finaly someone who I could hardly understand telling me to return the unit to the store. Great, I get to waste more time arguing with the store! Linksys a once trusted resource is now a source of deception and no longer can be trusted.. 
+
+$$;
+Pros:. it arrived.... 
+Cons:. cant deal with certain USB drives/chipsets, old kernel, linux is a hack on this box, where should I stop........ 
+
+$$;
+Pros:. Nifty little device for a very small office.. 
+Cons:. Extremely slow. Must reformat drive to work with the device. Device fails or decide not to use it, the USB drive you formatted is now trash. Data can not be read by Windows. Yikes! Should mention that somewhere in the documentation.. 
+
+$$;
+Pros:. Cheap, may be the only one available at this time for that price.. 
+Cons:. I believe they rushed this product too soon. Works only with workgroups. Too new that their customer support are not able to help on live chat or when you call them. Email them if you have problems.. 
+
+$$;
+Pros:. It runs Linux. This is enough to make nerds sing the praises of something that is of very little use in the real world. I learned how to telnet into it, though!!!. 
+Cons:. Well, first of all, I couldnt' get the thing to work at all. The first flash drive I tried (Sony Micro Vault) was unrecognized. I went out and spent $50 on a new flash drive (PQI 256MB). I got excited when it actually recognized this one's existence but w. 
+

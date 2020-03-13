@@ -1,0 +1,146 @@
+this little , innocently looking box is addicting  .
+firstly it has a linux os , which can be upgraded and since it connects to a (or two    with some soldering up to 5) harddrives or thumbdrives it can be set to access those drives also to boot from and store linux applications on it which it can execute then there is an ethernet port that can be used to far more than serving files  .
+you like asterisk as a pbs with endless posibilities (including voip , voicemail and virtual attendant for 4 in/outgoing lines)  .
+load and run it on the 'slug' as it is lovingly called by the large family of slug addicts  .
+you want to provide streaming music through the whole house or a web server in a dmz (like an apache or other server)  .
+use the slug or a few of them (you can get them on ebay for 25    50$ if you are lucky  .
+you want to send videos from some usb cameras out to the rest of the world  .
+guess what  .
+you unsolder one resistor and the nslu2 doubles its cpu speed without getting warmer (since it is factory underclocked) finally , you don't believe me since i am probably a linksys employee who wants to sell those devices  .
+you are wrong  .
+i do not even like linksys since it is bought by cisco there is only one (free) way to see what the slug is used for   http  //www  .
+nslu2    linux  .
+org/ (a very active open community of sluggers) and to read what hundreds of others all over the world have done with this precious box   http  //www  .
+nslu2    linux  .
+org/wiki/info/whatpeoplearereallyusingtheirslugsfor  .
+you will see such a richness of applications only at device which cost at least 5    20 times as much .
+this is good and i is surprised that it browses by \  .
+slu2servername  .
+the nslu2 is another consumer    level networking device from linksys with linux    based firmware  .
+what's that mean  .
+you can legally hack into your slug (nickname of the nslu2) and change the firmware to gain extra features and improve usability  .
+this process is not for the tech    faint    of    heart , but can add dozens of improvements over the standard linksys firmware (which is riddled with bugs) and even turn the slug into a music server (to play mp3s on other pcs over your network) , a web    server , an email server , a network sys    logger and many more  .
+unfortunately , the limited ram prevents installing or running too many programs , but some modders have even boosted the ram by adding old chips from ddr ram sticks  .
+there are several linux    based firmwares available , from a bare    bones command prompt only version to one to one with a web interface that basically mimics the original firmware , but adds some important bug fixes  .
+i've installed unslung 6  .
+8 and mt    daapd on my slug (free itunes server software) which streams my 3000+ song collection to any computer on my network , and my roku soundbridge m2000 wireless media player  .
+installing optional programs in unslung is very easy , with a single command that downloads the installation file from the internet and installs it originally , i wanted to leave the attached 120gb usb hdd formatted in ntfs , but that proved too much for the slug to handle and crashed it regularly  .
+although i didn't really want to , i reformatted the drive in the linux ext3 system and it's worked flawlessly for months  .
+transferring entire ripped cds to the nslu2 takes a few minutes over my 54mbps wireless network  .
+it's also fast enough to stream avi , mpeg and wmv files to wireless clients with no drop    outs or rebuffering  .
+large 700mb files including dvd    quality full    length movies work perfect  .
+i also tried setting up a torrent client to run on the hacked nslu2 with mixed results  .
+it's not something i think i'll look into , but the unslung firmware i installed also has the ability to connect other usb devices , provided their drivers are compatible  .
+nslu2 forums have how    to's on installing webcams , usb printers and many others as far as some of the other less    positive reviews here , i didn't test a drive over 120gb , so i don't know if there is a size limitation  .
+seems it is fixed with new firmware from linksys , but even two 120gb hdds is an awful lot of storage , so i cannot imagine the average user needing more than that  .
+another reviewer is upset that you cannot plug an ext3 formatted drive into a windows machine , but they were partly wrong  .
+free software like ext2 installable file system for windows and diskinternals linux reader will do just that  .
+i would not expect linksys customer service in india to know that (or recommend using it) , but a simple google of ext3 and windows is all i needed to find both programs  .
+the slowness others may have experienced with transfer speeds may be due to using ntfs formatted drives  .
+interestingly , ntfs is copyrighted by microsoft , and anyone wanting to use software that directly accesses the system has to pay licensing or reverse    engineer the system themselves , which on its own , is terribly designed  .
+hence the speed of ext3 over ntfs , even in xp environments if you enjoy modding or tinkering with things , the nslu2 is for you  .
+with some knowledge of basic networking , telnet and linux , the nslu2 can be turned into a fairly powerful mini    linux networked pc  .
+even the novice user could update to the unslung firmware    which is very similar to the linksys firmware but fixes some bugs    with a little research .
+once it's up and running , it is convenient having the hard drive up on the network  .
+the network has to be running properly  .
+i did a complete firmware upgrade with the install  .
+it seemed to help me with connection issues    but dont expect the maxtor software to be of any value at all  .
+it wo not see the drive across a network and you can only use the hard drive with the wireless due to its own formatting standard  .
+if you want to also connect with cable from time to time , this is not for you  .
+across a network i am finding it to be effective and faster than other hard drives on other network computers  .
+the power button needs to go , but others have written about this as well .
+the nslu2 is a great idea , but the execution leaves a bit to be desired  .
+however , this device does fulfill its function , which is to allow the use of cheap usb drives as nas without dedicating a computer to the task this device is quite small    about the size of a calculator  .
+it is also quite light  .
+thus , finding a spot for it is very easy  .
+setting it up is not hard    pc software is included that can locate and configure the unit  .
+one problem    if your present network is not configured as 192  .
+168  .
+x , then you will need to reconfigure your network to accomodate this device    it comes configured with a static address , and there is no way to change the address until it is attached to an appropriate network during setup , the software also installs a program on your pc that allows your computer to use the drive ; from what i can tell , the application must be installed to use the attached drive  .
+once setup , you can attach a hard drive    note that you cannot hot swap drives ; if you remove a drive while the device is operating , you must reset the device before reattaching the drive  .
+also , the device will not recognize the drive until it has reformatted it    a major pain if you have already been using the drive as a network backup  .
+once the drive is formatted , any computers on the network with the application are able to access the drive through the my network places location in windows explorer i must admit that i am disappointed by the nslu2's performance  .
+prior to installing this device , i had a separate computer acting as a file / print server  .
+transfers to the usb drive in that setup occurred at approximately 18mbps for large files  .
+with the nslu2 the highest transfer rate that i get is around 3mbps the nslu2 unfortuneately does not work with usb hubs  .
+i suppose you could purchase more nslu2s to add additional drives , but given that my wireless router only has four ethernet ports , and three are now taken , that is not a promising approach  .
+hopefully , this issue will be rectified in a future firmware release lastly , the nslu2 does not work with printers  .
+thus , you will need a separate print server if you need to hook usb printers to your network overall , despite many of the negative points i raised , i am satisfied with the nslu2  .
+it allows the attachment of nas at a reasonable cost , has no reliability issues , and is reasonably easy to setup  .
+if that fits your needs (as it does mine) , then i would not hesitate to recommend it .
+ok , i recently purchased this network storage link  .
+first impressions were that it is cheap feeling , the circuit board rattles inside of the plastic case when i shake it secondly , i read the stuff , and powered it up  .
+i could not do anything with the drives  .
+the only option is to format  .
+my drives (both 80gb , fat32)are full of music and information , there is no way  .
+i is going to do that  .
+i put it back in the box when i calmed back down (2 days later) i tried again  .
+a usb flash drive worked in the disk 2 slot just fine  .
+but that is it  .
+i turned to the linksys forums and found some information and a link to a firmware upgrade (version v23r63)  .
+after upgrading , it now allows me to see and browse the files  .
+the access is rather slow , being limited by the 10/100mbps network speed (nowhere near usb2  .
+0 of 480mbps) but i can live with that note   all that talk about user and group security is useless if you do not format the drives attached to the ext3 file system  .
+it's the slowest thing on earth  .
+only good for archiving things but not real time use like sourcesafe or morpheus  .
+the programs writing to it think it's broken because it's so slow .
+i am generally a linksys fan but this product will be going back to the store  .
+the nslu2 is quick and easy to setup and got me going pretty fast  .
+i is a little disappointed by the fact that i had to reformat my hdds but figured it would be a small price to pay for the ability to access the content from any machine in the house  .
+once i formatted and setup security i attempted to copy the approx 25 gb of data back to the drive which is removed prior to formatting  .
+three hours later i cancelled the copy operation with only about 7 gb copied so far  .
+ugh  .
+sorry but this one is a flop .
+purchased device for an easy network backup solution on a 3 pc network when linksys reported device now supports ntfs/fat32 installation is uneventful , firmware outdated  .
+sadly , device does not have enough memory , so one has to use a linksys software tool to delete old firmware in the device before installing 2  .
+3r63 firmware  .
+no big deal , but an additional step that is undocumented and will be painful for the average home user usb (ntfs) drive attached , device comes online , network sees the nslu2 and i think ; great  .
+copy a couple of files back and forth , response time is as expected ; not fast but very acceptable then , using explorer i drop a folder containing subfolders and files of varying sizes  .
+unit begins to copy files , then fails with error that device is no longer available  .
+this error is 100% consistently duplicated around 16    28 files copied  .
+i duplicate the error using all pcs on my network in a 24 hour period ; 9 calls , with 7+ hours of my time on the phone with linksys tech support , the issue is unresolved with no time provided by linksys of when a firmware fix will be available unit may be satisfactory in the unix world ; but is not a solution in its current configuration for non    unix .
+i purchased it since it is cheap  .
+when i opened the box , the first thing i noticed is the lack of documentation  .
+this device is made to be used by someone with years of experience and/or in business environment and to be installed by someone in the know  .
+it took me almost 24 hours of playing around with it before i could get anything to work  .
+the o  .
+for this device lacks for the ability to be able to delete the files you do not want if you happen to change your basic settings  .
+the device will reformat your h  .
+into the linux environment and from then on , you will not be able to change it back to the windows environment should you decide to do so  .
+once you hook a h  .
+up to this device and begin using it , that is all it will ever be good for  .
+i spent hours with support trying to find out how to re    use a h  .
+in the windows environment if one should change their mind or get a larger h  .
+to use on this system  .
+i is finally told their was not any way  .
+no where in their meager documentation (if one could call it that) does it so let you know  .
+this device is not for the faint of heart or for the average computer user  .
+take it from me .
+i wrote an extended review of the nslu2 , which can be found here    .
+http  //arajani  .
+blogspot  .
+com/2006/10/linksys    nslu2    network    storage    link  .
+html  .
+you have to reformat the drive    wish that is explicit in explanation  .
+i would not have bought one if i had known  .
+bought a buffalo terastation instead .
+this did not work at all  .
+it would only see the drives for a few minutes before losing the connection  .
+when accessing files on the drive my system would lock up or crash .
+quick install guide is incomplete , is missing steps , and does not clue you into some major details ie  .
+hard drive space is limited to 250 gb , format is not widows , and the technical delay to access a usb device reminds me of the first hard drives long seek , read and write times  .
+tech support is not supportive , no one could understand that i have a total wireless network  .
+each person started me out with a wired setup  .
+after almost 3 days , finally is able to use the drive , however , it takes 5 minutes for 1 2  .
+2mb photo to pull up  .
+way too slow  .
+suggest using a d    link router (di    624s) with a usb port (not print server .
+if you want to waste time and money run out and buy the nslu2 right now  .
+i bought this unit along with two maxtor onetouch ii 300gb drives  .
+after going through the process of setting everything up , with a little help from tech support (set up includes formatting the drives using a format not compatible with windows) i start transferring files  .
+things go ok then rapidly downhill with some very strange problems  .
+not seeing the drives on the network then suddenly the drives are there , the same files appearing on both drives even though drive two had not been written to , suddenly only one drive is there , oh there it is again , and so on this morning i talk to tech support , that's when i find out that the drive size is limited to 250gb max  .
+yet when i point out that on the box it says connect up to two stand    alone usb disk drives of any size  .
+from that point on i got excuse after excuse and finaly someone who i could hardly understand telling me to return the unit to the store  .
+great , i get to waste more time arguing with the store  .
+linksys a once trusted resource is now a source of deception and no longer can be trusted .

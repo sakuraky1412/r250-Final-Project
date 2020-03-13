@@ -1,0 +1,19 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="51">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_MS_10">B000VLI74Y.AM_MS_10.system.html</P>
+<P ID="AM_OP_20">B000VLI74Y.AM_OP_20.system.html</P>
+<P ID="AM_OP_F">B000VLI74Y.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B000VLI74Y.AM_OP_10.system.html</P>
+<P ID="AM_MS_F">B000VLI74Y.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B000VLI74Y.AM_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

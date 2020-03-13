@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="371">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">windows-vista-ultimate.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">windows-vista-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-vista-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-vista-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-vista-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-vista-ultimate.MI_OP_20.system.html</P>
+<P ID="MICROPINION">windows-vista-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">windows-vista-ultimate.0.gold.html</M>
+<M ID="3">windows-vista-ultimate.3.gold.html</M>
+<M ID="4">windows-vista-ultimate.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="372">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">windows-vista-ultimate.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">windows-vista-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-vista-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-vista-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-vista-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-vista-ultimate.MI_OP_20.system.html</P>
+<P ID="MICROPINION">windows-vista-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-vista-ultimate.6.gold.html</M>
+<M ID="3">windows-vista-ultimate.3.gold.html</M>
+<M ID="4">windows-vista-ultimate.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="373">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">windows-vista-ultimate.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">windows-vista-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-vista-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-vista-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-vista-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-vista-ultimate.MI_OP_20.system.html</P>
+<P ID="MICROPINION">windows-vista-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-vista-ultimate.6.gold.html</M>
+<M ID="2">windows-vista-ultimate.0.gold.html</M>
+<M ID="4">windows-vista-ultimate.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="374">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">windows-vista-ultimate.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">windows-vista-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">windows-vista-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">windows-vista-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">windows-vista-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">windows-vista-ultimate.MI_OP_20.system.html</P>
+<P ID="MICROPINION">windows-vista-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">windows-vista-ultimate.6.gold.html</M>
+<M ID="2">windows-vista-ultimate.0.gold.html</M>
+<M ID="3">windows-vista-ultimate.3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

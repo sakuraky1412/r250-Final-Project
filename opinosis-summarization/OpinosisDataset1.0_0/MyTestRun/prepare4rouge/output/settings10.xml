@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="42">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">features_windows7.OP_OP_20.system.html</P>
+<P ID="MULTISEN">features_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">features_windows7.Opinosis10.system.html</P>
+<P ID="OP_MS_F">features_windows7.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">features_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">features_windows7.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">features_windows7.4.gold.html</M>
+<M ID="3">features_windows7.2.gold.html</M>
+<M ID="4">features_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="43">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">features_windows7.OP_OP_20.system.html</P>
+<P ID="MULTISEN">features_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">features_windows7.Opinosis10.system.html</P>
+<P ID="OP_MS_F">features_windows7.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">features_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">features_windows7.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">features_windows7.3.gold.html</M>
+<M ID="3">features_windows7.2.gold.html</M>
+<M ID="4">features_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="44">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">features_windows7.OP_OP_20.system.html</P>
+<P ID="MULTISEN">features_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">features_windows7.Opinosis10.system.html</P>
+<P ID="OP_MS_F">features_windows7.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">features_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">features_windows7.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">features_windows7.3.gold.html</M>
+<M ID="2">features_windows7.4.gold.html</M>
+<M ID="4">features_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="45">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">features_windows7.OP_OP_20.system.html</P>
+<P ID="MULTISEN">features_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">features_windows7.Opinosis10.system.html</P>
+<P ID="OP_MS_F">features_windows7.OP_MS_F.system.html</P>
+<P ID="OP_MS_20">features_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">features_windows7.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">features_windows7.3.gold.html</M>
+<M ID="2">features_windows7.4.gold.html</M>
+<M ID="3">features_windows7.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

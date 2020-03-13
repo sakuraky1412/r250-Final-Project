@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">voice_garmin_nuvi_255W_gps.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">voice_garmin_nuvi_255W_gps.OP_MS_F.system.html</P>
+<P ID="MULTISEN">voice_garmin_nuvi_255W_gps.MULTISEN.system.html</P>
+<P ID="OP_MS_20">voice_garmin_nuvi_255W_gps.OP_MS_20.system.html</P>
+<P ID="MyTestRun">voice_garmin_nuvi_255W_gps.MyTestRun.system.html</P>
+<P ID="Opinosis10">voice_garmin_nuvi_255W_gps.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">voice_garmin_nuvi_255W_gps.3.gold.html</M>
+<M ID="3">voice_garmin_nuvi_255W_gps.5.gold.html</M>
+<M ID="4">voice_garmin_nuvi_255W_gps.2.gold.html</M>
+<M ID="5">voice_garmin_nuvi_255W_gps.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="2">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">voice_garmin_nuvi_255W_gps.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">voice_garmin_nuvi_255W_gps.OP_MS_F.system.html</P>
+<P ID="MULTISEN">voice_garmin_nuvi_255W_gps.MULTISEN.system.html</P>
+<P ID="OP_MS_20">voice_garmin_nuvi_255W_gps.OP_MS_20.system.html</P>
+<P ID="MyTestRun">voice_garmin_nuvi_255W_gps.MyTestRun.system.html</P>
+<P ID="Opinosis10">voice_garmin_nuvi_255W_gps.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">voice_garmin_nuvi_255W_gps.1.gold.html</M>
+<M ID="3">voice_garmin_nuvi_255W_gps.5.gold.html</M>
+<M ID="4">voice_garmin_nuvi_255W_gps.2.gold.html</M>
+<M ID="5">voice_garmin_nuvi_255W_gps.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="3">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">voice_garmin_nuvi_255W_gps.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">voice_garmin_nuvi_255W_gps.OP_MS_F.system.html</P>
+<P ID="MULTISEN">voice_garmin_nuvi_255W_gps.MULTISEN.system.html</P>
+<P ID="OP_MS_20">voice_garmin_nuvi_255W_gps.OP_MS_20.system.html</P>
+<P ID="MyTestRun">voice_garmin_nuvi_255W_gps.MyTestRun.system.html</P>
+<P ID="Opinosis10">voice_garmin_nuvi_255W_gps.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">voice_garmin_nuvi_255W_gps.1.gold.html</M>
+<M ID="2">voice_garmin_nuvi_255W_gps.3.gold.html</M>
+<M ID="4">voice_garmin_nuvi_255W_gps.2.gold.html</M>
+<M ID="5">voice_garmin_nuvi_255W_gps.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="4">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">voice_garmin_nuvi_255W_gps.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">voice_garmin_nuvi_255W_gps.OP_MS_F.system.html</P>
+<P ID="MULTISEN">voice_garmin_nuvi_255W_gps.MULTISEN.system.html</P>
+<P ID="OP_MS_20">voice_garmin_nuvi_255W_gps.OP_MS_20.system.html</P>
+<P ID="MyTestRun">voice_garmin_nuvi_255W_gps.MyTestRun.system.html</P>
+<P ID="Opinosis10">voice_garmin_nuvi_255W_gps.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">voice_garmin_nuvi_255W_gps.1.gold.html</M>
+<M ID="2">voice_garmin_nuvi_255W_gps.3.gold.html</M>
+<M ID="3">voice_garmin_nuvi_255W_gps.5.gold.html</M>
+<M ID="5">voice_garmin_nuvi_255W_gps.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="5">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">voice_garmin_nuvi_255W_gps.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">voice_garmin_nuvi_255W_gps.OP_MS_F.system.html</P>
+<P ID="MULTISEN">voice_garmin_nuvi_255W_gps.MULTISEN.system.html</P>
+<P ID="OP_MS_20">voice_garmin_nuvi_255W_gps.OP_MS_20.system.html</P>
+<P ID="MyTestRun">voice_garmin_nuvi_255W_gps.MyTestRun.system.html</P>
+<P ID="Opinosis10">voice_garmin_nuvi_255W_gps.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">voice_garmin_nuvi_255W_gps.1.gold.html</M>
+<M ID="2">voice_garmin_nuvi_255W_gps.3.gold.html</M>
+<M ID="3">voice_garmin_nuvi_255W_gps.5.gold.html</M>
+<M ID="4">voice_garmin_nuvi_255W_gps.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

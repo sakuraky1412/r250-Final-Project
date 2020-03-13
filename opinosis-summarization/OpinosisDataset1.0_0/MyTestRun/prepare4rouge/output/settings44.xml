@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="202">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="Opinosis10">quality_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_OP_20">quality_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MULTISEN">quality_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_MS_F">quality_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="MyTestRun">quality_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="OP_MS_20">quality_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">quality_toyota_camry_2007.4.gold.html</M>
+<M ID="3">quality_toyota_camry_2007.2.gold.html</M>
+<M ID="4">quality_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="203">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="Opinosis10">quality_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_OP_20">quality_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MULTISEN">quality_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_MS_F">quality_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="MyTestRun">quality_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="OP_MS_20">quality_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">quality_toyota_camry_2007.1.gold.html</M>
+<M ID="3">quality_toyota_camry_2007.2.gold.html</M>
+<M ID="4">quality_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="204">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="Opinosis10">quality_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_OP_20">quality_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MULTISEN">quality_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_MS_F">quality_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="MyTestRun">quality_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="OP_MS_20">quality_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">quality_toyota_camry_2007.1.gold.html</M>
+<M ID="2">quality_toyota_camry_2007.4.gold.html</M>
+<M ID="4">quality_toyota_camry_2007.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="205">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="Opinosis10">quality_toyota_camry_2007.Opinosis10.system.html</P>
+<P ID="OP_OP_20">quality_toyota_camry_2007.OP_OP_20.system.html</P>
+<P ID="MULTISEN">quality_toyota_camry_2007.MULTISEN.system.html</P>
+<P ID="OP_MS_F">quality_toyota_camry_2007.OP_MS_F.system.html</P>
+<P ID="MyTestRun">quality_toyota_camry_2007.MyTestRun.system.html</P>
+<P ID="OP_MS_20">quality_toyota_camry_2007.OP_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">quality_toyota_camry_2007.1.gold.html</M>
+<M ID="2">quality_toyota_camry_2007.4.gold.html</M>
+<M ID="3">quality_toyota_camry_2007.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="144">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">staff_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">staff_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">staff_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_MS_20">staff_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">staff_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">staff_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">staff_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">staff_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">staff_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="145">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">staff_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">staff_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">staff_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_MS_20">staff_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">staff_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="3">staff_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">staff_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">staff_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="146">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">staff_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">staff_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">staff_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_MS_20">staff_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">staff_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">staff_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="4">staff_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="5">staff_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="147">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">staff_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">staff_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">staff_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_MS_20">staff_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">staff_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">staff_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">staff_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="5">staff_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="148">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">staff_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="Opinosis10">staff_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">staff_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">staff_bestwestern_hotel_sfo.MULTISEN.system.html</P>
+<P ID="OP_MS_20">staff_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="MyTestRun">staff_bestwestern_hotel_sfo.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">staff_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="2">staff_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="3">staff_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">staff_bestwestern_hotel_sfo.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

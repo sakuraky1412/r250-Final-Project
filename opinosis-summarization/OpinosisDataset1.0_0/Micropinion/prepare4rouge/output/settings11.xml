@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="42">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">toshiba-regza-42hl167.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">toshiba-regza-42hl167.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">toshiba-regza-42hl167.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">toshiba-regza-42hl167.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">toshiba-regza-42hl167.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">toshiba-regza-42hl167.MI_MS_20.system.html</P>
+<P ID="MICROPINION">toshiba-regza-42hl167.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">toshiba-regza-42hl167.2.gold.html</M>
+<M ID="3">toshiba-regza-42hl167.6.gold.html</M>
+<M ID="4">toshiba-regza-42hl167.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="43">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">toshiba-regza-42hl167.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">toshiba-regza-42hl167.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">toshiba-regza-42hl167.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">toshiba-regza-42hl167.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">toshiba-regza-42hl167.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">toshiba-regza-42hl167.MI_MS_20.system.html</P>
+<P ID="MICROPINION">toshiba-regza-42hl167.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">toshiba-regza-42hl167.4.gold.html</M>
+<M ID="3">toshiba-regza-42hl167.6.gold.html</M>
+<M ID="4">toshiba-regza-42hl167.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="44">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">toshiba-regza-42hl167.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">toshiba-regza-42hl167.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">toshiba-regza-42hl167.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">toshiba-regza-42hl167.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">toshiba-regza-42hl167.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">toshiba-regza-42hl167.MI_MS_20.system.html</P>
+<P ID="MICROPINION">toshiba-regza-42hl167.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">toshiba-regza-42hl167.4.gold.html</M>
+<M ID="2">toshiba-regza-42hl167.2.gold.html</M>
+<M ID="4">toshiba-regza-42hl167.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="45">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">toshiba-regza-42hl167.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">toshiba-regza-42hl167.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">toshiba-regza-42hl167.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">toshiba-regza-42hl167.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">toshiba-regza-42hl167.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">toshiba-regza-42hl167.MI_MS_20.system.html</P>
+<P ID="MICROPINION">toshiba-regza-42hl167.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">toshiba-regza-42hl167.4.gold.html</M>
+<M ID="2">toshiba-regza-42hl167.2.gold.html</M>
+<M ID="3">toshiba-regza-42hl167.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

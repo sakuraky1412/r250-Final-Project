@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="732">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-handycam-hdr-sr7.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-handycam-hdr-sr7.MI_MS_20.system.html</P>
+<P ID="MICROPINION">sony-handycam-hdr-sr7.MICROPINION.system.html</P>
+<P ID="MI_OP_10">sony-handycam-hdr-sr7.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sony-handycam-hdr-sr7.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-handycam-hdr-sr7.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">sony-handycam-hdr-sr7.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sony-handycam-hdr-sr7.2.gold.html</M>
+<M ID="3">sony-handycam-hdr-sr7.4.gold.html</M>
+<M ID="4">sony-handycam-hdr-sr7.0.gold.html</M>
+<M ID="5">sony-handycam-hdr-sr7.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="733">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-handycam-hdr-sr7.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-handycam-hdr-sr7.MI_MS_20.system.html</P>
+<P ID="MICROPINION">sony-handycam-hdr-sr7.MICROPINION.system.html</P>
+<P ID="MI_OP_10">sony-handycam-hdr-sr7.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sony-handycam-hdr-sr7.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-handycam-hdr-sr7.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">sony-handycam-hdr-sr7.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-handycam-hdr-sr7.8.gold.html</M>
+<M ID="3">sony-handycam-hdr-sr7.4.gold.html</M>
+<M ID="4">sony-handycam-hdr-sr7.0.gold.html</M>
+<M ID="5">sony-handycam-hdr-sr7.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="734">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-handycam-hdr-sr7.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-handycam-hdr-sr7.MI_MS_20.system.html</P>
+<P ID="MICROPINION">sony-handycam-hdr-sr7.MICROPINION.system.html</P>
+<P ID="MI_OP_10">sony-handycam-hdr-sr7.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sony-handycam-hdr-sr7.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-handycam-hdr-sr7.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">sony-handycam-hdr-sr7.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-handycam-hdr-sr7.8.gold.html</M>
+<M ID="2">sony-handycam-hdr-sr7.2.gold.html</M>
+<M ID="4">sony-handycam-hdr-sr7.0.gold.html</M>
+<M ID="5">sony-handycam-hdr-sr7.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="735">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-handycam-hdr-sr7.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-handycam-hdr-sr7.MI_MS_20.system.html</P>
+<P ID="MICROPINION">sony-handycam-hdr-sr7.MICROPINION.system.html</P>
+<P ID="MI_OP_10">sony-handycam-hdr-sr7.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sony-handycam-hdr-sr7.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-handycam-hdr-sr7.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">sony-handycam-hdr-sr7.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-handycam-hdr-sr7.8.gold.html</M>
+<M ID="2">sony-handycam-hdr-sr7.2.gold.html</M>
+<M ID="3">sony-handycam-hdr-sr7.4.gold.html</M>
+<M ID="5">sony-handycam-hdr-sr7.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="736">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sony-handycam-hdr-sr7.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-handycam-hdr-sr7.MI_MS_20.system.html</P>
+<P ID="MICROPINION">sony-handycam-hdr-sr7.MICROPINION.system.html</P>
+<P ID="MI_OP_10">sony-handycam-hdr-sr7.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">sony-handycam-hdr-sr7.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">sony-handycam-hdr-sr7.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">sony-handycam-hdr-sr7.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-handycam-hdr-sr7.8.gold.html</M>
+<M ID="2">sony-handycam-hdr-sr7.2.gold.html</M>
+<M ID="3">sony-handycam-hdr-sr7.4.gold.html</M>
+<M ID="4">sony-handycam-hdr-sr7.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

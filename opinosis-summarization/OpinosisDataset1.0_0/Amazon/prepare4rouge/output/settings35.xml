@@ -1,0 +1,157 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="57">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="58">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="59">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="60">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="61">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="62">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="7">B00JGTUQJ6.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="63">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="AM_OP_20">B00JGTUQJ6.AM_OP_20.system.html</P>
+<P ID="AM_MS_10">B00JGTUQJ6.AM_MS_10.system.html</P>
+<P ID="AM_MS_F">B00JGTUQJ6.AM_MS_F.system.html</P>
+<P ID="AM_MS_20">B00JGTUQJ6.AM_MS_20.system.html</P>
+<P ID="AM_OP_F">B00JGTUQJ6.AM_OP_F.system.html</P>
+<P ID="AM_OP_10">B00JGTUQJ6.AM_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">B00JGTUQJ6.12.gold.html</M>
+<M ID="2">B00JGTUQJ6.0.gold.html</M>
+<M ID="3">B00JGTUQJ6.6.gold.html</M>
+<M ID="4">B00JGTUQJ6.10.gold.html</M>
+<M ID="5">B00JGTUQJ6.8.gold.html</M>
+<M ID="6">B00JGTUQJ6.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

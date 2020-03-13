@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="608">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">samsung-ln46a950.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">samsung-ln46a950.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-ln46a950.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-ln46a950.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">samsung-ln46a950.MI_OP_10.system.html</P>
+<P ID="MICROPINION">samsung-ln46a950.MICROPINION.system.html</P>
+<P ID="MI_MS_20">samsung-ln46a950.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-ln46a950.2.gold.html</M>
+<M ID="3">samsung-ln46a950.6.gold.html</M>
+<M ID="4">samsung-ln46a950.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="609">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">samsung-ln46a950.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">samsung-ln46a950.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-ln46a950.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-ln46a950.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">samsung-ln46a950.MI_OP_10.system.html</P>
+<P ID="MICROPINION">samsung-ln46a950.MICROPINION.system.html</P>
+<P ID="MI_MS_20">samsung-ln46a950.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-ln46a950.4.gold.html</M>
+<M ID="3">samsung-ln46a950.6.gold.html</M>
+<M ID="4">samsung-ln46a950.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="610">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">samsung-ln46a950.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">samsung-ln46a950.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-ln46a950.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-ln46a950.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">samsung-ln46a950.MI_OP_10.system.html</P>
+<P ID="MICROPINION">samsung-ln46a950.MICROPINION.system.html</P>
+<P ID="MI_MS_20">samsung-ln46a950.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-ln46a950.4.gold.html</M>
+<M ID="2">samsung-ln46a950.2.gold.html</M>
+<M ID="4">samsung-ln46a950.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="611">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">samsung-ln46a950.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">samsung-ln46a950.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">samsung-ln46a950.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">samsung-ln46a950.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">samsung-ln46a950.MI_OP_10.system.html</P>
+<P ID="MICROPINION">samsung-ln46a950.MICROPINION.system.html</P>
+<P ID="MI_MS_20">samsung-ln46a950.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-ln46a950.4.gold.html</M>
+<M ID="2">samsung-ln46a950.2.gold.html</M>
+<M ID="3">samsung-ln46a950.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

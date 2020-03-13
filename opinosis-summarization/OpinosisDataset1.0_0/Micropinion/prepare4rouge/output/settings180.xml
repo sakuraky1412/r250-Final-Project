@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="698">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_10.system.html</P>
+<P ID="MICROPINION">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MICROPINION.system.html</P>
+<P ID="MI_MS_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.0.gold.html</M>
+<M ID="3">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="699">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_10.system.html</P>
+<P ID="MICROPINION">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MICROPINION.system.html</P>
+<P ID="MI_MS_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.2.gold.html</M>
+<M ID="3">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="700">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_10.system.html</P>
+<P ID="MICROPINION">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MICROPINION.system.html</P>
+<P ID="MI_MS_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.MI_OP_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.2.gold.html</M>
+<M ID="2">seagate-barracuda-ata-iv-80gb-dma-ata-100-ultra-internal.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

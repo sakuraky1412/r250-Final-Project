@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="169">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">magellan-roadmate-1200.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1200.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1200.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1200.MI_OP_20.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1200.MICROPINION.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1200.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">magellan-roadmate-1200.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">magellan-roadmate-1200.2.gold.html</M>
+<M ID="3">magellan-roadmate-1200.4.gold.html</M>
+<M ID="4">magellan-roadmate-1200.0.gold.html</M>
+<M ID="5">magellan-roadmate-1200.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="170">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">magellan-roadmate-1200.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1200.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1200.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1200.MI_OP_20.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1200.MICROPINION.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1200.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">magellan-roadmate-1200.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1200.8.gold.html</M>
+<M ID="3">magellan-roadmate-1200.4.gold.html</M>
+<M ID="4">magellan-roadmate-1200.0.gold.html</M>
+<M ID="5">magellan-roadmate-1200.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="171">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">magellan-roadmate-1200.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1200.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1200.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1200.MI_OP_20.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1200.MICROPINION.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1200.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">magellan-roadmate-1200.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1200.8.gold.html</M>
+<M ID="2">magellan-roadmate-1200.2.gold.html</M>
+<M ID="4">magellan-roadmate-1200.0.gold.html</M>
+<M ID="5">magellan-roadmate-1200.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="172">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">magellan-roadmate-1200.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1200.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1200.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1200.MI_OP_20.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1200.MICROPINION.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1200.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">magellan-roadmate-1200.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1200.8.gold.html</M>
+<M ID="2">magellan-roadmate-1200.2.gold.html</M>
+<M ID="3">magellan-roadmate-1200.4.gold.html</M>
+<M ID="5">magellan-roadmate-1200.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="173">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">magellan-roadmate-1200.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1200.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1200.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1200.MI_OP_20.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1200.MICROPINION.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1200.MI_OP_10.system.html</P>
+<P ID="MI_MS_20">magellan-roadmate-1200.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1200.8.gold.html</M>
+<M ID="2">magellan-roadmate-1200.2.gold.html</M>
+<M ID="3">magellan-roadmate-1200.4.gold.html</M>
+<M ID="4">magellan-roadmate-1200.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

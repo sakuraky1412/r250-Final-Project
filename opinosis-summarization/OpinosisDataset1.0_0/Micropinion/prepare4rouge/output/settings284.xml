@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1072">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-hg10.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">canon-hg10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">canon-hg10.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-hg10.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">canon-hg10.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-hg10.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-hg10.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">canon-hg10.4.gold.html</M>
+<M ID="3">canon-hg10.2.gold.html</M>
+<M ID="4">canon-hg10.6.gold.html</M>
+<M ID="5">canon-hg10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1073">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-hg10.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">canon-hg10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">canon-hg10.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-hg10.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">canon-hg10.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-hg10.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-hg10.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-hg10.8.gold.html</M>
+<M ID="3">canon-hg10.2.gold.html</M>
+<M ID="4">canon-hg10.6.gold.html</M>
+<M ID="5">canon-hg10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1074">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-hg10.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">canon-hg10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">canon-hg10.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-hg10.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">canon-hg10.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-hg10.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-hg10.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-hg10.8.gold.html</M>
+<M ID="2">canon-hg10.4.gold.html</M>
+<M ID="4">canon-hg10.6.gold.html</M>
+<M ID="5">canon-hg10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1075">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-hg10.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">canon-hg10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">canon-hg10.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-hg10.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">canon-hg10.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-hg10.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-hg10.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-hg10.8.gold.html</M>
+<M ID="2">canon-hg10.4.gold.html</M>
+<M ID="3">canon-hg10.2.gold.html</M>
+<M ID="5">canon-hg10.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1076">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-hg10.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">canon-hg10.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">canon-hg10.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-hg10.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">canon-hg10.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-hg10.MI_MS_10.system.html</P>
+<P ID="MICROPINION">canon-hg10.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-hg10.8.gold.html</M>
+<M ID="2">canon-hg10.4.gold.html</M>
+<M ID="3">canon-hg10.2.gold.html</M>
+<M ID="4">canon-hg10.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

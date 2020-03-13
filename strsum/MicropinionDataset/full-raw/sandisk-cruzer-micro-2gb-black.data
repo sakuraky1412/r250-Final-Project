@@ -1,0 +1,329 @@
+it does the job , and that's about it .
+great storage , fast device , cheap price  .
+i like this drive  .
+i switched from a 512mb usb drive from four years ago to this , and although there is not much of a difference , (it is just an usb drive , after all)there were some pleasant features the retractable port is nice , as there would be no more need for caps , and losing caps for that matter theres a keychain , apposed to the string and plastic connection that broke (accidentally) the month i got it furthermore , the size is smaller , making it much more portable the encryption software got stronger over the years as well the u3    .
+i've heard and read lots of complaints about the software  .
+i do not understand why i believe it is a good and useful software the only negative opinion i do have is that it is not practical overall , i believe it is a great flash drive .
+this is the best little flash drive i've ever owned  .
+i carry it around with me everyday  .
+because i have it in my pocket i have accidentally washed it twice and it still works great  .
+about the bundled software , you can actually go to the sandisk's website and download a removal tool that completely removes this software .
+for me it is the best usb you can have  .
+it is small so you can carry it in your pocket , the retractable usb connector makes it easier to carry and you do not have to worry about your lost cap  .
+the u3 program is really cool it is like having a smaller version of windows in your usb , the programs include skype , cruzersync , hp photosmart , avast  .
+antivirus and signup shield  .
+well after so much good , it is maybe not as fast as other usb's but if you are not going to use it for downloading super high resolution videos or storing like twenty excel sheets it works pretty good and look at the price it is cheaper than the most usb's i bought it for $27  .
+this is an awesome flash drive  .
+i love the u3 capable software utility and how nice the drive is itself  .
+great job  .
+i've had this for a couple of weeks now and it's just great  .
+i love the included software , u can download games and even apps like skype  .
+it's extremely portable and the sliding mechanism looks really slick  .
+so i'm in love w/ this flahdrive  .
+this is a great drive for people always using different computers  .
+i have had this 2 gb jump drive for about a week and love it  .
+i like the retractable connector  .
+the u3 software turned out to be powerful and secure with its password option  .
+the price after rebate at circuit city is about $40 before tax the horror stories about slow write speeds that almost stopped me from buying this drive turned out to be fables , at least in my experience  .
+although i have not clocked it , the write and read speeds are very satisfactory all in all , this is an inexpensive , practical jump drive with lots of room to store files .
+nice , i bought this yesterday for about 39 dollars  .
+i have the 1 gig version kewl little drive  .
+got it for school  .
+so far i like the retractable usb adapter , so there is no cap to lose  .
+secondly i like the fact that it has an antivirus on this  .
+kewl feature this is definitely an upgrade for me , as i had a 64mb lexar jumpdrive  .
+i will definitely use this one for my documents and use the 64mb for my portable firefox well until is use it , thats the end of this review .
+i just wanted a decent usb drive for a reasonable price so i got this drive  .
+at first i is somewhat annoyed not because of the u3 partition but because of the agonizingly slow write speed (read speed is lightning quick)  .
+i is about to return it but i is lazy and instead tried tweaking it a bit  .
+i removed u3 with the uninstaller that sandisk has online and then formated it to fat (not fat32 since the limitations of fat dont affect this drive)  .
+i tried ntfs but fat is much faster i clocked around 8    9mb/s with single file writing and around 3    5mb/s for folders with many small files  .
+xp is very slow in writing many small files because by default it doesnt have a writing cache (which is good if you just want to pull out your usb drive instead of using safely remove hardware )  .
+the read speed is still extremely fast , i didnt clock but i'm guessing around 15mb/s or faster  .
+i'm pretty satisfied because i just moved a 900mb file from my desktop at work to my computer at home in less than 2 min i haven't tried other options but i've looked around  .
+i bet the ones that say 15mb/s write speed are probably faster but i do not really want to spend that kind of money for something thats meant to be inexpensive  .
+i mean i'd rather buy a disk drive than flash memory if i needed that kind of performance .
+i've had this very flash drive for about three years now , and it still works just as well as the day i got it  .
+very simple to use , works on every computer i've tried it on , and the sliding feature is very good for when you are bored in class  .
+bottom    line , if you're looking for a good flash drive at a nice price , this is the product for you .
+i have had flash drives break within the first month , but this is when they first came out  .
+this happens to be the best .
+i is looking for a flash drive for windows ready boost  .
+i found the sandisk cruzer micro to be the cheapest (i found it for 20  .
+) , and to work great with ready boost  .
+it comes preloaded with tons of security , photo , and game apps  .
+plus it has 2 gb of memory  .
+but , it does have pretty slow file transfer with pictures and media  .
+so , if you want a all    in    one flash drive for a cheap price , the sandisk cruzer micro is for you  .
+this is a very competent , capable , little flash drive that delivers good performance at a very attractive price in a small , convenient case  .
+its reasonably fast , especially for the price point ($35 with rebate) , but you must know how to set this device for speed youll pay a very high performance price for the u3 features , the ability to remove the drive without using windows safely remove hardware feature , and the ability to use this drive in any system dating back to win 98  .
+most of us dont want or need any of these to set your sandisk cruzer micro for performance , do the following (these are for win xp pro sp2       other os configurations should be similar)    .
+(1) back up all data on your cruzer flash drive before doing anything else (2) delete the u3 software and partition  .
+all new cruzer u3 drives include an uninstall utility  .
+use the u3 launchpad to select settings , then u3 launchpad settings then uninstall  .
+best results can be obtained from a total reformat  .
+you can find more instructions , software upgrades and removal tools on sandisks web site (3) set the cruzer for performance  .
+in windows explorer , right click on the cruzers icon , and select properties from the pop    up menu  .
+click on the hardware tab , select the sandisk cruzer drive from the list then click the properties button in the lower right corner of the dialog  .
+in the new dialog , click on the policies tab , then click on the radio button optimize for performance  .
+click on ok (twice) to return to windows explorer  .
+note that you will no longer be able to yank the flash drive out of the usb port without first using the windows safety remove hardware feature (4) reformat the drive  .
+in windows explorer , right click on the cruzers icon , and select format  .
+in the dialog box select the file system as fat 32  .
+this will work very well with large and very large files  .
+you may want to use ntfs , but only if youre routinely copying lots (thousands) of very small files benchmark averages    .
+for a single 611 mb disk image (iso) file       laptop   read 14  .
+1 mb/sec write 7  .
+4 mb/sec  .
+tower   read 16  .
+9 mb/sec write 7  .
+2 mb/sec  .
+for a folder of jpegs 344 files at 834 mb    .
+laptop   read 12  .
+6 mb/sec write 2  .
+8 mb/sec  .
+tower   read 12  .
+3 mb/sec write 2  .
+9 mb/sec  .
+test platform data (both on win xp pro sp2)    .
+laptop   dell latitude d820 , core 2 duo 5600 , 1 gb ram , 120 gb 5400rpm sata hd  .
+tower   dell 8300 , 3 ghz p4 , 1 gb ram , 120gb 7200rpm sata hd  .
+bottom line   definitely worth the $35 i paid .
+i is intially thrown by the u3 software , but i can appreciate it now  .
+i got it on sale for $24  .
+99 @ walmart  .
+i'm upgrading from a lexar jumpdrive sport that died after a few years of faithful use (fried by work computer spike)  .
+i like the password protection , but the rest of the u3 seems too much  .
+i'm not to concerned about lightning fast tranfers  .
+compared to my old flash it blazes  .
+the plastic case feels cheap compared to some other drives i've held had  .
+i cannot complain since it is on sale  .
+i paid double that for 128mb when i bought the sport .
+the sandisk cruzer micro is an excellent usb flash drive for use at school or on campus  .
+the size of the flash drive doesn't get in the way with the other keys , and fits snugly in the pocket  .
+the usb connector is also retractable , removing the need for caps (or losing them) while also protecting the connector from wear since its enclosed in the case the flash drive also features u3 (no clue what it stands for ) , a fancy system that allows you to install applications on the flash drive  .
+tech junkies will like the ability to carry programs like firefox , filezilla , and trillian in the flash drive for use on any other xp systems they come across (including public computers)  .
+really cool if your pretty computer inept , you will be happy to know that u3 system can be uninstalled by selecting an option on the u3 menu as noted by cnet , the flash drive is slow  .
+i personally don't notice the lack of speed , but i'm sure cnet is right  .
+however , if you plan on only carrying documents , e    mails (and even u3 applications) , the flash drive will be able to handle it without a problem  .
+if you plan on carrying full    fledged games and mpeg video files , this may not be the item for you another downside to the cruzer micro is its u3 interference with other kiosks  .
+kodak picture centers , located throughout the u  .
+s , allow you to bring in your memory cards/cds/flash drives in and copy the pictures over to print them on kodak paper  .
+as of aug  .
+2006 , though , the u3 system prevents the kiosks from copying your pictures sucessfully  .
+removing the u3 system , in theory , should fix this problem (though i haven't done it because i do not know how to reinstall u3 , furthermore because i have another 1gb flash drive i can use instead) i strongly recommend this product to any pc user who needs a way to transfer files to/from school  .
+it does the job handily , and makes life more convient for firefox lovers .
+i bought this and is unpleasantly surprised to find u3 on it  .
+this is just a crappy version of portableapps  .
+com's suite  .
+i tried to remove it , but it wouldn't let me , so i got creative  .
+first , i formatted the cruzer  .
+the program is still there , but the apps would not load  .
+this is good , not bad  .
+i then uninstalled all of the apps  .
+errors came up , but they will completely uninstall on a reboot  .
+then i went to u3 settings and used the uninstall feature  .
+done  .
+after that i installed portableapps  .
+com and the drive is great  .
+fast and reliable .
+all in all , it's a good , inexpensive flash drive  .
+i found the pre    installed u3 program to be useless , but some may like it  .
+contrary to what has been posted , it does not install anything on your pc , it runs independently off of the flash drive .
+yes it is a bit on the slow side , but i really like the retractable design (much better than a cap that will get lost)  .
+i threw it away by mistake while cleaning out my car , and when i found it in the dumpster in 2 of dirty water i is worried that it would not work anymore  .
+i let it dry and it is fine .
+ultimately it's a flash    based memory thingy and it does this well    enough  .
+i cannot say i'm dissatisfied with it's write speed , but i'm not timing it against other units eithers i will say that i do not like the way it intrusively installs software without my permission  .
+i detest any and all hardware that does this and this is no exception is on sale at best buy for $39  .
+hard to beat that price .
+i bought this flash drive (1 gig) after using a 128 mg one for ~2 years  .
+the cruzer , as mentioned by some of the other reviewers , does automatically install the u3 software , but i had no problem removing it (if it helps , i used the interface installed on the computer itself rather than working through the flash drive directly) it is a little on the slow side , but i'm using usb 1  .
+1 , so i'm not terribly suprised by that , and for $25 (on sale at best buy) , i'm not complaining , either  .
+the only real beef i have with it is that it does not work on my back    up machine , which runs windows98  .
+i is very disappointed to find (through some internet searching , since the product website did not tell me this) that sandisk does not make any drivers to interface this product with windows98 at all , even though the package said it did  .
+turns out that they only make drivers to interface through models starting with z4 , and this is a z6  .
+i've rated the cruzer micro based on how it works on my windows xp machine , but it would be much lower if i only had windows 98 .
+the sandisk cruzer micro is an all around solid drive with many things going for it  .
+it has easy app download and a good interface , and also the capless design is useful  .
+the problem with this drive is that it's fragile  .
+i dropped one of these onto the concrete and that is all she wrote  .
+it knocked some of the usb connectors out of alignment and damaged the drive so much it is too corrupted to use  .
+this is a solid , cheap flash drive for local use , not some hardcore brick  .
+the transfer speed could be better too .
+nice pen interesting software and lots of capacity options available low transfer rate in some pcs .
+overall , a nice drive , but beware .
+spend a little more on the stick that does not retract unless you have roomy space around your available usb slots  .
+otherwise plugging that sucker in flush against another usb cable while holding your finger on the slider and keeping it from retracting is nearly impossible  .
+i suppose it is not such a problem unplugging one to fit it in , then replugging the other , unless you're crawling under your desk also , unlike my other sandisk sticks , this one prompts my computer to install driver software every time i plug it in .
+the first time i saw it i liked it but it is just looks and it didnt stand time 1    it wasnt cheap when first hit market  .
+2    u3 software takes time to load and specially the 1st time , i always use it on computers i wont use again  .
+the only usefull program is the password , the rest is unfinished buggy 3    there is no cover for the head , it only goes inside like a turtle , u wont have it fall off but whats the point , there is no protection 4    the mechanism of getting the head out is cheap and unsmooth , with time you will feel that the case has suffered 5    speed is not the worst in market but i havent tested many to say 6    even the strap is worse than the old cruzer i had , i cant unhock it as fast as the old one u3 will have to go i would price it at 20$ or less  .
+bad job sandisk  .
+i is very pleased with this drive for the first 3 months or so i had it  .
+then overnight it just stopped working  .
+after some searching around , i've found that newer versions of windows xp are unable to recognize it    i tested it on a computer that has not been updated in a year or so , and it still works great there  .
+but my computer is up to date and refuses to recognize the drive  .
+this problem seems to be very common with these drives  .
+my suggestion is to go with a drive without its own software .
+the u3 software that automatically installs is by far the worst part , as it takes time , resources , and is fairly intrusive for a device as , a computer science student , i may use three to four times a day on two to three different computers  .
+when i finally tracked down the legitimate software to remove it , the experience improved  .
+the speed felt as quick as anything i've used before , and the retractable usb port is sturdy under use  .
+however , in the day of hypercompetitiveness between vendors in what is essentially a commodity item (e  .
+no speed or cost/capacity advantage) the work of having to deal with it , i consider unacceptable .
+this is a good sized device for easy transfer of data and some programs , so you would think  .
+the size is good , but the easy is where the device fails you  .
+the first thing that happens when plugged in , is the device tries to load the software it contains , simatainiously , as it is trying to load the drivers  .
+a very slow process  .
+once you get it installed , you would think that you could just easily move files to the device and be on your way  .
+what drive letter is it  .
+of course , you would think it would be the next available drive letter  .
+example    system has c   drive , d   drive , so the drive would be f   drive  .
+not the case with this device  .
+you now have two extra drive letters  .
+which one is it  .
+the answer is both  .
+the first drive letter is the protected storage section for their software  .
+the second drive letter is the area that you can copy files  .
+good luck to the beginner and the novice computer user at figuring this out  .
+it is frustraiting for me , at 23 years using and training others , to figure the devices quirky ways  .
+i really would not recommend it for use by a beginner .
+fine flash drive , cap doesn't get lost however the u3 pimping software is adware plain and simple  .
+actually i'd consider it malware , since it installs with absolutely no user interaction 1  .
+i insert flash drive  .
+i see u3 launchpad wanting me to install skype , and whatever the antivirus software is that they were trying to pimp out 3  .
+format f   (usb drive)  .
+remove the empty flash drive 5  .
+reinstall flash drive  .
+u3 software launches again and reinstalls itself on the flash drive the only way to get out of it is to either    .
+hold down shift key the first time you ever use the flash drive (so software doesn't autorun)  .
+find the u3 removal tool thats on sandisks web site if you can find it http  //www  .
+sandisk  .
+com/retail/default  .
+aspx  .
+catid  1415  .
+as an experiment i inserted drive on computer a  .
+u3 installed itself , then i inserted same flash drive in computer b , but held down shift key so no autorun kicked in  .
+then i formated drive and removed it reinserted in computer b and drive is free and clear (no software on it)  .
+then moved same flash drive back to computer a and boom software is back on the flash drive again  .
+this means they installed software on my windows system without me ever agreeing to any sort of license agreement  .
+would not that be considered malware  .
+fergeddaboudit  .
+think usb1  .
+0 divided by 4 .
+if you format to ntfs and use the drive as a normal drive i do not see any problems  .
+but i originally purchased it for the security features .
+write speed   about 3 times slower than an external firewire 80gb disk drive  .
+im not kidding  .
+what the hell were they thinking  .
+the packaging doesn't give a clue that this device is anything but a flashdrive unless you already know what a u3 is  .
+i just wanted another flashdrive , but got surprised by software suddenly installing into my computer without my consent i followed the instructions for removing the offending software from the flash drive without success (apparently , the files that go onto your hard drive , and some do , are there permanently)  .
+first , i tried (several times on 2 of the 3 devices purchased) , the uninstall button in settings in the launchpad  .
+no response  .
+then i went to the sandisk website downloaded their launchpad removal tool to my desktop  .
+i tried 8 or 10 times to get the tool to even open before it finally did       once  .
+when it opened , it gave an error message that the flashdrive needed to be inserted but it already was  .
+so i ejected it , intending to re    insert it to see if that helped  .
+but as soon as it is ejected , the message changed said there were too many flashdrives inserted  .
+so , i closed the removal tool program and tried to re    open it and start again  .
+but now it won't open at all i called sandisk  .
+she had me re    download the removal tool , but she couldn't figure out how to get the program to start up either  .
+since it is known that other usb devices interfere with this device , she had me unplug everything from my computer except the mouse , monitor and keyboard still it wouldn't open  .
+she then wanted me to download the u3 software from the sandisk website onto my hard drive  .
+at that point , i figured if she couldn't get their removal tool to work for the flashdrive , i sure didn't want to put the unwanted stuff on my hard drive  .
+she said that having it on my hard drive would make the removal tool open and run and remove the u3 from the flashdrive  .
+she made no promises about my hard drive i'm taking this back to the store  .
+i sure wouldn't feel right about using it to transfer files to another person's computer and thereby installing something i did not want onto their computer  .
+i guess i'll have to just live with the scattered u3 files that i see sitting on my c drive in the windows folder and other places  .
+i'll think twice before buying again from the once    trustworthy sandisk .
+this drive appears to have this self    repairing virus on it that interfered with almost anything i tried to do with it  .
+huge waste of time and money  .
+i'm taking it back  .
+this utility would pop up every time i formatted the device (two partitions , ) and it interfered with me making this a boot device  .
+i hate products that assume for you for your needs .
+i bought this ufd in september 2006  .
+i did look for a nice u3 compatible usb disk and this looked like a good fit  .
+from the beginning it is ok    no complaints , although it seemed a bit slow  .
+now it is january 2007 and it is very , very slow  .
+especially with u3 applications  .
+i can live without the retractable usb connector or the key chain loop , but this speed is just killing me  .
+i understand that the usb drives have limited number of writes (nx100 , 000) but i don't think that i am a heavy user  .
+i just do not think that i should be spending these money every 3 months  .
+i'm going out to look for another brand .
+the key chain link broke off within few days  .
+sandisk said that it is not covered under their warrant  .
+they said only when the device malfunctions they will do something about it if you are planning to attach this to a key chain or something like that do not buy this .
+this little drive is the biggest piece of you know what  .
+it drives me crazy  .
+i tried using the u3 software at first  .
+unfortunately , on half of the computers i tried to plug it into , it had problems with the drive letters  .
+it requires 2 specific drive letters , and if either one of those is taken , it would not launch properly  .
+and , as others had mentioned , the software is installed on the computer automatically since i did not intend to keep any sensitive info on the drive , i tried to remove the u3 software  .
+well , it does not go completely , and some of the problems with the drive remain   it still requires a specific drive letter , unless you go through a process to assign it a different letter , but again       if does not accept automatic assignment of the next letter , i  .
+if it had been taken by another device , it wo not be recognized  .
+and on one computer , it disconnects once you try to open any large file stored on the device i am about to smash it with a hammer  .
+a piece of advice for sandisk    ditch u3 if you had not already done so .
+it takes me well over an hour to write 900 mb of files to this drive , even after removing sandisks proprietary software as recommended by another reviewer  .
+avoid this product at all costs unless you have all the time in the world  .
+akm  .
+i think i'll take it back and get another brand  .
+this cruzer will not work on three different computers even though it's orange light comes on  .
+too bad , dead right out of the package .
+forgetting the horrible idea of the u3 software installed on the drive , the retractable tip does not protect the drive  .
+true it does retract the plug so that it will not bend or break off (and how often has anyone had that happen except when trying to remove it from a computer  .
+) but imho the major 'risk' to the plug is for foreign materials to get into the plug and clog it up  .
+remember , that's why the cap is put there in the first place , to prevent pen tips , paper scraps and other briefcase or pocket debris from getting into the plug  .
+retracting the plug still leave it open to debris and other foreign materials such as liquids since the end is still open to air  .
+i'd rather just cover the tip with the plastic cap which protects it just as well from bending and prevents foreign materials from getting stuck in the plug .
+the worst flash drive i've ever used  .
+huge waste of money if i cannot use it between work and home  .
+if you're a mac user do not buy this flash drive on the packaging from office max , it reads that it is mac compatible  .
+sandisk refused to offer any useful solutions , which i find unethical and highly unsatisfactory in terms of customer service may sandisk suffer the fate of karma only to find itself as the bottom of the rubbish heap of old , outdated technology .
+i do not know where to begin  .
+i first purchased the 1 gig cruzer  .
+file transfer is repeatedly halted by an error which read   cannot copy [file name]  .
+the directory or file cannot be created  .
+nobody at sandisk could help  .
+finally , google provided the answer   i is copying too many files at once  .
+as misfortune would have it , my wife purchased the 512mb version the same day  .
+upon inserting it into my new hp xp machine , i got the blue screen of death  .
+this happened every time  .
+turns out the abundance of junk    ware that comes with the stick is causing my system meltdown  .
+all said , if you want a $30 lanyard , buy the sandisk cruzer .
+my micro cruzer works on some computers , but not on others       although other flash drives work without any problems  .
+if i were the only one having the (code 28) problem , i guess i could understand  .
+instead , there are a multitude of complaints about the same problem with the same product  .
+sandisk does not offer much help at their website to diagnose  .
+recommend you buy a different flash drive because another company could not give less support than sandisk .
+for this kind of money i expect speed and security  .
+i'm sick of wide drives too  .
+they do not fit in some of the usb ports in back of the computer because it bumps against the vga cable  .
+more is not better if you start skimping on features and usability sandisk is reeling in cash  .
+they should put some of that to good use like developing less crappy products .
+i've purchased other sandisk products (flash cards mostly) in the past , and i've been very pleased with those  .
+and my colleagues have been pleased with the previous non    u3 cruzer micro drives  .
+with such a great history with other products , i is looking forward to good performance from another sandisk product  .
+i had purchased the 2gb u3    enabled version as an upgrade to my previous 256mb drive  .
+upon plugging it in the first time , everything appeared to be fine at first glance  .
+however , upon trying to drag and drop a file into the flash drive window , immediately the window became non    responsive  .
+i couldn't even move the window to another part of the desktop  .
+other desktop icons were inaccessible  .
+attempts to bring up my computer , the start menu , or the task manager all failed  .
+things only started working again after i'd unplugged the cruzer micro  .
+afterwards , i got a u3 window telling me that it could not start applications  .
+attempting to plug in the cruzer micro after i restarted my computer did not help one bit  .
+i am unsure if the issue is with the cruzer drive itself , or with the associated u3 applications , but either way , it makes for a terrible product .
+it's a trash i tried 2 units , each failed only after one day of use  .
+very easy to corrupt , and after the corruption , on one instance i can reformat the flash drive with windows  .
+but after that , could not anymore reformat the flash drive return back to store and purchase memorex mini traveldrive 2gb , no problem so far and write transfer is much faster than sandisk's one .
+today i purchased the cruzer 2  .
+0 gb and is excited to try it out  .
+having had a number of different flash drives (even cruzers) , i wanted to try this one as soon as it is inserted , it immediately began installing u3 software onto my computer without so much as even asking if i wanted it  .
+well , i didn't but could not stop it  .
+i then deleted all of the software from the cruzer and tried again  .
+the little demon is automatically reloaded with the original software and activated it on my computer again one thing i hate is software being put on my computer without my permission  .
+i then began the war with trying to get it off of the cruzer and off of my computer but could not do it  .
+i am quite experienced with computers and programming but with my experience i still is unable to kill the little demon and make it act like a normal flash drive    which is what i thought i is buying tomorrow this little devil returns to best buy  .
+why a rating of 1  .
+because there are tons of flash drives out there that work perfectly well without violating your computer  .
+therefore , this device is of no value to me .

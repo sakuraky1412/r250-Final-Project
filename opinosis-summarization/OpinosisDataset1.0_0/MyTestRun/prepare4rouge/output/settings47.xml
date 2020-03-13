@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="216">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">buttons_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">buttons_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="Opinosis10">buttons_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">buttons_amazon_kindle.MULTISEN.system.html</P>
+<P ID="OP_MS_20">buttons_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="MyTestRun">buttons_amazon_kindle.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">buttons_amazon_kindle.2.gold.html</M>
+<M ID="3">buttons_amazon_kindle.3.gold.html</M>
+<M ID="4">buttons_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="217">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">buttons_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">buttons_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="Opinosis10">buttons_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">buttons_amazon_kindle.MULTISEN.system.html</P>
+<P ID="OP_MS_20">buttons_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="MyTestRun">buttons_amazon_kindle.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">buttons_amazon_kindle.4.gold.html</M>
+<M ID="3">buttons_amazon_kindle.3.gold.html</M>
+<M ID="4">buttons_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="218">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">buttons_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">buttons_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="Opinosis10">buttons_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">buttons_amazon_kindle.MULTISEN.system.html</P>
+<P ID="OP_MS_20">buttons_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="MyTestRun">buttons_amazon_kindle.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">buttons_amazon_kindle.4.gold.html</M>
+<M ID="2">buttons_amazon_kindle.2.gold.html</M>
+<M ID="4">buttons_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="219">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_F">buttons_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">buttons_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="Opinosis10">buttons_amazon_kindle.Opinosis10.system.html</P>
+<P ID="MULTISEN">buttons_amazon_kindle.MULTISEN.system.html</P>
+<P ID="OP_MS_20">buttons_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="MyTestRun">buttons_amazon_kindle.MyTestRun.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">buttons_amazon_kindle.4.gold.html</M>
+<M ID="2">buttons_amazon_kindle.2.gold.html</M>
+<M ID="3">buttons_amazon_kindle.3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

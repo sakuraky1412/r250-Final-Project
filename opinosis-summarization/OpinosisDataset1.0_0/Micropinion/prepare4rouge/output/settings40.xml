@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="147">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">oppo-bdp-83.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">oppo-bdp-83.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">oppo-bdp-83.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">oppo-bdp-83.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">oppo-bdp-83.MI_MS_10.system.html</P>
+<P ID="MICROPINION">oppo-bdp-83.MICROPINION.system.html</P>
+<P ID="MI_OP_20">oppo-bdp-83.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">oppo-bdp-83.2.gold.html</M>
+<M ID="3">oppo-bdp-83.1.gold.html</M>
+<M ID="4">oppo-bdp-83.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="148">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">oppo-bdp-83.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">oppo-bdp-83.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">oppo-bdp-83.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">oppo-bdp-83.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">oppo-bdp-83.MI_MS_10.system.html</P>
+<P ID="MICROPINION">oppo-bdp-83.MICROPINION.system.html</P>
+<P ID="MI_OP_20">oppo-bdp-83.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">oppo-bdp-83.3.gold.html</M>
+<M ID="3">oppo-bdp-83.1.gold.html</M>
+<M ID="4">oppo-bdp-83.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="149">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">oppo-bdp-83.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">oppo-bdp-83.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">oppo-bdp-83.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">oppo-bdp-83.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">oppo-bdp-83.MI_MS_10.system.html</P>
+<P ID="MICROPINION">oppo-bdp-83.MICROPINION.system.html</P>
+<P ID="MI_OP_20">oppo-bdp-83.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">oppo-bdp-83.3.gold.html</M>
+<M ID="2">oppo-bdp-83.2.gold.html</M>
+<M ID="4">oppo-bdp-83.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="150">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">oppo-bdp-83.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">oppo-bdp-83.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">oppo-bdp-83.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">oppo-bdp-83.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">oppo-bdp-83.MI_MS_10.system.html</P>
+<P ID="MICROPINION">oppo-bdp-83.MICROPINION.system.html</P>
+<P ID="MI_OP_20">oppo-bdp-83.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">oppo-bdp-83.3.gold.html</M>
+<M ID="2">oppo-bdp-83.2.gold.html</M>
+<M ID="3">oppo-bdp-83.1.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

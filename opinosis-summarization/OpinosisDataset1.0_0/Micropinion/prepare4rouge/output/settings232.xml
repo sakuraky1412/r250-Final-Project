@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="890">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">sony-playstation-2-slim-form-factor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-playstation-2-slim-form-factor.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sony-playstation-2-slim-form-factor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-playstation-2-slim-form-factor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-playstation-2-slim-form-factor.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-playstation-2-slim-form-factor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-playstation-2-slim-form-factor.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sony-playstation-2-slim-form-factor.6.gold.html</M>
+<M ID="3">sony-playstation-2-slim-form-factor.9.gold.html</M>
+<M ID="4">sony-playstation-2-slim-form-factor.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="891">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">sony-playstation-2-slim-form-factor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-playstation-2-slim-form-factor.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sony-playstation-2-slim-form-factor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-playstation-2-slim-form-factor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-playstation-2-slim-form-factor.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-playstation-2-slim-form-factor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-playstation-2-slim-form-factor.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-playstation-2-slim-form-factor.0.gold.html</M>
+<M ID="3">sony-playstation-2-slim-form-factor.9.gold.html</M>
+<M ID="4">sony-playstation-2-slim-form-factor.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="892">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">sony-playstation-2-slim-form-factor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-playstation-2-slim-form-factor.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sony-playstation-2-slim-form-factor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-playstation-2-slim-form-factor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-playstation-2-slim-form-factor.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-playstation-2-slim-form-factor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-playstation-2-slim-form-factor.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-playstation-2-slim-form-factor.0.gold.html</M>
+<M ID="2">sony-playstation-2-slim-form-factor.6.gold.html</M>
+<M ID="4">sony-playstation-2-slim-form-factor.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="893">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_20">sony-playstation-2-slim-form-factor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">sony-playstation-2-slim-form-factor.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sony-playstation-2-slim-form-factor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">sony-playstation-2-slim-form-factor.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">sony-playstation-2-slim-form-factor.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sony-playstation-2-slim-form-factor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">sony-playstation-2-slim-form-factor.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sony-playstation-2-slim-form-factor.0.gold.html</M>
+<M ID="2">sony-playstation-2-slim-form-factor.6.gold.html</M>
+<M ID="3">sony-playstation-2-slim-form-factor.9.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

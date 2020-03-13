@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="60">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">battery-life_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MULTISEN">battery-life_amazon_kindle.MULTISEN.system.html</P>
+<P ID="MyTestRun">battery-life_amazon_kindle.MyTestRun.system.html</P>
+<P ID="OP_MS_20">battery-life_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">battery-life_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="Opinosis10">battery-life_amazon_kindle.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">battery-life_amazon_kindle.4.gold.html</M>
+<M ID="3">battery-life_amazon_kindle.3.gold.html</M>
+<M ID="4">battery-life_amazon_kindle.5.gold.html</M>
+<M ID="5">battery-life_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="61">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">battery-life_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MULTISEN">battery-life_amazon_kindle.MULTISEN.system.html</P>
+<P ID="MyTestRun">battery-life_amazon_kindle.MyTestRun.system.html</P>
+<P ID="OP_MS_20">battery-life_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">battery-life_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="Opinosis10">battery-life_amazon_kindle.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">battery-life_amazon_kindle.2.gold.html</M>
+<M ID="3">battery-life_amazon_kindle.3.gold.html</M>
+<M ID="4">battery-life_amazon_kindle.5.gold.html</M>
+<M ID="5">battery-life_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="62">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">battery-life_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MULTISEN">battery-life_amazon_kindle.MULTISEN.system.html</P>
+<P ID="MyTestRun">battery-life_amazon_kindle.MyTestRun.system.html</P>
+<P ID="OP_MS_20">battery-life_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">battery-life_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="Opinosis10">battery-life_amazon_kindle.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">battery-life_amazon_kindle.2.gold.html</M>
+<M ID="2">battery-life_amazon_kindle.4.gold.html</M>
+<M ID="4">battery-life_amazon_kindle.5.gold.html</M>
+<M ID="5">battery-life_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="63">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">battery-life_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MULTISEN">battery-life_amazon_kindle.MULTISEN.system.html</P>
+<P ID="MyTestRun">battery-life_amazon_kindle.MyTestRun.system.html</P>
+<P ID="OP_MS_20">battery-life_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">battery-life_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="Opinosis10">battery-life_amazon_kindle.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">battery-life_amazon_kindle.2.gold.html</M>
+<M ID="2">battery-life_amazon_kindle.4.gold.html</M>
+<M ID="3">battery-life_amazon_kindle.3.gold.html</M>
+<M ID="5">battery-life_amazon_kindle.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="64">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_OP_20">battery-life_amazon_kindle.OP_OP_20.system.html</P>
+<P ID="MULTISEN">battery-life_amazon_kindle.MULTISEN.system.html</P>
+<P ID="MyTestRun">battery-life_amazon_kindle.MyTestRun.system.html</P>
+<P ID="OP_MS_20">battery-life_amazon_kindle.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">battery-life_amazon_kindle.OP_MS_F.system.html</P>
+<P ID="Opinosis10">battery-life_amazon_kindle.Opinosis10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">battery-life_amazon_kindle.2.gold.html</M>
+<M ID="2">battery-life_amazon_kindle.4.gold.html</M>
+<M ID="3">battery-life_amazon_kindle.3.gold.html</M>
+<M ID="4">battery-life_amazon_kindle.5.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

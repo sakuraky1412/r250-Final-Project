@@ -1,0 +1,55 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="639">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="2">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.0.gold.html</M>
+<M ID="3">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.3.gold.html</M>
+<M ID="4">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="640">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.6.gold.html</M>
+<M ID="3">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.3.gold.html</M>
+<M ID="4">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="641">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.6.gold.html</M>
+<M ID="2">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.0.gold.html</M>
+<M ID="4">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.9.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="642">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.6.gold.html</M>
+<M ID="2">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.0.gold.html</M>
+<M ID="3">maxtor-onetouch-iii-turbo-edition-raid-0-1-usb-2.0-firewire-400-firewire-800-1tb.3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

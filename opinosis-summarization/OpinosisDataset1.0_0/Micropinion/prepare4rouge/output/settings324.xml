@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1213">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">netgear-sc101-storage-central-0gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">netgear-sc101-storage-central-0gb.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">netgear-sc101-storage-central-0gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">netgear-sc101-storage-central-0gb.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">netgear-sc101-storage-central-0gb.MI_OP_10.system.html</P>
+<P ID="MICROPINION">netgear-sc101-storage-central-0gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">netgear-sc101-storage-central-0gb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">netgear-sc101-storage-central-0gb.6.gold.html</M>
+<M ID="3">netgear-sc101-storage-central-0gb.8.gold.html</M>
+<M ID="4">netgear-sc101-storage-central-0gb.2.gold.html</M>
+<M ID="5">netgear-sc101-storage-central-0gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1214">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">netgear-sc101-storage-central-0gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">netgear-sc101-storage-central-0gb.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">netgear-sc101-storage-central-0gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">netgear-sc101-storage-central-0gb.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">netgear-sc101-storage-central-0gb.MI_OP_10.system.html</P>
+<P ID="MICROPINION">netgear-sc101-storage-central-0gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">netgear-sc101-storage-central-0gb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">netgear-sc101-storage-central-0gb.0.gold.html</M>
+<M ID="3">netgear-sc101-storage-central-0gb.8.gold.html</M>
+<M ID="4">netgear-sc101-storage-central-0gb.2.gold.html</M>
+<M ID="5">netgear-sc101-storage-central-0gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1215">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">netgear-sc101-storage-central-0gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">netgear-sc101-storage-central-0gb.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">netgear-sc101-storage-central-0gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">netgear-sc101-storage-central-0gb.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">netgear-sc101-storage-central-0gb.MI_OP_10.system.html</P>
+<P ID="MICROPINION">netgear-sc101-storage-central-0gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">netgear-sc101-storage-central-0gb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">netgear-sc101-storage-central-0gb.0.gold.html</M>
+<M ID="2">netgear-sc101-storage-central-0gb.6.gold.html</M>
+<M ID="4">netgear-sc101-storage-central-0gb.2.gold.html</M>
+<M ID="5">netgear-sc101-storage-central-0gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1216">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">netgear-sc101-storage-central-0gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">netgear-sc101-storage-central-0gb.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">netgear-sc101-storage-central-0gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">netgear-sc101-storage-central-0gb.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">netgear-sc101-storage-central-0gb.MI_OP_10.system.html</P>
+<P ID="MICROPINION">netgear-sc101-storage-central-0gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">netgear-sc101-storage-central-0gb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">netgear-sc101-storage-central-0gb.0.gold.html</M>
+<M ID="2">netgear-sc101-storage-central-0gb.6.gold.html</M>
+<M ID="3">netgear-sc101-storage-central-0gb.8.gold.html</M>
+<M ID="5">netgear-sc101-storage-central-0gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1217">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">netgear-sc101-storage-central-0gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">netgear-sc101-storage-central-0gb.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">netgear-sc101-storage-central-0gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">netgear-sc101-storage-central-0gb.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">netgear-sc101-storage-central-0gb.MI_OP_10.system.html</P>
+<P ID="MICROPINION">netgear-sc101-storage-central-0gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">netgear-sc101-storage-central-0gb.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">netgear-sc101-storage-central-0gb.0.gold.html</M>
+<M ID="2">netgear-sc101-storage-central-0gb.6.gold.html</M>
+<M ID="3">netgear-sc101-storage-central-0gb.8.gold.html</M>
+<M ID="4">netgear-sc101-storage-central-0gb.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

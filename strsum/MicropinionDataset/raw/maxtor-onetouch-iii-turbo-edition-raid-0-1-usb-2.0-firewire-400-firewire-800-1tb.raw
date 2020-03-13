@@ -1,0 +1,165 @@
+$$;
+Pros:. Lots of Space, RAID 1/0. 
+Cons:. Seek Time is too Long, Heavy, Expensive. 
+Summary:. Personally, I was look for something that had lots of room and that I wouldn't have to buy another external for atleast a year.I gotta tell ya, I looked everywhere... I bought a Lacie 500GB Bigger Hard Drive.... SUCKS, Seagate....SUCKS, they all brought me falure with data loss and overheating.I found this baby and I've been happy ever since. I've never had any bad thing happen like the other asshats that rated this a 1 had, it's a great external.It's been about a year and I've only used 700GB of it's 928GB (After formating, the 1TB gets sucked down about 60GB's) and I plan on getting another, though I was hopping that Maxtor would release a 2TB model, but I haven't seen that yet.. 
+
+$$;
+Pros:. Great price ($600), easy set up, choice of RAID 0/1. 
+Cons:. None so far. 
+Summary:. So, I ordered one of these a few weeks ago and just got it from back order. It took me about 30 minutes to set up completely. I am running it on a Windows XP Dell desktop, through an add-on Firewire 400 port. I downloaded the latest version of EMC Retrospect Express HD from EMC's site (version 1.1.127) I reconfigured it with RAID 1 for reliability, and then formatted it through Windows with just one partition.. I moved my whole mp3 collection onto it (granted, only 28 Gigs, which took about 25 minutes) and rebuilt my iTunes library from it. So far so good.. I was very nervous, given all the negative reviews here and on other sites. I have had zero problems so far, but I realize it hasn't even been 24 hours yet. I'll update this review after I've run it for a week or so. I may also look into adding a FireWire 800 port, just so I am taking advantage of it.. 
+
+$$;
+Pros:. Very easy setup, quiet &#38; fast. 
+Cons:. Simplistic software. 
+Summary:. I bought the 1.5 TB model for $599 at Best Buy. Setup was a breeze. I have a Mac Pro and the drive is already formatted for Mac, so maybe the problems that some people had are only occurring on PCs. Tech support is really good. Their website has a lot of information and well organized. Definitely the people at Maxtor are listening and providing solutions. I highly recommend this HD.. 
+
+$$;
+Pros:. Fast, Portable big.. 
+Cons:. Retrospect. 
+Summary:. I bought 2 of these bad boys and backup my entire network. 8 servers full in 10 hours. I don't use retrospect I used BackupExec instead.. 
+
+$$;
+Pros:. VERY well made, VERY silent, Fast Drive, Fast Transfer, Software Access Button, DUAL interface. 
+Cons:. Software DOES NOT WORK. PIECE of crap. Directories fail to load... SLOW. Firewire use is a PAIN!. 
+Summary:. I think it's all SAID.. THIS DEVICE HAS FIREWIRE PROBLEMS. Tried everything i could. FIREWIRE is sometimes recognized, OTHERS don't.. Software is BAD... BAD... BAD.. DON'T BUY THIS DRIVE to use the BACKUP software. IF you are looking for a FAST "Plug'n'play" Drive, it's a very nice product.. DONT'S spend MORE MONEY on the DUAL interface drive. It's not worth it. I ended up using it on USB 2.0 Only.. Overal, i recomend it for the Sheer Spee, SILENT and VERY WELL designed CASE.. 
+
+$$;
+Pros:. All that is missing is an Ethernet port. 
+Cons:. You only get 931GB and not the full 1TB. 
+Summary:. I must have lucked out as I have three of these guys and have not had a problem with either of them Mine are currently connected to a FW800 controller by SIIG (PCI-X) and I get huge data throughput. I use these drives in my data backup for my company. You also don't need to use their software to use the drive - the drivers are located on the CD and that is all I needed to get it to work with FW800 (didn't need to set it up with USB first as someone mentioned). This may be a limitation of Windows, but it would be nice to get somewhere close to the 1TB of formatted capacity when running in RAID-0 instead of 931GB (I'm losing 70GB to the overhead?!?) which is why I give it a "Very Good" rating and not "Excellent".. 
+
+$$;
+Pros:. Plugged into MAC , recognised and it and just been using it since. 
+Cons:. Big Silver box, one touch backup not needed for OSX (as time machine doesit). 
+Summary:. Well unlike the above this has been working for 9+ months for me on firewire 800. I just plugged it into my MAC Pro, it asked if I wanted to see as time machine drive I said yes and its been going ever since, No issues of any sort.. 
+
+$$;
+Pros:. A cheap way to get archive storage. 
+Cons:. Hooking up two caused Vista to be unstable.. 
+Summary:. I bought two of these and hooked them up to two different USB controllers. But still I was plagued by hardware crashes. Eventually, I moved one to a Firewire port and everything stablized. I'll see about hooking them both up to firewire this weekend, but at this time one has to be USB and the other Firewire.. 
+
+$$;
+Pros:. Cheap. RAID 0 and 1. 
+Cons:. Apparently sensitive to barametric pressure changes and Mars' gravitational pull.. 
+Summary:. I had replaced a broken 500MB hard drive with this 1TB unit configured as RAID 1 (500MB) so that I would have a mirror. This was prescient, because very soon one (I presume one) of the drives went all flooey. The thing was mostly broken, but I was able to get some data back. Luckily, all the data on this thing was backed up. I'm done with Maxtor and Seagate drives for the time being. I've never had a problem with Hitachi which seems to be the only other mass-market option nowadays.. 
+
+$$;
+Pros:. Lots of storage space. 
+Cons:. SlowDrive is slow compared to the seagate pushbutton drive. 
+Summary:. We have this drive and a Seagate Pushbutton backup drive as well. I noticed the seagate drive would copy files (locally) much quicker than the Maxtor drive. The maxtor drive has firewire 800, 400 and USB2. The seagate drive has firewire 400 and USB2. Even with firewire 800 the maxtor drive is still noticeably slower when copying files. I bypassed the software both drives come bundled with, and saw the same thing. Conclusion: Get the Seagate pushbutton backup drive over this one if you have a choice. The only reason you would get the maxtor is if you need more storage space (it has up to 1.4T vs 1T for seagate).. 
+
+$$;
+Pros:. capacity, speed. 
+Cons:. no reporting on RAID1 failures, after powershutdown it cannot reconnect to pc without system reboot, no documentation for actions when one RAID1 disk breaks down. 
+Summary:. Documentation for RAID1 is poor and directions on handling the situation when the first disk breaks down are missing. This takes the security-value out of the RAID1 mirroring. The handling of breaking a mirror and reestablishing is not described and not even avaible when you contact Maxtor support. Conclusion: I shouldn't have bought it.. 
+
+$$;
+Pros:. Lots of storage if you don't my mind USB. 
+Cons:. Firewire 400 did not work; could not connect another Firewire 400 device. 
+Summary:. Currently I have 6 Maxtor One Touch and One Touch II USB/Firewire 400 drives on my desktop PC. All have worked well for me so when I saw that Maxtor was offering a 1TB Raid drive I was very eager to buy it (actually bought two -- returned one and am in the process of returning the other).. Well, when I connect either one of the Maxtor 1TB Extreme drives to my PC via Firewire 400 (either as the last node in a daisy chained series of drive or directly to my PC), it would not communicate. Works okay in USB but USB devices can not be daisy chained together, nor is it as fast as Firewire 400.. I did not replace my Firewire board, but since it works well with the other drives I fully expected that it would work well with this drive (silly me). Further if I connected one drive to my PC via USB and then the 2nd drive to the 1st by Firewire 800, I could not find the 2nd drive.. Bottom line -- This product is to be avoided, especially at its current price.. One question I have - how did the Cnet staff test this drive? Did they really connect it to a PC or simply look at the specs? If they connected it to a PC, what was the configuration, drivers, etc.. 
+
+$$;
+Pros:. Seemed like a bargain at $199 for 2TB, with Raid 0 and 1 capabilities and firewire 400/800 and USB.. Performance seemed good but....... 
+Cons:. It lasted 3 days. Came home yesterday and heard it making a high pitched loud noise as soon as I walked in the room. Disk was completely crashed and would no longer mount. Front LED was blinking indicating an electronic failure.. 
+Summary:. Stay away from this one. I bought it from Fry's without researching it first and these other poor reviews tell you all you need to know - this product is a definite black eye for Maxtor/Seagate. If you plan to use this to archive all your photo's and videos as I did, you better make sure you have another back up because chances are high this thing thing will die on you too in the not too distant future. Don't risk it.. 
+
+$$;
+Pros:. Triple interface and pre-formatted for Mac OS X so that it worked beautifully right out of the box.. 
+Cons:. My 1 TB drive failed after 10 months and under the 1 Yr warranty I was sent a refurbished drive, which was great for 6 months and would no longer mount. Of course the warranty had run out at 12 mos frm original purch date. NOT RELIABLE. 
+Summary:. I believe Seagate (Maxtor) has a serious quality control problem with their Maxtor One Touch III Turbo triple interface hard drive. My drive began to make clicking noises at 9 months and failed at 10 months. The Warranty was honored, however, the refurbished drive that Seagate provided only lasted 4 months ( and the warranty is only from the original date of purchase). With regard to operation when it was working, the provided software, etc., everything was AOK; however my experience indicates that Hard Drives failures from this manufacturer (2 in 14 months) are beyond coincidence and I would recommend trying Iomega, LaCie, Western Digital, or others. My other 2 external drives are both Iomega. They are both triple interface drives and are now 2 and 3 years of age. They have worked flawlessly (they also cost more).. 
+
+$$;
+Pros:. Worked for 3 months. 
+Cons:. Then it died. 
+Summary:. I thought this would be the perfect "Time Machine" backup drive for my Mac G5. It worked as advertised for 3 months, connected via the FireWire 800 ports on the computer and drive. Then I started getting occasional error warnings when the "Time Machine" software failed hourly auto-backups, then the drive failed to mount one morning, making loud clacking / buzzing noises every two seconds.. Now it puts me in a very difficult position, as I can't return the drive, as it contains proprietary projects for my business. I would secure-erase the drive if I could get it to mount, but it won't. So now I have an expensive doorstop.. I guess I'll open it, voiding the warranty, and try to figure which drive has failed, swap it out for a new one, and hope I can reformat the whole thing and start over.. Lacking that, I might just drive my truck over it and ship it back to Maxtor with a love note.. 
+
+$$;
+Pros:. Large capacity small footprint. 
+Cons:. Very Poor Reliability and support. 
+Summary:. I owned two Maxtors in less than nine months both failed identically in three to four months. The first was replaced without problem but without data recovery. I felt that sometimes things just fail and that Maxtor was a reputable company. When the second failed in the same amount of time it seemed that there was a very serious problem with the product and that it was not unreasonable to expect that they would recover my lost data at this point 1tb is a lost to lose. Maxtor refused to return my calls. The estimate for recovery of the data from Maxtor was $1500.00. I bought another Maxtor unit replaced the circuit board in the old with the new one and recovered the data for $350.00. Im reasonably certain that they have a good idea why these drives fail and what it would take to recover the data. I can only say that there is more to be made from the failures than the drives themselves its a sweet gig and its a pity that Maxtor wont rectify a bad situation by stepping up to the plate and doing the right thing for their customers. Dont buy this unit please.. 
+
+$$;
+Pros:. Lots of Storage, reasonable price at Costco. 
+Cons:. FAILURES (Twice). 
+Summary:. I am currently in the process of exchanging my 2nd 1TB drive. The first time I lost everything (RAID 0 config). The replacement drive is in the process of failing (I set it up as RAID 1 this time) and I am awaiting an advanced exchange. I asked the technical support rep if I could exchange the drive for a Seagate drive or something that I won't have to return a 3rd time.. 
+
+$$;
+Pros:. Easy to use. 
+Cons:. Bull in a china shop. 
+Summary:. This obtuse brick will constantly overwrite network logical partition assignments. Maxtor can NEVER be reached for help... RUN from this paperweight.. 
+
+$$;
+Pros:. None I could imagine. 
+Cons:. Abysmally poor software, noise and horrible design. 
+Summary:. 1)The included software tested on 3 different systems (XP, XP Pro and W2K Pro) does not work, constantly freezes when (by accident) it loads and requires many reboots. After all this pain, none of the systems tested could do a backup. Maybe on the Mac? I did not have one for testing.. 2)There is no way to know what's going on,not even to have an idea of the format. The documentation is abysmal.. 3)The unit is incredibly noisy.. 4) In fact, the unit was so noisy that I thought that something was stuck in the fan (not sure that there is a fan). I tried to open and check the fan and, last bad surprise, you cannot open the unit without losing the waranty and breaking parts.. Conclusion: I have not bought such a bad piece of hardware in a long, long time.. 
+
+$$;
+Pros:. sleek design. 
+Cons:. Very Unreliable. 
+Summary:. My drive suffered a system failure just after the warranty expired. Now I have to spend $1500 having all my pictures, financial, video and music files restored by a service.. 
+
+$$;
+Pros:. Comes with cables. 
+Cons:. LOSS DATA, UNESTABLE. 
+Summary:. I bought this unit because it's an special storage unit for video and audio files.. It was working fine storing my graphic design files, but when I started to work with video, there began my head and liver aches.. I will never buy an external from Maxtor, I do video, I bought this drive in order to store my projects; so far I've formatted this drive 4 times, I loss all the data on it, I've lost money, time, and my liver with this unit. Actually I'm facing a problems with my clients, thanks to this drive.. For all video pc users, don't trust in this unit, it crashes down my computer several times.. which computer I have?. I have a dual xeon processor 2.66 ghz, 1gb SDRAM. XP and all the software original; so.... Actually I'm trying to get my money back, I don't know if I'll get, they told me that they will replace the drive, but I don't want it, I want my money, to buy another one from another reliable brand.. 
+
+$$;
+Pros:. IT is HUGE-Too bad it doesn't work. 
+Cons:. Where do I begin? Software provided is unstable and incredibly slow, firewire 800 isn't recognized by windows xp, firewire 400 takes forever, retrospect is absolutely the worst piece of software. 
+Summary:. Sure it is a nice idea to have such a huge storage space to back up my system, but the way this thing is set up really sucks. I had to RMA my first one b/c windows XP wouldn't recognize the drive when it was plugged into firewire 800. I had to use USB 2.0 to install the software and it was soooo slow I couldn't bare the thought of going thru that for the duration of me owning this monster. So, I installed the crappy software they provide with this drive and when I try to initiate it, it takes 2 minutes for the main menu to show up. You might be thinking my computer system is slow-NOT at all. I have an AMD 64 FX55 processor, 4 Gigs of RAM, on a DFI nF4 MOBO. It is not slow at all and it should not take that long for any program to load up. I thought photoshop took long, well this program takes the cake. Anyway, after formatting the drive I tried plugging it into a firewire 400 to see if that would be any better-that is when all hell broke loose and it crashed my system. I called the help center at Maxtor and they suggested all of the steps I had already tried: sequentially power off and powering back up, trying different ports, trying to reinstall the software, but all to no avail. That is when they said that perhaps my firewire 800 interface on the drive was faulty. Well, after several trials and having my system crash on me numerous times I requested a replacement from NEWEGG.COM and they were more than willing to help me out-Thank GOD for Newegg.. I received my second drive After going thru this for the second time with a new drive and new install, I was able to get the thing to stabilize and not crash my system using firewire 400. Firewire 800 connection is still non-existent. The one touch manager &#38; the retrospect program is still incredibly slow and the useless, retrospect program is still not functioning correctly (I have access to the one touch manager, but when I try to establish the setting for retrospect it either makes my processor cycle for 30 minutes (all the while me thinks the dumb program is analyzing my drives to prepare it for backup- dumb me the software is just using up 100% of my processor so I cant run anything else) or it never initiates and is stuck in the please wait mode. I suppose I can drag my files over to the drive and have it save my files manually, but whats the use of paying $800 for a drive that is supposed to backup at the touch of a button? In summary, the drive is slow, the software is poor and the one touch button doesnt program easily with windows xp. I have no idea if anyone else is having the same sort of problems, but I tried doing research before buying this product, but I had no luck finding user opinions; I had to rely on the professional reviews and they are never as helpful. Theoretical reviews do me no good! Thus, I hope this review helps someone else out when they are looking for a back up drive.. 
+
+$$;
+Pros:. compact, 199 price tag really was too good to be true. 
+Cons:. loud, unmounted randomly, died 9 months in lost all data. 
+Summary:. This was a solid waste fo money. I was trully disappointed in maxtor.. 
+
+$$;
+Pros:. Makes a nice paperweight!. 
+Cons:. I'm out several hundered dollars!. 
+Summary:. Computer got a virus, and must have attacked the Maxtor. Now it reads: "RAW" file system. What happened to RAID? I don't know! You tell me! All I know is that my PC cannot "see" the data anymore, and I've had to rebuild my system!. Thanks, Maxtor (Seagate)! FOR NOTHING!!!. 
+
+$$;
+Pros:. Nice case. Ok s/w. 
+Cons:. One of the two 500GB drives failed taking down the whole 1Tb backup drive!. 
+Summary:. I do not recommend this product. I purchased it in late 2006. I ended up tearing it a part yesterday and throwing away the case and power supply and installing the one functional drive in my computer.. 
+
+$$;
+Pros:. Capacity and RAID capability. 
+Cons:. Unreliability. Untested at factory.. DOA. Poor docum.. 
+Summary:. 3 of 4 Maxtor external drives failed. First a 500 GB drive which failed after 1 yr. Then I bought Turbo 1.5 TB system because it offered RAID mirroring. Two months after purchase one of the two RAID drives failed. I expected Maxtor to replace defective RAID drive. But they replaced entire system. When I tried to install replacement system it could not be formatted. They are now replacing the replacement system. Have been without backup system for three weeks. Maxtor quality control is non-existent.. 
+
+$$;
+Pros:. None, Absolutely None. 
+Cons:. Overheats, drive failures, etc.. 
+Summary:. This drive is complete junk. Twice now I've had overheating issues. You could fry an egg on it, it gets so damn hot! I'm just glad I don't rely on this as my primary backup device. I've been using it to run a weekly to disk backup. I figured I might be able to get away with that, but just like the one before it, I'm sending this one back for another replacement. This will be my second RMA. Next time it goes in the trash! Anyone who takes the time to read these posts, DO NOT PURCHASE this drive!!. 
+
+$$;
+Pros:. Great idea. 
+Cons:. Extremely poor execution. 
+Summary:. I have a 250gb maxtor one touch and loved it. I thought this was the answer to my network storage problems with an offline mirrored drive. The usb was not a quick as I would like, but it was ok.. The problem was the error code that said it needed service, which started two months after purchase. I went to maxtor's site and filled in the warranty request. A month later I called as to the RMA request and they say the site had a problem for a few days and the request was lost. Except that since then one of the drives crashed (so the software said) and I have no way of recalling what the tech error code was. It gets better, they say send the drive back and "maybe" we can recover the data. The cost, about the same as purchasing a new 500mb drive on line. I have data that is valuable, which is why its on a mirrored drive. So I switched the drives myself to protect the data. If you can insert a pci card, you can switch the drives out. However, now your warranty is out the window. I was ok with that. Life in the big time. I replaced the drive with the exact same drive. Guess what happened in two months, the exact same error code. I do not know if its the drives, the circuit board that mirror's or what. I do not care. We have used over 100 different boxes with drives in them over the past ten years and I can only recall one hard drive crashing. If you are trying to protect your data, don't do it on this product.. 
+
+$$;
+Pros:. Silent,multiple ports. 
+Cons:. Dosen't work on Fireware,Formating &#38; compatibility issue. 
+Summary:. Even reading all the other user opinions, I decided to try it out myself.Honestly this drive is really bad.First it does not get recognized by Win Xp, I formated atleast 4 times, after formating it works fine with the same connection i.e if I used USB, it works fine, if I used Fireware400 it works fine.But the moment I unplug it &#38; plug it in FW800 it hangs my computer &#38; fails to even format.To make sure my Fireware ports are upto mark I even brought a new Fireware PCI interface, still no results.. The bottom line is external drives should be a easy plug n play, it should be portable &#38; flexible. Well ! this drive is not in that category, it has a big formating issue. I'm in IT, so I know what I'm doing, if I'm having so much issues I can feel for other non IT folks.. In summary, Don't BUY THIS PRODUCT.. 
+
+$$;
+Pros:. Large space and easy setup. 
+Cons:. MAXTOR Manufatured it. 
+Summary:. My drive stopped powering up in 3 weeks. The irreplacable data trapped om this drive would cost me 500 - 1000 dollars for Seagate to recover. They are willing to replace the drive but getting the data back is my problem. I researched this problem accross the net and found this power issue to be all too common and the lack of assistance from Seagate was poor for others as well. This is a great drive if you will simply buy another drive to back it up. I am having Best Buy retrieve the data for me and it turns out that one of the two drives (it has 2 500 GB drives with RAID) failed as well. At least it worked for 3 weeks, I guess. I will not buy Seagate or Maxtor again and I would advise anyone reading this to research drive stability prior to purchase if you intend this drive to store data that will not exist elsewhere.. I paid 700 for the drive and I will oay around 300 to get my data off of it before I send the junk back to Seagate and then they Might send me another one which I will promptly put a clean bullet hole through the center of it apon arrival.. 
+
+$$;
+Pros:. $500 paperweight. 
+Cons:. Too much for a paperweight. 
+Summary:. I'm usualy a "doubting Thomas", so, I had to try this for myself despite the bad reviews. DONT be like me. Listen to the other reviews,DONT buy this hard drive.. I bought a FW800 card from SIIG to complement this piece of crap(I recommend SIIG) so I would get its "full potential". After installing the software and powering up the drive, it went through a 3 hour format, only to end with a "drive could not be formatted" error. Upon running Maxtors' diagnostic test, the drive failed repeatedly. Frustrrated after spending hours trying to get it going(their support stinks), I plugged it in using FW400.. It finaly recognized the drive and formated if , but, for some reason both my cd/dvd drives stopped working. I packed this piece of **** up, did a restore on my computer and Iam in the process of returning it to CompUSa.. 
+
+$$;
+Pros:. Nice concept, very fast external drive. 
+Cons:. Easy to trash the drive, losing all of your data. 
+Summary:. I have a big problem with these drives.. My business partner is currently out of state. She needed a big drive for her work, so we chose the Maxtor external OneTouch III 1T. I bought one and installed it on my system here; she bought one and installed it on her system there. Mine worked; hers did not.. I tried to run the installation procedure on my drive again, so I could walk her through the steps. Now my drive started locking my system up.. It seems that if you turn the drive off or disconnect it without running the proper shutdown sequence, the Maxtor drive becomes unusable. It appears to scramble the formatting information or something.. I looked on the Maxtor website, and found a support article that said [my own paraphrase]: to avoid this problem in the future, shut down the drive properly; to retrieve the data on your drive, send it to one of these two companies (links provided).. I cannot live with a drive that scambles itself everytime a cable gets accidentally pulled. What happens if the power goes out? What happens if someone trips on a cable? I bought two of these drives, and they BOTH went belly up in 2 days.. I will be returning 2 big hard drives back to the store, and looking for another brand.. I do understand that USB drives need to be ejected properly, but many USB drive manufacturers have made their devices fault tolerant, so that even if you do lose some unsaved cache data, you don't lose the entire drive.. Does anyone from Maxtor have a response to this issue? It seems to me that this is a HUGE issue that could undermine the credibility of this entire line of products.. 
+
+$$;
+Pros:. Raid 1 support. 
+Cons:. Fails to mount on startup and an-mounts unexpectedly. 
+Summary:. Everyone should avoid this product. I have returned 3 of these drives -- every one has the same problem; does not always mount and it n-mounts for no reason at all throughout the day. Customer support is not existent - just try to leave a message and see if you ever get a response.. The so called Editors Choice rating is really misleading and should make you wonder if it is influenced by the ads Maxtor (Seagate) places on their website. Cnet should remove their rating for this product - because if they REALY believe this is the best drive in the category, I can no longer take their rating seriously. Lesson learned, look at USERS ratings, they are truly unbiased and from the look of it -- this product should never been released to the public.. 
+

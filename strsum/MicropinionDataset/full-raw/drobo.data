@@ -1,0 +1,472 @@
+an excellent product for backup purposes updated  .
+on jul 16 , 2010  .
+as long as you do not expect this to be a nas device , (or any other unintended use , such as a toaster or dishwasher) , you'll be very pleased  .
+i have 4 2tb satas in the drobo , which gives me a 6tb storage pool and i can swap out any failing drives with total data protection .
+a little costly to start up (about 500    700) but once done pretty great , and i'm using 2 of their slow 1st gen usb only machines , 1 for a home business and the other for home use .
+to get $50 off , go to www  .
+drobostore  .
+com and enter acnche into the coupon code field  .
+make sure to click update changes so that the discount is reflected in the price you will get $50 off of drobo with firewire (as well as the drobo with firewire 2 or 4tb bundles) .
+i use drobo as my primary backup target for acronis trueimage home  .
+additionally , i use it to archive files off my laptop which is my primary computer  .
+i'm very happy with the product  .
+i've outgrown three usb drives in the past several years and the process of going out to buy a new one when i filled up the old one is getting old  .
+now i've got an easy to use , easy to expand , better protected drobo to use going forward  .
+i've had no issues whatsoever with the unit and highly recommend it  .
+i like the comfort of knowing my data is protected against a drive failure and i'll never again run out of space .
+use coupon code scene to pick up a drobo at the official drobo store , drobostore  .
+com  .
+coupon code scene is entered in the drobo store checkout  .
+you will save $50 instantly on top of all the other bundle deals on a drobo data storage robot .
+this is a great data storage device for anyone who has large amounts of data they want to protect regardless of their technical level  .
+it will protect you against any single drive failure although you should still backup your data since this will not protect you from fires , theft , etc .
+i've been using my drobo for about 2 months , and the drive works great  .
+i've got it filled with 4 500gb drives ; it is up and running in minutes  .
+it's true it's slightly slower than regular usb drives , but the data protection is worth it  .
+i've seen the cons compared to raid , and i disagree you can find a raid solution that offers this capacity for less money , especially one that lets you increase your storage incremently without rebuilding the array (which means backing up your data elsewhere in the meantime)  .
+i've seen a couple of posts here about failures , but no specifics on what led to/caused the failure  .
+that worries me a little , but right now i'm attributing that to user error rather than hardware problems , since i have not experienced any problems , though i'd like to see drobo address these issues (maybe they need some additional warnings)  .
+the angst over the magnets seems silly to me  .
+the worries over a power failure screwing up the virtual partition table exist with any multi    drive solution i'm ordering a second drive , which i'll be plugging 1tb an 750gb drives into    we'll see how that goes .
+those who disparage this device do not appreciate what is under the hood  .
+this device brings features currently found only in enterprise level nas (like block level data awareness) to the home market  .
+asking that this device support fat32 would be like asking porche to support 3 cylinder bicycle engines  .
+now with the droboshare nas attachement this device will run on the network  .
+i await other inovations such as block level snapshoting for instant backup in the future .
+i've read a lot of reviews on this system and all the big complainers are ignorant  .
+this device is not nas but is much better than a consumer level raid  .
+i'm currently running a wd 1tb 500gb externals plus 3 500 gb internals  .
+how much of that do you think i get to use  .
+the 3 internals that's right i have 3tb total storage but the externals are used for backups  .
+with the drobo , if i drop 4 1tb drives in it , i will have access to a total 3tb without wondering if my backups ran last night etc i'm going to gut the hd's out of my pc and leave the os/tv 250gb  .
+throw the others in my drobo and bada    bing  .
+no more sleepless nights  .
+did i mention i had a 500gb drive full of uncompressed ripped dvd's that croaked after 3 months of use  .
+at the time , no backups for those large files  .
+needless to say , i've learned my lesson but this solution will solve just about everything  .
+you're only fear now is data corruption  .
+i wonder if you can do any sort of shadow copy with this drive  .
+cheers  .
+my drobo is the best tech gadget purchase i have made all year  .
+i have a handfull of external hard drives , and i bought drobo early on based on the cnet review and the huge word of mouth i saw  .
+the community (drobospace  .
+com) had lots of very helpful people who answered my questions and i love it i have since consolidated all of my external drives into my drobo , and even ripped apart 2 of them for their hard drives    which have gone to increase my drobo's storage capacity if you are very technical and do not mind fiddling with raid or reconfiguring and migrating data around between systems    then that may work great for you  .
+but if you have no desire to figure that out    just buy the drobo and it does everything for you .
+i'm not sure what all the confusion is about  .
+this is not networked attached storage  .
+nor did they ever claim that it is  .
+therefor , it does not have an ethernet adapter  .
+many people seem so shocked by this  .
+this device simply allows you to safely store all of your important data  .
+duh  .
+it's not network attached storage people , so stop comparing it to nas  .
+people are not evaluating the drobo based upon what it is , and how well it does what it is supposed to do  .
+instead they are evaluating it with the wrong criteria , then claiming that it stinks  .
+it's like comparing a pickup truck to a sportbike  .
+this ford f    150 accelerates like a brick , and cannot turn very well  .
+it's a terrible motorcycle  .
+this is simply a raid    array  .
+instead of having a raid array in your computer , tying up your hard drive controller and bogging down system resources , you hook this baby up via usb and now your files are safe forever  .
+besides , if you really need to network it , how hard can it be to share out the drive , and then map to it  .
+those of you who gave this unit a bad name  .
+no nothing about computers  .
+i will prove  .
+it by comparing it against the infrant  .
+readynas nv+  .
+with drobo you can use any size drive or  .
+any make of drive , with the readynas  .
+you are stuck with your first drive ie  .
+if you put in a 250 gig drive the other 3  .
+must be 250 gig  .
+also you cant use any drive , only the ones on infrants approved list  .
+winner drobo  .
+with drobo you can change drives on the fly ,  .
+with the readynas you need to power down the unitchange the drive and then reboot , winner drobo  .
+when drobo is rebuiling mode you still have acess to your data , with the readynas you do not , you have to wait untill the rebuild is complete , so if you have a lot of data you may have to wait hours or a day before you can acess your stuff , winner drobo ,  .
+drobo requires no tools at all , just put in the drive and your set winner drobo  .
+the only fault is that drobo does not come with an ethernet connection and readynas does , however you can use an airport extream or a linksys router with usb support as a nas head and share your data cost drobo is $499  .
+00 the readynas nv+ is  .
+$650 for a diskless unit winner drobo  .
+i own a drobo and 2 readynas nvs (what some would cite as a competitor)  .
+both are great storage solutions that support automatic raid expansion as drives are inserted  .
+what makes the drobo unique is its ability to use all of the space on different sized drives   on every home    qualtiy nas unit that exists today , you can stick in 2x 500gb drives and 2x 1tb drives and get 1  .
+5 tb of raid protected space  .
+what happens to the remaining 500gb on each 1tb disk  .
+it's wasted  .
+on the drobo , this space is still accessible , just not raid protected  .
+this might sound like a loss , but let's say you own a non    drobo nas with drive bays occupied by 500gb disks and you want to increase the storage , to do so you would need to buy four  larger disks , before any raid expansion occured the drobo's firmware also supports 1tb sata drives out of the box (and provided the lb addressing scheme does not change i think  it can support even larger drives without firmware update)  .
+currently the competitor's firmware (v3) only allows up to 750gb drives , with 1tb support promised in the next firmware release the drobo's file transfer speeds are also better than the (ahem ) competitors a disadvantage of the drobo is that it is not networked and is just a storage unit  .
+the similarly priced readynas supports a variety of network based applications including ftp , upnp streaming , auto usb    backup , and includes decent backup software which one you should buy is up to your storage , access , and spending habits .
+i is a beta tester for this unit and absolutely love it  .
+i would strongly recommend it to anyone who wants automatic backups but does not want to deal with raid  .
+fyi    if you buy direct from drobo  .
+com and use the code refdana , you'll save $25 on a drobo .
+go to my website http  //www  .
+lenspoden  .
+com and click on the photo topics tab to read my review .
+has worked well since release and has never failed me .
+drobo is a very useful and easy    to    install tool you integrate into your office to accommodate your own needs       whether you want it as simple mass storage or as part of a back    up plan  .
+it is usb as sold ; we use with droboshare on the office network network and like it well enough to be considering the newest drobosupreme or whatever it is called we use two drobos in our data back    up system   one stays site , to which all pcs are back up over the network ; one comes into the office weekly for a synch to the live drobo and which is then stored off site  .
+i have had problems with early versions of the large (1tb , 1  .
+5 tb) western digital drives , but i never lost any data and have never experienced any problems with the drobo itself  .
+now using the western enterprise level 2 tb drives , at about $300 a piece , and have not had drive problems since updated  .
+on dec 30 , 2009  .
+as a photographer i have a need for fast expansion and the safety of multiple backup  .
+along with offsite backup this system meets my needs .
+i only got it yesterday , so i will update in a while when i have had a chance to really play with it the good    .
+quiet  .
+it is much quieter than any other external drive case i've used and certainly quieter than the two that it replaces  .
+the street noise coming from outside a closed window in my office is louder , to put it in perspective easy  .
+installation is a breeze  .
+just slide the drives in and away you go flexible   very easy to add more storage  .
+like , so easy it almost seems like there should be more to it  .
+but there is not the weird    .
+the only thing i find a bit odd about it is the fact that it asks you to set the size of the device when you first format it  .
+it comes with pre    determined options that did not fit how many drives i is putting in  .
+i is putting in two 1  .
+5tb and two 1tb drives for a total of 5tb  .
+the options were 4 or 8 in the range , so i went with eight  .
+the drive shows up on the desktop as being an 8gb drive now , even though the physical capacity of it is 3  .
+2tb  .
+the drobo software gives you an accurate read of how much free space there is  .
+and the lights are helpful  .
+but i found this one aspect to be confusing the needed    .
+more details  .
+the software is pretty good but it really does need a detailed view of what hard drives you have in the box    it'd be nice to get as much info as system profiler gives you in terms of the make , serial number , firmware etc  .
+i found out that certain seagate 1  .
+5tb drives aren't considering 'approved' and i have no way of telling what the firmware is on them , short of ejecting the disks and manually looking at it speed  .
+in terms of speed , do not expect anything spectacular  .
+i am completely spoiled having been using esata external drives for the last two years  .
+i do video editing and yeah , just totally forget using it for anything more than dv  .
+it really should be thought of as a storage device only  .
+a backup  .
+definitely not a media drive the future    .
+because it's so big and flexible , it has given me the option of totally clearing off the internal striped raid that i have in my desktop (which measures about 6x faster according to blackmagic speed test so i'm going be using the drobo for backup of ongoing files and using the internal raid for work in progress and i think we're eventually going to be settling on an lto drive for a long    term warehousing of data in the mean    time i am trusting the drobo to hang on to things (and for like camera files , we have them stored in more than one location) i'll report back with my experiences in a couple of months .
+i only had my drobo for a little while ( 1 week) , so i can not comment on the long    term reliability just yet  .
+i can only say so far so good  .
+my first impressions are perfectly positive  .
+the unit works 100% as advertised , is dead simple to set up , looks nice , comes in great packaging and has overall great perceived value the only negative thing i'd have to say about the hardware so far is , that since the drives simply slide in , they tend to vibrate slightly and hum if they're not seated in the 100% correct spot  .
+turning the unit off and re    seating them took care of that for now  .
+ymmv what sold me on the drobo is the future proof concept  .
+however well you plan your data storage and backup strategy now , three years down the road all bets are off again , since the amount of data you need to store will simply have surpassed the capacity of whatever system you set up now  .
+it's simply the way it works , data grows and grows  .
+so you'll end up buying another disk/setting up another raid/copying your data back and forth again  .
+this is where drobo exceeds , with it's ability to keep expanding by simply buying disks with the best gb/$ value when you need them  .
+there may be a few other systems who offer the same advantage , but not at a consumer price point like the drobo what you must not forget though is this    .
+with jbods (just a bunch of drives) you data is gone if the drive fails  .
+drobo can protect you from exactly that , drive failures  .
+any raid protects you from that and only that  .
+it introduces a new problem though   it does not protect you from a failing drobo itself (no raid does)  .
+if you're lucky you can pop your disks into another drobo/raid unit and it will be able to read the data again  .
+if you're unlucky , the unit will have eaten your data while failing this is inherent with any data storage   you entrust your data to a system (hard disk or raid or tape or offsite storage or anything else) , if the system fails , your data may or may not be gone  .
+drobo protects you from drive failures , which is a lot better than what jbods do , but that's it if you are paranoid about your data , do not stop there  .
+get a second , different system to backup your data to  .
+i use a cheap old , slow buffalo external raid enclosure stored in a closed that i run backups of my most critical data to on a regular schedule (standard windows backup tool works fine here)  .
+if a hard disk inside the drobo fails , drobo will protect me from it  .
+if the drobo fails , i still have the backup  .
+if my backup fails , i can replace it and copy the data from the drobo again  .
+if both systems fail at the same time well , that's unlikely enough that i do not bother thinking about it , but you may want to keep in mind that this is a relatively new product  .
+it's promise is great and i believe the concept of ever expandable storage is the way to go  .
+but one single system is inherently untrustworthy , new systems on the market even more so  .
+so far i love my drobo and i'd heartily recommend it  .
+it did make me doubly paranoid about data backup though , and in the end it is not an end    all    be    all solution , whatever their marketing is trying to tell if expandable storage + drive failure protection + simplicity + good design is worth the price for you , go for it updated  .
+on mar 15 , 2009  .
+data storage has two faces , short term and achival the dobbo offers redundancy without the bs for the short term  .
+so far i have loaded 3 x 360 gig drives loaded them to the max and pulled one out  .
+the unit went into warning mode that a drive had failed but insisted that data is still ok to use  .
+i installed a fresh 750 to learn that 15 hours is required to rebuild the data , so far so good 4 hours to go  .
+i use drobo for my 1tb photography files that are actively edited and printed from this drive  .
+i have three 1tb drives installed for a total of 2tb of usable space  .
+when replacing the dual 1tb raid (using apple's stock raid software) , it took 30 hours to transfer the data  .
+so far , everything is great , but i wish they had ethernet and fw    800  .
+usb is just too slow for moving big files around .
+yes , it's expensive  .
+yes , it may not be the only multi drive storage solution  .
+but it's easy  .
+really easy  .
+yet it manages to be completely user controlled if need be  .
+i'd like to know if the people that reviewed this badly know how to use less user friendly systems , because i'm pretty sure if you gave this thing to my grandmother she could use it  .
+and that's worth a heck of a lot of money .
+besides the absence of a power switch , when i bought this unit i got it with 2 1    terabyte hard drives  .
+drobo said it only detects just 927 gig  .
+so i'm missing 1473 gig  .
+even with the back up i should be getting around 1  .
+7 terabyte i like the fact that i have one large continues space  .
+i own 5 of these for my photography studio  .
+i've had them for about 4 months now  .
+the concept is awesome and for the most part they work very well  .
+i love the fact that i can populate these with four 750 gb drives and get 2 tb of protected space  .
+if a drive fails , it does protect the data however , drobo claims to how fast it rebuilds the data are way off  .
+i had 1  .
+9 tb of test data on one of the drobos , i simulated a failed drive  .
+it took 3 1/2 days to rebuild the data  .
+it worked , but not in the 12 hours or so that the drobo people claimed another notable quirk is that the drobo dashboard often gets out of sync with what the drobos are actually doing  .
+the drobo dashboard is their interface with the hardware to let you know how much storage is being used , when a drive fails , etc when they get out of sync , it requires a re    boot to re    sync the information presented on the drobo dashboard with the drobos  .
+for most users who only will run one of these on a computer , i think it will work just fine  .
+i have 4 of these hanging off a single system , maybe that is why i'm running into the drobo dashboard issues , even though drobo support says it should not matter overall , i very much like the drobo and use them daily  .
+i just hope they work out some of the kinks .
+this is a raid system , with redundancy  .
+any drive can fail without losing your data  .
+that's good  .
+however , you have to be very careful not to turn off the power when the blue lights on front , are on  .
+i almost lost my data  .
+i would never trust valuable , irreplaceable data to just this drive  .
+i back up to a fast drive every day , and every other day , transfer that data to the drobo  .
+i consider it only good for archive storage  .
+it's way too slow to use as video editing caching  .
+it's slow speed is its main drawback re support  .
+i had one problem with possibly lost data  .
+data robotics sent me a new case promptly and were good with support .
+great tool for managing , collating and working with data  .
+consider it like a ram disk , but much slower .
+i is shocked that in the whole cnet review , there is no mention of the obvious competitor to the drobo   the readynas nv+  .
+the readynas does everything the drobo does only better , and offers a lot more for a $150 price premium , not the least of which is gigabit network connectivity  .
+if the reviewer is giving this a 8  .
+8 , is the readynas worth a 9  .
+this review seems to be written without consideration of other storage products  .
+this is a lot of money for an empty case with limited raid capability  .
+it's a wireless , networked world  .
+congrats to drobo marketing for the apparent assistance with this review an interesting product for 1997  .
+but considering today that most os's mirror for free , this item does not make a lot of sense .
+better support for mac users is required  .
+tech support expects the user to buy third party software to support this is product .
+wonderful solution for a workgroup looking for raid    protected san home or small business or even a small department in a large business if the manufacturer get's off their duff and makes it so that all of the ports work , this will be a five    star device and would be very recommended without the integrated nic and with only one port working at a time , i think it's only suited for low    speed data and for archiving .
+the product is innovative and easy to implement  .
+their website touts record breaking sales and awards  .
+but this is a young company , being established only six years ago in 2004  .
+warranty , service and reliability is what keeps a customer sold and creates a solid customer base , word of mouth reputation and repeat sales  .
+based on my experience in the last 18 months , i will be wary to purchase any more of their products  .
+we will see if this company is still around down the road  .
+my advice to customers is to make that you get in writing information on what the warranty is on your specific product and model for the country that you are located within within a week of delivery and implementation , the first unit i purchased is doa and all data is lost  .
+as with all technology products i am conscientious to assure that they are covered by warranty or extended service  .
+so at that time , after only 1 week of ownership i asked the service department what the warranty is on my units , and i made note of the person  .
+s name that i is speaking to ; they told me it is 2 years  .
+i have had quite a few other failures on the 3 units purchased as well now here i am , 18 months later , and i is just told yesterday that warranty is only a year on the products , so i is forced to pay double the annual rate to buy a extended service contract on the products  .
+because they were  .
+out of warranty  .
+the service supervisor who would identify herself only as  .
+wanda  .
+refused to believe or honor that i had been told by another service rep that the warranty is 2 years  .
+i had made note of his name , and she said he is only a  .
+temporary employee  .
+and she dismissed any interest in helping me then furthermore , i asked  .
+wanda  .
+what the warranty is on a drobo product i had that is only 11 months old , she put me on hold , got back to me and said it is 2 years  .
+i told her i would need that information in writing as a confirmation  .
+she then proceeded to email a pdf document to me that stated in essence that the warranty on all drobo products (purchased outside of europe , which is the case as i am within the u  .
+) is 1 year  .
+so again , i is misinformed and it would have been very costly to me if i had taken her at her word please note , that when i ordered the products and they were shipped to me , that there is not one scrap of written information on either the order (that is emailed to me) , or on the paperwork that is shipped to me about  .
+updated  .
+on aug 11 , 2010  .
+i have 4 drobo units  .
+two second generation drobos and two drobo s units  .
+i had no problems with the 2nd gen drobos , but the new drobo s units were clearly rushed to the market and have cost me a lot of time and headache as they are faulty machines  .
+i got the drobo s because of its esata support , but only after purchasing , did data robotics announce that it only works with basically 3 esata cards  .
+so , i'd have to purchase one of these cards for it to work and discard my nice sonnet e4p  .
+after patiently waiting for them to correct the issue for 3 months , i write to sonnet and the ceo of sonnet basically told me that data robotics did not know what they were talking about and the problem is not what they were accusing sonnet of  .
+so , i had drobo s units on firewire , which is a waste of money to make matters worse , over the past month , both of my drobo s units have gone into what data robotics calls infinite reboot loop  .
+that is , they just go dead and keep rebooting  .
+they've created a faq item about this and how to get the unit out of reboot loop , but that's hardly an acceptable solution to them just making a quality product  .
+many other bad reviews on this issue on the net point to power supply problems , but data robotics has assured me i have the proper power supply i'm currently waiting on my second replacement of my drobo s as i struggle through their somewhat poor technical support  .
+but i can hardly blame technical support for the problem that seems to be a problem with hardware design or construct  .
+i feel bad for the support staff , honestly i have not lost any data (yet) , but have had both of my drobo s units die on me in the past month (4    6 months after purchase) and never have been able to use the esata because of their poor design on that front as well  .
+as a small business    owner , i thought this would be a wise investment to easily create backups , but i've only had problems and would never recommend these units to anyone for any reason any more  .
+i've gone from a huge fan to the biggest opponent because they point the finger at other companies for their own problems and because these units have caused me a lot of problem due to their failure in recent months , i've concluded that data robotics is a poor company building inferior equipment  .
+perhaps the original versions were solid , as they still work for me , but current models are downright unusable  .
+avoid the drobo if you care about your data and value your time .
+drobo is a wonderful idea , however , i just returned mine because it is usb only , and is very slow at transferring data  .
+drobo is taking more than two hundred sixty six hours to intake 600gb of video data from another drive  .
+tech support was not able to solve the painfully slow transfer speeds  .
+i really wanted my drobo to work , and is very sad to have to return it  .
+my advice  .
+wait for the firewire 800 version .
+i just read your drobo review and wanted to share my experience with drobo  .
+i don't think you should be endorsing it i pre    ordered my drobo , so consider me an early adopter  .
+at first , i  loved  it  .
+innovative , slick , and a worthy alternative to raid5 , i thought  .
+after applying the first firmware update , the drobo rebooted and my mac informed me that the connected disk is unformatted and asked what i wanted to do (initialize , ignore , eject)  .
+as you can imagine , i is immediately filled with panic and dread over the past five years or more , i've built a huge (legal) music collection  .
+i'm a music freak and buy between 5 and 10 cds each month  .
+i had painstakingly ripped each and every one of my 2000+ cds to the drobo , both in apple lossless format for my home stereo and aac format for my ipod  .
+i cannot even imagine how many hours (hundreds  .
+) i spent doing this  .
+i also took the time to verify all of the metadata (artist , album , etc) and correct any tag errors  .
+as you can imagine , this is very tedious  .
+recently i've been ripping my dvd collection and converting it to mp4 for my apple tv  .
+each rip/conversion takes between 3    4 hours  .
+a hundred dvds or so and you're looking at another 300 hours of time spent so , i called drobo tech support  .
+they walked me through a procedure that involved removing and re    inserting the drives  .
+at first this didn't work  .
+then the tech told me to change the position of the drives in the drobo  .
+voila  .
+it took about three days to protect the data  .
+after this process had finished , my data is back and i is much relieved until the next firmware update the most recent update completely hosed my data  .
+this time , tech support's procedure didn't work  .
+it took 12 days to protect my data and when all is finished , my data is lost  .
+throughout this experience , i made efforts to contact tech support  .
+i sent them my drobo's diagnostic files , as requested  .
+someone from drobo sent me the occasional terse email saying this is a high priority case  .
+or please be patient  .
+a month later , how patient am i supposed to be  .
+a few months ago , i contributed a review of drobo to macintouch  .
+com  .
+i'm a regular contributor  .
+i praised it and encouraged others to give it a shot  .
+needless to say , after my recent experience , i wrote to retract my recommendation and explain why  .
+i sent a copy to my drobo contact's email in the hopes that it might inspire drobo to actually do something about my problem would you care to hazard a guess as to how drobo responded  .
+they closed my case (on april 10) , despite the fact that    .
+1) i'm a paying customer 2) i'm under warranty 3) i is an early adopter who put my faith in them and their product they do not care one iota that i lost 2tb of data that took me years to accumulate and organize  .
+at this point , i've accepted that my data is gone  .
+however , i'm deeply disappointed in the utterly pathetic response i've received from customer service as you can well imagine , i'm very angry and frustrated  .
+my experience is not unique either  .
+there are others on drobospace  .
+com and various forums (i've been searching  .
+) who have all encountered the same problem thanks for listening  .
+i hope my experience has provided another perspective on this troublesome product  .
+more importantly , i hope that it has demonstrated how insincere drobo is about customer service .
+took 3 days to protect data after inserting a new hdd  .
+takes 1  .
+5 days to copy 1  .
+5tb to an external hdd .
+my drobo just crapped out because of software/firmware problems  .
+after 2 hours (two hours  .
+) on the phone with their tech support unistalling software and firmware , reinstalling , using two different macs to troubleshoot his final prescription is for me to buy third party software to fix the mess their software created  .
+i've recommended drobo to a lot of my colleagues in film/tv/photo , and i've been emailing them all to let them know to back up to a drive with no intermediary software this is not the reliable back up system they claim  .
+droblows  .
+while i is initially impressed with the ease with which it took to setup the drobo , this is the shortest honeymoon of any purchase i have made in sometime  .
+the amount of money lost is considerable , though the hard drives can be reused in another raid/san solution , but not as much as my time and some data that are gone for good after contacting the data robotics technical support line (the makers of the drobo) on three different occasions for three different issues , the final solution is always to reformat my raid  .
+the time and effort to copy data back and forth across multiple hard drives (obviously my 4tb drobo raid is bigger then my individual drives) gets old really fast , especially at the speed at which the drobo copies even through the droboshare (which in itself works very well)  .
+let me not forget to mention that the support hold time can be longer than most , and when someone eventually comes on the line , though pleasant and will run through a very thorough checklist of troubleshooting methods , if they can not find the solution will tell someone will call you back ; but unless reminded no one will  .
+i waited over a month , i called back twice to remind them of my issue only to have to go through some of the same troubleshooting before the person would conclude that yes my problem needed to be escalated to level three support  .
+another week later , i have to say a very nice person in level three support , tells me how they understand how frustrated i must be and will try to help , but in the end cannot i had had my drobo for six months and had only gotten about a months worth of use from it ; now i need to find a way to discard it without contributing to the destruction of the environment as the drobo is made , almost completely of plastic ; maybe a plant holder for a cactus plant i have to recommend that if you are looking for a home san/raid solution , stay as far away from the drobo as possible  .
+it is by no means ready for someone who wants to actually store data safely updated  .
+on apr 20 , 2009  .
+after spending this kind of money you expect the company behind the product to move heaven and earth when their product fails  .
+i am really disappointed .
+not recommended  .
+save your $ , keep looking  .
+i bought 2 drobos , with the shares , the one with 4 1tb drives works fine so far , the 0ne with the 4 1  .
+5tb does not  .
+many failed restores .
+after purchasing a drobo and equiping it with 500 gig drives i is quite impressed  .
+then , when i purchased a second drobo , and added 750 gig drives to drobo 1 , the trouble began  .
+drobo 1 failed completely , causing a 1  .
+5 terabyte data loss and drobo 2 takes 10 to 15 minutes to boot , during which time the computer is frozen  .
+i'm sorry i switched from raid  .
+i am going back  .
+additionally tech support in slow answering the phones , and seeming incompetent .
+considering the value of today's user's data anything that gets people to think about backup , archiving and data safety has some good in it  .
+but this product tries to re    invent the wheel by claiming to improve on raid , as a result causing confusion in minds of many users i have tested and used this product , opened it the facts   24mb/s is slow  .
+slower than external usb 2  .
+0 mobile hard drives  .
+about 10    12 mb/s slower than the $119  .
+99 500gb usb 2  .
+0 hd you can buy anywhere  .
+the demo video is heavily edited  .
+it is not that fast to configure the unit and to copy data especially if drives are full  .
+it is not that instant to have fault tolerance , as the video has you thinking  .
+the amount of data being copied and moved in the demo is very small    not what i would have on my drive for example with my mp3 library and movie library eventually you'll have to populate the unit with drives anyway , making it's entry price point deceiving  .
+and at $500 for the empty box its not cheap  .
+1 year warranty on drobo and the fact that box and drives are covered by different parties is a draw back also  .
+you dont go to one place for service on this unit and i do not care how small those bunch of magnets are that hold the drobo front cover in place , magnets of any sort have no place being that close to my naked hard drive mechanisms being pulled in and out the product in my view commits one major crime worse than above  .
+it confuses people and all they already know about raid  .
+raid is good  .
+raid is here and used by many people it is reliable , established    a standard  .
+raid makes people think of storage needs and risks to data before selection of solution , before final choice of product  .
+raid with proper hardware raid controllers for raid 0/1/5 levels is affordable and very reliable  .
+you can find fantastic hardware controlled raid solutions with hot swap drives starting at $399 with drives/capacity already present at this price point  .
+no software application or cpu power required for hardware controlled raid to handle the virtualization like with drobo dont ask me what happens should there be a drobo software issue that handles the virtualization and trickery that makes my computer believe i have 2tb of space with a single 250gb drive installed in the drobo  .
+dont ask me what happens if a partition information on the virtualized partition gets corrupted (as can happen with power outage , hd failure , improper unmount , computer crash , etc)  .
+dont ask me if a hd repair utility tool will know how to fix this virtualized partition to recover my data in case of failure  .
+i cant answer those questions , but i sure as heck dont want to find out  .
+with raid being around as long as it has been , i know my chances of recovery , rebuilt , fix are much better even in the worse case scenario than with a partition that thinks its 2tb when i only have a single 250gb drive installed drobo tires to make people think of capacity , performance , redundancy as an after though to what is called easy and simple  .
+but for this lack of making users plan properly ahead for their storage needs and for confusing many users by claiming that raid is bad , old , outdated , as well as for the poor performance , need for virtualization , for the short 1 year warranty (especially since there are no hard drives present)  i have to give this product big thumbs down .
+the cnet review is rather odd as this device is not innovative in the least , in fact , it's way behind the times i is astonished that the drobo had no network connection  .
+if it wants to be taken seriously , it should have gigabit ethernet as well as fat32 and also offer a wireless (801  .
+11n) version there is no way i would even consider purchasing a device of this type unless it could be used as nas the price is way out of range for the current market .
+does not work with some drives as i found out hard way  .
+no human contact , selling it on ebay before the word gets out .
+i bought five of these things and within five months , three went bad  .
+spent over 35 hours with their tech support trying to fix them  .
+only recovered data on one of the three that went bad  .
+i didn't lose the data permanently because i had other backups of it  .
+however , the product is completely useless with over a 50% failure rate  .
+(small sample of 5 units for me , but i'm pretty sure this is a common situation) chalked it up to a big expensive mistake and moved on to another solution  .
+bottom line , do not trust your data to drobo , you will be sorry  .
+avoid this  .
+avoid this  .
+avoid this  .
+i lost everything  .
+all my corporate docs , cad designs , photos    everything gone  .
+drobo boasted to be the ultimate 'self    healing' primary and backup solution  .
+in my case , no drives went bad , no recent updates were installed , no power failures , no deletion of files on my part  .
+just complete loss of data  .
+the killer thing is that it left some folder trees but no files  .
+i am absolutely devastated  .
+i should have gotten a larger primary drive and paid $50/year with secure online backup companies  .
+i curse the day i bought this thing .
+sometimes stuff doesn't work and when it doesn't technical support may have the answer , if not they have you send it back under warranty  .
+that's how things should be  .
+instead i not only had my trouble ticket dropped but i is given the run around when i asked about the warranty  .
+several times i is told plug it into the back usb , swap the drives , turn the drobo off and wait 20 minutes , update the dashboard , nothing worked  .
+the had me submit one of those encrypted reports that the drobo produces to technical support and then i didn't hear from them till i got an email stating that they were marking my ticket as resolved it took months to recover what i could since the drobo would only work for about an hour a day , once i got everything that had not been corrupted  .
+i tried to send it in and they just started telling me the same thing they said before , update your dashboard , plug it into the back etc  .
+etc  .
+completely dodging that i had done this and is under warranty  .
+i'm not spending a dime on another drive just to have it crash i had one drive that completely crashed in my drobo within a month , i have no idea whether it is because of the drobo or because of the drive  .
+what i do know is that western digital is able to replace this drive within a week or so , drobo on the other hand has avoided recognizing the warranty completely  .
+hopefully that will change but i've been trying for about a week and they want to try troubleshooting again and simply repeat everything that went wrong before .
+i bought one of these based on some glowing initial reports  .
+i'm a storage professional myself and researched carefully  .
+i purchased a drobo 2 and 3 x 1tb samsung drives    all were revved with latest firmware before data is loaded after 3 months use i'm getting intermittent 'data unavailability' errors no detail can be found on what is going on inside the device except for flashing green and amber lights , but after 4 hours of outage it comes back up 'ok' with all drives green until the next time  .
+scary stuff and i'm paranoid that my data may disappear like others have seen  .
+it's all very well to say 'back up your data' but how exactly do you back up over a tb of data at home  .
+mozy is pointless    it would take 6 months to send that amount over so , i'm going to dump it in favour of a much more secure solution   two external firewire disks and a regular backup from one to another  .
+more expensive   perhaps  .
+but i will have full control of my data replication and not be living in fear that this dreadful device will destroy my data and leave no logs as to why something happened net   avoid at all costs .
+my rating is to reflect the seriousness of how important trust in advertising claims  .
+i've had my second generation drobo for 6 months with 3 unexplained incidents of file corruption , a complete failure of a droboshare and just today the drobo froze completely without any warning as claimed  .
+i inserted a new third hard drive to assure that i have plenty of space and plenty of flexibiilty for the drobo to protect my data  .
+a drive that is once on their safe list which has now been removed  .
+(seagate barracuda 7200 1  .
+5t) despite this , data robotics claims that the drobo will inform you in several ways that if there is either eminent drive failure or failure of a drive , the other drives and data are protected  .
+after inserting the drive , the drobo behaved as it should , and accepted the new drive  .
+but after finding a another unexplained corrupted file , i thought i would verify what is going on  .
+so , as per instructions , i put the drobo in standby , disconnected it from the drobo share , then reconnected it with a pc so i could run a chkdsk  .
+the drobo would not re    mount it  .
+s volume  .
+since this is under warranty , instead of further troubleshooting i called tech support and is informed that the drobo had froze  .
+i have done everything by the book and i  .
+m not a novice  .
+i now realize that my faith in the device is horribly wrong  .
+i still don  .
+t know why the new drive may have caused an issue , but a failure of this type is totally unacceptable in light of what the company claims the device does  .
+they  .
+re all about protecting your data , making sure that a single drive failure does not interrupt service or destroy data  .
+once we removed the new drive (that is just moments earlier claimed to be fine) the drobo is able to remount the volume and start to  .
+re    layout  .
+the volume again at the earlier smaller size  .
+i can get to the files now , but i no longer have any trust in the device or the company .
+in a normal raid system , if you insert 1tb of space (two 500gb drives) , then you will only be able to use 500gb of that space , because it needs the other half for backup  .
+now with drobo , it will allow access to the full 1tb , which i find kind of deceiving , because you are still limited to only 500gb of the space anyway , as it still needs an equal amount of space for backup  .
+so where is the hype about being able to use all your space  .
+this would come from the ability to use different sized hard    drives , whereas with a normal raid , you need to have all the hard    drives the same size , or you'll have wasted space  .
+ok , so does this mean that there is no wasted space with drobo after all  .
+let's say that you put in a 300gb and 400gb hard    drive , and use up 300gb of space  .
+what happens to the extra 100gb  .
+would not it go wasted , because if you could use it there would be no place to back it up  .
+so what are the actual benefits  .
+i've read several comments here on cnet about drobo failing , and the files being unrecoverable  .
+this does not happen with raid , which makes me a little uncomfortable buying a drobo for the little benefit that it does have  .
+could the unrecoverable files have anything to do with drobo's screwed up algorithm that gives you that false feeling of more space  .
+our drobo failed within three days taking all of our data with it  .
+after a frustrating experience with tech support , it is determined that the data is unrecoverable  .
+use this product at your own risk  .
+make sure that you back it up  .
+when it failed for us , it failed completely  .
+fortunately we were able to recover from backups  .
+this device is slow and unreliable  .
+i should have known better not to purchase a version 1  .
+0 product  .
+use this product at your own risk  .
+if you are a consultant , do not recommend this product to your clients .

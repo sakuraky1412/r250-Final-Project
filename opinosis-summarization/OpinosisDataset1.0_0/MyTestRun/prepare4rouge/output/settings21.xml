@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="94">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">speed_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">speed_windows7.MyTestRun.system.html</P>
+<P ID="MULTISEN">speed_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">speed_windows7.Opinosis10.system.html</P>
+<P ID="OP_OP_20">speed_windows7.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">speed_windows7.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">speed_windows7.3.gold.html</M>
+<M ID="3">speed_windows7.4.gold.html</M>
+<M ID="4">speed_windows7.2.gold.html</M>
+<M ID="5">speed_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="95">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">speed_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">speed_windows7.MyTestRun.system.html</P>
+<P ID="MULTISEN">speed_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">speed_windows7.Opinosis10.system.html</P>
+<P ID="OP_OP_20">speed_windows7.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">speed_windows7.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">speed_windows7.5.gold.html</M>
+<M ID="3">speed_windows7.4.gold.html</M>
+<M ID="4">speed_windows7.2.gold.html</M>
+<M ID="5">speed_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="96">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">speed_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">speed_windows7.MyTestRun.system.html</P>
+<P ID="MULTISEN">speed_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">speed_windows7.Opinosis10.system.html</P>
+<P ID="OP_OP_20">speed_windows7.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">speed_windows7.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">speed_windows7.5.gold.html</M>
+<M ID="2">speed_windows7.3.gold.html</M>
+<M ID="4">speed_windows7.2.gold.html</M>
+<M ID="5">speed_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="97">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">speed_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">speed_windows7.MyTestRun.system.html</P>
+<P ID="MULTISEN">speed_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">speed_windows7.Opinosis10.system.html</P>
+<P ID="OP_OP_20">speed_windows7.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">speed_windows7.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">speed_windows7.5.gold.html</M>
+<M ID="2">speed_windows7.3.gold.html</M>
+<M ID="3">speed_windows7.4.gold.html</M>
+<M ID="5">speed_windows7.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="98">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">speed_windows7.OP_MS_20.system.html</P>
+<P ID="MyTestRun">speed_windows7.MyTestRun.system.html</P>
+<P ID="MULTISEN">speed_windows7.MULTISEN.system.html</P>
+<P ID="Opinosis10">speed_windows7.Opinosis10.system.html</P>
+<P ID="OP_OP_20">speed_windows7.OP_OP_20.system.html</P>
+<P ID="OP_MS_F">speed_windows7.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">speed_windows7.5.gold.html</M>
+<M ID="2">speed_windows7.3.gold.html</M>
+<M ID="3">speed_windows7.4.gold.html</M>
+<M ID="4">speed_windows7.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

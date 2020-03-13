@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="34">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">lg-ally-verizon-wireless.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">lg-ally-verizon-wireless.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">lg-ally-verizon-wireless.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">lg-ally-verizon-wireless.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">lg-ally-verizon-wireless.MI_MS_10.system.html</P>
+<P ID="MICROPINION">lg-ally-verizon-wireless.MICROPINION.system.html</P>
+<P ID="MI_OP_20">lg-ally-verizon-wireless.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">lg-ally-verizon-wireless.2.gold.html</M>
+<M ID="3">lg-ally-verizon-wireless.1.gold.html</M>
+<M ID="4">lg-ally-verizon-wireless.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="35">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">lg-ally-verizon-wireless.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">lg-ally-verizon-wireless.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">lg-ally-verizon-wireless.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">lg-ally-verizon-wireless.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">lg-ally-verizon-wireless.MI_MS_10.system.html</P>
+<P ID="MICROPINION">lg-ally-verizon-wireless.MICROPINION.system.html</P>
+<P ID="MI_OP_20">lg-ally-verizon-wireless.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">lg-ally-verizon-wireless.3.gold.html</M>
+<M ID="3">lg-ally-verizon-wireless.1.gold.html</M>
+<M ID="4">lg-ally-verizon-wireless.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="36">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">lg-ally-verizon-wireless.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">lg-ally-verizon-wireless.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">lg-ally-verizon-wireless.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">lg-ally-verizon-wireless.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">lg-ally-verizon-wireless.MI_MS_10.system.html</P>
+<P ID="MICROPINION">lg-ally-verizon-wireless.MICROPINION.system.html</P>
+<P ID="MI_OP_20">lg-ally-verizon-wireless.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">lg-ally-verizon-wireless.3.gold.html</M>
+<M ID="2">lg-ally-verizon-wireless.2.gold.html</M>
+<M ID="4">lg-ally-verizon-wireless.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="37">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_10">lg-ally-verizon-wireless.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">lg-ally-verizon-wireless.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">lg-ally-verizon-wireless.MI_MS_20.system.html</P>
+<P ID="MI_MS_A">lg-ally-verizon-wireless.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">lg-ally-verizon-wireless.MI_MS_10.system.html</P>
+<P ID="MICROPINION">lg-ally-verizon-wireless.MICROPINION.system.html</P>
+<P ID="MI_OP_20">lg-ally-verizon-wireless.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">lg-ally-verizon-wireless.3.gold.html</M>
+<M ID="2">lg-ally-verizon-wireless.2.gold.html</M>
+<M ID="3">lg-ally-verizon-wireless.1.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1158">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-vx2235wm-22-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">viewsonic-vx2235wm-22-monitor.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">viewsonic-vx2235wm-22-monitor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">viewsonic-vx2235wm-22-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-vx2235wm-22-monitor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">viewsonic-vx2235wm-22-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_20">viewsonic-vx2235wm-22-monitor.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">viewsonic-vx2235wm-22-monitor.9.gold.html</M>
+<M ID="3">viewsonic-vx2235wm-22-monitor.0.gold.html</M>
+<M ID="4">viewsonic-vx2235wm-22-monitor.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1159">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-vx2235wm-22-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">viewsonic-vx2235wm-22-monitor.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">viewsonic-vx2235wm-22-monitor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">viewsonic-vx2235wm-22-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-vx2235wm-22-monitor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">viewsonic-vx2235wm-22-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_20">viewsonic-vx2235wm-22-monitor.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-vx2235wm-22-monitor.3.gold.html</M>
+<M ID="3">viewsonic-vx2235wm-22-monitor.0.gold.html</M>
+<M ID="4">viewsonic-vx2235wm-22-monitor.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1160">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-vx2235wm-22-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">viewsonic-vx2235wm-22-monitor.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">viewsonic-vx2235wm-22-monitor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">viewsonic-vx2235wm-22-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-vx2235wm-22-monitor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">viewsonic-vx2235wm-22-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_20">viewsonic-vx2235wm-22-monitor.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-vx2235wm-22-monitor.3.gold.html</M>
+<M ID="2">viewsonic-vx2235wm-22-monitor.9.gold.html</M>
+<M ID="4">viewsonic-vx2235wm-22-monitor.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1161">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">viewsonic-vx2235wm-22-monitor.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">viewsonic-vx2235wm-22-monitor.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">viewsonic-vx2235wm-22-monitor.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">viewsonic-vx2235wm-22-monitor.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">viewsonic-vx2235wm-22-monitor.MI_OP_10.system.html</P>
+<P ID="MICROPINION">viewsonic-vx2235wm-22-monitor.MICROPINION.system.html</P>
+<P ID="MI_MS_20">viewsonic-vx2235wm-22-monitor.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">viewsonic-vx2235wm-22-monitor.3.gold.html</M>
+<M ID="2">viewsonic-vx2235wm-22-monitor.9.gold.html</M>
+<M ID="3">viewsonic-vx2235wm-22-monitor.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

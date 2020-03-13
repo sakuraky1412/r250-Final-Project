@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="48">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">htc-hd2-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-hd2-black-t-mobile.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">htc-hd2-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">htc-hd2-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">htc-hd2-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-hd2-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_10">htc-hd2-black-t-mobile.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">htc-hd2-black-t-mobile.6.gold.html</M>
+<M ID="3">htc-hd2-black-t-mobile.2.gold.html</M>
+<M ID="4">htc-hd2-black-t-mobile.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="49">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">htc-hd2-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-hd2-black-t-mobile.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">htc-hd2-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">htc-hd2-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">htc-hd2-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-hd2-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_10">htc-hd2-black-t-mobile.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-hd2-black-t-mobile.0.gold.html</M>
+<M ID="3">htc-hd2-black-t-mobile.2.gold.html</M>
+<M ID="4">htc-hd2-black-t-mobile.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="50">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">htc-hd2-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-hd2-black-t-mobile.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">htc-hd2-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">htc-hd2-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">htc-hd2-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-hd2-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_10">htc-hd2-black-t-mobile.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-hd2-black-t-mobile.0.gold.html</M>
+<M ID="2">htc-hd2-black-t-mobile.6.gold.html</M>
+<M ID="4">htc-hd2-black-t-mobile.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="51">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">htc-hd2-black-t-mobile.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">htc-hd2-black-t-mobile.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">htc-hd2-black-t-mobile.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">htc-hd2-black-t-mobile.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">htc-hd2-black-t-mobile.MI_OP_20.system.html</P>
+<P ID="MICROPINION">htc-hd2-black-t-mobile.MICROPINION.system.html</P>
+<P ID="MI_MS_10">htc-hd2-black-t-mobile.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">htc-hd2-black-t-mobile.0.gold.html</M>
+<M ID="2">htc-hd2-black-t-mobile.6.gold.html</M>
+<M ID="3">htc-hd2-black-t-mobile.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

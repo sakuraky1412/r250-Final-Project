@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1197">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-windows-7-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">microsoft-windows-7-ultimate.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-windows-7-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">microsoft-windows-7-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">microsoft-windows-7-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-windows-7-ultimate.MI_OP_10.system.html</P>
+<P ID="MICROPINION">microsoft-windows-7-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">microsoft-windows-7-ultimate.0.gold.html</M>
+<M ID="3">microsoft-windows-7-ultimate.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1198">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-windows-7-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">microsoft-windows-7-ultimate.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-windows-7-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">microsoft-windows-7-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">microsoft-windows-7-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-windows-7-ultimate.MI_OP_10.system.html</P>
+<P ID="MICROPINION">microsoft-windows-7-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-windows-7-ultimate.2.gold.html</M>
+<M ID="3">microsoft-windows-7-ultimate.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="1199">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">microsoft-windows-7-ultimate.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">microsoft-windows-7-ultimate.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">microsoft-windows-7-ultimate.MI_MS_10.system.html</P>
+<P ID="MI_MS_A">microsoft-windows-7-ultimate.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">microsoft-windows-7-ultimate.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">microsoft-windows-7-ultimate.MI_OP_10.system.html</P>
+<P ID="MICROPINION">microsoft-windows-7-ultimate.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">microsoft-windows-7-ultimate.2.gold.html</M>
+<M ID="2">microsoft-windows-7-ultimate.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

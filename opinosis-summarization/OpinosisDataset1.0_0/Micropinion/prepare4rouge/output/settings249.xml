@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="955">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">creative-zen-16gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">creative-zen-16gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">creative-zen-16gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">creative-zen-16gb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">creative-zen-16gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">creative-zen-16gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">creative-zen-16gb.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">creative-zen-16gb.9.gold.html</M>
+<M ID="3">creative-zen-16gb.0.gold.html</M>
+<M ID="4">creative-zen-16gb.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="956">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">creative-zen-16gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">creative-zen-16gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">creative-zen-16gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">creative-zen-16gb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">creative-zen-16gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">creative-zen-16gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">creative-zen-16gb.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">creative-zen-16gb.3.gold.html</M>
+<M ID="3">creative-zen-16gb.0.gold.html</M>
+<M ID="4">creative-zen-16gb.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="957">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">creative-zen-16gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">creative-zen-16gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">creative-zen-16gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">creative-zen-16gb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">creative-zen-16gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">creative-zen-16gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">creative-zen-16gb.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">creative-zen-16gb.3.gold.html</M>
+<M ID="2">creative-zen-16gb.9.gold.html</M>
+<M ID="4">creative-zen-16gb.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="958">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">creative-zen-16gb.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">creative-zen-16gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">creative-zen-16gb.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">creative-zen-16gb.MI_MS_10.system.html</P>
+<P ID="MICROPINION">creative-zen-16gb.MICROPINION.system.html</P>
+<P ID="MI_MS_20">creative-zen-16gb.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">creative-zen-16gb.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">creative-zen-16gb.3.gold.html</M>
+<M ID="2">creative-zen-16gb.9.gold.html</M>
+<M ID="3">creative-zen-16gb.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

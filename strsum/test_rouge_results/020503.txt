@@ -1,0 +1,16 @@
+============================================
+permutation test
+============================================
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+Experiment: ROUGE-2
+++++++++++++++++++++++++++++++++++++++++++++
+reference group: Opinosis10
+test group: MULTISEN
+
+
+taking random subsample of size 20000 from 199804427433372226016001220056 possible permutations

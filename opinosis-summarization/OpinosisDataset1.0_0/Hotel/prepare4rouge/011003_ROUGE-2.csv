@@ -1,0 +1,7 @@
+runid,recall,precision,f-score
+HO_MS_10_ROUGE-2,0,0,0
+HO_MS_20_ROUGE-2,0,0,0
+HO_MS_F_ROUGE-2,0,0,0
+HO_OP_10_ROUGE-2,0,0,0
+HO_OP_20_ROUGE-2,0,0,0
+HO_OP_F_ROUGE-2,0,0,0

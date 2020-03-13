@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="211">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">bathroom_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_20">bathroom_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="Opinosis10">bathroom_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">bathroom_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">bathroom_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MULTISEN">bathroom_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">bathroom_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="3">bathroom_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="4">bathroom_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="5">bathroom_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="212">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">bathroom_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_20">bathroom_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="Opinosis10">bathroom_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">bathroom_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">bathroom_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MULTISEN">bathroom_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">bathroom_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">bathroom_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="4">bathroom_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="5">bathroom_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="213">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">bathroom_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_20">bathroom_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="Opinosis10">bathroom_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">bathroom_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">bathroom_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MULTISEN">bathroom_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">bathroom_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="2">bathroom_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="4">bathroom_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="5">bathroom_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="214">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">bathroom_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_20">bathroom_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="Opinosis10">bathroom_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">bathroom_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">bathroom_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MULTISEN">bathroom_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">bathroom_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="2">bathroom_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="3">bathroom_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="5">bathroom_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="215">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MyTestRun">bathroom_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="OP_MS_20">bathroom_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="Opinosis10">bathroom_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">bathroom_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="OP_OP_20">bathroom_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MULTISEN">bathroom_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">bathroom_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="2">bathroom_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="3">bathroom_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="4">bathroom_bestwestern_hotel_sfo.3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

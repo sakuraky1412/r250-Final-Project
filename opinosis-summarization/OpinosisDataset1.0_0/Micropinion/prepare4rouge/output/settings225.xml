@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="865">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">nikon-d80-body-only.MI_MS_10.system.html</P>
+<P ID="MICROPINION">nikon-d80-body-only.MICROPINION.system.html</P>
+<P ID="MI_OP_20">nikon-d80-body-only.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">nikon-d80-body-only.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">nikon-d80-body-only.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">nikon-d80-body-only.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">nikon-d80-body-only.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">nikon-d80-body-only.6.gold.html</M>
+<M ID="3">nikon-d80-body-only.8.gold.html</M>
+<M ID="4">nikon-d80-body-only.2.gold.html</M>
+<M ID="5">nikon-d80-body-only.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="866">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">nikon-d80-body-only.MI_MS_10.system.html</P>
+<P ID="MICROPINION">nikon-d80-body-only.MICROPINION.system.html</P>
+<P ID="MI_OP_20">nikon-d80-body-only.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">nikon-d80-body-only.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">nikon-d80-body-only.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">nikon-d80-body-only.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">nikon-d80-body-only.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nikon-d80-body-only.0.gold.html</M>
+<M ID="3">nikon-d80-body-only.8.gold.html</M>
+<M ID="4">nikon-d80-body-only.2.gold.html</M>
+<M ID="5">nikon-d80-body-only.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="867">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">nikon-d80-body-only.MI_MS_10.system.html</P>
+<P ID="MICROPINION">nikon-d80-body-only.MICROPINION.system.html</P>
+<P ID="MI_OP_20">nikon-d80-body-only.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">nikon-d80-body-only.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">nikon-d80-body-only.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">nikon-d80-body-only.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">nikon-d80-body-only.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nikon-d80-body-only.0.gold.html</M>
+<M ID="2">nikon-d80-body-only.6.gold.html</M>
+<M ID="4">nikon-d80-body-only.2.gold.html</M>
+<M ID="5">nikon-d80-body-only.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="868">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">nikon-d80-body-only.MI_MS_10.system.html</P>
+<P ID="MICROPINION">nikon-d80-body-only.MICROPINION.system.html</P>
+<P ID="MI_OP_20">nikon-d80-body-only.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">nikon-d80-body-only.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">nikon-d80-body-only.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">nikon-d80-body-only.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">nikon-d80-body-only.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nikon-d80-body-only.0.gold.html</M>
+<M ID="2">nikon-d80-body-only.6.gold.html</M>
+<M ID="3">nikon-d80-body-only.8.gold.html</M>
+<M ID="5">nikon-d80-body-only.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="869">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">nikon-d80-body-only.MI_MS_10.system.html</P>
+<P ID="MICROPINION">nikon-d80-body-only.MICROPINION.system.html</P>
+<P ID="MI_OP_20">nikon-d80-body-only.MI_OP_20.system.html</P>
+<P ID="MI_OP_10">nikon-d80-body-only.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">nikon-d80-body-only.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">nikon-d80-body-only.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">nikon-d80-body-only.MI_MS_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">nikon-d80-body-only.0.gold.html</M>
+<M ID="2">nikon-d80-body-only.6.gold.html</M>
+<M ID="3">nikon-d80-body-only.8.gold.html</M>
+<M ID="4">nikon-d80-body-only.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

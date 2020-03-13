@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="990">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">apple-ipod-touch-third-generation-64gb.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-third-generation-64gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-third-generation-64gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-third-generation-64gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-third-generation-64gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-third-generation-64gb.MI_MS_20.system.html</P>
+<P ID="MICROPINION">apple-ipod-touch-third-generation-64gb.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">apple-ipod-touch-third-generation-64gb.6.gold.html</M>
+<M ID="3">apple-ipod-touch-third-generation-64gb.2.gold.html</M>
+<M ID="4">apple-ipod-touch-third-generation-64gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="991">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">apple-ipod-touch-third-generation-64gb.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-third-generation-64gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-third-generation-64gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-third-generation-64gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-third-generation-64gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-third-generation-64gb.MI_MS_20.system.html</P>
+<P ID="MICROPINION">apple-ipod-touch-third-generation-64gb.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-ipod-touch-third-generation-64gb.0.gold.html</M>
+<M ID="3">apple-ipod-touch-third-generation-64gb.2.gold.html</M>
+<M ID="4">apple-ipod-touch-third-generation-64gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="992">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">apple-ipod-touch-third-generation-64gb.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-third-generation-64gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-third-generation-64gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-third-generation-64gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-third-generation-64gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-third-generation-64gb.MI_MS_20.system.html</P>
+<P ID="MICROPINION">apple-ipod-touch-third-generation-64gb.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-ipod-touch-third-generation-64gb.0.gold.html</M>
+<M ID="2">apple-ipod-touch-third-generation-64gb.6.gold.html</M>
+<M ID="4">apple-ipod-touch-third-generation-64gb.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="993">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_10">apple-ipod-touch-third-generation-64gb.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">apple-ipod-touch-third-generation-64gb.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">apple-ipod-touch-third-generation-64gb.MI_MS_A.system.html</P>
+<P ID="MI_OP_10">apple-ipod-touch-third-generation-64gb.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">apple-ipod-touch-third-generation-64gb.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">apple-ipod-touch-third-generation-64gb.MI_MS_20.system.html</P>
+<P ID="MICROPINION">apple-ipod-touch-third-generation-64gb.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-ipod-touch-third-generation-64gb.0.gold.html</M>
+<M ID="2">apple-ipod-touch-third-generation-64gb.6.gold.html</M>
+<M ID="3">apple-ipod-touch-third-generation-64gb.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

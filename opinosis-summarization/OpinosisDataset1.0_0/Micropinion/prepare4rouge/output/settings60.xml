@@ -1,0 +1,60 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="226">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-solstice-sgh-a887-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">samsung-solstice-sgh-a887-att.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">samsung-solstice-sgh-a887-att.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-solstice-sgh-a887-att.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">samsung-solstice-sgh-a887-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">samsung-solstice-sgh-a887-att.MI_MS_10.system.html</P>
+<P ID="MICROPINION">samsung-solstice-sgh-a887-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">samsung-solstice-sgh-a887-att.2.gold.html</M>
+<M ID="3">samsung-solstice-sgh-a887-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="227">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-solstice-sgh-a887-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">samsung-solstice-sgh-a887-att.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">samsung-solstice-sgh-a887-att.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-solstice-sgh-a887-att.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">samsung-solstice-sgh-a887-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">samsung-solstice-sgh-a887-att.MI_MS_10.system.html</P>
+<P ID="MICROPINION">samsung-solstice-sgh-a887-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-solstice-sgh-a887-att.0.gold.html</M>
+<M ID="3">samsung-solstice-sgh-a887-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="228">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">samsung-solstice-sgh-a887-att.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">samsung-solstice-sgh-a887-att.MI_OP_A.system.html</P>
+<P ID="MI_OP_10">samsung-solstice-sgh-a887-att.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">samsung-solstice-sgh-a887-att.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">samsung-solstice-sgh-a887-att.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">samsung-solstice-sgh-a887-att.MI_MS_10.system.html</P>
+<P ID="MICROPINION">samsung-solstice-sgh-a887-att.MICROPINION.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">samsung-solstice-sgh-a887-att.0.gold.html</M>
+<M ID="2">samsung-solstice-sgh-a887-att.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,251 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="478">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="479">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="480">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="481">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="482">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="483">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="484">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="8">drobo-second-generation.4.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="485">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICROPINION">drobo-second-generation.MICROPINION.system.html</P>
+<P ID="MI_OP_10">drobo.MI_OP_10.system.html</P>
+<P ID="MI_MS_10">drobo-second-generation.MI_MS_10.system.html</P>
+<P ID="MI_OP_A">drobo-second-generation.MI_OP_A.system.html</P>
+<P ID="MI_MS_A">drobo.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">drobo-second-generation.MI_OP_20.system.html</P>
+<P ID="MI_MS_A">drobo-second-generation.MI_MS_A.system.html</P>
+<P ID="MI_MS_20">drobo.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">drobo.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">drobo.MI_MS_10.system.html</P>
+<P ID="MI_OP_10">drobo-second-generation.MI_OP_10.system.html</P>
+<P ID="MICROPINION">drobo.MICROPINION.system.html</P>
+<P ID="MI_MS_20">drobo-second-generation.MI_MS_20.system.html</P>
+<P ID="MI_OP_20">drobo.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">drobo.9.gold.html</M>
+<M ID="2">drobo-second-generation.0.gold.html</M>
+<M ID="3">drobo-second-generation.6.gold.html</M>
+<M ID="4">drobo.3.gold.html</M>
+<M ID="5">drobo.6.gold.html</M>
+<M ID="6">drobo.0.gold.html</M>
+<M ID="7">drobo-second-generation.2.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

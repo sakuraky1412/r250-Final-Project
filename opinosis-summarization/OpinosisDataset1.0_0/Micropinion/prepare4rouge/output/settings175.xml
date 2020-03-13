@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="678">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-powershot-sd600.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sd600.MI_OP_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sd600.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sd600.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">canon-powershot-sd600.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sd600.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sd600.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">canon-powershot-sd600.0.gold.html</M>
+<M ID="3">canon-powershot-sd600.9.gold.html</M>
+<M ID="4">canon-powershot-sd600.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="679">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-powershot-sd600.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sd600.MI_OP_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sd600.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sd600.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">canon-powershot-sd600.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sd600.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sd600.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-powershot-sd600.6.gold.html</M>
+<M ID="3">canon-powershot-sd600.9.gold.html</M>
+<M ID="4">canon-powershot-sd600.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="680">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-powershot-sd600.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sd600.MI_OP_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sd600.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sd600.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">canon-powershot-sd600.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sd600.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sd600.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-powershot-sd600.6.gold.html</M>
+<M ID="2">canon-powershot-sd600.0.gold.html</M>
+<M ID="4">canon-powershot-sd600.3.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="681">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">canon-powershot-sd600.MI_MS_20.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sd600.MI_OP_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sd600.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sd600.MI_OP_10.system.html</P>
+<P ID="MI_MS_A">canon-powershot-sd600.MI_MS_A.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sd600.MI_OP_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sd600.MI_MS_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-powershot-sd600.6.gold.html</M>
+<M ID="2">canon-powershot-sd600.0.gold.html</M>
+<M ID="3">canon-powershot-sd600.9.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,103 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="206">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">free_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">free_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MyTestRun">free_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="Opinosis10">free_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">free_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">free_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">free_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">free_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="4">free_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="5">free_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="207">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">free_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">free_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MyTestRun">free_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="Opinosis10">free_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">free_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">free_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">free_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="3">free_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="4">free_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="5">free_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="208">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">free_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">free_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MyTestRun">free_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="Opinosis10">free_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">free_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">free_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">free_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="2">free_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="4">free_bestwestern_hotel_sfo.5.gold.html</M>
+<M ID="5">free_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="209">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">free_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">free_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MyTestRun">free_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="Opinosis10">free_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">free_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">free_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">free_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="2">free_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">free_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="5">free_bestwestern_hotel_sfo.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="210">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="OP_MS_20">free_bestwestern_hotel_sfo.OP_MS_20.system.html</P>
+<P ID="OP_OP_20">free_bestwestern_hotel_sfo.OP_OP_20.system.html</P>
+<P ID="MyTestRun">free_bestwestern_hotel_sfo.MyTestRun.system.html</P>
+<P ID="Opinosis10">free_bestwestern_hotel_sfo.Opinosis10.system.html</P>
+<P ID="OP_MS_F">free_bestwestern_hotel_sfo.OP_MS_F.system.html</P>
+<P ID="MULTISEN">free_bestwestern_hotel_sfo.MULTISEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">free_bestwestern_hotel_sfo.2.gold.html</M>
+<M ID="2">free_bestwestern_hotel_sfo.4.gold.html</M>
+<M ID="3">free_bestwestern_hotel_sfo.3.gold.html</M>
+<M ID="4">free_bestwestern_hotel_sfo.5.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

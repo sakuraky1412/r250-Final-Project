@@ -1,0 +1,73 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="442">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="2">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.2.gold.html</M>
+<M ID="3">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.4.gold.html</M>
+<M ID="4">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.0.gold.html</M>
+<M ID="5">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="443">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.8.gold.html</M>
+<M ID="3">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.4.gold.html</M>
+<M ID="4">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.0.gold.html</M>
+<M ID="5">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="444">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.8.gold.html</M>
+<M ID="2">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.2.gold.html</M>
+<M ID="4">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.0.gold.html</M>
+<M ID="5">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="445">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.8.gold.html</M>
+<M ID="2">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.2.gold.html</M>
+<M ID="3">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.4.gold.html</M>
+<M ID="5">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.6.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="446">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS></PEERS>
+
+		<MODELS>
+
+<M ID="1">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.8.gold.html</M>
+<M ID="2">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.2.gold.html</M>
+<M ID="3">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.4.gold.html</M>
+<M ID="4">160gb-onetouch-external-hard-drive-and-backup-system-firewire-and-usb-2.0-1.1.0.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

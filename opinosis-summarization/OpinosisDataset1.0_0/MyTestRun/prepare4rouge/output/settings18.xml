@@ -1,0 +1,79 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="80">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">rooms_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="Opinosis10">rooms_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_OP_20">rooms_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="MyTestRun">rooms_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_MS_20">rooms_swissotel_chicago.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">rooms_swissotel_chicago.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">rooms_swissotel_chicago.2.gold.html</M>
+<M ID="3">rooms_swissotel_chicago.4.gold.html</M>
+<M ID="4">rooms_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="81">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">rooms_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="Opinosis10">rooms_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_OP_20">rooms_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="MyTestRun">rooms_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_MS_20">rooms_swissotel_chicago.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">rooms_swissotel_chicago.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">rooms_swissotel_chicago.3.gold.html</M>
+<M ID="3">rooms_swissotel_chicago.4.gold.html</M>
+<M ID="4">rooms_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="82">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">rooms_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="Opinosis10">rooms_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_OP_20">rooms_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="MyTestRun">rooms_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_MS_20">rooms_swissotel_chicago.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">rooms_swissotel_chicago.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">rooms_swissotel_chicago.3.gold.html</M>
+<M ID="2">rooms_swissotel_chicago.2.gold.html</M>
+<M ID="4">rooms_swissotel_chicago.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="83">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MULTISEN">rooms_swissotel_chicago.MULTISEN.system.html</P>
+<P ID="Opinosis10">rooms_swissotel_chicago.Opinosis10.system.html</P>
+<P ID="OP_OP_20">rooms_swissotel_chicago.OP_OP_20.system.html</P>
+<P ID="MyTestRun">rooms_swissotel_chicago.MyTestRun.system.html</P>
+<P ID="OP_MS_20">rooms_swissotel_chicago.OP_MS_20.system.html</P>
+<P ID="OP_MS_F">rooms_swissotel_chicago.OP_MS_F.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">rooms_swissotel_chicago.3.gold.html</M>
+<M ID="2">rooms_swissotel_chicago.2.gold.html</M>
+<M ID="3">rooms_swissotel_chicago.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

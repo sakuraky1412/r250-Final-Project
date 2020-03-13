@@ -1,0 +1,39 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="163">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">canon-powershot-sx1-is.MI_MS_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sx1-is.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sx1-is.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sx1-is.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">canon-powershot-sx1-is.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sx1-is.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sx1-is.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">canon-powershot-sx1-is.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="164">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_A">canon-powershot-sx1-is.MI_MS_A.system.html</P>
+<P ID="MICROPINION">canon-powershot-sx1-is.MICROPINION.system.html</P>
+<P ID="MI_OP_10">canon-powershot-sx1-is.MI_OP_10.system.html</P>
+<P ID="MI_OP_A">canon-powershot-sx1-is.MI_OP_A.system.html</P>
+<P ID="MI_MS_20">canon-powershot-sx1-is.MI_MS_20.system.html</P>
+<P ID="MI_MS_10">canon-powershot-sx1-is.MI_MS_10.system.html</P>
+<P ID="MI_OP_20">canon-powershot-sx1-is.MI_OP_20.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">canon-powershot-sx1-is.1.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,108 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="922">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sling-media-slingbox-pro.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">sling-media-slingbox-pro.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sling-media-slingbox-pro.MICROPINION.system.html</P>
+<P ID="MI_MS_A">sling-media-slingbox-pro.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sling-media-slingbox-pro.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">sling-media-slingbox-pro.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sling-media-slingbox-pro.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">sling-media-slingbox-pro.2.gold.html</M>
+<M ID="3">sling-media-slingbox-pro.8.gold.html</M>
+<M ID="4">sling-media-slingbox-pro.6.gold.html</M>
+<M ID="5">sling-media-slingbox-pro.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="923">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sling-media-slingbox-pro.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">sling-media-slingbox-pro.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sling-media-slingbox-pro.MICROPINION.system.html</P>
+<P ID="MI_MS_A">sling-media-slingbox-pro.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sling-media-slingbox-pro.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">sling-media-slingbox-pro.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sling-media-slingbox-pro.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sling-media-slingbox-pro.4.gold.html</M>
+<M ID="3">sling-media-slingbox-pro.8.gold.html</M>
+<M ID="4">sling-media-slingbox-pro.6.gold.html</M>
+<M ID="5">sling-media-slingbox-pro.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="924">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sling-media-slingbox-pro.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">sling-media-slingbox-pro.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sling-media-slingbox-pro.MICROPINION.system.html</P>
+<P ID="MI_MS_A">sling-media-slingbox-pro.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sling-media-slingbox-pro.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">sling-media-slingbox-pro.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sling-media-slingbox-pro.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sling-media-slingbox-pro.4.gold.html</M>
+<M ID="2">sling-media-slingbox-pro.2.gold.html</M>
+<M ID="4">sling-media-slingbox-pro.6.gold.html</M>
+<M ID="5">sling-media-slingbox-pro.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="925">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sling-media-slingbox-pro.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">sling-media-slingbox-pro.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sling-media-slingbox-pro.MICROPINION.system.html</P>
+<P ID="MI_MS_A">sling-media-slingbox-pro.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sling-media-slingbox-pro.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">sling-media-slingbox-pro.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sling-media-slingbox-pro.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sling-media-slingbox-pro.4.gold.html</M>
+<M ID="2">sling-media-slingbox-pro.2.gold.html</M>
+<M ID="3">sling-media-slingbox-pro.8.gold.html</M>
+<M ID="5">sling-media-slingbox-pro.0.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="926">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_OP_A">sling-media-slingbox-pro.MI_OP_A.system.html</P>
+<P ID="MI_OP_20">sling-media-slingbox-pro.MI_OP_20.system.html</P>
+<P ID="MICROPINION">sling-media-slingbox-pro.MICROPINION.system.html</P>
+<P ID="MI_MS_A">sling-media-slingbox-pro.MI_MS_A.system.html</P>
+<P ID="MI_MS_10">sling-media-slingbox-pro.MI_MS_10.system.html</P>
+<P ID="MI_MS_20">sling-media-slingbox-pro.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">sling-media-slingbox-pro.MI_OP_10.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">sling-media-slingbox-pro.4.gold.html</M>
+<M ID="2">sling-media-slingbox-pro.2.gold.html</M>
+<M ID="3">sling-media-slingbox-pro.8.gold.html</M>
+<M ID="4">sling-media-slingbox-pro.6.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>

@@ -1,0 +1,83 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="14">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">magellan-roadmate-1412-gps-receiver.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1412-gps-receiver.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1412-gps-receiver.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">magellan-roadmate-1412-gps-receiver.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1412-gps-receiver.MI_MS_10.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1412-gps-receiver.MICROPINION.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1412-gps-receiver.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">magellan-roadmate-1412-gps-receiver.0.gold.html</M>
+<M ID="3">magellan-roadmate-1412-gps-receiver.4.gold.html</M>
+<M ID="4">magellan-roadmate-1412-gps-receiver.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="15">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">magellan-roadmate-1412-gps-receiver.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1412-gps-receiver.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1412-gps-receiver.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">magellan-roadmate-1412-gps-receiver.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1412-gps-receiver.MI_MS_10.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1412-gps-receiver.MICROPINION.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1412-gps-receiver.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1412-gps-receiver.6.gold.html</M>
+<M ID="3">magellan-roadmate-1412-gps-receiver.4.gold.html</M>
+<M ID="4">magellan-roadmate-1412-gps-receiver.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="16">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">magellan-roadmate-1412-gps-receiver.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1412-gps-receiver.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1412-gps-receiver.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">magellan-roadmate-1412-gps-receiver.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1412-gps-receiver.MI_MS_10.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1412-gps-receiver.MICROPINION.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1412-gps-receiver.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1412-gps-receiver.6.gold.html</M>
+<M ID="2">magellan-roadmate-1412-gps-receiver.0.gold.html</M>
+<M ID="4">magellan-roadmate-1412-gps-receiver.2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="17">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MI_MS_20">magellan-roadmate-1412-gps-receiver.MI_MS_20.system.html</P>
+<P ID="MI_OP_10">magellan-roadmate-1412-gps-receiver.MI_OP_10.system.html</P>
+<P ID="MI_OP_20">magellan-roadmate-1412-gps-receiver.MI_OP_20.system.html</P>
+<P ID="MI_OP_A">magellan-roadmate-1412-gps-receiver.MI_OP_A.system.html</P>
+<P ID="MI_MS_10">magellan-roadmate-1412-gps-receiver.MI_MS_10.system.html</P>
+<P ID="MICROPINION">magellan-roadmate-1412-gps-receiver.MICROPINION.system.html</P>
+<P ID="MI_MS_A">magellan-roadmate-1412-gps-receiver.MI_MS_A.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">magellan-roadmate-1412-gps-receiver.6.gold.html</M>
+<M ID="2">magellan-roadmate-1412-gps-receiver.0.gold.html</M>
+<M ID="3">magellan-roadmate-1412-gps-receiver.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>
